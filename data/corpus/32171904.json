@@ -1,0 +1,25 @@
+{
+  "pmid": "32171904",
+  "title": "From apathy to addiction: Insights from neurology and psychiatry.",
+  "abstract": "The tendency to engage in addictive behaviors has long been tied to the actions of the dopamine system. Early theories were based on the fact that all addictive drugs and behaviors (such as gambling) increase dopamine levels in the striatum, and the evidence that dopamine signaled reward or reward prediction error. However, with a changing emphasis of addiction away from purely pharmacological models that emphasize tolerance and withdrawal, towards one of behavioral dyscontrol, is there still a place for abnormal dopamine signaling in addiction? Here we recast the dopamine theory of addiction based on the idea that tonic dopamine may index a continuous phenotype that goes from apathy to impulsivity and compulsivity. Higher tonic dopamine signaling would make individuals vulnerable to drug reinforcement and cue-induced craving. We relate this to computational models of dopamine signaling, and review clinical and neuroimaging evidence from Parkinson's Disease, schizophrenia and bipolar disorder in support of this model.",
+  "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+  "year": "2021",
+  "authors": [
+    "Kirschner M",
+    "Rabinowitz A",
+    "Singer N",
+    "Dagher A"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Apathy",
+    "Behavior, Addictive",
+    "Dopamine",
+    "Humans",
+    "Mental Disorders",
+    "Motivation",
+    "Neurology",
+    "Psychiatry",
+    "Reward"
+  ]
+}

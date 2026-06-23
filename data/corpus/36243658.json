@@ -1,0 +1,22 @@
+{
+  "pmid": "36243658",
+  "title": "Reduction of No-Show Rate for New Patients in a Pediatric Neurology Clinic.",
+  "abstract": "BACKGROUND: The rate of patients not keeping their appointments at our children's hospital outpatient pediatric neurology clinic (no-shows) was high. We conducted a quality improvement project to reduce no-show rates and improve operational efficiency. Specifically, we aimed to decrease the new patient no-show mean rate from 7% to 4% at the main campus and from 17% to 12% at the south campus. METHODS: After reviewing the previous literature on this topic and institutional data, we used the simplified failure mode and effects analysis (sFMEA) to identify the key drivers. Of the patients at the main campus who failed to keep their appointment, 84% had not confirmed their appointment. Errors in inpatient/family contact information, limited use of the electronic patient portal, and miscommunication were other key drivers identified. Three Plan-Do-Study-Act (PDSA) cycles were completed over seven months. The key interventions we implemented were bidirectional text triage, telephone reminders, and promoting the use of the electronic patient portal. A run chart was used to assess the results of these interventions. RESULTS: A statistically significant shift was noted in the run chart for the median rate of no-shows, which declined from 7% to 4% at the main campus and 17% to 10% at the south campus. CONCLUSION: We were able to successfully reduce no-shows among new patients in the neurology clinic. The limitations of our study include unknown external factors, the potential impact of COVID-19, and the brief length of the study.",
+  "journal": "Joint Commission journal on quality and patient safety",
+  "year": "2022",
+  "authors": [
+    "Set KK",
+    "Bailey J",
+    "Kumar G"
+  ],
+  "mesh_terms": [
+    "Child",
+    "Humans",
+    "COVID-19",
+    "Appointments and Schedules",
+    "Text Messaging",
+    "Telephone",
+    "Neurology",
+    "Reminder Systems"
+  ]
+}

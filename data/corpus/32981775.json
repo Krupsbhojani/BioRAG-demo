@@ -1,0 +1,36 @@
+{
+  "pmid": "32981775",
+  "title": "Stroke prevention in patients with type 2 diabetes or prediabetes. Recommendations from the Cerebrovascular Diseases Study Group, Spanish Society of Neurology.",
+  "abstract": "OBJECTIVE: To update the Spanish Society of Neurology's guidelines for stroke prevention in patients with type 2 diabetes or prediabetes, analysing the available evidence on the effect of metabolic control and the potential benefit of antidiabetic drugs with known vascular benefits in addition to conventional antidiabetic treatments in stroke prevention. DEVELOPMENT: PICO-type questions (Patient, Intervention, Comparison, Outcome) were developed to identify practical issues in the management of stroke patients and to establish specific recommendations for each of them. Subsequently, we conducted systematic reviews of the PubMed database and selected those randomised clinical trials evaluating stroke as an independent variable (primary or secondary). Finally, for each of the PICO questions we developed a meta-analysis to support the final recommendations. CONCLUSIONS: While there is no evidence that metabolic control reduces the risk of stroke, some families of antidiabetic drugs with vascular benefits have been shown to reduce these effects when added to conventional treatments, both in the field of primary prevention in patients presenting type 2 diabetes and high vascular risk or established atherosclerosis (GLP-1 agonists) and in secondary stroke prevention in patients with type 2 diabetes or prediabetes (pioglitazone).",
+  "journal": "Neurologia",
+  "year": "2021",
+  "authors": [
+    "Fuentes B",
+    "Amaro S",
+    "Alonso de Leciñana M",
+    "Arenillas JF",
+    "Ayo-Martín O",
+    "Castellanos M",
+    "Freijo M",
+    "García-Pastor A",
+    "Gomis M",
+    "Gómez Choco M",
+    "López-Cancio E",
+    "Martínez Sánchez P",
+    "Morales A",
+    "Palacio-Portilla EJ",
+    "Rodríguez-Yáñez M",
+    "Roquer J",
+    "Segura T",
+    "Serena J",
+    "Vivancos-Mora J"
+  ],
+  "mesh_terms": [
+    "Diabetes Mellitus, Type 2",
+    "Humans",
+    "Neurology",
+    "Pioglitazone",
+    "Prediabetic State",
+    "Stroke"
+  ]
+}

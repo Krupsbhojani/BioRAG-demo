@@ -1,0 +1,31 @@
+{
+  "pmid": "33887774",
+  "title": "Adverse Events in Neurosurgery: The Novel Therapy-Disability-Neurology Grade.",
+  "abstract": "BACKGROUND: The most widely used classifications of adverse events (AEs) in neurosurgery define their severity according to the therapy used to treat them. This concept has substantial shortcomings because it does not reflect the severity of AEs that are not treated, such as new neurological deficits. OBJECTIVE: To present a novel multidimensional and patient-centered classification of the severity of AE in neurosurgery and evaluate its applicability. METHODS: The Therapy-Disability-Neurology (TDN) grading system classifies AEs depending on the associated therapy, disability, and neurological deficits. We conducted a 2-center retrospective observational study on 6071 interventions covering the whole neurosurgical spectrum with data prospectively recorded between 2013 and 2019 at 2 institutions from 2 countries. RESULTS: Using the first patient cohort (4680 interventions), a positive correlation was found between severity of AE and LOS as well as treatment cost. Each grade was associated with a greater deterioration of the Karnofsky Performance Status Scale (KPS) at discharge and at follow-up. When using the same methods on the external validation cohort (1391 interventions), correlations between the grades of AE, LOS, and KPS at discharge were even more pronounced. CONCLUSION: Our results suggest that the TDN grade is consistent with clinical and economic repercussions of AE and thus reflects AE severity. It is easily interpreted and enables comparison between different medical centers. The standardized report of the severity of AE in the scientific literature could constitute an important step forward toward a more critical, patient-centered, and evidence-based decision-making in neurosurgery.",
+  "journal": "Neurosurgery",
+  "year": "2021",
+  "authors": [
+    "Terrapon APR",
+    "Zattra CM",
+    "Voglis S",
+    "Velz J",
+    "Vasella F",
+    "Akeret K",
+    "Held U",
+    "Schiavolin S",
+    "Bozinov O",
+    "Ferroli P",
+    "Broggi M",
+    "Sarnthein J",
+    "Regli L",
+    "Neidert MC"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Karnofsky Performance Status",
+    "Neurology",
+    "Neurosurgery",
+    "Neurosurgical Procedures",
+    "Retrospective Studies"
+  ]
+}

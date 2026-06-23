@@ -1,0 +1,28 @@
+{
+  "pmid": "34227412",
+  "title": "Length of Stay in Pediatric Neurology Hospital Admissions.",
+  "abstract": "OBJECTIVE: To describe inpatient length of stay patterns, identify key drivers related to prolonged length of stay, and evaluate the relationship between length of stay and readmission in pediatric neurology. METHODS: This was a retrospective review of patients <19 years old admitted with a principal neurologic diagnosis to our hospital between January 2017 and July 2019. Scheduled admissions and hospital admissions lasting >30 days were excluded from analysis. Length of stay was obtained in addition to demographic characteristics, principal discharge diagnosis, multispecialty care, use of multiple antiseizure medications, inpatient hospital costs (ie, claims paid), and pediatric intensive care unit (ICU) admission for unplanned admissions and 7- and 30-day readmissions. RESULTS: There were a total of 1579 unplanned admissions. The most common reasons for admission were seizure (n = 942), headache (n = 161), other neurologic diagnosis (n = 121), and psychiatric disorders/functional neurologic disorder (n = 60). Children admitted to the hospital for a neurologic condition have an average length of stay of 2.8±5.0 days for unplanned admissions, 4.5±7.4 days for 7-day readmissions, and 5.2±7.5 days for 30-day readmissions. Average inpatient hospital costs were $44 075±56 976 for unplanned admissions, $60 361±71 427 for 7-day readmissions, and $55 434±56 442 for 30-day readmissions. Prolonged length of stay and increased hospital costs were associated with pediatric ICU admission, multispecialty care, 7- and 30-day readmission, multiple antiseizure medications, and psychiatric disorders / functional neurologic disorders. CONCLUSIONS: Pediatric ICU admission, multispecialty care, readmission, multiple antiseizure medications, and psychiatric disorder / functional neurologic disorder prolong length of stay and increase hospital costs.",
+  "journal": "Journal of child neurology",
+  "year": "2022",
+  "authors": [
+    "Roliz A",
+    "Shah YD",
+    "Singh K",
+    "Talreja S",
+    "Kothare S"
+  ],
+  "mesh_terms": [
+    "Child",
+    "Female",
+    "Hospitalization",
+    "Hospitals",
+    "Humans",
+    "Length of Stay",
+    "Male",
+    "Nervous System Diseases",
+    "Neurology",
+    "Patient Readmission",
+    "Pediatrics",
+    "Retrospective Studies"
+  ]
+}

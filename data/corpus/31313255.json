@@ -1,0 +1,23 @@
+{
+  "pmid": "31313255",
+  "title": "Using Interactive 3D Visualisations in Neuropsychiatric Education.",
+  "abstract": "Obsessive compulsive disorder (OCD) is a neuropsychiatric disorder with a global prevalence of 2-3%. OCD can have an enormous impact on the lives of those with the disorder, with some studies suggesting suicidal ideation is present in over 50% of individuals with OCD, and other data showing a significant number of individuals attempt suicide. It is therefore important that individuals with OCD receive the best possible treatment. A greater understanding of the underlying pathophysiology of neuropsychiatric disorders among professionals and future clinicians can lead to improved treatment. However, data suggests that many students and clinicians experience \"neurophobia\", a lack of knowledge or confidence in cases involving the nervous system. In addition, research suggests that the relationship many students have with neurological conditions deteriorates over time, and can persist into practice.If individuals living with conditions such as OCD are to receive the best possible treatment, it is crucial that those administering care are equipped with a thorough understanding of such disorders. While research has shown that the use of interactive 3D models can improve anatomy education and more specifically neurology education, the efficacy of using of such models to engage with neuropsychiatric conditions, specifically OCD, has not been assessed. This study seeks to address this gap.In this study an interactive application for Android devices was designed using standardised software engineering methods in order to improve neuropsychiatry literacy by empowering self-pace learning through interactive 3D visualisations and animations of the neural circuitry involved in OCD. A pilot test and a usability assessment were conducted among five postgraduate life science students. Findings relating to user experience were promising, and pre-test vs. post-test evaluation suggested encouraging outcomes regarding the effectiveness of the application in improving the knowledge and understanding of OCD. In short, this study suggests that interactive 3D visualisations can improve neuropsychiatry education. For this reason, more efforts should be made to construct similar applications in order to ensure patients always receive the best possible care. Fig. 2.1 A diagrammatic representation of the CSTC circuit, based on a similar diagram by Robertson et al. (2017).",
+  "journal": "Advances in experimental medicine and biology",
+  "year": "2019",
+  "authors": [
+    "Weldon M",
+    "Poyade M",
+    "Martin JL",
+    "Sharp L",
+    "Martin D"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Imaging, Three-Dimensional",
+    "Models, Anatomic",
+    "Neurology",
+    "Obsessive-Compulsive Disorder",
+    "Psychiatry",
+    "Students, Medical"
+  ]
+}

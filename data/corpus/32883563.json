@@ -1,0 +1,27 @@
+{
+  "pmid": "32883563",
+  "title": "Analysis of the aetiology of epilepsy in 3,216 adult patients attending a tertiary referral center enabled by an electronic patient record.",
+  "abstract": "PURPOSE: The aim of this study was to review the causes of the epilepsies in our institution, an adult tertiary referral center for neurology and neurosurgery in Dublin, Ireland. Data was obtained from a bespoke epilepsy electronic patient record (EPR). METHODS: Predetermined search parameters of well-established broad categories of epilepsy aetiology were used to identify patients with a diagnosis of epilepsy attending Beaumont Hospital, Dublin. There were 3216 patients that met the inclusion criteria for this study. We included living patients with epilepsy attending our institution. We then excluded patients with a diagnosis of pure non-epileptic attack disorder and patients found to have idiopathic generalised epilepsy (IGE) (n = 382) from our final cohort. We excluded IGE due to the complex polygenic basis underlying this patient group. RESULTS: An aetiology was identified in 54.3 % (n = 1747) of the total number of patients studied. Of the symptomatic epilepsies, 41.08 % (n = 1321) were acquired and 13.3 % (n = 426) were predominantly of genetic or developmental aetiology. The most common causes of the acquired epilepsies were hippocampal sclerosis (n = 380; 28.75 %), cerebral tumor (n = 279; 21.06 %), traumatic brain injury (n = 248; 18.77 %), stroke and cerebrovascular disease (n = 151; 11.43 %) and perinatal causes (n = 138; 10.45 %). The leading causes in the genetic / developmental category included cavernous haemangiomas (n = 62, 22.22 %), arteriovenous malformations (n = 59; 21.15 %) and cortical dysplasia (n = 55; 19.71 %). The aetiology of a patient's epilepsy was undetermined in 45.68 % (n = 1469) of individuals. CONCLUSION: This study emphasizes the clinical utility of the ILAE's 2017 revised classification of the epilepsies and highlights the evolving dynamic nature of attributing causality in epilepsy. This is the largest single centre analysis of the aetiology of the epilepsies described in the literature. It is also the first large scale study examining aetiology utilising a bespoke electronic patient record in epilepsy.",
+  "journal": "Seizure",
+  "year": "2021",
+  "authors": [
+    "Delaney S",
+    "Fitzsimons M",
+    "White M",
+    "Power K",
+    "O' Donoghue S",
+    "Kilbride R",
+    "Widdess-Walsh P",
+    "El Naggar H",
+    "Delanty N"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Electronic Health Records",
+    "Epilepsy",
+    "Humans",
+    "Ireland",
+    "Neurology",
+    "Tertiary Care Centers"
+  ]
+}

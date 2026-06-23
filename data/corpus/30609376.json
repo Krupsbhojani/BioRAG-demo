@@ -1,0 +1,31 @@
+{
+  "pmid": "30609376",
+  "title": "Transferrin Receptor-Mediated Uptake at the Blood-Brain Barrier Is Not Impaired by Alzheimer's Disease Neuropathology.",
+  "abstract": "The transferrin receptor (TfR) is highly expressed by brain capillary endothelial cells (BCECs) forming the blood-brain barrier (BBB) and is therefore considered as a potential target for brain drug delivery. Monoclonal antibodies binding to the TfR, such as clone Ri7, have been shown to internalize into BCECs in vivo. However, since Alzheimer's disease (AD) is accompanied by a BBB dysfunction, it raises concerns about whether TfR-mediated transport becomes inefficient during the progression of the disease. Measurements of TfR levels using Western blot analysis in whole homogenates from human post-mortem parietal cortex and hippocampus did not reveal any significant difference between individuals with or without a neuropathological diagnosis of AD (respectively, n = 19 and 22 for the parietal cortex and n = 12 and 14 for hippocampus). Similarly, TfR concentrations in isolated human brain microvessels from parietal cortex were similar between controls and AD cases. TfR levels in isolated murine brain microvessels were not significantly different between groups of 12- and 18-month-old NonTg and 3xTg-AD mice, the latter modeling Aβ and τ neuropathologies. In situ brain perfusion assays were then conducted to measure the brain uptake and internalization of fluorolabeled Ri7 in BCECs upon binding. Consistently, TfR-mediated uptake in BCECs was similar between 3xTg-AD mice and nontransgenic controls (∼0.3 μL·g",
+  "journal": "Molecular pharmaceutics",
+  "year": "2019",
+  "authors": [
+    "Bourassa P",
+    "Alata W",
+    "Tremblay C",
+    "Paris-Robidas S",
+    "Calon F"
+  ],
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Animals",
+    "Antibodies, Monoclonal",
+    "Blood-Brain Barrier",
+    "Blotting, Western",
+    "Enzyme-Linked Immunosorbent Assay",
+    "Female",
+    "Fluorescent Antibody Technique",
+    "Hippocampus",
+    "Male",
+    "Mice",
+    "Microscopy, Fluorescence",
+    "Neuropathology",
+    "Parietal Lobe",
+    "Receptors, Transferrin"
+  ]
+}

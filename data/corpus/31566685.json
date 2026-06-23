@@ -1,0 +1,26 @@
+{
+  "pmid": "31566685",
+  "title": "Trends in Stroke Incidence Rates in Older US Adults: An Update From the Atherosclerosis Risk in Communities (ARIC) Cohort Study.",
+  "abstract": "IMPORTANCE: Determining whether the previously reported decreased stroke incidence rates from 1987 to 2011 among US adults 65 years and older in the Atherosclerosis Risk in Communities (ARIC) study continued to decrease subsequently can help guide policy and planning efforts. OBJECTIVE: To evaluate whether stroke incidence declines among older adults in the ARIC study continued after 2011. DESIGN, SETTING, AND PARTICIPANTS: ARIC is a community-based prospective cohort study including 15 792 individuals aged 45 to 64 years at baseline (1987-1989), selected by probability sampling from residents of Forsyth County, North Carolina; Jackson, Mississippi (black individuals only); the northwestern suburbs of Minneapolis, Minneapolis; and Washington County, Maryland (ie, center). The present study included ARIC participants free of stroke at baseline, followed up through December 31, 2017. Data were collected through personal interviews and physical examinations during study visits, annual/semiannual telephone interviews, and active surveillance of discharges from local hospitals. Stroke events were adjudicated by study-physicians reviewers. Analysis began September 2018. MAIN OUTCOMES AND MEASURES: The main outcome was stroke incidence rates, which were computed with 95% CIs stratifying the analysis by age and calendar time. Trends in adjusted incidence rates were assessed using Poisson regression incidence rate ratios. Models included calendar time, age, sex, race/center, and time-varying risk factors (hypertension, diabetes, coronary heart disease, cholesterol-lowering medication use, and smoking). RESULTS: Of 14 357 ARIC participants with 326 654 person-years of follow-up, the mean (SD) age at baseline was 54.1 (5.8) years and 7955 (55.4%) were women. From 1987 to 2017, a total of 1340 incident strokes occurred among ARIC participants, and among them, 1028 (76.7%) occurred in participants 65 years and older. Crude incidence rates of stroke for participants 65 years and older decreased progressively from 1987 to 2017. Incidence rates, adjusted for age, sex, race/center, and time-varying risk factors, decreased by 32% (95% CI, 23%-40%) per 10 years in participants 65 years and older. Findings were consistent across decades, sex, and race. CONCLUSIONS AND RELEVANCE: Validated total stroke incidence rates in adults 65 years and older decreased over the last 30 years in the ARIC cohort. The decrease in rates previously reported for 1987 to 2011 extends for the subsequent 6 years in men and women as well as in white and black individuals.",
+  "journal": "JAMA neurology",
+  "year": "2020",
+  "authors": [
+    "Koton S",
+    "Sang Y",
+    "Schneider ALC",
+    "Rosamond WD",
+    "Gottesman RF",
+    "Coresh J"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Cohort Studies",
+    "Female",
+    "Humans",
+    "Incidence",
+    "Male",
+    "Neurology",
+    "Stroke",
+    "United States"
+  ]
+}

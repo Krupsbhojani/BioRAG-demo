@@ -1,0 +1,24 @@
+{
+  "pmid": "33770009",
+  "title": "Mismatch in Supply and Demand for Neuro-Ophthalmic Care.",
+  "abstract": "BACKGROUND: Previous research suggests the number of neuro-ophthalmologists in the United States may be below a level that provides sufficient access to neuro-ophthalmic care in much of the United States. However, national estimates of the amount of clinical time spent on neuro-ophthalmology are lacking. METHODS: The North American Neuro-Ophthalmology Society administered a survey on professional time allocation to its active members. Survey response was 95%. The survey characterized the hours each week each respondent allocated to overall work, clinical work, clinical work in ophthalmology/neurology, and clinical work in neuro-ophthalmology specifically. The survey additionally collected information regarding demographics, current wait times to be seen for new patients, and the difference in clinical time spent in neuro-ophthalmology spent between the current day compared with that shortly after completing clinical training. Linear regression was used to identify potential relationships between the above and average wait time. RESULTS: On average, responding physicians spent 70% of their clinical time on neuro-ophthalmology. In 6 states, there were no reported practicing neuro-ophthalmologists, and in only 8 states was the clinical full-time equivalent to population ratio below the suggested threshold of 1 for every 1.2 million. The median wait time for a new patient was 6 weeks. This wait time was associated with the fraction of clinical time spent in neuro-ophthalmology (0.2 weeks longer wait for a 10 percentage point increase in the fraction of time spent in neuro-ophthalmology; P = 0.02), and suggestively associated with training (training in ophthalmology was associated with 1.0 week shorter wait time; P = 0.06). CONCLUSION: The survey suggests that neuro-ophthalmologists are unable to see patients in a timely manner and a decreasing number of clinicians are entering the field. Future interventions should be considered to incentivize neuro-ophthalmology training in ophthalmology and neurology residents such that the United States population is able to appropriately access neuro-ophthalmic care.",
+  "journal": "Journal of neuro-ophthalmology : the official journal of the North American Neuro-Ophthalmology Society",
+  "year": "2022",
+  "authors": [
+    "DeBusk A",
+    "Subramanian PS",
+    "Scannell Bryan M",
+    "Moster ML",
+    "Calvert PC",
+    "Frohman LP"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Neurology",
+    "Ophthalmologists",
+    "Ophthalmology",
+    "Physicians",
+    "Surveys and Questionnaires",
+    "United States"
+  ]
+}

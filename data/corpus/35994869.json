@@ -1,0 +1,28 @@
+{
+  "pmid": "35994869",
+  "title": "Sex-dependent characteristics of Neuro-Long-COVID: Data from a dedicated neurology ambulatory service.",
+  "abstract": "\"Long-COVID\" is a clinical entity that consists of persisting post-infectious symptoms that last for more than three months after the onset of the first acute COVID-19 symptoms. Among these, a cluster of neurological persisting symptoms defines Neuro-Long-COVID. While the debate about the pathogenesis of Long-COVID is still ongoing, sex differences have been individuated for both the acute and the chronic stage of the infection. We conducted a retrospective study describing sex differences in a large sample of patients with Neuro-Long-COVID. Demographic and clinical data were collected in a specifically designed Neuro-Long-Covid outpatient service. Our sample included 213 patients: 151 were females and 62 were males; the mean age was similar between females (53 y, standard deviation 14) and males (55 y, standard deviation 15); no significant differences was present between the demographic features across the two groups. Despite the prevalence of the specific chronic symptoms between male and females showed no significant differences, the total number of females accessing our service was higher than that of males, confirming the higher prevalence of Neuro-Long-COVID in female individuals. Conversely, a worse acute phase response in males rather than females was confirmed by a significant difference in the rates of acute respiratory symptoms (p = 0.008), dyspnea (p = 0.018), respiratory failure (p = 0.010) and the consequent need for ventilation (p = 0.015), together with other acute symptoms such as palpitations (p = 0.049), headache (p = 0.001) and joint pain (p = 0.049). Taken together, these findings offer a subgroup analysis based on sex-dependent characteristics, which can support a tailored-medicine approach.",
+  "journal": "Journal of the neurological sciences",
+  "year": "2022",
+  "authors": [
+    "Michelutti M",
+    "Furlanis G",
+    "Buoite Stella A",
+    "Bellavita G",
+    "Frezza N",
+    "Torresin G",
+    "Ajčević M",
+    "Manganotti P"
+  ],
+  "mesh_terms": [
+    "COVID-19",
+    "Female",
+    "Humans",
+    "Male",
+    "Neurology",
+    "Retrospective Studies",
+    "SARS-CoV-2",
+    "Sex Characteristics",
+    "Post-Acute COVID-19 Syndrome"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "35761160",
+  "title": "Machine learning in neuro-oncology: toward novel development fields.",
+  "abstract": "PURPOSE: Artificial Intelligence (AI) involves several and different techniques able to elaborate a large amount of data responding to a specific planned outcome. There are several possible applications of this technology in neuro-oncology. METHODS: We reviewed, according to PRISMA guidelines, available studies adopting AI in different fields of neuro-oncology including neuro-radiology, pathology, surgery, radiation therapy, and systemic treatments. RESULTS: Neuro-radiology presented the major number of studies assessing AI. However, this technology is being successfully tested also in other operative settings including surgery and radiation therapy. In this context, AI shows to significantly reduce resources and costs maintaining an elevated qualitative standard. Pathological diagnosis and development of novel systemic treatments are other two fields in which AI showed promising preliminary data. CONCLUSION: It is likely that AI will be quickly included in some aspects of daily clinical practice. Possible applications of these techniques are impressive and cover all aspects of neuro-oncology.",
+  "journal": "Journal of neuro-oncology",
+  "year": "2022",
+  "authors": [
+    "Di Nunno V",
+    "Fordellone M",
+    "Minniti G",
+    "Asioli S",
+    "Conti A",
+    "Mazzatenta D",
+    "Balestrini D",
+    "Chiodini P",
+    "Agati R",
+    "Tonon C",
+    "Tosoni A",
+    "Gatto L",
+    "Bartolini S",
+    "Lodi R",
+    "Franceschi E"
+  ],
+  "mesh_terms": [
+    "Artificial Intelligence",
+    "Humans",
+    "Machine Learning",
+    "Neurology",
+    "Radiology"
+  ]
+}

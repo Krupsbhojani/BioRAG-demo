@@ -1,0 +1,24 @@
+{
+  "pmid": "35933388",
+  "title": "Neuropathology in chronic traumatic encephalopathy: a systematic review of comparative post-mortem histology literature.",
+  "abstract": "Chronic traumatic encephalopathy (CTE) is a neurodegenerative disease associated with repetitive head trauma and is characterised by the perivascular accumulation of hyperphosphorylated tau (p-tau) in the depths of cortical sulci. CTE can only be diagnosed postmortem and the cellular mechanisms of disease causation remain to be elucidated. Understanding the full scope of the pathological changes currently identified in CTE is necessary to identify areas requiring further research. This systematic review summarises the current literature on CTE pathology from postmortem human tissue histology studies published until 31 December 2021. Publications were included if they quantitively or qualitatively compared postmortem human tissue pathology in CTE to neuropathologically normal cases or other neurodegenerative diseases such as Alzheimer's disease (AD). Pathological entities investigated included p-tau, beta-amyloid, TDP-43, Lewy bodies, astrogliosis, microgliosis, axonopathy, vascular dysfunction, and cell stress. Of these pathologies, p-tau was the most frequently investigated, with limited reports on other pathological features such as vascular dysfunction, astrogliosis, and microgliosis. Consistent increases in p-tau, TDP-43, microgliosis, axonopathy, and cell stress were reported in CTE cases compared to neuropathologically normal cases. However, there was no clear consensus on how these pathologies compared to AD. The CTE cases used for these studies were predominantly from the VA-BU-CLF brain bank, with American football and boxing as the most frequent sources of repetitive head injury exposure. Overall, this systematic review highlights gaps in the literature and proposes three priorities for future research including: 1. The need for studies of CTE cases with more diverse head injury exposure profiles to understand the consistency of pathology changes between different populations. 2. The need for more studies that compare CTE with normal ageing and AD to further clarify the pathological signature of CTE for diagnostic purposes and to understand the disease process. 3. Further research on non-aggregate pathologies in CTE, such as vascular dysfunction and neuroinflammation. These are some of the least investigated features of CTE pathology despite being implicated in the acute phase response following traumatic head injury.",
+  "journal": "Acta neuropathologica communications",
+  "year": "2022",
+  "authors": [
+    "Murray HC",
+    "Osterman C",
+    "Bell P",
+    "Vinnell L",
+    "Curtis MA"
+  ],
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Chronic Traumatic Encephalopathy",
+    "DNA-Binding Proteins",
+    "Gliosis",
+    "Humans",
+    "Neurodegenerative Diseases",
+    "Neuropathology",
+    "tau Proteins"
+  ]
+}

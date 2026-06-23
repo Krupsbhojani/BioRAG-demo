@@ -1,0 +1,30 @@
+{
+  "pmid": "35098616",
+  "title": "Daratumumab for treatment-refractory antibody-mediated diseases in neurology.",
+  "abstract": "BACKGROUND AND PURPOSE: A fraction of patients with antibody-mediated autoimmune diseases remain unresponsive to first-/second-line and sometimes even to escalation immunotherapies. Because these patients are still affected by poor outcome and increased mortality, we investigated the safety and efficacy of the plasma cell-depleting anti-CD38 antibody daratumumab in life-threatening, antibody-mediated autoimmune diseases. METHODS: In this retrospective, single-center case series, seven patients with autoantibody-driven neurological autoimmune diseases (autoimmune encephalitis, n = 5; neurofascin antibody-associated chronic inflammatory demyelinating polyneuropathy associated with sporadic late onset nemaline myopathy, n = 1; seronegative myasthenia gravis, n = 1) unresponsive to a median of four (range = 4-9) immunotherapies were treated with four to 20 cycles of 16 mg/kg daratumumab. RESULTS: Daratumumab allowed a substantial clinical improvement in all patients, as measured by modified Rankin Scale (mRS; before treatment: mRS =5, n = 7; after treatment: median mRS =4, range = 0-5), Clinical Assessment Scale in Autoimmune Encephalitis (from median 21 to 3 points, n = 5), Inflammatory Neuropathy Cause and Treatment disability score (from 7 to 0 points, n = 1), and Quantitative Myasthenia Gravis score (from 16 to 8 points, n = 1). Daratumumab induced a substantial reduction of disease-specific autoreactive antibodies, total IgG (serum, 66%, n = 7; cerebrospinal fluid, 58%, n = 5), and vaccine-induced titers for rubella (50%) and tetanus toxoid (74%). Treatment-related toxicities Grade 3 or higher occurred in five patients, including one death. CONCLUSIONS: Our findings suggest that daratumumab provided a clinically relevant depletion of autoreactive long-lived plasma cells, identifying plasma cell-targeted therapies as promising escalation therapy for highly active, otherwise treatment-refractory autoantibody-mediated neurological diseases.",
+  "journal": "European journal of neurology",
+  "year": "2022",
+  "authors": [
+    "Scheibe F",
+    "Ostendorf L",
+    "Prüss H",
+    "Radbruch H",
+    "Aschman T",
+    "Hoffmann S",
+    "Blau IW",
+    "Meisel C",
+    "Alexander T",
+    "Meisel A"
+  ],
+  "mesh_terms": [
+    "Antibodies, Monoclonal",
+    "Autoantibodies",
+    "Encephalitis",
+    "Hashimoto Disease",
+    "Humans",
+    "Myasthenia Gravis",
+    "Nervous System Diseases",
+    "Neurology",
+    "Retrospective Studies"
+  ]
+}

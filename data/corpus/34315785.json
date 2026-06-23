@@ -1,0 +1,24 @@
+{
+  "pmid": "34315785",
+  "title": "Guidelines for Conducting Ethical Artificial Intelligence Research in Neurology: A Systematic Approach for Clinicians and Researchers.",
+  "abstract": "Preemptive recognition of the ethical implications of study design and algorithm choices in artificial intelligence (AI) research is an important but challenging process. AI applications have begun to transition from a promising future to clinical reality in neurology. As the clinical management of neurology is often concerned with discrete, often unpredictable, and highly consequential events linked to multimodal data streams over long timescales, forthcoming advances in AI have great potential to transform care for patients. However, critical ethical questions have been raised with implementation of the first AI applications in clinical practice. Clearly, AI will have far-reaching potential to promote, but also to endanger, ethical clinical practice. This article employs an anticipatory ethics approach to scrutinize how researchers in neurology can methodically identify ethical ramifications of design choices early in the research and development process, with a goal of preempting unintended consequences that may violate principles of ethical clinical care. First, we discuss the use of a systematic framework for researchers to identify ethical ramifications of various study design and algorithm choices. Second, using epilepsy as a paradigmatic example, anticipatory clinical scenarios that illustrate unintended ethical consequences are discussed, and failure points in each scenario evaluated. Third, we provide practical recommendations for understanding and addressing ethical ramifications early in methods development stages. Awareness of the ethical implications of study design and algorithm choices that may unintentionally enter AI is crucial to ensuring that incorporation of AI into neurology care leads to patient benefit rather than harm.",
+  "journal": "Neurology",
+  "year": "2021",
+  "authors": [
+    "Chiang S",
+    "Picard RW",
+    "Chiong W",
+    "Moss R",
+    "Worrell GA",
+    "Rao VR",
+    "Goldenholz DM"
+  ],
+  "mesh_terms": [
+    "Artificial Intelligence",
+    "Delivery of Health Care",
+    "Humans",
+    "Neurology",
+    "Research Design",
+    "Research Personnel"
+  ]
+}

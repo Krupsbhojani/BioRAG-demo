@@ -1,0 +1,30 @@
+{
+  "pmid": "33592180",
+  "title": "Statistical analysis and optimality of neural systems.",
+  "abstract": "Normative theories and statistical inference provide complementary approaches for the study of biological systems. A normative theory postulates that organisms have adapted to efficiently solve essential tasks and proceeds to mathematically work out testable consequences of such optimality; parameters that maximize the hypothesized organismal function can be derived ab initio, without reference to experimental data. In contrast, statistical inference focuses on the efficient utilization of data to learn model parameters, without reference to any a priori notion of biological function. Traditionally, these two approaches were developed independently and applied separately. Here, we unify them in a coherent Bayesian framework that embeds a normative theory into a family of maximum-entropy \"optimization priors.\" This family defines a smooth interpolation between a data-rich inference regime and a data-limited prediction regime. Using three neuroscience datasets, we demonstrate that our framework allows one to address fundamental challenges relating to inference in high-dimensional, biological problems.",
+  "journal": "Neuron",
+  "year": "2021",
+  "authors": [
+    "Młynarski W",
+    "Hledík M",
+    "Sokolowski TR",
+    "Tkačik G"
+  ],
+  "mesh_terms": [
+    "Algorithms",
+    "Animals",
+    "Bayes Theorem",
+    "Caenorhabditis elegans",
+    "Computer Simulation",
+    "Data Interpretation, Statistical",
+    "Databases, Factual",
+    "Entropy",
+    "Humans",
+    "Models, Neurological",
+    "Neurology",
+    "Neurons",
+    "Retina",
+    "Visual Cortex",
+    "Visual Fields"
+  ]
+}

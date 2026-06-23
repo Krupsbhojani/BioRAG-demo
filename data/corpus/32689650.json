@@ -1,0 +1,32 @@
+{
+  "pmid": "32689650",
+  "title": "Collateral damage - Impact of a pandemic on stroke emergency services.",
+  "abstract": "BACKGROUND: The COVID-19 pandemic's impact on stroke care is two-fold direct impact of the infection and indirect impact on non-COVID-19 diseases. Anecdotal evidence and clinical observation suggest that there is a decrease in the number of patients presenting with stroke during the pandemic. We aim to understand the impact of the COVID-19 pandemic on the utilization of stroke emergency services on a single comprehensive stroke center (CSC). METHODS: We performed a retrospective analysis of a prospectively maintained database and compared all emergency department (ED) encounters, acute stroke admissions (including TIA), and thrombectomy cases admitted in March 2017-2019 to patients admitted in March 2020 at a comprehensive stroke center. RESULTS: Number of total ED encounters (22%, p=0.005), acute ischemic strokes (40%, p=0.001), and TIAs (60%, p=0.163) decreased between March of 2017-2019 compared to March of 2020. The number of patients undergoing EVT in March 2020 was comparable to March 2017-2019 (p=0.430). CONCLUSION: A pandemic-related stay-at-home policy reduces the utilization of stroke emergency services at a CSC. This effect appears to be more prominent for ED encounters, all stroke admissions and TIAs, and less impactful for severe strokes. Given the relatively low prevalence of COVID-19 cases in our region, this decrement is likely related to healthcare seeking behavior rather than capacity saturation.",
+  "journal": "Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association",
+  "year": "2020",
+  "authors": [
+    "Desai SM",
+    "Guyette FX",
+    "Martin-Gill C",
+    "Jadhav AP"
+  ],
+  "mesh_terms": [
+    "Betacoronavirus",
+    "COVID-19",
+    "Coronavirus Infections",
+    "Databases, Factual",
+    "Emergency Medical Services",
+    "Health Services Needs and Demand",
+    "Host Microbial Interactions",
+    "Humans",
+    "Needs Assessment",
+    "Neurology",
+    "Pandemics",
+    "Pennsylvania",
+    "Pneumonia, Viral",
+    "Retrospective Studies",
+    "SARS-CoV-2",
+    "Stroke",
+    "Time Factors"
+  ]
+}

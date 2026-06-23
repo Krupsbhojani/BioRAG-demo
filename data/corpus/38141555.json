@@ -1,0 +1,26 @@
+{
+  "pmid": "38141555",
+  "title": "Impact of an Interactive, Animation-Based Electroencephalography Curriculum on Learner Confidence and Knowledge.",
+  "abstract": "BACKGROUND: There is a national need for innovative electroencephalography (EEG) education with efficacy evaluated by rigorous statistical analysis. We created a dynamic, online resource that includes a series of animated videos at a single academic medical center. METHODS: For the animations and interactive module, we used VideoScribe and Articulate, respectively. The module comprised three chapters: (1) Origin & Technical Aspects of EEG, (2) Normal Adult EEG in Wakefulness & Sleep, and (3) Abnormal EEG, with appendices on artifacts, variants, activation procedures, seizure/epilepsy classification, and neonatal/pediatric EEG. The curriculum and knowledge assessments were reviewed independently by two fellowship-trained physicians before distribution. Linear mixed-effects models with bootstrapping were used to compare paired pre- and post-tests as well as Likert scale questionnaires. RESULTS: Forty-nine learners participated in the pretest survey; 38 matched participants completed post-tests (78%). Learners across fields perceived benefit (100% would recommend to colleagues), indicated improved self-efficacy (P < 0.0001), and performed better on post-test knowledge assessments (54.1 vs 88.2%, P < 0.0001). In the neurology providers subgroup (n = 20), pretest scores correlated with years in training (Spearman r = 0.52, P = 0.039), neurology rotations (r = 0.70, P = 0.003), epilepsy/EEG rotations (r = 0.6, P = 0.014), and EEG teaching hours (r = 0.62, P = 0.01); content knowledge and self-efficacy improvement for neurology providers remained significant in a multivariate model adjusting for these covariates. CONCLUSIONS: This animation-based, interactive EEG module proved effective in elevating learner confidence and knowledge across several medical specialties and training levels. Further study across institutions and subspecialties is needed to substantiate broad applicability, but our data appear promising for early EEG learners.",
+  "journal": "Pediatric neurology",
+  "year": "2024",
+  "authors": [
+    "Silverman A",
+    "Hilgenberg S",
+    "Shen S",
+    "Spelbrink EM",
+    "Klotz J"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Child",
+    "Infant, Newborn",
+    "Humans",
+    "Curriculum",
+    "Physicians",
+    "Neurology",
+    "Electroencephalography",
+    "Epilepsy",
+    "Internship and Residency"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "34632903",
+  "title": "Feasibility of a wearable biosensor device to characterize exercise and sleep in neurology residents.",
+  "abstract": "BACKGROUND: Research suggests optimizing sleep, exercise and work-life balance may improve resident physician burnout. Wearable biosensors may allow residents to detect and correct poor sleep and exercise habits before burnout develops. Our objectives were to evaluate the feasibility of a wearable biosensor to characterize exercise/sleep in neurology residents and examine its relationship to self-reported, validated survey measures. We also assessed the device's impact on well-being and barriers to use. METHODS: This prospective cohort study evaluated the WHOOP Strap 2.0 in neurology residents. Participants completed regular online surveys, including self-reported hours of sleep/exercise, and validated sleep/exercise scales at 3-month intervals. Autonomic, exercise, and sleep measures were obtained from WHOOP. Changes were evaluated over time via linear regression. Survey and WHOOP metrics were compared using Pearson correlations. RESULTS: Sixteen (72.7%) of 22 eligible participants enrolled. Eleven (68.8%) met the minimum usage requirement (6+ months) and were classified as 'consecutive wearers.' Significant increases were found in sleep duration and exercise intensity. Moderate-to-low correlations were found between survey responses and WHOOP measures. Most (73%) participants reported a positive impact on well-being. Barriers to use included 'Forgetting to wear' (20%) and 'not motivational' (23.3%). CONCLUSION: Wearable biosensors may be a feasible tool to evaluate sleep/exercise in residents.",
+  "journal": "Expert review of medical devices",
+  "year": "2021",
+  "authors": [
+    "Niotis K",
+    "Saif N",
+    "Simonetto M",
+    "Wu X",
+    "Yan P",
+    "Lakis JP",
+    "Ariza IE",
+    "Buckholz AP",
+    "Sharma N",
+    "Fink ME",
+    "Isaacson RS"
+  ],
+  "mesh_terms": [
+    "Biosensing Techniques",
+    "Feasibility Studies",
+    "Humans",
+    "Internship and Residency",
+    "Neurology",
+    "Prospective Studies",
+    "Sleep",
+    "Wearable Electronic Devices"
+  ]
+}

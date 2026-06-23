@@ -1,0 +1,22 @@
+{
+  "pmid": "37926834",
+  "title": "Discovering patterns in outpatient neurology appointments using state sequence analysis.",
+  "abstract": "BACKGROUND: Outpatient services in the UK, and in particular outpatient neurology services, are under considerable pressure with an ever-increasing gap between capacity and demand. To improve services, we first need to understand the current situation. This study aims to explore the patterns of appointment type seen in outpatient neurology, in order to identify potential opportunities for change. METHODS: We use State Sequence Analysis (SSA) on routinely collected data from a single neurology outpatient clinic. SSA is an exploratory methodology which allows patterns within sequences of appointments to be discovered. We analyse sequences of appointments for the 18 months following a new appointment. Using SSA we create groups of similar appointment sequence patterns, and then analyse these clusters to determine if there are particular sequences common to different diagnostic categories. RESULTS: Of 1315 patients 887 patients had only one appointment. Among the 428 patients who had more than one appointment a 6 monthly cycle of appointments was apparent. SSA revealed that there were 11 distinct clusters of appointment sequence patterns. Further analysis showed that there are 3 diagnosis categories which have significant influence over which cluster a patient falls into: seizure/epilepsy, movement disorders, and headache. CONCLUSIONS: Neurology outpatient appointment sequences show great diversity, but there are some patterns which are common to specific diagnostic categories. Information about these common patterns could be used to inform the structure of future outpatient appointments.",
+  "journal": "BMC health services research",
+  "year": "2023",
+  "authors": [
+    "Biggin F",
+    "Ashcroft Q",
+    "Howcroft T",
+    "Knight J",
+    "Emsley H"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Outpatients",
+    "Appointments and Schedules",
+    "Ambulatory Care Facilities",
+    "Ambulatory Care",
+    "Neurology"
+  ]
+}

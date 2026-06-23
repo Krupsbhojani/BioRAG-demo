@@ -1,0 +1,21 @@
+{
+  "pmid": "35075573",
+  "title": "Low online search interest in teleneurology before and during COVID-19 pandemic: an infodemiological study.",
+  "abstract": "BACKGROUND: The conduct of patient consults greatly changed during the time of the COVID-19 pandemic. There was a decrease in face-to-face patient consults and enhanced utilization of virtual consults. Infodemiological studies, using Google Trends, focus on internet search trends that may reflect public interest and awareness in diseases and as a proxy of public health risk perception. OBJECTIVES: We aimed to investigate the online behavior of internet users on teleneurology, telehealth, and telemedicine during the time of the pandemic, as reflected in search volume indices (SVI) projected in Google Trends. METHODS: We used the data from Google Trends to quantify the interest of internet users in teleneurology, telehealth, and telemedicine. These keywords were entered in Google Trends as search terms. Data included were searches conducted from 2016 to 2020 to depict the transition into the pandemic. RESULTS: The SVI of teleneurology was unchanged during the 5-year period search relative to the SVIs of telehealth and telemedicine. Contrary to the noted worldwide increase in the SVI of telehealth and telemedicine during the year of pandemic, teleneurology's SVI remained stable despite the increase of its utilization. Focusing on teleneurology, the highest SVI was observed in 2018. CONCLUSION: There was an increase in the SVI of telehealth and telemedicine, possibly implying an increase in the general awareness of these virtual methods of health care, as catalyzed by the pandemic. However, the stable SVI of teleneurology may signify that the public awareness regarding it remained unchanged despite the increase in application in clinics and hospitals.",
+  "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+  "year": "2022",
+  "authors": [
+    "Alonto AHD",
+    "Jamora RDG",
+    "Leochico CFD",
+    "Espiritu AI"
+  ],
+  "mesh_terms": [
+    "COVID-19",
+    "Hospitals",
+    "Humans",
+    "Neurology",
+    "Pandemics",
+    "Telemedicine"
+  ]
+}

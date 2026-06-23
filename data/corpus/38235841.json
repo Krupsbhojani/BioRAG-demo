@@ -1,0 +1,22 @@
+{
+  "pmid": "38235841",
+  "title": "Embracing the future-is artificial intelligence already better? A comparative study of artificial intelligence performance in diagnostic accuracy and decision-making.",
+  "abstract": "BACKGROUND AND PURPOSE: The integration of artificial intelligence (AI) in healthcare has the potential to revolutionize patient care and clinical decision-making. This study aimed to explore the reliability of large language models in neurology by comparing the performance of an AI chatbot with neurologists in diagnostic accuracy and decision-making. METHODS: A cross-sectional observational study was conducted. A pool of clinical cases from the American Academy of Neurology's Question of the Day application was used as the basis for the study. The AI chatbot used was ChatGPT, based on GPT-3.5. The results were then compared to neurology peers who also answered the questions-a mean of 1500 neurologists/neurology residents. RESULTS: The study included 188 questions across 22 different categories. The AI chatbot demonstrated a mean success rate of 71.3% in providing correct answers, with varying levels of proficiency across different neurology categories. Compared to neurology peers, the AI chatbot performed at a similar level, with a mean success rate of 69.2% amongst peers. Additionally, the AI chatbot achieved a correct diagnosis in 85.0% of cases and it provided an adequate justification for its correct responses in 96.1%. CONCLUSIONS: The study highlights the potential of AI, particularly large language models, in assisting with clinical reasoning and decision-making in neurology and emphasizes the importance of AI as a complementary tool to human expertise. Future advancements and refinements are needed to enhance the AI chatbot's performance and broaden its application across various medical specialties.",
+  "journal": "European journal of neurology",
+  "year": "2024",
+  "authors": [
+    "Fonseca Â",
+    "Ferreira A",
+    "Ribeiro L",
+    "Moreira S",
+    "Duque C"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Artificial Intelligence",
+    "Cross-Sectional Studies",
+    "Reproducibility of Results",
+    "Software",
+    "Neurology"
+  ]
+}

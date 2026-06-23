@@ -1,0 +1,23 @@
+{
+  "pmid": "33215342",
+  "title": "The role of neuropathology in the management of newly diagnosed glioblastoma: a systematic review and evidence-based clinical practice guideline.",
+  "abstract": "TARGET POPULATION: These recommendations apply to adult patients with newly diagnosed or suspected glioblastoma (GBM) QUESTION : For adult patients with newly diagnosed GBM does testing for Isocitrate Dehydrogenase 1 or 2 (IDH 1/2) mutations afford benefit beyond standard histopathology in providing accurate classification and outcome prognostication? Level III IDH 1/2 mutational status by immunohistochemistry (IHC) and/or sequencing is suggested for classification and prognostic information. Level III Non-canonical IDH 1/2 mutations are very rare in patients aged 55 or older and universal testing of variant mutations by sequence analysis is not suggested for this age range. QUESTION: For adult patients with lower grade infiltrating astrocytomas (WHO grades II and III) can the IDH-wildtype status designation supersede histopathology to predict prognosis and biologic relevance to eventual behavior as a GBM? Level III The designation of infiltrating astrocytomas (WHO grades II and III) as IDH-wildtype is not suggested as sufficient for a higher grade designation alone. Level III It is suggested that IDH-wildtype WHO grades II and III astrocytomas be tested for molecular-genetic alterations typical of IDH-wildtype GBM such as EGFR amplification, gain of chromosome 7/loss of chromosome 10 and TERT-p mutation to substantiate prediction of behavior similar to IDH-wildtype glioblastoma. Level III It is suggested that a diagnosis of diffuse astrocytic glioma, IDH-wildtype, with molecular features of GBM, WHO grade IV be rendered for infiltrating astrocytomas that lack histologic criteria of GBM but harbors molecular-genetic alterations of IDH-wildtype glioblastoma. QUESTION: For adult patients with newly diagnosed infiltrating glioma arising in the midline does testing for H3-K27M mutations provide information beyond that gained by histopathology for accurate classification and outcome prognostication? Level III It is suggested that infiltrating gliomas arising in midline anatomic locations be tested for the H3-K27M mutation as they tend to exhibit WHO grade IV behavior even if they lack histologic criteria for glioblastoma.",
+  "journal": "Journal of neuro-oncology",
+  "year": "2021",
+  "authors": [
+    "Velázquez Vega JE",
+    "Brat DJ",
+    "Ryken TC",
+    "Olson JJ"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Biomarkers, Tumor",
+    "Disease Management",
+    "Evidence-Based Practice",
+    "Glioblastoma",
+    "Humans",
+    "Neuropathology",
+    "Practice Guidelines as Topic"
+  ]
+}

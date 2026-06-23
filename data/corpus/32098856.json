@@ -1,0 +1,36 @@
+{
+  "pmid": "32098856",
+  "title": "Defining research priorities in dystonia.",
+  "abstract": "OBJECTIVE: Dystonia is a complex movement disorder. Research progress has been difficult, particularly in developing widely effective therapies. This is a review of the current state of knowledge, research gaps, and proposed research priorities. METHODS: The NIH convened leaders in the field for a 2-day workshop. The participants addressed the natural history of the disease, the underlying etiology, the pathophysiology, relevant research technologies, research resources, and therapeutic approaches and attempted to prioritize dystonia research recommendations. RESULTS: The heterogeneity of dystonia poses challenges to research and therapy development. Much can be learned from specific genetic subtypes, and the disorder can be conceptualized along clinical, etiology, and pathophysiology axes. Advances in research technology and pooled resources can accelerate progress. Although etiologically based therapies would be optimal, a focus on circuit abnormalities can provide a convergent common target for symptomatic therapies across dystonia subtypes. The discussions have been integrated into a comprehensive review of all aspects of dystonia. CONCLUSION: Overall research priorities include the generation and integration of high-quality phenotypic and genotypic data, reproducing key features in cellular and animal models, both of basic cellular mechanisms and phenotypes, leveraging new research technologies, and targeting circuit-level dysfunction with therapeutic interventions. Collaboration is necessary both for collection of large data sets and integration of different research methods.",
+  "journal": "Neurology",
+  "year": "2020",
+  "authors": [
+    "Lungu C",
+    "Ozelius L",
+    "Standaert D",
+    "Hallett M",
+    "Sieber BA",
+    "Swanson-Fisher C",
+    "Berman BD",
+    "Calakos N",
+    "Moore JC",
+    "Perlmutter JS",
+    "Pirio Richardson SE",
+    "Saunders-Pullman R",
+    "Scheinfeldt L",
+    "Sharma N",
+    "Sillitoe R",
+    "Simonyan K",
+    "Starr PA",
+    "Taylor A",
+    "Vitek J"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Dystonia",
+    "Dystonic Disorders",
+    "Humans",
+    "Neurology",
+    "Research"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "38374326",
+  "title": "Ranking and filtering of neuropathology features in the machine learning evaluation of dementia studies.",
+  "abstract": "Early diagnosis of dementia diseases, such as Alzheimer's disease, is difficult because of the time and resources needed to perform neuropsychological and pathological assessments. Given the increasing use of machine learning methods to evaluate neuropathology features in the brains of dementia patients, it is important to investigate how the selection of features may be impacted and which features are most important for the classification of dementia. We objectively assessed neuropathology features using machine learning techniques for filtering features in two independent ageing cohorts, the Cognitive Function and Aging Studies (CFAS) and Alzheimer's Disease Neuroimaging Initiative (ADNI). The reliefF and least loss methods were most consistent with their rankings between ADNI and CFAS; however, reliefF was most biassed by feature-feature correlations. Braak stage was consistently the highest ranked feature and its ranking was not correlated with other features, highlighting its unique importance. Using a smaller set of highly ranked features, rather than all features, can achieve a similar or better dementia classification performance in CFAS (60%-70% accuracy with Naïve Bayes). This study showed that specific neuropathology features can be prioritised by feature filtering methods, but they are impacted by feature-feature correlations and their results can vary between cohort studies. By understanding these biases, we can reduce discrepancies in feature ranking and identify a minimal set of features needed for accurate classification of dementia.",
+  "journal": "Brain pathology (Zurich, Switzerland)",
+  "year": "2024",
+  "authors": [
+    "Rajab MD",
+    "Taketa T",
+    "Wharton SB",
+    "Wang D"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Machine Learning",
+    "Aged",
+    "Dementia",
+    "Male",
+    "Female",
+    "Brain",
+    "Aged, 80 and over",
+    "Neuroimaging",
+    "Alzheimer Disease",
+    "Cohort Studies",
+    "Neuropathology",
+    "Aging"
+  ]
+}

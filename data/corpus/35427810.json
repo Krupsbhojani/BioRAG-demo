@@ -1,0 +1,20 @@
+{
+  "pmid": "35427810",
+  "title": "Glial cells in Alzheimer's disease: From neuropathological changes to therapeutic implications.",
+  "abstract": "Alzheimer's disease (AD) is a neurodegenerative disorder that usually develops slowly and progressively worsens over time. Although there has been increasing research interest in AD, its pathogenesis is still not well understood. Although most studies primarily focus on neurons, recent research findings suggest that glial cells (especially microglia and astrocytes) are associated with AD pathogenesis and might provide various possible therapeutic targets. Growing evidence suggests that microglia can provide protection against AD pathogenesis, as microglia with weakened functions and impaired responses to Aβ proteins are linked with elevated AD risk. Interestingly, numerous findings also suggest that microglial activation can be detrimental to neurons. Indeed, microglia can induce synapse loss via the engulfment of synapses, possibly through a complement-dependent process. Furthermore, they can worsen tau pathology and release inflammatory factors that cause neuronal damage directly or through the activation of neurotoxic astrocytes. Astrocytes play a significant role in various cerebral activities. Their impairment can mediate neurodegeneration and ultimately the retraction of synapses, resulting in AD-related cognitive deficits. Deposition of Aβ can result in astrocyte reactivity, which can further lead to neurotoxic effects and elevated secretion of inflammatory mediators and cytokines. Moreover, glial-induced inflammation in AD can exert both beneficial and harmful effects. Understanding the activities of astrocytes and microglia in the regulation of AD pathogenesis would facilitate the development of novel therapies. In this article, we address the implications of microglia and astrocytes in AD pathogenesis. We also discuss the mechanisms of therapeutic agents that exhibit anti-inflammatory effects against AD.",
+  "journal": "Ageing research reviews",
+  "year": "2022",
+  "authors": [
+    "Uddin MS",
+    "Lim LW"
+  ],
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Amyloid beta-Peptides",
+    "Astrocytes",
+    "Humans",
+    "Microglia",
+    "Neurons",
+    "Neuropathology"
+  ]
+}

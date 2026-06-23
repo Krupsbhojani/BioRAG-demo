@@ -1,0 +1,36 @@
+{
+  "pmid": "31385481",
+  "title": "Clinical applications of laser speckle contrast imaging: a review.",
+  "abstract": "When a biological tissue is illuminated with coherent light, an interference pattern will be formed at the detector, the so-called speckle pattern. Laser speckle contrast imaging (LSCI) is a technique based on the dynamic change in this backscattered light as a result of interaction with red blood cells. It can be used to visualize perfusion in various tissues and, even though this technique has been extensively described in the literature, the actual clinical implementation lags behind. We provide an overview of LSCI as a tool to image tissue perfusion. We present a brief introduction to the theory, review clinical studies from various medical fields, and discuss current limitations impeding clinical acceptance.",
+  "journal": "Journal of biomedical optics",
+  "year": "2020",
+  "authors": [
+    "Heeman W",
+    "Steenbergen W",
+    "van Dam G",
+    "Boerma EC"
+  ],
+  "mesh_terms": [
+    "Algorithms",
+    "Blood Flow Velocity",
+    "Burns",
+    "Cerebrovascular Circulation",
+    "Dermatology",
+    "Erythrocytes",
+    "Female",
+    "Gastrointestinal Tract",
+    "Humans",
+    "Laser-Doppler Flowmetry",
+    "Lasers",
+    "Male",
+    "Microcirculation",
+    "Neurology",
+    "Normal Distribution",
+    "Ophthalmology",
+    "Perfusion",
+    "Regional Blood Flow",
+    "Retinal Vessels",
+    "Rheumatology",
+    "Scattering, Radiation"
+  ]
+}

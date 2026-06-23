@@ -1,0 +1,20 @@
+{
+  "pmid": "36112276",
+  "title": "Neurology of cancer immunotherapy.",
+  "abstract": "BACKGROUND: Immunotherapy is nowadays considered a mainstay of cancer treatment, dramatically affecting the disease-free survival rate in several aggressive malignancies. Unfortunately, cancer immunotherapy can also trigger life-threatening autoimmune neurological complications named \"neurological adverse effects\" (NAEs). NAEs can affect both the central nervous system (CNS), as in ipilimumab-related aseptic meningitis, and the peripheral nervous system (PNS), as in nivolumab-induced myasthenia gravis. CURRENT EVIDENCE: The incidence of NAEs is highly variable, ranging from 2 to 4% using checkpoint inhibitors to 50% using blinatumomab. Looking at these numbers, it appears clear that neurologists will soon be called more and more frequently to decide upon the best therapeutic strategy for a patient receiving immunotherapy and experiencing a NAE. Most of them can be treated or reverted withholding the offending drug and adding IVIg, plasmapheresis, or steroids to the therapy. Sometimes, however, for oncological reasons, immunotherapy cannot be stopped so the neurologist needs to know what countermeasures have proven most effective. Moreover, patients with a pre-existing autoimmune neurological disease (AID), such as myasthenia gravis or multiple sclerosis, might need immunotherapy during their life, risking a severe worsening of their symptoms. In that setting, the neurologist needs to properly counsel patients about the risk of a therapy-related relapse. CONCLUSION: In this article, we describe the most frequently reported NAEs and aim to give neurologists a practical overview on how to deal with them.",
+  "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+  "year": "2023",
+  "authors": [
+    "De Grado A",
+    "Cencini F",
+    "Priori A"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Neoplasm Recurrence, Local",
+    "Nivolumab",
+    "Myasthenia Gravis",
+    "Immunotherapy",
+    "Neurology"
+  ]
+}

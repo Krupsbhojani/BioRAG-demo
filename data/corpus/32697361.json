@@ -1,0 +1,43 @@
+{
+  "pmid": "32697361",
+  "title": "Bridging the gap in epilepsy care: A single-center experience of 3700 outpatient tele-epilepsy visits.",
+  "abstract": "We describe the largest-to-date single-center implementation of tele-epilepsy. Beginning in 2017, all patients at a single tertiary care academic epilepsy center were offered the option to complete outpatient follow-up visits via video-conferencing using personal devices. A retrospective review of all patients who self-selected virtual visits over nearly 3 years showed 2140 patients completed 3698 tele-epilepsy visits, with 41% completing more than one visit during the study period. Based on the distance from the center to the home address, 26.7% of patients were local (≤50 miles), 30.5% were near regional (51-150 miles), 20.1% were far regional (151-270 miles), and 22.7% were remote (>270 miles), from 43 different states. An estimated 928 696 miles of travel was prevented, with a median travel distance saved of 124.5 miles (interquartile range = 45.0-253.0). The mean visit time was 15.7 (±10.4) minutes. More than 90% of patients gave the visit and provider experience the maximum rating, with a nearly 60% response rate on the post-visit survey. Virtual outpatient follow-up care provides a convenient way to connect with epilepsy specialists and reduce the burden of care by cutting travel time. Our experience demonstrates that outpatient tele-epilepsy is feasible, sustainable, and scalable.",
+  "journal": "Epilepsia",
+  "year": "2021",
+  "authors": [
+    "Fesler JR",
+    "Stanton S",
+    "Merner K",
+    "Ross L",
+    "McGinley MP",
+    "Bena J",
+    "Rasmussen P",
+    "Najm I",
+    "Punia V"
+  ],
+  "mesh_terms": [
+    "Academic Medical Centers",
+    "Adolescent",
+    "Adult",
+    "Aftercare",
+    "Ambulatory Care",
+    "Child",
+    "Epilepsy",
+    "Female",
+    "Humans",
+    "Logistic Models",
+    "Male",
+    "Middle Aged",
+    "Multivariate Analysis",
+    "Neurology",
+    "Patient Preference",
+    "Patient Satisfaction",
+    "Retrospective Studies",
+    "Telemedicine",
+    "Tertiary Care Centers",
+    "Time Factors",
+    "Travel",
+    "Videoconferencing",
+    "Young Adult"
+  ]
+}

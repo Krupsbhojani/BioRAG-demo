@@ -1,0 +1,26 @@
+{
+  "pmid": "39341660",
+  "title": "Cell and gene therapy in neuro-oncology.",
+  "abstract": "The majority of primary brain tumors are gliomas, among which glioblastoma multiforme (GBM) is the most common malignant brain tumor in adults. GBM has a median survival of 18-24 months, and despite extensive research it remains incurable, thus novel therapies are urgently needed. The current standard of care is a combination of surgery, radiation, and chemotherapy, but still remains ineffective due to the invasive nature and high recurrence of gliomas. Gene therapy is a versatile treatment strategy investigated for multiple tumor types including GBM. In gene therapy, a variety of vectors are employed to deliver genes designed for different antitumoral effects. Also, over the past decades, stem cell biology has provided a new approach to cancer therapies. Stem cells can be used as regenerative medicine, therapeutic carriers, drug targeting, and generation of immune cells. Stem cell-based therapy allows targeted therapy that spares healthy brain tissue as well as establishes a long-term antitumor response by stimulating the immune system and delivering prodrug, metabolizing genes, or even oncolytic viruses. This chapter describes the latest developments and the current trends in gene and cell-based therapy against GBM from both preclinical and clinical perspectives, including different gene therapy delivery systems, molecular targets, and stem cell therapies.",
+  "journal": "Handbook of clinical neurology",
+  "year": "2024",
+  "authors": [
+    "Varela ML",
+    "Comba A",
+    "Faisal SM",
+    "Argento A",
+    "Peña Aguelo JA",
+    "Candolfi M",
+    "Castro MG",
+    "Lowenstein PR"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Genetic Therapy",
+    "Brain Neoplasms",
+    "Animals",
+    "Cell- and Tissue-Based Therapy",
+    "Glioblastoma",
+    "Neurology"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "35531644",
+  "title": "Fundoscopy use in neurology departments and the utility of smartphone photography: a prospective prevalence and crossover diagnostic accuracy study amongst neurology inpatients.",
+  "abstract": "BACKGROUND AND PURPOSE: Although fundoscopy is a crucial part of the neurological examination, it is challenging, under-utilized and unreliably performed. The aim was to determine the prevalence of fundus pathology amongst neurology inpatients and the diagnostic accuracy of current fundoscopy practice compared with systematic screening with smartphone fundoscopy (SF) and portable non-mydriatic fundus photography (NMFP). METHODS: This was a prospective cross-sectional surveillance and diagnostic accuracy study on adult patients admitted under neurology in an Australian hospital. Inpatients were randomized to initial NMFP (RetinaVue 100, Welch Allyn) or SF (D-EYE) followed by a crossover to the alternative modality. Images were graded by neurology doctors, using telemedicine consensus neuro-ophthalmology NMFP grading as the reference standard. Feasibility parameters included ease, comfort and speed. RESULTS: Of 79 enrolled patients, 14.1% had neurologically relevant pathology (seven, disc pallor; one, hypertensive retinopathy; three, disc swelling). The neurology team performed direct ophthalmoscopy in 6.6% of cases and missed all abnormalities. SF had a sensitivity of 30%-40% compared with NMFP (45.5%); however, it had a lower rate of screening failure (1% vs. 13%, p &lt; 0.001), a shorter examination time (1.10 vs. 2.25 min, p &lt; 0.001) and a slightly higher patient comfort rating (9.2 vs. 8/10, p &lt; 0.001). CONCLUSION: Our study demonstrates a clinically significant prevalence of fundus pathology amongst neurology inpatients which was missed by current fundoscopy practices. Portable NMFP screening appears more accurate than SF, whilst both are diagnostically superior to routine fundoscopic practice, feasible and well tolerated by patients.",
+  "journal": "European journal of neurology",
+  "year": "2022",
+  "authors": [
+    "He G",
+    "Dunn HP",
+    "Ahmad KE",
+    "Watson E",
+    "Henderson A",
+    "Tynan D",
+    "Leaney J",
+    "White AJ",
+    "Hewitt AW",
+    "Fraser CL"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Australia",
+    "Cross-Sectional Studies",
+    "Humans",
+    "Inpatients",
+    "Neurologic Examination",
+    "Neurology",
+    "Ophthalmoscopy",
+    "Photography",
+    "Prevalence",
+    "Prospective Studies",
+    "Smartphone"
+  ]
+}

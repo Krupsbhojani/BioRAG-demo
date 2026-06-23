@@ -1,0 +1,31 @@
+{
+  "pmid": "32526620",
+  "title": "The Neurology-Stability-Epidural compression assessment: A new score to establish the need for surgery in spinal metastases.",
+  "abstract": "OBJECTIVE: The aim of this study was to translate new evidence about management of spinal metastases in a practical and reliable score for surgeons, radiation oncologists and oncologists, able to establish the need for surgery regardless the available technology and settings. PATIENTS AND METHODS: Three main items were identified and graded: Neurological status (0-5 points), Stability of the spine according to the Spinal Instability Neoplastic Score (SINS) Score (0-5 points), and Epidural compression according to the Epidural Spinal Cord Compression (ESCC) scale (0-3 points). Patients were considered suitable for surgery with ASA score < 4 and ECOG score <3. A retrospective clinical validation of the NSE score was made on 145 patients that underwent surgical or non surgical treatment. RESULTS: Agreement between the undertaken treatment and the score (88.3% of patients), resulted in a strong association with improvement or preservation of clinical status (neurological functions and mechanical pain) (p < 0.001) at 3 and 6 months. In the non-agreement group no association was recorded at the 3 and 6 months follow-up (p 0.486 and 0.343 for neurological functions, 0.063 and 0.858 for mechanical pain). CONCLUSION: Functional outcomes of the study group showed that the proposed NSE score could represent a practical and reliable tool to establish the need for surgery. Agreement between the score and the performed treatments resulted in better clinical outcomes, when compared with patients without agreement. Further validation is needed with a larger number of patients and to assess reproducibility among surgeons, radiation oncologists, and oncologists.",
+  "journal": "Clinical neurology and neurosurgery",
+  "year": "2021",
+  "authors": [
+    "Cofano F",
+    "Di Perna G",
+    "Zenga F",
+    "Ducati A",
+    "Baldassarre B",
+    "Ajello M",
+    "Marengo N",
+    "Ceroni L",
+    "Lanotte M",
+    "Garbossa D"
+  ],
+  "mesh_terms": [
+    "Clinical Decision-Making",
+    "Decompression, Surgical",
+    "Humans",
+    "Joint Instability",
+    "Neurology",
+    "Radiosurgery",
+    "Retrospective Studies",
+    "Severity of Illness Index",
+    "Spinal Cord Compression",
+    "Spinal Neoplasms"
+  ]
+}

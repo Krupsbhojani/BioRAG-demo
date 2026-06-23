@@ -1,0 +1,35 @@
+{
+  "pmid": "32005185",
+  "title": "Prevalence of and characteristics associated with in-hospital mortality in a Ugandan neurology ward.",
+  "abstract": "BACKGROUND: While the burden of neurologic illness in developing countries is increasing, less is known about mortality among patients admitted to sub-Saharan African hospitals with neurologic disease. We sought to characterize the rate and patient-level predictors of in-hospital mortality in a Ugandan Neurology ward.cc. METHODS: Data was prospectively collected on 335 patients admitted to the Neurology ward of Mulago Hospital, Kampala, Uganda. Kaplan-Meier survival curves and multivariate COX proportional hazard modeling were used to assess survival. RESULTS: Within our sample (n = 307), 35.8% received no diagnosis at time of hospital admission. Stroke (27.3%), head trauma (19.6%), and malaria (16.0%) were the most common diagnoses. Among the 56 (18.5%) patients who died during the index hospitalization, the most common diagnosis at admission and at death was stroke. Adjusted regression analysis showed that patients without a diagnosis at time of death (HR = 7.01 [2.42-20.35], p < .001) and those with diagnoses of infections (HR = 5.21 [2.16-12.58], p = <.001), stroke (HR = 2.69 [1.20-6.04], p = .017), or head trauma (HR = 3.39, [1.27-9.07], p = 0.15) had worse survival. CONCLUSIONS: In-hospital mortality affected nearly 20% of the cohort, with worse survival among those without a diagnosis and with infections, stroke, head trauma. Future work should identify reasons for increased mortality among these high-risk groups and implement targeted interventions.",
+  "journal": "BMC neurology",
+  "year": "2020",
+  "authors": [
+    "Diaz MM",
+    "Hu X",
+    "Fenton BT",
+    "Kimuli I",
+    "Lee A",
+    "Lindsey H",
+    "Bigelow JK",
+    "Maiser S",
+    "Altalib HH",
+    "Sico JJ"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Aged",
+    "Cohort Studies",
+    "Female",
+    "Hospital Mortality",
+    "Humans",
+    "Kaplan-Meier Estimate",
+    "Male",
+    "Middle Aged",
+    "Nervous System Diseases",
+    "Neurology",
+    "Prevalence",
+    "Proportional Hazards Models",
+    "Uganda"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "31392412",
+  "title": "The basis of cellular and regional vulnerability in Alzheimer's disease.",
+  "abstract": "Alzheimer's disease (AD) differentially and specifically affects brain regions and neuronal cell types in a predictable pattern. Damage to the brain appears to spread and worsens with time, taking over more regions and activating multiple stressors that can converge to promote vulnerability of certain cell types. At the same time, other cell types and brain regions remain intact in the face of this onslaught of neuropathology. Although neuropathologic descriptions of AD have been extensively expanded and mapped over the last several decades, our understanding of the mechanisms underlying how certain regions and cell populations are specifically vulnerable or resistant has lagged behind. In this review, we detail what is known about the selectivity of local initiation of AD pathology in the hippocampus, its proposed spread via synaptic connections, and the diversity of clinical phenotypes and brain atrophy patterns that may arise from different fibrillar strains of pathologic proteins or genetic predispositions. We summarize accumulated and emerging knowledge of the cellular and molecular basis for neuroanatomic selectivity, consider potential disease-relevant differences between vulnerable and resistant neuronal cell types and isolate molecular markers to identify them.",
+  "journal": "Acta neuropathologica",
+  "year": "2020",
+  "authors": [
+    "Mrdjen D",
+    "Fox EJ",
+    "Bukhari SA",
+    "Montine KS",
+    "Bendall SC",
+    "Montine TJ"
+  ],
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Atrophy",
+    "Brain",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Neurons",
+    "Neuropathology"
+  ]
+}

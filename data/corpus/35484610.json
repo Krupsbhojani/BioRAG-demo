@@ -1,0 +1,30 @@
+{
+  "pmid": "35484610",
+  "title": "Deep learning from multiple experts improves identification of amyloid neuropathologies.",
+  "abstract": "Pathologists can label pathologies differently, making it challenging to yield consistent assessments in the absence of one ground truth. To address this problem, we present a deep learning (DL) approach that draws on a cohort of experts, weighs each contribution, and is robust to noisy labels. We collected 100,495 annotations on 20,099 candidate amyloid beta neuropathologies (cerebral amyloid angiopathy (CAA), and cored and diffuse plaques) from three institutions, independently annotated by five experts. DL methods trained on a consensus-of-two strategy yielded 12.6-26% improvements by area under the precision recall curve (AUPRC) when compared to those that learned individualized annotations. This strategy surpassed individual-expert models, even when unfairly assessed on benchmarks favoring them. Moreover, ensembling over individual models was robust to hidden random annotators. In blind prospective tests of 52,555 subsequent expert-annotated images, the models labeled pathologies like their human counterparts (consensus model AUPRC = 0.74 cored; 0.69 CAA). This study demonstrates a means to combine multiple ground truths into a common-ground DL model that yields consistent diagnoses informed by multiple and potentially variable expert opinions.",
+  "journal": "Acta neuropathologica communications",
+  "year": "2022",
+  "authors": [
+    "Wong DR",
+    "Tang Z",
+    "Mew NC",
+    "Das S",
+    "Athey J",
+    "McAleese KE",
+    "Kofler JK",
+    "Flanagan ME",
+    "Borys E",
+    "White CL",
+    "Butte AJ",
+    "Dugger BN",
+    "Keiser MJ"
+  ],
+  "mesh_terms": [
+    "Amyloid beta-Peptides",
+    "Cerebral Amyloid Angiopathy",
+    "Deep Learning",
+    "Humans",
+    "Neuropathology",
+    "Prospective Studies"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "pmid": "34802015",
+  "title": "The Quality of Otology and Neurotology Research in Otology Journals.",
+  "abstract": "OBJECTIVE: To establish the level of evidence and publishing trends in otology-specific journals over a 20-year period. DESIGN: Retrospective analysis. METHODS: The three O/N specific journals with the highest Eigenfactor scores were identified. All articles published in the years 1998, 2008, and 2018 were reviewed and level of evidence (LoE) based on standards set by the Oxford Centres for Evidence Based Medicine was assigned by two independent reviewers. One way analysis of variance and 95% bootstrap sensitivity analysis were performed. RESULTS: A total of 1,062 studies were published over 20 years, of these 809 (76.2%) were eligible for inclusion in the present study. The average number of publications per year increased over time. The average LoE improved significantly over the total interval (-0.235, p = 0.027, [CI -0.45, -0.019]), however did not between 1998 and 2008 (p = 0.111) or between 2008 and 2018 (p = 1). When looking at just LoE 1 or 2, the number and percentage of higher quality papers improves over time-48/158 (30.4%) in 1998, rising to 94/250 (37.6%) in 2008, and 158/401 (39.4%) in 2008. CONCLUSIONS: Over the past two decades there has been an overall increase in the quantity and quality (as measured by LoE) of publications in O/N-specific journals. In general, quality of O/N studies is slightly better in O/N-specific journals compared with general OHNS journals. However, there are still improvements to be had in the proportion of high-evidence publications, as they still number less than half of all total publications in the subspecialty.",
+  "journal": "Otology & neurotology : official publication of the American Otological Society, American Neurotology Society [and] European Academy of Otology and Neurotology",
+  "year": "2022",
+  "authors": [
+    "O' Byrne L",
+    "Copperthwaite A",
+    "Rente M",
+    "Fenton JE",
+    "Coelho DH"
+  ],
+  "mesh_terms": [
+    "Evidence-Based Medicine",
+    "Humans",
+    "Neurotology",
+    "Otolaryngology",
+    "Periodicals as Topic",
+    "Retrospective Studies"
+  ]
+}

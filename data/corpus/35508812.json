@@ -1,0 +1,30 @@
+{
+  "pmid": "35508812",
+  "title": "A comparison of telemedicine and in-person neurology visits: what are the factors that patients consider when selecting future visit type?",
+  "abstract": "OBJECTIVE: To identify factors that patients consider when choosing between future in-person, video, or telephone visits. BACKGROUND: Telemedicine has been rapidly integrated into ambulatory neurology in response to the COVID-19 pandemic. METHODS: Ambulatory neurology patients at a single center were contacted via telephone to complete: (1) a survey quantifying likelihood of scheduling a future telemedicine visit, and (2) a semi-structured qualitative interview following their visit in March 2021. Data were processed using the principles of thematic analysis. RESULTS: Of 2493 visits, 39% assented to post-visit feedback; 74% were in-person visits and 13% video and telephone. Patients with in-person visits were less likely than those with video and telephone visits to \"definitely\" consider a future telemedicine visit (36 vs. 59 and 62%, respectively; p < 0.001). Patients considered five key factors when scheduling future visits: \"Pros of Visit Type,\" \"Barriers to Telemedicine,\" \"Situational Context,\" \"Inherent Beliefs,\" and \"Extrinsic Variables.\" Patients with telemedicine visits considered convenience as a pro, while those with in-person visits cited improved quality of care. Accessibility and user familiarity were considered barriers to telemedicine by patients with in-person and telephone visits, whereas system limitations were prevalent among patients with video visits. Patients agreed that stable conditions can be monitored via telemedicine, whereas physical examination warrants an in-person visit. Telemedicine was inherently considered equivalent to in-person care by patients with telephone visits. Awareness of telemedicine must be improved for patients with in-person visits. CONCLUSION: Across visit types, patients agree that telemedicine is convenient and effective in many circumstances. Future care delivery models should incorporate the patient perspective to implement hybrid models where telemedicine is an adjunct to in-person visits in ambulatory neurology.",
+  "journal": "Journal of neurology",
+  "year": "2022",
+  "authors": [
+    "Olszewski C",
+    "Thomson S",
+    "Pring K",
+    "Cox S",
+    "Merrill R",
+    "Fishman E",
+    "Ambrosini A",
+    "Soltany KA",
+    "Bognet G",
+    "Strauss L",
+    "Graham R",
+    "Guzik A",
+    "Strowd RE"
+  ],
+  "mesh_terms": [
+    "COVID-19",
+    "Delivery of Health Care",
+    "Humans",
+    "Neurology",
+    "Pandemics",
+    "Telemedicine"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "36529888",
+  "title": "Wait times and patient throughput after the implementation of a novel model of virtual care in an outpatient neurology clinic: A retrospective analysis.",
+  "abstract": "INTRODUCTION: Neurology wait times - from referral to consultation - continue to grow, leading to various adverse effects on patient outcomes. Key elements of virtual care can be leveraged to improve efficiency. This study examines the implementation of a novel virtual care model - Virtual Rapid Access Clinics - at the Neurology Centre of Toronto. The model employs a patient-centred care workflow, involving multidisciplinary staff and online administrative tools that are synthesized to expedite care and maintain quality. METHODS: Virtual Rapid Access Clinic efficacy was studied by determining average wait times and patient throughput, calculated from anonymous data that was extracted from the clinic patient database (n  =  1542). Comparative analysis focused on new patient consultations during the 12-month periods prior to (pre-Virtual Rapid Access Clinic, n  =  456) and following (post-Virtual Rapid Access Clinic, n  =  1086) Virtual Rapid Access Clinic implementation. RESULTS: After Virtual Rapid Access Clinic implementation, there was a mean 15-day wait time reduction, and a monthly average 52-patient increase in patient throughput. Wait time reductions and increased patient throughput were observed in all three Virtual Rapid Access Clinic sub-clinics - epilepsy, headache and concussion. Respectively, average wait times reduced significantly by 26.4 and 18.9 days and insignificantly by 1.1 days; monthly average patient throughputs increased by 235%, 95% and 161%. DISCUSSION: These findings demonstrated that the Virtual Rapid Access Clinic model of care is effective at reducing patient wait times and increasing patient throughput. While the Virtual Rapid Access Clinic presents a feasible model both during and after pandemic restrictions, further research exploring its scalability in other care contexts, potential changes in care quality and efficiency outside of pandemic restrictions must be performed.",
+  "journal": "Journal of telemedicine and telecare",
+  "year": "2024",
+  "authors": [
+    "Rabinovitch BS",
+    "Diaz PL",
+    "Langleben AC",
+    "Katz TM",
+    "Gordon T",
+    "Le K",
+    "Chen FY",
+    "Lewis EC"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Retrospective Studies",
+    "Neurology",
+    "Waiting Lists",
+    "COVID-19",
+    "Telemedicine",
+    "Ambulatory Care Facilities",
+    "Ontario",
+    "Referral and Consultation",
+    "Male",
+    "Female",
+    "Patient-Centered Care",
+    "Time Factors",
+    "Adult"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "38759131",
+  "title": "Implications of Large Language Models for Quality and Efficiency of Neurologic Care: Emerging Issues in Neurology.",
+  "abstract": "Large language models (LLMs) are advanced artificial intelligence (AI) systems that excel in recognizing and generating human-like language, possibly serving as valuable tools for neurology-related information tasks. Although LLMs have shown remarkable potential in various areas, their performance in the dynamic environment of daily clinical practice remains uncertain. This article outlines multiple limitations and challenges of using LLMs in clinical settings that need to be addressed, including limited clinical reasoning, variable reliability and accuracy, reproducibility bias, self-serving bias, sponsorship bias, and potential for exacerbating health care disparities. These challenges are further compounded by practical business considerations and infrastructure requirements, including associated costs. To overcome these hurdles and harness the potential of LLMs effectively, this article includes considerations for health care organizations, researchers, and neurologists contemplating the use of LLMs in clinical practice. It is essential for health care organizations to cultivate a culture that welcomes AI solutions and aligns them seamlessly with health care operations. Clear objectives and business plans should guide the selection of AI solutions, ensuring they meet organizational needs and budget considerations. Engaging both clinical and nonclinical stakeholders can help secure necessary resources, foster trust, and ensure the long-term sustainability of AI implementations. Testing, validation, training, and ongoing monitoring are pivotal for successful integration. For neurologists, safeguarding patient data privacy is paramount. Seeking guidance from institutional information technology resources for informed, compliant decisions, and remaining vigilant against biases in LLM outputs are essential practices in responsible and unbiased utilization of AI tools. In research, obtaining institutional review board approval is crucial when dealing with patient data, even if deidentified, to ensure ethical use. Compliance with established guidelines like SPIRIT-AI, MI-CLAIM, and CONSORT-AI is necessary to maintain consistency and mitigate biases in AI research. In summary, the integration of LLMs into clinical neurology offers immense promise while presenting formidable challenges. Awareness of these considerations is vital for harnessing the potential of AI in neurologic care effectively and enhancing patient care quality and safety. The article serves as a guide for health care organizations, researchers, and neurologists navigating this transformative landscape.",
+  "journal": "Neurology",
+  "year": "2024",
+  "authors": [
+    "Moura L",
+    "Jones DT",
+    "Sheikh IS",
+    "Murphy S",
+    "Kalfin M",
+    "Kummer BR",
+    "Weathers AL",
+    "Grinspan ZM",
+    "Silsbee HM",
+    "Jones LK",
+    "Patel AD"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Neurology",
+    "Artificial Intelligence",
+    "Quality of Health Care"
+  ]
+}

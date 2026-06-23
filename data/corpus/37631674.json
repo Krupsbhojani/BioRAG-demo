@@ -1,0 +1,22 @@
+{
+  "pmid": "37631674",
+  "title": "A Bio-Inspired Chaos Sensor Model Based on the Perceptron Neural Network: Machine Learning Concept and Application for Computational Neuro-Science.",
+  "abstract": "The study presents a bio-inspired chaos sensor model based on the perceptron neural network for the estimation of entropy of spike train in neurodynamic systems. After training, the sensor on perceptron, having 50 neurons in the hidden layer and 1 neuron at the output, approximates the fuzzy entropy of a short time series with high accuracy, with a determination coefficient of R",
+  "journal": "Sensors (Basel, Switzerland)",
+  "year": "2023",
+  "authors": [
+    "Velichko A",
+    "Boriskov P",
+    "Belyaev M",
+    "Putrolaynen V"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Rats",
+    "Neurology",
+    "Action Potentials",
+    "Cluster Analysis",
+    "Machine Learning",
+    "Neural Networks, Computer"
+  ]
+}

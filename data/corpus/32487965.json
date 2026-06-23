@@ -1,0 +1,24 @@
+{
+  "pmid": "32487965",
+  "title": "Completeness of intervention reporting in neurology randomized controlled trials: a retrospective, cross-sectional study.",
+  "abstract": "AIM: Incomplete reporting of interventions in randomized controlled trials (RCTs) may hinder the replicability of studies and thus lead to adverse clinical outcomes for patients. Currently, little is known about the completeness of intervention reporting in neurology clinical trials. This study's primary objective was to determine the completeness of intervention reporting in neurology RCTs, as measured by the Template for Intervention Description and Replication (TIDieR) checklist. The secondary objectives of this study were to compare the completeness of intervention reporting before and after TIDieR publication and to evaluate factors associated with intervention reporting. METHODS: We conducted a cross-sectional, pilot-tested, double-blind investigation of 141 neurology RCTs to determine the completeness of intervention reporting in neurology. RESULTS: Overall, the average number of TIDieR checklist items that reached completion per study was 7.4 out of 12 (61.7%). We found no increase in intervention reporting following the publication of TIDieR (P = 0.35). Our generalized estimating equation analysis found that poorer TIDieR adherence was associated with trials lacking a trial registration (P = 0.03). CONCLUSION: Our findings showed that on average, authors reported only 61.7% of items on the TIDieR checklist. These findings have significant implications, because incomplete reporting may hinder the replicability of studies and thus negatively affect clinical outcomes for patients.",
+  "journal": "International journal of evidence-based healthcare",
+  "year": "2021",
+  "authors": [
+    "Roberts W",
+    "Beavers C",
+    "Jellison S",
+    "Vassar M"
+  ],
+  "mesh_terms": [
+    "Checklist",
+    "Cross-Sectional Studies",
+    "Disclosure",
+    "Double-Blind Method",
+    "Humans",
+    "Neurology",
+    "Randomized Controlled Trials as Topic",
+    "Research Design",
+    "Retrospective Studies"
+  ]
+}

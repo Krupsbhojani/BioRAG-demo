@@ -1,0 +1,25 @@
+{
+  "pmid": "33046040",
+  "title": "Evaluation of evidence grades in psychiatry and psychotherapy guidelines.",
+  "abstract": "BACKGROUND: Information regarding the distribution of evidence grades in psychiatry and psychotherapy guidelines is lacking. Based on the German evidence- and consensus- based (S3) psychiatry and psychotherapy and the Scottish Intercollegiate Guidelines Network (SIGN) treatment guidelines, we aimed to specify how guideline recommendations are composed and to what extent recommendations are evidence-based. METHODS: Data was collected from all published evidence- and consensus-based S3-classified psychiatry and psychotherapy guidelines. As control conditions, data from German neurology S3-classified guidelines as well as data from recent SIGN guidelines of mental health were extracted. Two investigators reviewed the selected guidelines independently, extracted and analysed the numbers and levels of recommendations. RESULTS: On average, 45.1% of all recommendations are not based on strong scientific evidence in German guidelines of psychiatry and psychotherapy. A related pattern can be confirmed for SIGN guidelines, where the mean average of recommendations with lacking evidence is 33.9%. By contrast, in the German guidelines of neurology the average of such recommendations is 16.5%. A total of 24.5% of all recommendations in the guidelines of psychiatry and psychotherapy are classified as level A recommendations, compared to 31.6% in the field of neurology and 31.1% in the SIGN guidelines. Related patterns were observed for B and 0 level recommendations. CONCLUSION: Guidelines should be practical tools to simplify the decision-making process based on scientific evidence. Up to 45% of all recommendations in the investigated guidelines of psychiatry and psychotherapy are not based on strong scientific evidence. The reasons for this high number remain unclear. Possibly, only a limited number of studies answer clinically relevant questions. Our findings thereby question whether guidelines should include non-evidence-based recommendations to be methodologically stringent and whether specific processes to develop expert-opinion statements must be implemented.",
+  "journal": "BMC psychiatry",
+  "year": "2021",
+  "authors": [
+    "Löhrs L",
+    "Handrack M",
+    "Kopp I",
+    "Jessen F",
+    "Wagner E",
+    "Falkai P",
+    "Röh A",
+    "Strube W",
+    "Hasan A"
+  ],
+  "mesh_terms": [
+    "Germany",
+    "Humans",
+    "Neurology",
+    "Psychiatry",
+    "Psychotherapy"
+  ]
+}

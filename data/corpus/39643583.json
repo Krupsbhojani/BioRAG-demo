@@ -1,0 +1,24 @@
+{
+  "pmid": "39643583",
+  "title": "Development of web- and mobile-based shared decision-making tools in the neurological intensive care unit.",
+  "abstract": "In the neurological intensive care unit (neuroICU), patients with severe acute brain injury (SABI) are rendered unable to make their own healthcare decisions. The responsibility of making life-or-death decisions, such as goals of care, is carried by surrogate decision-makers, usually families. In addition to the burden of decision-making, the emotional burden on families is further compounded by prognostication uncertainty, time-pressure for decision-making, and difficulties in understanding and interpreting the patient's values and preferences, ultimately resulting in potential clinician-family communication breakdown. Despite these challenges, there is currently no guidance on how to best approach these difficult decisions. Shared decision-making (SDM) has emerged as the recommended approach to improve clinician-family communication, empowering surrogates to take an active role in decision-making by providing a structured framework for information exchange, deliberation, and treatment decisions. Decision aids (DAs) facilitate SDM by offering balanced, accessible, unbiased information and helping surrogates decide according to patients' values. This review highlights the potential advantage of digital over paper-based DAs, including improved accessibility, interactivity, and personalization, and the integration of emerging technologies to enhance DA effectiveness. Additionally, we review the current digital DAs developed for the neuroICU setting.",
+  "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
+  "year": "2025",
+  "authors": [
+    "Liu WL",
+    "Zhang L",
+    "Djamasbi S",
+    "Tulu B",
+    "Muehlschlegel S"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Intensive Care Units",
+    "Decision Making, Shared",
+    "Internet",
+    "Mobile Applications",
+    "Critical Care",
+    "Decision Support Techniques",
+    "Neurology"
+  ]
+}

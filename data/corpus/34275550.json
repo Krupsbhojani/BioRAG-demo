@@ -1,0 +1,21 @@
+{
+  "pmid": "34275550",
+  "title": "Potential and limitations of radiomics in neuro-oncology.",
+  "abstract": "Radiomics seeks to apply classical methods of image processing to obtain quantitative parameters from imaging. Derived features are subsequently fed into algorithmic models to aid clinical decision making. The application of radiomics and machine learning techniques to clinical medicine remains in its infancy. The great potential of radiomics lies in its objective, granular approach to investigating clinical imaging. In neuro-oncology, advanced machine learning techniques, particularly deep learning, are at the forefront of new discoveries in the field. However, despite the great promise of machine learning aided radiomic approaches, the current use remains confined to scholarly research, without real-world deployment in neuro-oncology. The paucity of data, inconsistencies in preprocessing, radiomic feature instability, and the rarity of the events of interest are critical barriers to clinical translation. In this article, we will outline the major steps in the process of radiomics, as well as review advances and challenges in the field as they pertain to neuro-oncology.",
+  "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+  "year": "2021",
+  "authors": [
+    "Taha B",
+    "Boley D",
+    "Sun J",
+    "Chen C"
+  ],
+  "mesh_terms": [
+    "Diagnostic Imaging",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Machine Learning",
+    "Medical Oncology",
+    "Neurology"
+  ]
+}

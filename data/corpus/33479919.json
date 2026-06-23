@@ -1,0 +1,26 @@
+{
+  "pmid": "33479919",
+  "title": "Development of Neurological Emergency Simulations for Assessment: Content Evidence and Response Process.",
+  "abstract": "OBJECTIVE: To document two sources of validity evidence for simulation-based assessment in neurological emergencies. BACKGROUND: A critical aspect of education is development of evaluation techniques that assess learner's performance in settings that reflect actual clinical practice. Simulation-based evaluation affords the opportunity to standardize evaluations but requires validation. METHODS: We identified topics from the Neurocritical Care Society's Emergency Neurological Life Support (ENLS) training, cross-referenced with the American Academy of Neurology's core clerkship curriculum. We used a modified Delphi method to develop simulations for assessment in neurocritical care. We constructed checklists of action items and communication skills, merging ENLS checklists with relevant clinical guidelines. We also utilized global rating scales, rated one (novice) through five (expert) for each case. Participants included neurology sub-interns, neurology residents, neurosurgery interns, non-neurology critical care fellows, neurocritical care fellows, and neurology attending physicians. RESULTS: Ten evaluative simulation cases were developed. To date, 64 participants have taken part in 274 evaluative simulation scenarios. The participants were very satisfied with the cases (Likert scale 1-7, not at all satisfied-very satisfied, median 7, interquartile range (IQR) 7-7), found them to be very realistic (Likert scale 1-7, not at all realistic-very realistic, median 6, IQR 6-7), and appropriately difficult (Likert scale 1-7, much too easy-much too difficult, median 4, IQR 4-5). Interrater reliability was acceptable for both checklist action items (kappa = 0.64) and global rating scales (Pearson correlation r = .70). CONCLUSIONS: We demonstrated two sources of validity in ten simulation cases for assessment in neurological emergencies.",
+  "journal": "Neurocritical care",
+  "year": "2021",
+  "authors": [
+    "Morris NA",
+    "Chang W",
+    "Tabatabai A",
+    "Gutierrez CA",
+    "Phipps MS",
+    "Lerner DP",
+    "Bates OJ",
+    "Tisherman SA"
+  ],
+  "mesh_terms": [
+    "Clinical Competence",
+    "Curriculum",
+    "Emergencies",
+    "Humans",
+    "Internship and Residency",
+    "Neurology",
+    "Reproducibility of Results"
+  ]
+}

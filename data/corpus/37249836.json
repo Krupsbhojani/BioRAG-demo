@@ -1,0 +1,18 @@
+{
+  "pmid": "37249836",
+  "title": "Machine Learning in Clinical Trials: A Primer with Applications to Neurology.",
+  "abstract": "We reviewed foundational concepts in artificial intelligence (AI) and machine learning (ML) and discussed ways in which these methodologies may be employed to enhance progress in clinical trials and research, with particular attention to applications in the design, conduct, and interpretation of clinical trials for neurologic diseases. We discussed ways in which ML may help to accelerate the pace of subject recruitment, provide realistic simulation of medical interventions, and enhance remote trial administration via novel digital biomarkers and therapeutics. Lastly, we provide a brief overview of the technical, administrative, and regulatory challenges that must be addressed as ML achieves greater integration into clinical trial workflows.",
+  "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
+  "year": "2023",
+  "authors": [
+    "Miller MI",
+    "Shih LC",
+    "Kolachalama VB"
+  ],
+  "mesh_terms": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Neurology",
+    "Clinical Trials as Topic"
+  ]
+}

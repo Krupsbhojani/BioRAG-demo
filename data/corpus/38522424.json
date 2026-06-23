@@ -1,0 +1,18 @@
+{
+  "pmid": "38522424",
+  "title": "Artificial intelligence performance in clinical neurology queries: the ChatGPT model.",
+  "abstract": "INTRODUCTION: The use of artificial intelligence technology is progressively expanding and advancing in the health and biomedical literature. Since its launch, ChatGPT has rapidly gained popularity and become one of the fastest-growing artificial intelligence applications in history. This study evaluated the accuracy and comprehensiveness of ChatGPT-generated responses to medical queries in clinical neurology. METHODS: We directed 216 questions from different subspecialties to ChatGPT. The questions were classified into three categories: multiple-choice, descriptive, and binary (yes/no answers). Each question in all categories was subjectively rated as easy, medium, or hard according to its difficulty level. Questions that also tested for intuitive clinical thinking and reasoning ability were evaluated in a separate category. RESULTS: ChatGPT correctly answered 141 questions (65.3%). No significant difference was detected in the accuracy and comprehensiveness scale scores or correct answer rates in comparisons made according to the question style or difficulty level. However, a comparative analysis assessing question characteristics revealed significantly lower accuracy and comprehensiveness scale scores and correct answer rates for questions based on interpretations that required critical thinking ( CONCLUSION: ChatGPT had a moderate overall performance in clinical neurology and demonstrated inadequate performance in answering questions that required interpretation and critical thinking. It also displayed limited performance in specific subspecialties. It is essential to acknowledge the limitations of artificial intelligence and diligently verify medical information produced by such models using reliable sources.",
+  "journal": "Neurological research",
+  "year": "2024",
+  "authors": [
+    "Altunisik E",
+    "Firat YE",
+    "Cengiz EK",
+    "Comruk GB"
+  ],
+  "mesh_terms": [
+    "Artificial Intelligence",
+    "Humans",
+    "Neurology"
+  ]
+}

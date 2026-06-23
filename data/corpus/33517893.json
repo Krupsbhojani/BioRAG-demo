@@ -1,0 +1,30 @@
+{
+  "pmid": "33517893",
+  "title": "Clusterin secreted from astrocyte promotes excitatory synaptic transmission and ameliorates Alzheimer's disease neuropathology.",
+  "abstract": "BACKGROUND: Genome-wide association studies have established clusterin (CLU) as a genetic modifier for late-onset Alzheimer's disease (AD). Both protective and risk alleles have been identified which may be associated with its expression levels. However, the physiological function of clusterin in the central nervous system remains largely unknown. METHODS: We examined Clu expression in mouse brains by immunohistochemistry and high-resolution imaging. We performed electrophysiological recordings and morphological analysis of dendritic spines in wild-type and Clu knockout mice. We tested synaptic function of astrocytic Clu using neuron-glia co-cultures and by AAV-mediated astroglial Clu expression in vivo. Finally, we investigated the role of astrocytic Clu on synaptic properties and amyloid pathology in 5xFAD transgenic mouse model of AD. RESULTS: We show that astrocyte secreted Clu co-localizes with presynaptic puncta of excitatory neurons. Loss of Clu led to impaired presynaptic function and reduced spine density in vivo. Neurons co-cultured with Clu-overexpressing astrocytes or treated with conditioned media from HEK293 cells transfected with Clu displayed enhanced excitatory neurotransmission. AAV-mediated astroglial Clu expression promoted excitatory neurotransmission in wild-type mice and rescued synaptic deficits in Clu knockout mice. Overexpression of Clu in the astrocytes of 5xFAD mice led to reduced Aβ pathology and fully rescued the synaptic deficits. CONCLUSION: We identify Clu as an astrocyte-derived synaptogenic and anti-amyloid factor; the combination of these activities may influence the progression of late-onset AD.",
+  "journal": "Molecular neurodegeneration",
+  "year": "2021",
+  "authors": [
+    "Chen F",
+    "Swartzlander DB",
+    "Ghosh A",
+    "Fryer JD",
+    "Wang B",
+    "Zheng H"
+  ],
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Amyloid beta-Peptides",
+    "Amyloid beta-Protein Precursor",
+    "Animals",
+    "Astrocytes",
+    "Clusterin",
+    "Disease Models, Animal",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Mice, Transgenic",
+    "Neurons",
+    "Neuropathology",
+    "Synaptic Transmission"
+  ]
+}

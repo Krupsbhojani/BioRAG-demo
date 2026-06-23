@@ -1,0 +1,30 @@
+{
+  "pmid": "34232472",
+  "title": "NIH funding trends for neurosurgeon-scientists from 1993-2017: Biomedical workforce implications for neurooncology.",
+  "abstract": "INTRODUCTION: Neurosurgeons represent 0.5% of all physicians and currently face a high burden of disease. Physician-scientists are essential to advance the mission of National Academies of Science (NAS) and National Institutes of Health (NIH) through discovery and bench to bedside translation. We investigated trends in NIH neurosurgeon-scientist funding over time as an indicator of physician-scientist workforce training. METHODS: We used NIH Research Portfolio Online Reporting Tools (RePORTER) to extract grants to neurosurgery departments and neurosurgeons from 1993 to 2017. Manual extraction of each individual grant awardee was conducted. RESULTS: After adjusting for U.S. inflation (base year: 1993), NIH funding to neurosurgery departments increased yearly (P < 0.00001). However, neurosurgeon-scientists received significantly less NIH funding compared to scientists (including basic scientists and research only neurosurgeons) (P = 0.09). The ratio of neurosurgeon-scientists to scientists receiving grants was significantly reduced (P = 0.002). Interestingly, the percentage of oncology-related neurosurgery grants significantly increased throughout the study period (P = 0.002). The average number of grants per neurosurgeon-scientists showed an upward trend (P < 0.001); however, the average number of grants for early-career neurosurgeon-scientists, showed a significant downward trend (P = 0.05). CONCLUSION: Over the past 23 years, despite the overall increasing trends in the number of NIH grants awarded to neurosurgery departments overall, the proportion of neurosurgeon-scientists that were awarded NIH grants compared to scientists demonstrates a declining trend. This observed shift is disproportionate in the number of NIH grants awarded to senior level compared to early-career neurosurgeon-scientists, with more funding allocated towards neurosurgical-oncology-related grants.",
+  "journal": "Journal of neuro-oncology",
+  "year": "2022",
+  "authors": [
+    "ReFaey K",
+    "Freeman WD",
+    "Tripathi S",
+    "Guerrero-Cazares H",
+    "Eatz TA",
+    "Meschia JF",
+    "Carter RE",
+    "Petrucelli L",
+    "Meyer FB",
+    "Quinones-Hinojosa A"
+  ],
+  "mesh_terms": [
+    "Biomedical Research",
+    "Health Workforce",
+    "Humans",
+    "Medical Oncology",
+    "National Institutes of Health (U.S.)",
+    "Neurology",
+    "Neurosurgeons",
+    "Research Support as Topic",
+    "United States"
+  ]
+}

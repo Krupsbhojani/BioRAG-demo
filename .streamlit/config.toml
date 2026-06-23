@@ -1,0 +1,17 @@
+[theme]
+base            = "light"
+primaryColor    = "#0d2d5e"
+backgroundColor = "#f8f7f3"
+secondaryBackgroundColor = "#f0ede6"
+textColor       = "#1a1a1a"
+font            = "sans serif"
+
+[server]
+# Disable file watcher — prevents Streamlit's reloader from spawning
+# new processes before the current one has finished bootstrapping (Windows fix)
+runOnSave = false
+fileWatcherType = "none"
+
+[runner]
+# Disable fast reruns which can race with multiprocessing startup on Windows
+fastReruns = false

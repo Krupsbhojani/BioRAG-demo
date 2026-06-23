@@ -1,0 +1,29 @@
+{
+  "pmid": "30894440",
+  "title": "Characteristics and predictors of 7- and 30-day hospital readmissions to pediatric neurology.",
+  "abstract": "OBJECTIVE: Hospital readmission is an important quality improvement measure that has not been well-studied in pediatric neurology. We examined predictors of 7-day and 30-day readmissions for pediatric patients hospitalized with a neurologic diagnosis. METHODS: This was a retrospective study of hospital readmission rates in pediatric neurology patients admitted to a tertiary children's hospital from January 2017 to December 2017. Inclusion criteria were age ≤18 years and a primary neurologic diagnosis on admission, with an unplanned readmission within 7 or 30 days. Demographic and clinical data were collected, including age, sex, income, insurance type, discharge occurring on a weekend, admission to the pediatric intensive care unit (PICU), use of multiple antiepileptic drugs (AEDs), and involvement of multiple subspecialties. RESULTS: There were 923 neurology admissions, and 64 readmissions within 30 days. Total unplanned readmission rate was 6.9%, with 56% (36/64) readmitted within 30 days, 44% (28/64) readmitted within 7 days, and 11% (7/64) admitted multiple times within 30 days. The most common readmission diagnosis was seizure (62%), followed by other neurologic diagnosis (21%), headache (8%), encephalitis/meningitis (7%), stroke (1%), and ataxia (1%). Readmission was significantly associated with multiple AED, PICU admission, seizure with major complication or comorbidity, and presence of a major complication or comorbidity irrespective of diagnosis ( CONCLUSIONS: This study identifies factors associated with higher rates of readmission for pediatric neurology patients. Patients with epilepsy and chronic neurologic conditions should be targeted for future discharge-related interventions to reduce hospital readmission and ensure safe transitions from the inpatient to the outpatient setting.",
+  "journal": "Neurology",
+  "year": "2020",
+  "authors": [
+    "Hong A",
+    "Shah Y",
+    "Singh K",
+    "Karkare S",
+    "Kothare S"
+  ],
+  "mesh_terms": [
+    "Child",
+    "Comorbidity",
+    "Female",
+    "Humans",
+    "Male",
+    "Nervous System Diseases",
+    "Neurology",
+    "Patient Readmission",
+    "Pediatrics",
+    "Prognosis",
+    "Retrospective Studies",
+    "Risk Factors",
+    "Time Factors"
+  ]
+}

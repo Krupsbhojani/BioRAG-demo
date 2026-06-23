@@ -1,0 +1,40 @@
+{
+  "pmid": "32892033",
+  "title": "The potential impact of enhanced hygienic measures during the COVID-19 outbreak on hospital-acquired infections: A pragmatic study in neurological units.",
+  "abstract": "OBJECTIVE: Hospital-acquired infections (HAIs) are frequent complications among acute patients hospitalized in neurological units, especially among those hospitalized for stroke. This study aimed to investigate if enhanced hygienic measures, including the systematic use of personal protective equipment (PPE), determined a decrease in HAI during the recent COVID-19 outbreak in \"COVID-free\" neurological units. METHODS: Patients hospitalized in neurology and stroke units of Policlinico Umberto I Hospital in Rome from March 8, 2020 and discharged prior to May 31, 2020 were included in the study and compared with patients hospitalized during the same period in 2019. RESULTS: A total of 319 patients were included in the study (n = 103 in 2020, n = 216 in 2019). Among patients hospitalized in 2019, the incidence of HAIs was 31.5% (95% confidence interval (CI): 0.25-0.38), compared with 23.3% (95% CI: 0.15-0.32) in 2020 (p = 0.12). Multivariable logistic regression showed that hospitalization during 2020 was independently associated with a lower risk of HAIs (odds ratio: 0.34, 95% CI:0.16-0.71, p = 0.004). Poisson regression models showed that hospitalization during 2020 was also independently associated with both a lower number of HAIs (relative risk [RR]: 0.56, 95% CI:0.38-0.81, p = 0.01) and a lower number of prescribed antibiotics per patient (RR: 0.66, 95% CI: 0.49-0.87, p = 0.02). CONCLUSION: Our study design provides evidence regarding the impact of stricter hygienic measures, such as increased PPE use, on HAIs. Larger studies are needed to support the extension of preventive measures even after the COVID-19 outbreak in order to limit the occurrence of HAIs.",
+  "journal": "Journal of the neurological sciences",
+  "year": "2020",
+  "authors": [
+    "Cerulli Irelli E",
+    "Orlando B",
+    "Cocchi E",
+    "Morano A",
+    "Fattapposta F",
+    "Di Piero V",
+    "Toni D",
+    "Ciardi MR",
+    "Giallonardo AT",
+    "Fabbrini G",
+    "Berardelli A",
+    "Di Bonaventura C"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Anti-Bacterial Agents",
+    "COVID-19",
+    "Case-Control Studies",
+    "Cross Infection",
+    "Female",
+    "Hand Disinfection",
+    "Hospital Departments",
+    "Humans",
+    "Hygiene",
+    "Italy",
+    "Male",
+    "Middle Aged",
+    "Neurology",
+    "Pandemics",
+    "Personal Protective Equipment",
+    "SARS-CoV-2"
+  ]
+}

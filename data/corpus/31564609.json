@@ -1,0 +1,32 @@
+{
+  "pmid": "31564609",
+  "title": "Perspective: Clinical relevance of the dichotomous classification of Alzheimer's disease biomarkers: Should there be a \"gray zone\"?",
+  "abstract": "The 2018 National Institute on Aging and the Alzheimer's Association (NIA-AA) research framework recently redefined Alzheimer's disease (AD) as a biological construct, based on in vivo biomarkers reflecting key neuropathologic features. Combinations of normal/abnormal levels of three biomarker categories, based on single thresholds, form the AD signature profile that defines the biological disease state as a continuum, independent of clinical symptomatology. While single thresholds may be useful in defining the biological signature profile, we provide evidence that their use in studies with cognitive outcomes merits further consideration. Using data from the Alzheimer's Disease Neuroimaging Initiative with a focus on cortical amyloid binding, we discuss the limitations of applying the biological definition of disease status as a tool to define the increased likelihood of the onset of the Alzheimer's clinical syndrome and the effects that this may have on trial study design. We also suggest potential research objectives going forward and what the related data requirements would be.",
+  "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+  "year": "2020",
+  "authors": [
+    "McRae-McKee K",
+    "Udeh-Momoh CT",
+    "Price G",
+    "Bajaj S",
+    "de Jager CA",
+    "Scott D",
+    "Hadjichrysanthou C",
+    "McNaughton E",
+    "Bracoud L",
+    "Ahmadi-Abhari S",
+    "de Wolf F",
+    "Anderson RM",
+    "Middleton LT"
+  ],
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Biomarkers",
+    "Brain",
+    "Humans",
+    "National Institute on Aging (U.S.)",
+    "Neuroimaging",
+    "Neuropathology",
+    "United States"
+  ]
+}

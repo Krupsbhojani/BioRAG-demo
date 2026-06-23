@@ -1,0 +1,33 @@
+{
+  "pmid": "30681437",
+  "title": "Neuropathology-driven Whole-genome Sequencing Study Points to Novel Candidate Genes for Healthy Brain Aging.",
+  "abstract": "PURPOSE: Understanding the healthy brain aging process is key to uncover the mechanisms that lead to pathologic age-related neurodegeneration, including progression to Alzheimer disease (AD). We aimed to address the issue of pathologic heterogeneity that often underlies a clinical AD diagnosis. METHODS: We performed a deep whole-genome sequencing study aiming to identify variants that are associated specifically with healthy brain aging. PATIENTS: We examined samples from the community-based longitudinal Vienna Transdanubian Aging study comparing neuropathologically \"healthy\" aging in individuals above 80 years of age with pure AD patients of the same age. RESULTS: Focusing on potentially functional variants, we discovered a single variant (rs10149146) that lies on the autophagy-associated TECPR2 gene and was carried by 53.6% of the \"healthy\" brain elderly individuals (15/28). An additional nonsynonymous variant on the CINP gene (encoding a cell cycle checkpoint protein) was also found in 46% of healthy controls. Both variants are absent from all AD cases. TECPR2 and CINP appear to be \"partner\" genes in terms of regulation and their associated transcription factors have been previously implicated in AD and neurodegeneration. CONCLUSIONS: Our study underlines the strength of neuropathology-driven definitions in genetic association studies and points to a potentially neuroprotective effect of key molecules of autophagy and cell cycle control.",
+  "journal": "Alzheimer disease and associated disorders",
+  "year": "2020",
+  "authors": [
+    "Alexander J",
+    "Ströbel T",
+    "Georgitsi M",
+    "Hönigschnabl S",
+    "Reiner A",
+    "Fischer P",
+    "Tsifintaris M",
+    "Paschou P",
+    "Kovacs GG"
+  ],
+  "mesh_terms": [
+    "Aged, 80 and over",
+    "Aging",
+    "Alzheimer Disease",
+    "Austria",
+    "Brain",
+    "Carrier Proteins",
+    "Female",
+    "Humans",
+    "Longitudinal Studies",
+    "Male",
+    "Nerve Tissue Proteins",
+    "Neuropathology",
+    "Whole Genome Sequencing"
+  ]
+}

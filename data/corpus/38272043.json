@@ -1,0 +1,23 @@
+{
+  "pmid": "38272043",
+  "title": "Repercussions of the Emergency neurological life support on scientific literature: a bibliometric study.",
+  "abstract": "BACKGROUND: In 2012, the Neurocritical Care Society launched a compilation of protocols regarding the core issues that should be addressed within the first hours of neurological emergencies - the OBJECTIVE: We aim to evaluate this repercussion through a bibliometric analysis. METHODS: We searched Scopus on October 2022 for articles mentioning ENLS. The following variables were obtained: number of citations; number of citations per year; number of publications per year; year of publication; research type; research subtype; country of corresponding author and its income category and world region; journal of publication and its 5-year impact factor (IF); and section where ENLS appeared. RESULTS: After applying eligibility criteria, we retrieved 421 articles, published from 2012 to 2022. The mean number of citations per article was 17.46 (95% Confidence Interval (CI) = 8.20-26.72), while the mean number of citations per year per article was 4.05 (95% CI = 2.50-5.61). The mean destiny journal 5-year IF was 5.141 (95% CI = 4.189-6.093). The majority of articles were secondary research (57.48%; CONCLUSION: Although still low, the number of publications mentioning ENLS is increasing. Articles were mainly published in journals of intensive care medicine, neurology, neurosurgery, and emergency medicine. Most articles were published by authors from high-income countries. The majority of papers were secondary research, with narrative review as the most frequent subtype.",
+  "journal": "Arquivos de neuro-psiquiatria",
+  "year": "2024",
+  "authors": [
+    "Ramos MB",
+    "Rech MM",
+    "Telles JPM",
+    "Moraes WM",
+    "Teixeira MJ",
+    "Figueiredo EG"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Bibliometrics",
+    "Journal Impact Factor",
+    "Neurosurgery",
+    "Neurosurgical Procedures",
+    "Neurology"
+  ]
+}

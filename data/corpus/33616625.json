@@ -1,0 +1,25 @@
+{
+  "pmid": "33616625",
+  "title": "Sexual and Gender Minority Health in Neurology: A Scoping Review.",
+  "abstract": "IMPORTANCE: Little is known about the neurologic health needs of sexual and gender minority (SGM) individuals, and existing research indicates health care disparities for this group. OBJECTIVE: To describe the current state of science in SGM neurology and highlight areas of knowledge and gaps to guide future research. EVIDENCE REVIEW: All articles published before April 12, 2020, in PubMed, Embase, Web of Science, PsycInfo, CINAHL, and BIOSIS Previews were searched using a search string encompassing SGM descriptors and neurologic disorders. A total of 8359 items were found and entered into EndNote, and 2921 duplicates were removed. A blind title and abstract review was performed followed by full-text review in duplicate, with conflicts settled through consensus, to identify 348 articles eligible for data abstraction. Articles presenting primary data about an identified adult SGM population addressing a clinical neurology topic were included. Descriptive statistics were used for abstracted variables. FINDINGS: Of 348 studies, 205 (58.9%) were case reports or series, 252 (72.4%) included sexual minority cisgender men, and 247 (70.9%) focused on HIV. An association was found between autism spectrum disorder and gender dysphoria in 9 of 16 studies (56.3%), and a higher risk of ischemic stroke in transgender women was shown in other studies. Literature in neuroinfectious disease, the most common topic, largely focused on HIV (173 of 200 studies [86.5%]). Findings in other neurologic topics were limited by lack of data. CONCLUSIONS AND RELEVANCE: In this rigorous compendium of SGM neurology literature, several deficiencies were found: most studies focused on a limited breadth of neurologic pathology, included only a portion of the overall SGM community, and did not assess other aspects of sociodemographic diversity that may contribute to disparities in health care access and outcomes among SGM individuals. Expanding neurologic research to include broader representation of SGM individuals and incorporating sociodemographic factors, like race/ethnicity and socioeconomic status, are essential steps toward providing equitable neurologic care for this community.",
+  "journal": "JAMA neurology",
+  "year": "2022",
+  "authors": [
+    "Rosendale N",
+    "Wong JO",
+    "Flatt JD",
+    "Whitaker E"
+  ],
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Female",
+    "HIV Infections",
+    "Health Knowledge, Attitudes, Practice",
+    "Healthcare Disparities",
+    "Humans",
+    "Male",
+    "Nervous System Diseases",
+    "Neurology",
+    "Sexual and Gender Minorities"
+  ]
+}

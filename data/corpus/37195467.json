@@ -1,0 +1,28 @@
+{
+  "pmid": "37195467",
+  "title": "Performance of a condensed protocol to assess limbic-predominant age-related TDP-43 encephalopathy neuropathologic change.",
+  "abstract": "Limbic-predominant age-related TDP-43 encephalopathy neuropathologic change (LATE-NC) is a dementia-related proteinopathy common in the elderly population. LATE-NC stages 2 or 3 are consistently associated with cognitive impairment. A condensed protocol (CP) for the assessment of Alzheimer disease neuropathologic change and other disorders associated with cognitive impairment, recommended sampling of small brain portions from specific neuroanatomic regions that were consolidated, resulting in significant cost reduction. Formal evaluation of the CP for LATE-NC staging was not previously performed. Here, we determined the ability of the CP to identify LATE-NC stages 2 or 3. Forty brains donated to the University of Washington BioRepository and Integrated Neuropathology laboratory with known LATE-NC status were resampled. Slides containing brain regions required for LATE-NC staging were immunostained for phospho-TDP-43 and reviewed by 6 neuropathologists blinded to original LATE-NC diagnosis. Overall group performance distinguishing between LATE-NC stages 0-1 and 2-3 was 85% (confidence interval [CI]: 75%-92%). We also used the CP to evaluate LATE-NC in a hospital autopsy cohort, in which LATE-NC was more common in individuals with a history of cognitive impairment, older age, and/or comorbid hippocampal sclerosis. This study shows that the CP can effectively discriminate higher stages of LATE-NC from low or no LATE-NC and that it can be successfully applied in clinical practice using a single tissue block and immunostain.",
+  "journal": "Journal of neuropathology and experimental neurology",
+  "year": "2023",
+  "authors": [
+    "Maioli H",
+    "Mittenzwei R",
+    "Shofer JB",
+    "Scherpelz KP",
+    "Marshall D",
+    "Nolan AL",
+    "Nelson PT",
+    "Keene CD",
+    "Latimer CS"
+  ],
+  "mesh_terms": [
+    "TDP-43 Proteinopathies",
+    "DNA-Binding Proteins",
+    "Dementia",
+    "Humans",
+    "Aged",
+    "Neuropathology",
+    "Brain",
+    "Alzheimer Disease"
+  ]
+}

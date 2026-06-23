@@ -1,0 +1,32 @@
+{
+  "pmid": "33845655",
+  "title": "Dizziness Diagnostic Pathways: Factors Impacting Setting, Provider, and Diagnosis at Presentation.",
+  "abstract": "OBJECTIVE: Ensuring that patients with dizziness present to the most appropriate level of care and provider are key goals of quality and cost improvement efforts. Using a symptom-defined cohort of adults presenting for dizziness evaluations, we aimed to identify patient factors associated with ambulatory clinic vs emergency department (ED) presentations, evaluating provider specialty, and assigned diagnoses. STUDY DESIGN: Cross-sectional study. SETTING: OptumLabs Data Warehouse (OLDW), a longitudinal, real-world data asset with deidentified administrative claims. METHODS: We performed a cross-sectional analysis of adults (older than 18 years) who received new dizziness diagnoses (2006-2015) and identified factors associated with setting and provider at initial presentation using multivariable regression models. RESULTS: Of 805,454 individuals with dizziness (median age 52 years, 62% women, 29% black, Asian, or Hispanic), 23% presented to EDs and 77% to clinics (76% primary care, 7% otolaryngology, 5% cardiology, 3% neurology). Predictors of ED presentation were younger age, male sex, black race, lower education, and medical comorbidity. Predictors of primary care clinic presentation were older age and race/ethnicity other than white. Nonetiologic symptom diagnoses alone were assigned to 51% and were most associated with age older than 75 years (odds ratio, 2.90; 95% CI, 2.86-2.94). CONCLUSION: Adults with dizziness often present to a level of care that may be higher than is optimal. Differential care seeking and diagnoses by age, sex, and race/ethnicity reflect influences beyond dizziness presentation acuity. Targeted patient resources, triage systems, provider education, and cross-specialty partnerships are needed to direct dizzy patients to appropriate settings and providers to improve care.",
+  "journal": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+  "year": "2022",
+  "authors": [
+    "Adams ME",
+    "Marmor S"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Aged",
+    "Ambulatory Care",
+    "Cardiology",
+    "Cohort Studies",
+    "Cross-Sectional Studies",
+    "Dizziness",
+    "Emergency Service, Hospital",
+    "Female",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Neurology",
+    "Otolaryngology",
+    "Patient Acceptance of Health Care",
+    "Primary Health Care",
+    "Socioeconomic Factors",
+    "United States",
+    "Young Adult"
+  ]
+}

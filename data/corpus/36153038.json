@@ -1,0 +1,28 @@
+{
+  "pmid": "36153038",
+  "title": "Development and validation of the INappropriate solid oral dosaGE form modification aSsessmenT (INGEST) Algorithm using data of patients with medication dysphagia from a neurology ward and nursing home in Singapore.",
+  "abstract": "OBJECTIVES: This study aims to develop and validate a novel implicit tool to assist clinicians in resource-limited settings to promptly assess suitability for modification of solid oral dosage forms (SODFs) during medication prescribing, review and/or administration for patients with dysphagia. DESIGN: Literature review and a group discussion were conducted to elicit items for the construction of the INappropriate solid oral dosaGE form modification aSsessmenT (INGEST) algorithm. For its validation, inter-rater reliability among three independent users was evaluated. Accuracy of users' ratings was also evaluated against the screening results using the SETTING AND PARTICIPANTS: Three pharmacists were involved in the development and another three were involved in the validation of the INGEST algorithm using anonymised medication records of 50 patients in a nursing home and a hospital ward; only SODFs that were modified prior to administration were evaluated. RESULTS: Following literature review, considerations included by consensus in the INGEST algorithm were the presence of special coating or modified release characteristics of the SODF medications, hazardous nature and taste of the active ingredients, manufacturer's advice and use of tube feeding. Of the 381 SODF medications evaluated, 26 (6.8%) were identified by at least one pharmacist to be inappropriate for modification. Gwet's AC among the three pharmacists in identifying SODF medications inappropriate for modification was 0.75 (p<0.001, 95% CI 0.63 to 0.87), and 0.80 (p<0.001, 95% CI 0.71 to 0.89) in identifying SODF medications appropriate for modification, suggesting substantial inter-rater agreement. Overall accuracy of each pharmacist's ratings was high, ranging from 93.7% to 95.6%. CONCLUSIONS: The implicit INGEST algorithm has potential for use by clinicians in nursing home and hospital settings for determining suitability of SODF medications for modification. Further studies should be conducted to assess its external validity and utilisation in daily practice for improving clinical outcomes for patients with SODF dysphagia.",
+  "journal": "BMJ open",
+  "year": "2022",
+  "authors": [
+    "Tan PL",
+    "Chung WL",
+    "Sklar GE",
+    "Yap KZ",
+    "Chan SY"
+  ],
+  "mesh_terms": [
+    "Algorithms",
+    "Deglutition Disorders",
+    "Drug-Related Side Effects and Adverse Reactions",
+    "Hospitals",
+    "Humans",
+    "Inappropriate Prescribing",
+    "Neurology",
+    "Nursing Homes",
+    "Pharmaceutical Preparations",
+    "Pharmacists",
+    "Reproducibility of Results",
+    "Singapore"
+  ]
+}

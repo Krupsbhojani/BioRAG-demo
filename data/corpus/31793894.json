@@ -1,0 +1,36 @@
+{
+  "pmid": "31793894",
+  "title": "Medical Videography Using a Mobile App: Retrospective Analysis.",
+  "abstract": "BACKGROUND: As mobile devices and apps grow in popularity, they are increasingly being used by health care providers to aid clinical care. At our institution, we developed and implemented a point-of-care clinical photography app that also permitted the capture of video recordings; however, the clinical findings it was used to capture and the outcomes that resulted following video recording were unclear. OBJECTIVE: The study aimed to assess the use of a mobile clinical video recording app at our institution and its impact on clinical care. METHODS: A single reviewer retrospectively reviewed video recordings captured between April 2016 and July 2017, associated metadata, and patient records. RESULTS: We identified 362 video recordings that were eligible for inclusion. Most video recordings (54.1%; 190/351) were captured by attending physicians. Specialties recording a high number of video recordings included orthopedic surgery (33.7%; 122/362), neurology (21.3%; 77/362), and ophthalmology (15.2%; 55/362). Consent was clearly documented in the medical record in less than one-third (31.8%; 115/362) of the records. People other than the patient were incidentally captured in 29.6% (107/362) of video recordings. Although video recordings were infrequently referenced in notes corresponding to the clinical encounter (12.2%; 44/362), 7.7% (22/286) of patients were video recorded in subsequent clinical encounters, with 82% (18/22) of these corresponding to the same finding seen in the index video. Store-and-forward telemedicine was documented in clinical notes in only 2 cases (0.5%; 2/362). Videos appeared to be of acceptable quality for clinical purposes. CONCLUSIONS: Video recordings were captured in a variety of clinical settings. Documentation of consent was inconsistent, and other individuals were incidentally included in videos. Although clinical impact was not always clearly evident through retrospective review because of limited documentation, potential uses include documentation for future reference and store-and-forward telemedicine. Repeat video recordings of the same finding provide evidence of use to track the findings over time. Clinical video recordings have the potential to support clinical care; however, documentation of consent requires standardization.",
+  "journal": "JMIR mHealth and uHealth",
+  "year": "2020",
+  "authors": [
+    "Cambron JC",
+    "Wyatt KD",
+    "Lohse CM",
+    "Underwood PY",
+    "Hellmich TR"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Aged",
+    "Cell Phone",
+    "Clinical Medicine",
+    "Consent Forms",
+    "Documentation",
+    "Female",
+    "Humans",
+    "Male",
+    "Medical Records",
+    "Middle Aged",
+    "Mobile Applications",
+    "Neurology",
+    "Ophthalmology",
+    "Orthopedics",
+    "Photography",
+    "Point-of-Care Systems",
+    "Retrospective Studies",
+    "Telemedicine",
+    "Video Recording"
+  ]
+}

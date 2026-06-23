@@ -1,0 +1,23 @@
+{
+  "pmid": "34353250",
+  "title": "Current Perspective of COVID-19 on Neurology: A Mechanistic Insight.",
+  "abstract": "SARS-CoV-2, the novel coronavirus and the causative organism of the Covid-19 pandemic wreaked havoc worldwide producing asymptomatic to symptomatic cases leading to significant morbidity and mortality even after infection. Most of the countries reported a mortality rate of 2-3 % majorly due to cardiorespiratory failures. Recent studies highlighted the neurological involvement playing a key role in cardiorespiratory failures and other symptoms such as headache, anosmia, and ageusia observed in Covid-19 patients. Studies suggest SARS-CoV-2 entry via Olfactory Epithelium (OE), and the expression of type 2 transmembrane serine protease (TMPRSS2) in addition to Angiotensin-Converting Enzyme 2 (ACE2) can facilitate SARS-CoV-2 neurotropism. The virus can either travel via peripheral blood vessel causing endothelial dysfunction, triggering coagulation cascade and multiple organ dysfunction or reach the systemic circulation and take a different route to the Blood-Brain Barrier (BBB), disrupting the BBB causing neuroinflammation or neuronal excitotoxicity resulting in the development of encephalitis, encephalopathy, seizures, and strokes. SARS-CoV-2 invasion on the brain stem is believed to be responsible for the cardiorespiratory failures observed in Covid-19 patients. Apart from viral invasion via hematogenous route, SARS-CoV-2 neural invasion via PNS nerve terminal, results in viral replication and retrograde transportation to soma leading to invasion of the CNS including the brain producing neurological manifestations of the disease either in the initial stages or during the course of the disease and even for a long period post-infection in many cases. The ACE2 receptors are expressed in the brain and glial cells and SARS-CoV-2 acts via neuronal as well as nonneuronal pathways. But the exact cell types involved and how they can trigger inflammatory pathways need further in-depth study for the development of targeted therapy.",
+  "journal": "Combinatorial chemistry & high throughput screening",
+  "year": "2022",
+  "authors": [
+    "Kumar R",
+    "Harilal S",
+    "M S",
+    "Pappachan LK",
+    "P R R",
+    "Mathew B"
+  ],
+  "mesh_terms": [
+    "COVID-19",
+    "Humans",
+    "Neurology",
+    "Pandemics",
+    "SARS-CoV-2",
+    "Stroke"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pmid": "35209095",
+  "title": "Exosomes and Other Extracellular Vesicles with High Therapeutic Potential: Their Applications in Oncology, Neurology, and Dermatology.",
+  "abstract": "Until thirty years ago, it was believed that extracellular vesicles (EVs) were used to remove unnecessary compounds from the cell. Today, we know about their enormous potential in diagnosing and treating various diseases. EVs are essential mediators of intercellular communication, enabling the functional transfer of bioactive molecules from one cell to another. Compared to laboratory-created drug nanocarriers, they are stable in physiological conditions. Furthermore, they are less immunogenic and cytotoxic compared to polymerized vectors. Finally, EVs can transfer cargo to particular cells due to their membrane proteins and lipids, which can implement them to specific receptors in the target cells. Recently, new strategies to produce ad hoc exosomes have been devised. Cells delivering exosomes have been genetically engineered to overexpress particular macromolecules, or transformed to release exosomes with appropriate targeting molecules. In this way, we can say tailor-made therapeutic EVs are created. Nevertheless, there are significant difficulties to solve during the application of EVs as drug-delivery agents in the clinic. This review explores the diversity of EVs and the potential therapeutic options for exosomes as natural drug-delivery vehicles in oncology, neurology, and dermatology. It also reflects future challenges in clinical translation.",
+  "journal": "Molecules (Basel, Switzerland)",
+  "year": "2022",
+  "authors": [
+    "Szwedowicz U",
+    "Łapińska Z",
+    "Gajewska-Naryniecka A",
+    "Choromańska A"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Biological Transport",
+    "Dermatology",
+    "Drug Carriers",
+    "Drug Delivery Systems",
+    "Exosomes",
+    "Extracellular Vesicles",
+    "Humans",
+    "Immunotherapy",
+    "Medical Oncology",
+    "Neurology",
+    "Theranostic Nanomedicine",
+    "Translational Research, Biomedical",
+    "Vaccine Development"
+  ]
+}

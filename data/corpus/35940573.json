@@ -1,0 +1,30 @@
+{
+  "pmid": "35940573",
+  "title": "Perceptions of Pediatric Endocrinologists and Neurologists on the Drivers of Telehealth Use.",
+  "abstract": "OBJECTIVE: To assess the extent and drivers of telehealth use variation across clinicians within the same pediatric subspecialties. METHODS: In this mixed methods study, 8 pediatric medical groups in California shared data for eleven subspecialties. We calculated the proportion of total visits delivered via telehealth by medical group for each subspecialty and identified the 8 most common International Classification of Diseases 10 diagnoses for telehealth and in-person visits in endocrinology and neurology. We conducted semi-structured interviews with 32 pediatric endocrinologists and neurologists and applied a positive deviance approach comparing high versus low utilizers to identify factors that influenced their level of telehealth use. RESULTS: In 2019, medical groups that submitted quantitative data conducted 1.8 million visits with 549,306 unique pediatric patients. For 3 subspecialties, there was relatively little variation in telehealth use across medical groups: urology (mean: 16.5%, range: 9%-23%), orthopedics (mean: 7.2%, range: 2%-14%), and cardiology (mean: 11.2%, range: 2%-24%). The remaining subspecialties, including neurology (mean: 58.6%, range: 8%-93%) and endocrinology (mean: 49.5%, range: 24%-92%), exhibited higher levels of variation. For both neurology and endocrinology, the top diagnoses treated in-person were similar to those treated via telehealth. There was limited consensus on which clinical conditions were appropriate for telehealth. High telehealth utilizers were more comfortable conducting telehealth visits for new patients and often worked in practices with innovations to support telehealth. CONCLUSIONS: Clinicians perceive that telehealth may be appropriate for a range of clinical conditions when the right supports are available.",
+  "journal": "Academic pediatrics",
+  "year": "2023",
+  "authors": [
+    "Schulson LB",
+    "Predmore Z",
+    "Sousa JL",
+    "McCullough CM",
+    "Magit A",
+    "Lerner C",
+    "Chinnock R",
+    "Barkley S",
+    "Marcin JP",
+    "McGuire T",
+    "Browne MA",
+    "Uscher-Pines L"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Child",
+    "Neurologists",
+    "Endocrinologists",
+    "Telemedicine",
+    "Neurology",
+    "Pediatricians"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "37204265",
+  "title": "Ultrasonography in neurology: A comprehensive analysis and review.",
+  "abstract": "Neurologists in both the inpatient and outpatient settings are increasingly using ultrasound to diagnose and manage common neurological diseases. Advantages include cost-effectiveness, the lack of exposure to ionizing radiation, and the ability to perform at the bedside to provide real-time data. There is a growing body of literature that supports using ultrasonography to improve diagnostic accuracy and aid in performing procedures. Despite the increasing utilization of this imaging modality in medicine, there has been no comprehensive review of the clinical applications of ultrasound in the field of neurology. We discuss the current uses and limitations of ultrasound for various neurological conditions. We review the role for ultrasound in commonly performed neurologic procedures including lumbar puncture, botulinum toxin injections, nerve blocks, and trigger point injections. We specifically discuss the technique for ultrasound-assisted lumbar puncture and occipital nerve block as these are commonly performed. We then focus on the utility of ultrasound in the diagnosis of neurologic conditions. This includes neuromuscular diseases such as motor neuron disorders, focal neuropathies, and muscular dystrophy as well as vascular conditions such as stroke and vasospasm in subarachnoid hemorrhage. We also address ultrasound's use in critically ill patients to aid in identifying increased intracranial pressure, hemodynamics, and arterial and/or venous catheterization. Finally, we address the importance of standardized ultrasound curricula in trainee education and make recommendations for the future directions of research and competency guidelines within our specialty.",
+  "journal": "Journal of neuroimaging : official journal of the American Society of Neuroimaging",
+  "year": "2023",
+  "authors": [
+    "Scholtz LC",
+    "Rosenberg J",
+    "Robbins MS",
+    "Wong T",
+    "Mints G",
+    "Kaplan A",
+    "Leung D",
+    "Kamel H",
+    "Ch'ang JH"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Ultrasonography",
+    "Peripheral Nervous System Diseases",
+    "Neurology",
+    "Spinal Puncture",
+    "Stroke"
+  ]
+}

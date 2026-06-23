@@ -1,0 +1,32 @@
+{
+  "pmid": "33116058",
+  "title": "Evaluating the Reliability and Validity Evidence of the RIME (Reporter-Interpreter-Manager-Educator) Framework for Summative Assessments Across Clerkships.",
+  "abstract": "PURPOSE: The ability of medical schools to accurately and reliably assess medical student clinical performance is paramount. The RIME (reporter-interpreter-manager-educator) schema was originally developed as a synthetic and intuitive assessment framework for internal medicine clerkships. Validity evidence of this framework has not been rigorously evaluated outside of internal medicine. This study examined factors contributing to variability in RIME assessment scores using generalizability theory and decision studies across multiple clerkships, thereby contributing to its internal structure validity evidence. METHOD: Data were collected from RIME-based summative clerkship assessments during 2018-2019 at Virginia Commonwealth University. Generalizability theory was used to explore variance attributed to different facets through a series of unbalanced random-effects models by clerkship. For all analyses, decision (D-) studies were conducted to estimate the effects of increasing the number of assessments. RESULTS: From 231 students, 6,915 observations were analyzed. Interpreter was the most common RIME designation (44.5%-46.8%) across all clerkships. Variability attributable to students ranged from 16.7% in neurology to 25.4% in surgery. D-studies showed the number of assessments needed to achieve an acceptable reliability (0.7) ranged from 7 in pediatrics and surgery to 11 in internal medicine and 12 in neurology. However, depending on the clerkship each student received between 3 and 8 assessments. CONCLUSIONS: This study conducted generalizability- and D-studies to examine the internal structure validity evidence of RIME clinical performance assessments across clinical clerkships. Substantial proportion of variance in RIME assessment scores was attributable to the rater, with less attributed to the student. However, the proportion of variance attributed to the student was greater than what has been demonstrated in other generalizability studies of summative clinical assessments. Overall, these findings support the use of RIME as a framework for assessment across clerkships and demonstrate the number of assessments required to obtain sufficient reliability.",
+  "journal": "Academic medicine : journal of the Association of American Medical Colleges",
+  "year": "2021",
+  "authors": [
+    "Ryan MS",
+    "Lee B",
+    "Richards A",
+    "Perera RA",
+    "Haley K",
+    "Rigby FB",
+    "Park YS",
+    "Santen SA"
+  ],
+  "mesh_terms": [
+    "Clinical Clerkship",
+    "Clinical Competence",
+    "Curriculum",
+    "Educational Measurement",
+    "General Surgery",
+    "Humans",
+    "Internal Medicine",
+    "Neurology",
+    "Pediatrics",
+    "Reproducibility of Results",
+    "Schools, Medical",
+    "Students, Medical",
+    "Virginia"
+  ]
+}

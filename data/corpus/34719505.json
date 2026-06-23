@@ -1,0 +1,32 @@
+{
+  "pmid": "34719505",
+  "title": "Improving Patient Outreach by Defining Telehealth Suitability in a Tertiary Huntington's Disease Clinic.",
+  "abstract": "BACKGROUND: The COVID-19 pandemic has increased the need for remote healthcare options among patients with Huntington's disease (HD). However, since not every HD patient is suitable for telehealth, it is important to differentiate who can be seen virtually from who should remain as in-person. Unfortunately, there are no clinical guidelines on how to evaluate HD patients for telehealth eligibility. OBJECTIVE: To standardize the teleneurology selection process in HD by implementing a screening tool that accounts for patient-specific factors. METHODS: We organized various indications and contraindications to teleneurology into a flowchart. If any indications or contraindications were met, patients were assigned to telehealth or maintained as in-person, respectively. If no indications or contraindications were met, patients were given the option of telehealth or in-person for their upcoming appointments. In two implementation cycles, we tested this screening tool among all HD patients scheduled for clinic visits, aided by chart review and phone interview. RESULTS: In a cohort of 81 patients, telehealth acceptance among eligible patients increased from 45.0%to 83.3%. Frequency of telehealth visits increased from a pre-intervention baseline of 12.8%to 28.2%. CONCLUSION: Teleneurology utilization among HD patients more than doubled across our study. Our intervention promotes consistency and patient-centeredness in HD clinical care and streamlines the overall telehealth selection process. Future studies can seek to reduce telehealth no-shows and also evaluate the utility of the motor and psychiatric criteria included in our screening tool.",
+  "journal": "Journal of Huntington's disease",
+  "year": "2021",
+  "authors": [
+    "Lee SJ",
+    "Hale LM",
+    "Huitz E",
+    "Claassen DO",
+    "McDonell KE"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Ambulatory Care",
+    "COVID-19",
+    "Cohort Studies",
+    "Facilities and Services Utilization",
+    "Female",
+    "Humans",
+    "Huntington Disease",
+    "Male",
+    "Middle Aged",
+    "Neurology",
+    "Patient Acceptance of Health Care",
+    "Patient Preference",
+    "Software Design",
+    "Telemedicine",
+    "Tertiary Care Centers"
+  ]
+}

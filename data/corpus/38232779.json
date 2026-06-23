@@ -1,0 +1,32 @@
+{
+  "pmid": "38232779",
+  "title": "EEG brain network variability is correlated with other pathophysiological indicators of critical patients in neurology intensive care unit.",
+  "abstract": "Continuous electroencephalogram (cEEG) plays a crucial role in monitoring and postoperative evaluation of critical patients with extensive EEG abnormalities. Recently, the temporal variability of dynamic resting-state functional connectivity has emerged as a novel approach to understanding the pathophysiological mechanisms underlying diseases. However, little is known about the underlying temporal variability of functional connections in critical patients admitted to neurology intensive care unit (NICU). Furthermore, considering the emerging field of network physiology that emphasizes the integrated nature of human organisms, we hypothesize that this temporal variability in brain activity may be potentially linked to other physiological functions. Therefore, this study aimed to investigate network variability using fuzzy entropy in 24-hour dynamic resting-state networks of critical patients in NICU, with an emphasis on exploring spatial topology changes over time. Our findings revealed both atypical flexible and robust architectures in critical patients. Specifically, the former exhibited denser functional connectivity across the left frontal and left parietal lobes, while the latter showed predominantly short-range connections within anterior regions. These patterns of network variability deviating from normality may underlie the altered network integrity leading to loss of consciousness and cognitive impairment observed in these patients. Additionally, we explored changes in 24-hour network properties and found simultaneous decreases in brain efficiency, heart rate, and blood pressure between approximately 1 pm and 5 pm. Moreover, we observed a close relationship between temporal variability of resting-state network properties and other physiological indicators including heart rate as well as liver and kidney function. These findings suggest that the application of a temporal variability-based cEEG analysis method offers valuable insights into underlying pathophysiological mechanisms of critical patients in NICU, and may present novel avenues for their condition monitoring, intervention, and treatment.",
+  "journal": "Brain research bulletin",
+  "year": "2024",
+  "authors": [
+    "Chen C",
+    "Chen Z",
+    "Hu M",
+    "Zhou S",
+    "Xu S",
+    "Zhou G",
+    "Zhou J",
+    "Li Y",
+    "Chen B",
+    "Yao D",
+    "Li F",
+    "Liu Y",
+    "Su S",
+    "Xu P",
+    "Ma X"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Brain",
+    "Brain Mapping",
+    "Electroencephalography",
+    "Neurology"
+  ]
+}

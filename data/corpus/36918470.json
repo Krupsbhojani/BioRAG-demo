@@ -1,0 +1,22 @@
+{
+  "pmid": "36918470",
+  "title": "Development and Evaluation of an Innovative Neurology E-learning Didactic Curriculum for Psychiatry Residents.",
+  "abstract": "OBJECTIVE: This article describes the development, implementation, and piloting of an e-learning neuropsychiatry curriculum for psychiatry residents. The primary outcome of interest was feasibility. Secondary outcomes were interest and confidence caring for patients with neuropsychiatric disorders, and knowledge about neuropsychiatry. METHODS: The curriculum was designed utilizing Kern's six-step framework. A ten-module, interactive, primarily vignette-based e-learning curriculum was developed focusing on the neurocognitive exam and neurocognitive disorders. The curriculum was piloted in two psychiatry residencies in Brooklyn, NY (n = 80 residents). The curriculum was evaluated using a survey adapted from the General Practitioner Attitudes and Confidence Scale for Dementia (GPACS-D) and a 24-item neuropsychiatry examination prior to the intervention and 1-month post-intervention. Qualitative feedback was acquired through four open-ended items in the post-curriculum survey, which underwent a thematic analysis. RESULTS: Seventy-eight of eighty residents completed the full curriculum. Three of nine attitude items demonstrated significant differences, with residents feeling less frustrated managing dementia (pre-mean = 2.32, post = 2.68, t(2,59) = 2.00, p = 0.004), less frustrated due to not knowing how to effectively treat dementia (pre-mean = 2.05, post = 2.95, t(2,59) = 6.27, p = 0.000), and demonstrating less interest in pursuing further training in neuropsychiatry (pre-mean = 1.95, post = 2.18, t(2,59) = 1.70, p = 0.047), though still overall showing interest. There was no change in confidence ratings. There was a small but significant improvement in total number of knowledge items answered correctly. CONCLUSIONS: This study demonstrated the feasibility of implementing an e-learning neuropsychiatry curriculum. It also demonstrated an improvement in resident responses to two attitude items and an increase in neuropsychiatry knowledge.",
+  "journal": "Academic psychiatry : the journal of the American Association of Directors of Psychiatric Residency Training and the Association for Academic Psychiatry",
+  "year": "2023",
+  "authors": [
+    "Jacoby N",
+    "Gullick M",
+    "Sullivan N",
+    "Shalev D"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Computer-Assisted Instruction",
+    "Internship and Residency",
+    "Curriculum",
+    "Neurology",
+    "Neuropsychiatry",
+    "Dementia"
+  ]
+}

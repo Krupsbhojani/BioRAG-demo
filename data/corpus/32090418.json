@@ -1,0 +1,35 @@
+{
+  "pmid": "32090418",
+  "title": "European Academy of Neurology guideline on the diagnosis of coma and other disorders of consciousness.",
+  "abstract": "BACKGROUND AND PURPOSE: Patients with acquired brain injury and acute or prolonged disorders of consciousness (DoC) are challenging. Evidence to support diagnostic decisions on coma and other DoC is limited but accumulating. This guideline provides the state-of-the-art evidence regarding the diagnosis of DoC, summarizing data from bedside examination techniques, functional neuroimaging and electroencephalography (EEG). METHODS: Sixteen members of the European Academy of Neurology (EAN) Scientific Panel on Coma and Chronic Disorders of Consciousness, representing 10 European countries, reviewed the scientific evidence for the evaluation of coma and other DoC using standard bibliographic measures. Recommendations followed the Grading of Recommendations Assessment, Development and Evaluation (GRADE) system. The guideline was endorsed by the EAN. RESULTS: Besides a comprehensive neurological examination, the following suggestions are made: probe for voluntary eye movements using a mirror; repeat clinical assessments in the subacute and chronic setting, using the Coma Recovery Scale - Revised; use the Full Outline of Unresponsiveness score instead of the Glasgow Coma Scale in the acute setting; obtain clinical standard EEG; search for sleep patterns on EEG, particularly rapid eye movement sleep and slow-wave sleep; and, whenever feasible, consider positron emission tomography, resting state functional magnetic resonance imaging (fMRI), active fMRI or EEG paradigms and quantitative analysis of high-density EEG to complement behavioral assessment in patients without command following at the bedside. CONCLUSIONS: Standardized clinical evaluation, EEG-based techniques and functional neuroimaging should be integrated for multimodal evaluation of patients with DoC. The state of consciousness should be classified according to the highest level revealed by any of these three approaches.",
+  "journal": "European journal of neurology",
+  "year": "2021",
+  "authors": [
+    "Kondziella D",
+    "Bender A",
+    "Diserens K",
+    "van Erp W",
+    "Estraneo A",
+    "Formisano R",
+    "Laureys S",
+    "Naccache L",
+    "Ozturk S",
+    "Rohaut B",
+    "Sitt JD",
+    "Stender J",
+    "Tiainen M",
+    "Rossetti AO",
+    "Gosseries O",
+    "Chatelle C"
+  ],
+  "mesh_terms": [
+    "Coma",
+    "Consciousness",
+    "Consciousness Disorders",
+    "Electroencephalography",
+    "Europe",
+    "Humans",
+    "Neurology",
+    "Societies, Medical"
+  ]
+}

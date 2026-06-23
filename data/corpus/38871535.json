@@ -1,0 +1,20 @@
+{
+  "pmid": "38871535",
+  "title": "Artificial Intelligence in Otology and Neurotology.",
+  "abstract": "Clinical applications of artificial intelligence (AI) have grown exponentially with increasing computational power and Big Data. Data rich fields such as Otology and Neurotology are still in the infancy of harnessing the power of AI but are increasingly involved in training and developing ways to incorporate AI into patient care. Current studies involving AI are focused on accessible datasets; health care wearables, tabular data from electronic medical records, electrophysiologic measurements, imaging, and \"omics\" provide huge amounts of data to utilize. Health care wearables, such as hearing aids and cochlear implants, are a ripe environment for AI implementation.",
+  "journal": "Otolaryngologic clinics of North America",
+  "year": "2024",
+  "authors": [
+    "Rapoport N",
+    "Pavelchek C",
+    "Michelson AP",
+    "Shew MA"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Artificial Intelligence",
+    "Neurotology",
+    "Otolaryngology",
+    "Cochlear Implants"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "pmid": "37605843",
+  "title": "Interrater reliability in neurology objective structured clinical examination across specialties.",
+  "abstract": "PURPOSE: To assess interrater reliability and examiners' characteristics, especially specialty, associated with scoring of neurology objective structured clinical examination (OSCE). MATERIAL AND METHODS: During a neurology mock OSCE, five randomly chosen students volunteers were filmed while performing 1 of the 5 stations. Video recordings were scored by physicians from the Lyon and Clermont-Ferrand university teaching hospitals to assess students performance using both a checklist scoring and a global rating scale. Interrater reliability between examiners were assessed using intraclass coefficient correlation. Multivariable linear regression models including video recording as random effect dependent variable were performed to detect factors associated with scoring. RESULTS: Thirty examiners including 15 (50%) neurologists participated. The intraclass correlation coefficient of checklist scores and global ratings between examiners were 0.71 (CI95% [0.45-0.95]) and 0.54 (CI95% [0.28-0.91]), respectively. In multivariable analyses, no factor was associated with checklist scores, while male gender of examiner was associated with lower global rating ( CONCLUSIONS: Our study demonstrated through a video-based scoring method that agreement among examiners was good using checklist scoring while moderate using global rating scale in neurology OSCE. Examiner's specialty did not affect scoring whereas gender was associated with global rating scale.",
+  "journal": "Medical teacher",
+  "year": "2024",
+  "authors": [
+    "Mechtouff L",
+    "Balanca B",
+    "Jung J",
+    "Bourgeois-Vionnet J",
+    "Dumot C",
+    "Guery D",
+    "Picart T",
+    "Bapteste L",
+    "Demarquay G",
+    "Bani-Sadr A",
+    "Rascle L",
+    "Berthezène Y",
+    "Jacquesson T",
+    "Amaz C",
+    "Macabrey J",
+    "Ramos I",
+    "Viprey M",
+    "Rode G",
+    "Cortet M"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Male",
+    "Reproducibility of Results",
+    "Educational Measurement",
+    "Medicine",
+    "Students, Medical",
+    "Neurology",
+    "Clinical Competence"
+  ]
+}

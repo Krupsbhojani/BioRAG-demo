@@ -1,0 +1,28 @@
+{
+  "pmid": "36254058",
+  "title": "Evaluation of the effect of pharmaceutical care during inpatient treatment in a department of neurology: A retrospective study.",
+  "abstract": "Common drug-related problems during neurology inpatient treatment can affect expected health results. Some interventions need to be implemented to reduce DRPs. To explore the effect of care from clinical pharmacists during inpatient treatment. Inpatients treated in the department of neurology in the Second Hospital of Shanxi Medical University between January 1 to December 31, 2019, were retrospectively included. Those who received care from the clinical pharmacist service were assigned to the pharma-care group while the other patients were assigned to the control group. From the perspective of drugs, the two groups were compared in terms of types, antimicrobial use, and key monitoring of drug use. From the perspective of patients, the two groups were compared in terms of length of stay, hospital cost, drug cost and proportion. Propensity score matching was used to balance the baseline characteristics. A total of 2684 patients were included 554 in the pharma-care group and 2130 in the control group with a median of 9 days (range, 3-30 days) hospital stay. The groups showed no significant difference in age or gender. Length of stay, the proportion of drug cost, number of adverse events, cost of antibacterial agents, use of a single antibacterial agent, and use of three or more different antibacterial agents were similar between the groups. Medicine expenses cost more in the pharma-care group. The cost and types of intensive monitoring drugs were similar, but Defined Daily Doses were lower in the control group. While clinical pharmacists may play a positive role in the pharmaceutical care of inpatients, in this study the benefits were not obvious. This may be because of the small number of clinical pharmacists in the department of neurology with narrow coverage.",
+  "journal": "Medicine",
+  "year": "2022",
+  "authors": [
+    "Ji W",
+    "Xiao R",
+    "Wu B",
+    "Han S",
+    "Duan J",
+    "Meng Z",
+    "Yang M",
+    "Wang C"
+  ],
+  "mesh_terms": [
+    "Anti-Bacterial Agents",
+    "Drug-Related Side Effects and Adverse Reactions",
+    "Humans",
+    "Inpatients",
+    "Neurology",
+    "Pharmaceutical Services",
+    "Pharmacists",
+    "Pharmacy Service, Hospital",
+    "Retrospective Studies"
+  ]
+}

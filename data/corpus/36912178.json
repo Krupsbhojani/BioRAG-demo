@@ -1,0 +1,30 @@
+{
+  "pmid": "36912178",
+  "title": "Specific associations between plasma biomarkers and postmortem amyloid plaque and tau tangle loads.",
+  "abstract": "Several promising plasma biomarkers for Alzheimer's disease have been recently developed, but their neuropathological correlates have not yet been fully determined. To investigate and compare independent associations between multiple plasma biomarkers (p-tau181, p-tau217, p-tau231, Aβ42/40, GFAP, and NfL) and neuropathologic measures of amyloid and tau, we included 105 participants from the Arizona Study of Aging and Neurodegenerative Disorders (AZSAND) with antemortem plasma samples and a postmortem neuropathological exam, 48 of whom had longitudinal p-tau217 and p-tau181. When simultaneously including plaque and tangle loads, the Aβ42/40 ratio and p-tau231 were only associated with plaques (ρ",
+  "journal": "EMBO molecular medicine",
+  "year": "2023",
+  "authors": [
+    "Salvadó G",
+    "Ossenkoppele R",
+    "Ashton NJ",
+    "Beach TG",
+    "Serrano GE",
+    "Reiman EM",
+    "Zetterberg H",
+    "Mattsson-Carlgren N",
+    "Janelidze S",
+    "Blennow K",
+    "Hansson O"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Plaque, Amyloid",
+    "Alzheimer Disease",
+    "Autopsy",
+    "Neuropathology",
+    "Biomarkers",
+    "tau Proteins",
+    "Amyloid beta-Peptides"
+  ]
+}

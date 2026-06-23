@@ -1,0 +1,31 @@
+{
+  "pmid": "39374350",
+  "title": "Telehealth Use and Access to Neurology Outpatient Clinical Services for Children: An Observational Cohort Study.",
+  "abstract": "BACKGROUND: Access to neurology services is important for children's well-being. We sought to evaluate the effects of telehealth on pedi-atric neurology appointment outcomes for children. METHODS: Using electronic health record (EHR) data, information about children with pediatric neurology appointments in a tertiary care children's hospital in North Carolina was collected. Appointment outcomes (completion, cancellation, and no-show rates) were calculated for children who had a neurology appointment scheduled both in the pre-pandemic (March 10, 2019, to March 9, 2020) and pandemic (March 10, 2020, to March 9, 2021) periods. \"Telehealth user\" was a child who had at least one telehealth appointment scheduled between March 10, 2020, and March 9, 2021. In bivariate and multivariate analyses, we compared appointment outcomes for telehealth users and non-users. LIMITATIONS: EHR data were limited to a single institution and could have missed children's clinical encounters elsewhere. Since this study used secondary data that were not collected for research purposes, it is possible that there were unmeasured confounders. Because of the observational nature of the study, the association between telehealth use and appointment outcomes does not indicate causation. RESULTS: A total of 2110 children had 11,194 pediatric neurology appointments scheduled. Telehealth users compared with non-users were more likely to be White, non-Hispanic, have private insurance, and live farther from the children's hospital. There was a statistically sig-nificant decrease in completion (66% versus 57%) and increase in cancellation (27% versus 33%) and no-show (7% versus 10%) rates in the pandemic when compared to the pre-pandemic period. In the pre-pandemic period, telehealth user and non-user groups had similar cancellation and no-show rates. In the pandemic period, there was a statistically significant decrease in cancellation and no-show rates in the telehealth user group when compared to the non-user group. CONCLUSIONS: Pediatric neurology outpatient clinic visits decreased substantially during the pandemic. Telehealth mitigated these problems. Children belonging to a minority race/ethnicity are less likely to use telehealth, increasing their risk of poor access to neurology services.",
+  "journal": "North Carolina medical journal",
+  "year": "2024",
+  "authors": [
+    "Nageswaran S",
+    "Grefe A",
+    "Chen SH",
+    "Kirkendall E",
+    "Ip EH"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Telemedicine",
+    "Child",
+    "North Carolina",
+    "Female",
+    "Male",
+    "Health Services Accessibility",
+    "Neurology",
+    "Child, Preschool",
+    "Adolescent",
+    "Appointments and Schedules",
+    "Ambulatory Care",
+    "COVID-19",
+    "Cohort Studies",
+    "Infant"
+  ]
+}

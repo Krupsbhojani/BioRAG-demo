@@ -1,0 +1,37 @@
+{
+  "pmid": "31338335",
+  "title": "",
+  "abstract": "Mosquito-borne flaviviruses can cause disease in the nervous system, resulting in a significant burden of morbidity and mortality. Disease models are necessary to understand neuropathogenesis and identify potential therapeutics and vaccines. Non-human primates have been used extensively but present major challenges. Advances have also been made toward the development of humanized mouse models, but these models still do not fully represent human pathophysiology. Recent developments in stem cell technology and cell culture techniques have allowed the development of more physiologically relevant human cell-based models.",
+  "journal": "Frontiers in cellular and infection microbiology",
+  "year": "2020",
+  "authors": [
+    "Chesnut M",
+    "Muñoz LS",
+    "Harris G",
+    "Freeman D",
+    "Gama L",
+    "Pardo CA",
+    "Pamies D"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Antiviral Agents",
+    "Computer Simulation",
+    "Culicidae",
+    "Databases, Factual",
+    "Dengue",
+    "Disease Models, Animal",
+    "Flavivirus",
+    "Flavivirus Infections",
+    "Humans",
+    "Immune System",
+    "In Vitro Techniques",
+    "Mice",
+    "Mosquito Control",
+    "Neuropathology",
+    "Vaccination",
+    "Viral Vaccines",
+    "West Nile Fever",
+    "Zika Virus Infection"
+  ]
+}

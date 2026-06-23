@@ -1,0 +1,25 @@
+{
+  "pmid": "37330922",
+  "title": "Outcome of patients older than 85 years hospitalized in a neurology unit.",
+  "abstract": "BACKGROUND: Advanced age is a major determinant of mortality and poor outcome at any level. In hospitalized patients, advanced age is a major issue in terms of prognosis, resource use, and therapeutic choices. AIMS: We aimed at assessing the 1 year outcome of elderly patients admitted to a neurology unit for various acute conditions. METHODS: Consecutive patients admitted to a neurology unit were enrolled and followed-up at 3, 6, and 12 months with structured phone interviews gathering information about mortality, disability, hospital readmissions, and place of residency. Inclusion criteria were age ≥ 85 years, availability of written consent and phone contact; no exclusion criteria were applied. RESULTS: Over a period of 16 months, 131 patients (88.8 ± 3.3, 92 females, 39 males) were admitted. The pre-hospitalization modified Rankin Scale (mRS) median (IQR) score, obtainable in 125 patients, was 2 (0, 3) and > 3 in 28/125 (22.4%) patients. Fifty-eight (46.8%) patients had pre-existing dementia (this information was missing for one patient). Eleven patients died during hospitalization. Of the 120 discharged patients, 60 (50%) were alive at 12 months, 41 died during follow-up (34.2%), and 19 (15.8%) were lost. At 12 months, out of the 60 alive patients, 29 (48.3%) had a mRS > 3. We did not detect predictors of 12-month survival. Predictors of 12-month worsening of functional status were pre-hospitalization mRS, pre-existing cognitive impairment, and male sex. CONCLUSIONS: One-year mortality of elderly patients admitted to a neurology unit is extremely high. After one year, less than one fourth of elderly patients hospitalised for an acute neurological disease are left with only no-to-moderate disability.",
+  "journal": "Aging clinical and experimental research",
+  "year": "2023",
+  "authors": [
+    "Querzola G",
+    "Bellomo A",
+    "Salvadori E",
+    "Pantoni L"
+  ],
+  "mesh_terms": [
+    "Female",
+    "Humans",
+    "Male",
+    "Aged",
+    "Aged, 80 and over",
+    "Hospitalization",
+    "Prognosis",
+    "Patient Readmission",
+    "Patient Discharge",
+    "Neurology"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "39668416",
+  "title": "Improving Electroencephalography Screening via an Online Module for Neurology Trainees: A Multicenter Study.",
+  "abstract": "PURPOSE: To investigate the utility of a 15-minute online module to improve the self-confidence and knowledge of neurology trainees when screening an EEG. METHODS: We developed a fast, convenient, and accessible 15-minute online module to teach basic concepts of EEG screening using a five-step approach. To assess the efficacy of the module among neurology trainees, three surveys were developed. The EEG module and surveys were distributed to neurology trainees at multiple institutions in the United States. Associations between continuous variables were evaluated using t-test and ANOVA test. RESULTS: A total of 199 residents from 7 different adult neurology residency programs participated in the study. We obtained a response rate of 38% (76/199) for EEG survey 1 and 25% (49/199) for the demographic survey, among junior and senior residents; 22 senior residents completed EEG survey 2. The online EEG module improved confidence when interpreting an EEG among junior residents (1.67 vs. 2.56, p < 0.0001). Senior residents improved their EEG survey score after completing the online module (53.9 vs. 68.6%, p < 0.001). Most of the trainees would recommend the online module to other trainees (93.9%) and would consider including it in an introductory course (93.9%). CONCLUSIONS: A brief and accessible online EEG module was easily implemented as an early introduction to EEG screening for junior neurology trainees and to improve EEG screening skills for senior trainees. These findings clarify specific areas where EEG learning may be optimized and reinforce the importance of implementing innovative curricula that are accessible and efficient for all neurology trainees.",
+  "journal": "Journal of clinical neurophysiology : official publication of the American Electroencephalographic Society",
+  "year": "2025",
+  "authors": [
+    "Lemus HN",
+    "Gutierrez C",
+    "Fields M",
+    "Ziemba K",
+    "Landazuri P",
+    "Shanker V",
+    "Acosta DR",
+    "McCarthy L",
+    "Jadeja N",
+    "Bothwell M",
+    "Nagaraja A",
+    "Patino GA",
+    "Karakis I",
+    "Milligan TA",
+    "Tobochnik S"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Electroencephalography",
+    "Neurology",
+    "Internship and Residency",
+    "Male",
+    "Female",
+    "Adult",
+    "Clinical Competence",
+    "Surveys and Questionnaires"
+  ]
+}

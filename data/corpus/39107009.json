@@ -1,0 +1,32 @@
+{
+  "pmid": "39107009",
+  "title": "Evaluation of the knowledge, attitude and practice towards ischaemic stroke among healthcare workers in neurology and neurosurgery department: a cross-sectional study in Shaanxi province, China.",
+  "abstract": "OBJECTIVES: Healthcare workers play an important role in the timely recognition and treatment of patients who had an ischaemic stroke. However, their knowledge, attitude and practice (KAP) towards ischaemic stroke have not been well studied. This study aimed to assess the KAP towards ischaemic stroke among healthcare workers in the neurology and neurosurgery department in Shaanxi province, China. DESIGN: Cross-sectional study. SETTING: Medical centres in Shaanxi province. PARTICIPANTS: Healthcare workers in the neurology and neurosurgery department at Shaanxi province. PRIMARY AND SECONDARY OUTCOME MEASURES: Demographic characteristics and KAP towards ischaemic stroke were collected by a self-designed questionnaire. RESULTS: A total of 259 (96.6%) valid questionnaires were collected. Their mean KAP scores were 19.56±3.72 (total score: 23), 36.56±3.56 (total score: 40) and 27.45±3.00 (total score: 30), respectively. Multivariate logistic regression analysis demonstrated that education (bachelor's degree or above vs college or below: OR=2.704 (1.286-5.685), p=0.009), gender (female vs male: OR=0.401 (0.227-0.710), p=0.002) and professional title (intermediate vs no title: OR=0.280 (0.107-0.731), p=0.009) were independently associated with good knowledge; knowledge score (OR=1.266 (1.157-1.387), p<0.001) and hospital (private hospital vs public hospital: OR=0.544 (0.313-0.944), p=0.030) were independently associated with good attitude; and attitude score (OR=1.480 (1.326-1.652), p<0.001), gender (female vs male: OR=0.511 (0.264-0.993), p=0.047) and occupation (other healthcare workers vs physicians: OR=0.252 (0.129-0.495), p<0.001) were independently associated with good practice. CONCLUSION: The healthcare workers in the neurology and neurosurgery department demonstrated a satisfactory KAP towards ischaemic stroke. Targeted and tailored training programmes might be an optional way to improve their practice.",
+  "journal": "BMJ open",
+  "year": "2024",
+  "authors": [
+    "Chen W",
+    "Li W",
+    "Wang Y",
+    "Chen D",
+    "Yu L",
+    "Yuan X"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Cross-Sectional Studies",
+    "Female",
+    "Male",
+    "China",
+    "Health Knowledge, Attitudes, Practice",
+    "Adult",
+    "Surveys and Questionnaires",
+    "Ischemic Stroke",
+    "Neurosurgery",
+    "Middle Aged",
+    "Neurology",
+    "Attitude of Health Personnel",
+    "Health Personnel",
+    "Logistic Models"
+  ]
+}

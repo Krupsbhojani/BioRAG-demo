@@ -1,0 +1,27 @@
+{
+  "pmid": "37350150",
+  "title": "Predictors for the development of neurological immune-related adverse events of immune checkpoint inhibitors and impact on mortality.",
+  "abstract": "BACKGROUND AND PURPOSE: Little is known about risk factors for developing neurological immunological adverse events (neuro-irAEs) from immune checkpoint inhibitors (ICIs). We report the incidence, predictors for development, impact on mortality of neuro-irAEs, and impact of ICIs on pre-existing neurological conditions in a large clinical cohort. METHODS: Patients who received ICIs between January 2011 and December 2018 were identified from a tertiary cancer center registry. Descriptive statistics were used to summarize patient, cancer, and treatment data. Odds ratios from univariable and multivariable logistic regression models were calculated to identify potential predictors for developing a neuro-irAE. Impact of neuro-irAEs on overall survival was estimated by Kaplan-Meier and Cox proportional hazard models. RESULTS: Overall frequency of neurological irAEs was 2.3%. Peripheral nervous system complications were most frequent (53.6%). Melanoma, younger age, prior chemotherapy, prior resection, CTLA-4 ICIs exposure, and combination PD-1 and CTLA-4 ICIs exposure had significantly higher odds for developing a neuro-irAE (p < 0.05) in univariate but not multivariate models. Those with a neuro-irAE were less likely to die at 3 years compared to those without a neuro-irAE (69% vs. 55%, p = 0.004) in univariate but not multivariate model. Flare of pre-existing neurological condition after exposure to ICIs was present (15.4%, 2 of 13 patients) but manageable. One patient was rechallenged with ICIs without recurrent flare. CONCLUSIONS: Neuro-irAEs are not associated with increase in overall mortality. Potential predictors for the development of neuro-irAEs are younger age, melanoma, prior chemotherapy and resection, CTLA-4, or combination ICIs exposure.",
+  "journal": "European journal of neurology",
+  "year": "2023",
+  "authors": [
+    "Yan C",
+    "Huang M",
+    "Swetlik C",
+    "Toljan K",
+    "Mahadeen AZ",
+    "Bena J",
+    "Kunchok A",
+    "Funchain P",
+    "McGinley M"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Immune Checkpoint Inhibitors",
+    "CTLA-4 Antigen",
+    "Antineoplastic Agents, Immunological",
+    "Melanoma",
+    "Neurology",
+    "Retrospective Studies"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "38388928",
+  "title": "Patient acceptance of teleneurology across neurologic conditions.",
+  "abstract": "INTRODUCTION: Patient acceptability with outpatient teleneurology has been reported within specific conditions, but less is known about acceptability across neurologic conditions. The study objective was to compare the acceptability of teleneurology between patients with various neurological conditions and determine what other factors influence acceptability. METHODS: This was a prospective study of Veterans who completed new outpatient teleneurology visits with the Department of Veterans Affairs National Teleneurology Program. Visits were conducted via video to home or video to the outpatient clinic. Patient acceptability was assessed via telephone interview two weeks post-visit. Acceptability was a summed score (3-21) of three 7-point Likert questions (higher = more acceptable). Clinical diagnosis categories were based on the neurologists' ICD10 diagnosis code. Acceptability score was modeled using a censored Tobit model controlling for demographics, type of tele-visit, medical comorbidity, and ICD10 category. RESULTS: In FY 2021, 277 of 637 (43.5%) patients completed an interview with analyzable acceptability data. Of these 277, 70 (25.3%) had codes indicating headache, 46 (16.6%) movement disorder, 45 (16.2%) general symptoms, and 116 (41.9%) for all other categories. Mean patient acceptability was 18.3 (SD 3.2). There was no significant difference in scores between these groups. The only factor independently related to acceptability was medical comorbidity, with higher comorbidity associated with higher acceptability scores. DISCUSSION: Patients find their outpatient teleneurology experience highly acceptable independent of neurologic condition. Those with more comorbidity report higher acceptability. Use of teleneurology may be useful and acceptable across many outpatient neurologic conditions including for more medically complex patients.",
+  "journal": "Journal of neurology",
+  "year": "2024",
+  "authors": [
+    "Seigel CR",
+    "Martin H",
+    "Bastin G",
+    "Myers LJ",
+    "Taylor S",
+    "Pike F",
+    "Wilkinson J",
+    "Williams LS"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Male",
+    "Female",
+    "Patient Acceptance of Health Care",
+    "Middle Aged",
+    "Nervous System Diseases",
+    "Prospective Studies",
+    "Aged",
+    "Telemedicine",
+    "Neurology",
+    "United States",
+    "Veterans",
+    "Adult",
+    "United States Department of Veterans Affairs"
+  ]
+}

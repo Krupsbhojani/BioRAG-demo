@@ -1,0 +1,36 @@
+{
+  "pmid": "33400291",
+  "title": "Autopsy-reported cause of death in a population-based cohort of sudden unexpected death in epilepsy.",
+  "abstract": "OBJECTIVE: Sudden unexpected death in epilepsy (SUDEP) is a diagnosis of exclusion; the definition includes individuals with epilepsy who die suddenly without an identifiable toxicological or anatomical cause of death. Limited data suggest underidentification of SUDEP as the cause of death on death certificates. Here, we evaluate the autopsy-reported cause of death in a population-based cohort of SUDEP cases. METHODS: Case summaries of forensic autopsies conducted in Ontario, Canada between January 2014 and June 2016 were retrospectively screened using a language processing script for decedents with a history of epilepsy or seizures. After manual review for potential SUDEP cases, two neurologists independently examined the autopsy reports and classified deaths by Nashef criteria. Demographic characteristics and consideration by the forensic pathologist of the role of epilepsy, seizure, and SUDEP in death were summarized. RESULTS: One hundred and eight Definite, 34 Definite Plus, and 22 Possible SUDEP cases were identified. Seventy-five percent of Definite/Definite Plus SUDEP cases identified by the neurologists were attributed to SUDEP, epilepsy, or seizure disorder in the autopsy report. There was a significant association between the proportion of cases listed in the autopsy report as SUDEP, epilepsy, or seizure disorder and neurologists' SUDEP classification (86% of Definite, 38% of Definite Plus, 0% of Possible). Age was significantly associated with SUDEP classification; Definite cases were younger than Definite Plus, which were younger than Possible SUDEP cases. SIGNIFICANCE: Most SUDEP cases identified by neurologists were classified concordantly by forensic pathologists in Ontario, Canada; however, concordance decreased with increased case complexity. Although the role of epilepsy/seizures was considered in most Definite/Definite Plus cases, this study highlights the need for autopsy report review of potential SUDEP cases in research studies and assessments of the public health burden of SUDEP. The relationship between age and SUDEP classification has important public health implications; SUDEP incidence may be underappreciated in older adults.",
+  "journal": "Epilepsia",
+  "year": "2021",
+  "authors": [
+    "Keller AE",
+    "Ho J",
+    "Whitney R",
+    "Li SA",
+    "Williams AS",
+    "Pollanen MS",
+    "Donner EJ"
+  ],
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Age Factors",
+    "Autopsy",
+    "Cause of Death",
+    "Cohort Studies",
+    "Epilepsy",
+    "Female",
+    "Forensic Pathology",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Natural Language Processing",
+    "Neurology",
+    "Ontario",
+    "Retrospective Studies",
+    "Sudden Unexpected Death in Epilepsy",
+    "Young Adult"
+  ]
+}

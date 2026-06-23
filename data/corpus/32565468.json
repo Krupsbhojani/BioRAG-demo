@@ -1,0 +1,32 @@
+{
+  "pmid": "32565468",
+  "title": "Quality of reporting for randomised clinical trials published in Latin American and Spanish journals: A protocol for a systematic survey of three clinical specialities.",
+  "abstract": "INTRODUCTION: Quality of reporting refers to how published articles communicate how the research was done and what was found. Gaps and imprecisions of reporting hamper the assessment of the methodological quality and internal and external validity. The CONsolidated Standards of Reporting Trials (CONSORT) are a set of evidence-based recommendations of the minimum elements to be included in the reporting of randomised controlled trials (RCTs) to ensure a complete and transparent account of what was done, how it was done and what was found. Few studies have been conducted on the impact of CONSORT on RCTs published in Latin American and Spanish journals. We aim to assess the reporting quality of RCTs of three clinical specialities published in Spanish and Latin American journals, as well as to assess changes over time and associations of quality with journal and country indicators. METHODS AND ANALYSIS: We will conduct a systematic survey of all RCTs published in Spanish-language journals in three clinical fields (dentistry, neurology and geriatrics) from 1990 to 2018. We will include RCTs from previous work that has identified all RCTs on these medical fields published in Spain and Latin America. We will update this work via handsearching of relevant journals. Assessment of quality of reporting will be conducted independently and in duplicate using the CONSORT 2010 Statement. We will also extract journal and country indicators. We will conduct descriptive statistics and secondary analyses considering the year, country, and journal of publication, among others. ETHICS AND DISSEMINATION: The Universidad de Santiago de Chile's ethics committee approved the protocol. We will disseminate the results of this work in peer-reviewed scientific journals and conference proceedings. We expect to raise awareness among researchers, journal editors and funders on the importance of training in reporting guidelines and using them from the inception of RCT protocols.",
+  "journal": "BMJ open",
+  "year": "2021",
+  "authors": [
+    "Bachelet VC",
+    "Carrasco VA",
+    "Bravo-Córdova F",
+    "Díaz RA",
+    "Lizana FJ",
+    "Meza-Ducaud N",
+    "Pardo-Hernandez H",
+    "Uribe FA",
+    "Vergara AF",
+    "Villanueva J",
+    "Navarrete MS"
+  ],
+  "mesh_terms": [
+    "Dentistry",
+    "Geriatrics",
+    "Humans",
+    "Latin America",
+    "Neurology",
+    "Periodicals as Topic",
+    "Randomized Controlled Trials as Topic",
+    "Research Design",
+    "Spain",
+    "Systematic Reviews as Topic"
+  ]
+}

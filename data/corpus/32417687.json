@@ -1,0 +1,23 @@
+{
+  "pmid": "32417687",
+  "title": "The development of a smartphone application to help manage epilepsy in resource-limited settings.",
+  "abstract": "PURPOSE: Epilepsy is treatable but in low- and middle-income countries (LMICs) it goes untreated with dire consequences for people with it and their families. There are not enough available doctors to treat it so it has been suggested that non-physician health workers (NPHWs) take a role in diagnosis and management. Tools will be essential to help them. A smartphone application (app) for episode diagnosis has proved safe and effective; this paper describes an app for epilepsy management. METHODS: Questions were devised which captured temporal characteristics of episodes, diagnosis of episodes, seizure types, and epilepsy type, together with information on previous investigations, treatment, drug reactions, and current treatment. For untreated patients a management plan was suggested. The app generated a summary which could be sent to a remote specialist for advice. The finished app was evaluated in 23 people presenting with possible epilepsy by four doctors in training and one NPHW; its summary was compared to face-to-face evaluation by a neurologist. RESULTS: The app was correct in 22 of 23 (96 %) patients for episode diagnosis, 2 of 2 for symptomatic seizures,18/20 (90 %) for epilepsy type and 9/10 (90 %) for treatment suggestion in untreated patients. The app took less than 15 min to complete. CONCLUSION: The initial results suggest that this management app is a worthwhile tool to help inexpert doctors or NPHWs manage suspected epilepsy. Its accuracy is well within reported inter-observer agreement. In its present form it requires input from a remote epilepsy specialist. This combination is a potential solution to managing epilepsy in LMICs.",
+  "journal": "Seizure",
+  "year": "2021",
+  "authors": [
+    "Patterson V"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Developing Countries",
+    "Epilepsy",
+    "Health Personnel",
+    "Humans",
+    "Medical Informatics Applications",
+    "Mobile Applications",
+    "Neurology",
+    "Sensitivity and Specificity",
+    "Smartphone",
+    "Telemedicine"
+  ]
+}

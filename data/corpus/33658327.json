@@ -1,0 +1,31 @@
+{
+  "pmid": "33658327",
+  "title": "Educational Research: Why Medical Students Choose Neurology: A Computational Linguistics Analysis of Personal Statements.",
+  "abstract": "OBJECTIVE: To understand medical students' motivations for choosing neurology and how applicants conceptualize the field, as this information can be used to enhance interest in neurology and develop educational programs to help identify, support, and recruit future neurologists. BACKGROUND: Applicants to neurology residencies submit personal statements describing themselves and their motivations. Textual analysis of personal statements has been performed in internal medicine and general surgery, but never before in neurology. We hypothesized that specific words and themes would be mentioned in residency personal statements with high frequencies indicating students' motivations. METHODS: We used computational linguistics software to assess key words and thereby study motivations, expectations, and themes present among neurology applicants. A total of 2,405 personal statements submitted over 5 years to our institution were de-identified and compiled into a database for evaluation through 3 computational linguistics software programs. We performed calculations of term frequencies (TF) and TF-inverse document frequencies and performed K-means clustering to identify unique words and common themes. RESULTS: Specific disease states were discussed. For example, stroke (TF 2,178), epilepsy (TF 970), and dementia (TF 944) were referenced more often than amyotrophic lateral sclerosis (TF 220) and carpal tunnel (TF 10). The most common proper names cited were Oliver Sacks (TF 94) and Sherlock Holmes (TF 41). Common themes included fascination with the brain, interest in research, desire to help patients, early interests in neurology, continued pursuit of learning, appreciation for time with patients, family history with neurologic illness, and intellectual curiosity. CONCLUSIONS: This first computational linguistic analysis of neurology personal statements provides understanding into medical students' motivations and interests. Ongoing subgroup and thematic analyses may inform educational strategies and enhance recruitment to our field.",
+  "journal": "Neurology",
+  "year": "2021",
+  "authors": [
+    "Grzebinski S",
+    "Cheung H",
+    "Sanky C",
+    "Ouyang J",
+    "Krieger S"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Career Choice",
+    "Exploratory Behavior",
+    "Family",
+    "Female",
+    "Humans",
+    "Internship and Residency",
+    "Linguistics",
+    "Male",
+    "Motivation",
+    "Nervous System Diseases",
+    "Neurology",
+    "Software",
+    "Students, Medical",
+    "Young Adult"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "pmid": "37656458",
+  "title": "Outcomes Associated With Intracranial Aneurysm Treatments Reported as Safe, Effective, or Durable: A Systematic Review and Meta-Analysis.",
+  "abstract": "IMPORTANCE: Testing new medical devices or procedures in terms of safety, effectiveness, and durability should follow the strictest methodological rigor before implementation. OBJECTIVES: To review and analyze studies investigating devices and procedures used in intracranial aneurysm (IA) treatment for methods and completeness of reporting and to compare the results of studies with positive, uncertain, and negative conclusions. DATA SOURCES: Embase, MEDLINE, Web of Science, and The Cochrane Central Register of Clinical Trials were searched for studies on IA treatment published between January 1, 1995, and the October 1, 2022. Grey literature was retrieved from Google Scholar. STUDY SELECTION: All studies making any kind of claims of safety, effectiveness, or durability in the field of IA treatment were included. DATA EXTRACTION AND SYNTHESIS: Using a predefined data dictionary and analysis plan, variables ranging from patient and aneurysm characteristics to the results of treatment were extracted, as were details pertaining to study methods and completeness of reporting. Extraction was performed by 10 independent reviewers. A blinded academic neuro-linguist without involvement in IA research evaluated the conclusion of each study as either positive, uncertain, or negative. The study followed Preferring Reporting Items for Systematic Reviews and Meta-Analyses guidelines. MAIN OUTCOMES AND MEASURES: The incidence of domain-specific outcomes between studies with positive, uncertain, or negative conclusions regarding safety, effectiveness, or durability were compared. The number of studies that provided a definition of safety, effectiveness, or durability and the incidence of incomplete reporting of domain-specific outcomes were evaluated. RESULTS: Overall, 12 954 studies were screened, and 1356 studies were included, comprising a total of 410 993 treated patients. There was no difference in the proportion of patients with poor outcome or in-hospital mortality between studies claiming a technique was safe, uncertain, or not safe. Similarly, there was no difference in the proportion of IAs completely occluded at last follow-up between studies claiming a technique was effective, uncertain, or noneffective. Less than 2% of studies provided any definition of safety, effectiveness, or durability, and only 1 of the 1356 studies provided a threshold under which the technique would be considered unsafe. Incomplete reporting was found in 546 reports (40%). CONCLUSIONS AND RELEVANCE: In this systematic review and meta-analysis of IA treatment literature, studies claiming safety, effectiveness, or durability of IA treatment had methodological flaws and incomplete reporting of relevant outcomes supporting these claims.",
+  "journal": "JAMA network open",
+  "year": "2023",
+  "authors": [
+    "Volovici V",
+    "Verploegh IS",
+    "Satoer D",
+    "Vrancken Peeters NJMC",
+    "Sadigh Y",
+    "Vergouwen MDI",
+    "Schouten JW",
+    "Bruggeman G",
+    "Pisica D",
+    "Yildirim G",
+    "Cozar A",
+    "Muller F",
+    "Zidaru AM",
+    "Gori K",
+    "Tzourmpaki N",
+    "Schnell E",
+    "Thioub M",
+    "Kicielinski K",
+    "van Doormaal PJ",
+    "Velinov N",
+    "Boutarbouch M",
+    "Lawton MT",
+    "Lanzino G",
+    "Amin-Hanjani S",
+    "Dammers R",
+    "Meling TR"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Intracranial Aneurysm",
+    "Hospital Mortality",
+    "Neurology",
+    "Uncertainty"
+  ]
+}

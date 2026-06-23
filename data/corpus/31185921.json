@@ -1,0 +1,37 @@
+{
+  "pmid": "31185921",
+  "title": "Substitution of hospital care with Primary Care Plus: differences in referral patterns according to specialty, specialist and diagnosis group.",
+  "abstract": "BACKGROUND: Primary Care Plus (PC+) is an intervention where patients consult specialists in a primary care setting outside the hospital. Two facilities have been founded in the city of Maastricht, the Netherlands. Main aim is to achieve substitution of hospital care with primary care and hence reduce costs. The objective of this study is to evaluate referral patterns per specialty, specialist and diagnosis group, as input for deliberations to optimise substitution. METHODS: Prospectively collected referral data after PC+ consultations between November 2014 and March 2016 was analysed for eight participating specialties. Primary outcomes were differences in referral patterns per specialty, specialist and diagnosis group. Absolute counts and percentages were recorded for categorical variables, means and standard deviations for continuous variables. Statistical analyses were performed using IBM SPSS Statistics 23 (SPSS Inc., Chicago, IL). RESULTS: In total 4536 patients were seen in PC+; 3132 (69.0%) were referred back to the general practitioner (GP), whereas 1275 (28.1%) were referred to secondary care. Referral information of 130 (2.9%) patients was unknown. Large differences in referral numbers to secondary care after PC+ consultation were found between specialties (from 8.6% (gynaecology) to 43.8% (orthopaedic surgery)), specialists (14.5 to 65.2%) and diagnosis groups (11.1 to 93.4%). CONCLUSIONS: Wide variation in referral numbers to secondary care between specialties, specialists and diagnosis groups exists after PC+ consultations. This data indicates that deliberation and further research is needed in order to optimize substitution initiatives like PC+.",
+  "journal": "BMC family practice",
+  "year": "2020",
+  "authors": [
+    "Smeele P",
+    "Kroese MEAL",
+    "Spreeuwenberg MD",
+    "Ruwaard D"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Aged",
+    "Delivery of Health Care",
+    "Dermatology",
+    "Female",
+    "General Practitioners",
+    "Gynecology",
+    "Humans",
+    "Internal Medicine",
+    "Male",
+    "Middle Aged",
+    "Netherlands",
+    "Neurology",
+    "Ophthalmology",
+    "Orthopedics",
+    "Otolaryngology",
+    "Primary Health Care",
+    "Referral and Consultation",
+    "Rheumatology",
+    "Secondary Health Care",
+    "Specialization",
+    "Young Adult"
+  ]
+}

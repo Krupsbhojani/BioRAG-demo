@@ -1,0 +1,27 @@
+{
+  "pmid": "38581138",
+  "title": "Effects of explainable artificial intelligence in neurology decision support.",
+  "abstract": "OBJECTIVE: Artificial intelligence (AI)-based decision support systems (DSS) are utilized in medicine but underlying decision-making processes are usually unknown. Explainable AI (xAI) techniques provide insight into DSS, but little is known on how to design xAI for clinicians. Here we investigate the impact of various xAI techniques on a clinician's interaction with an AI-based DSS in decision-making tasks as compared to a general population. METHODS: We conducted a randomized, blinded study in which members of the Child Neurology Society and American Academy of Neurology were compared to a general population. Participants received recommendations from a DSS via a random assignment of an xAI intervention (decision tree, crowd sourced agreement, case-based reasoning, probability scores, counterfactual reasoning, feature importance, templated language, and no explanations). Primary outcomes included test performance and perceived explainability, trust, and social competence of the DSS. Secondary outcomes included compliance, understandability, and agreement per question. RESULTS: We had 81 neurology participants with 284 in the general population. Decision trees were perceived as the more explainable by the medical versus general population (P < 0.01) and as more explainable than probability scores within the medical population (P < 0.001). Increasing neurology experience and perceived explainability degraded performance (P = 0.0214). Performance was not predicted by xAI method but by perceived explainability. INTERPRETATION: xAI methods have different impacts on a medical versus general population; thus, xAI is not uniformly beneficial, and there is no one-size-fits-all approach. Further user-centered xAI research targeting clinicians and to develop personalized DSS for clinicians is needed.",
+  "journal": "Annals of clinical and translational neurology",
+  "year": "2024",
+  "authors": [
+    "Gombolay GY",
+    "Silva A",
+    "Schrum M",
+    "Gopalan N",
+    "Hallman-Cooper J",
+    "Dutt M",
+    "Gombolay M"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Artificial Intelligence",
+    "Decision Support Systems, Clinical",
+    "Male",
+    "Female",
+    "Neurology",
+    "Adult",
+    "Middle Aged",
+    "Clinical Decision-Making"
+  ]
+}

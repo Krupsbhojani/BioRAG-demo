@@ -1,0 +1,23 @@
+{
+  "pmid": "30981321",
+  "title": "Clinical application of next-generation sequencing to the practice of neurology.",
+  "abstract": "Next-generation sequencing technologies allow for rapid and inexpensive large-scale genomic analysis, creating unprecedented opportunities to integrate genomic data into the clinical diagnosis and management of neurological disorders. However, the scale and complexity of these data make them difficult to interpret and require the use of sophisticated bioinformatics applied to extensive datasets, including whole exome and genome sequences. Detailed analysis of genetic data has shown that accurate phenotype information is essential for correct interpretation of genetic variants and might necessitate re-evaluation of the patient in some cases. A multidisciplinary approach that incorporates bioinformatics, clinical evaluation, and human genetics can help to address these challenges. However, despite numerous studies that show the efficacy of next-generation sequencing in establishing molecular diagnoses, pathogenic mutations are generally identified in fewer than half of all patients with genetic neurological disorders, exposing considerable gaps in the understanding of the human genome and providing opportunities to focus research on improving the usefulness of genomics in clinical practice. Looking forward, the emergence of precision health in neurological care will increasingly apply genomic data analysis to pharmacogenetics, preventive medicine, and patient-targeted therapies.",
+  "journal": "The Lancet. Neurology",
+  "year": "2020",
+  "authors": [
+    "Rexach J",
+    "Lee H",
+    "Martinez-Agosto JA",
+    "Németh AH",
+    "Fogel BL"
+  ],
+  "mesh_terms": [
+    "Exome",
+    "Genetic Predisposition to Disease",
+    "Genetic Variation",
+    "High-Throughput Nucleotide Sequencing",
+    "Humans",
+    "Nervous System Diseases",
+    "Neurology"
+  ]
+}

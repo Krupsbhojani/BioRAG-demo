@@ -1,0 +1,33 @@
+{
+  "pmid": "36720639",
+  "title": "Future of Neurology & Technology: Neuroimaging Made Accessible Using Low-Field, Portable MRI.",
+  "abstract": "In the 20th century, the advent of neuroimaging dramatically altered the field of neurologic care. However, despite iterative advances since the invention of CT and MRI, little progress has been made to bring MR neuroimaging to the point of care. Recently, the emergence of a low-field (<1 T) portable MRI (pMRI) is setting the stage to revolutionize the landscape of accessible neuroimaging. Users can transport the pMRI into a variety of locations, using a standard 110-220 V wall outlet. In this article, we discuss current applications for pMRI, including in the acute and critical care settings, the barriers to broad implementation, and future opportunities.",
+  "journal": "Neurology",
+  "year": "2023",
+  "authors": [
+    "Parasuram NR",
+    "Crawford AL",
+    "Mazurek MH",
+    "Chavva IR",
+    "Beekman R",
+    "Gilmore EJ",
+    "Petersen NH",
+    "Payabvash S",
+    "Sze G",
+    "Eugenio Iglesias J",
+    "Omay SB",
+    "Matouk C",
+    "Longbrake EE",
+    "de Havenon A",
+    "Schiff SJ",
+    "Rosen MS",
+    "Kimberly WT",
+    "Sheth KN"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Neuroimaging",
+    "Neurology"
+  ]
+}

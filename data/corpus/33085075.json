@@ -1,0 +1,42 @@
+{
+  "pmid": "33085075",
+  "title": "Recommendations of the Polish Medical Society of Radiology and the Polish Society of Neurology for a protocol concerning routinely used magnetic resonance imaging in patients with multiple sclerosis.",
+  "abstract": "Magnetic resonance imaging (MRI) is a widely used method for the diagnosis of multiple sclerosis that is essential for the detection and follow-up of the disease. OBJECTIVE: The Polish Medical Society of Radiology (PLTR) and the Polish Society of Neurology (PTN) present the second version of their recommendations for investigations routinely conducted in magnetic resonance imaging departments in patients with multiple sclerosis. This version includes new data and practical comments for electroradiology technologists and radiologists. The recommended protocol aims to improve the MRI procedure and, most importantly, to standardise the method of conducting scans in all MRI departments. This is crucial for the initial diagnostics necessary for establishing a diagnosis, as well as for MS patient monitoring, which directly translates into significant clinical decisions. INTRODUCTION: Multiple sclerosis (MS) is a chronic immune mediated inflammatory demyelinating disease of the central nervous system (CNS), the aetiology of which is still unknown. The nature of the disease lies in a CNS destruction process disseminated in time (DIT) and space (DIS). MRI detects focal lesions in the white and grey matter with high sensitivity (although with significantly lower specificity in the latter). It is also the best tool to assess brain atrophy in patients with MS in terms of grey matter volume (GMV) and white matter volume (WMV) as well as local atrophy (by measuring the volume of thalamus, corpus callosum, subcortical nuclei, and hippocampus) as parameters that correlate with disability progression and cognitive dysfunctions. Progress in MR techniques, as well as advances in postprocessing the obtained data, has driven the dynamic development of computer programs that allow for a more repeatable assessment of brain atrophy in both cross-sectional and longitudinal studies. MR imaging is unquestionably the best diagnostic tool available to follow up the course of the disease and support clinicians in choosing the most appropriate treatment strategy for their MS patient. However, to diagnose and follow up MS patients on the basis of MRI in accordance with the latest standards, the MRI study must adhere to certain quality criteria. Such criteria are the subject of this paper.",
+  "journal": "Neurologia i neurochirurgia polska",
+  "year": "2020",
+  "authors": [
+    "Sąsiadek M",
+    "Hartel M",
+    "Siger M",
+    "Katulska K",
+    "Majos A",
+    "Kluczewska E",
+    "Bartosik-Psujek H",
+    "Kułakowska A",
+    "Słowik A",
+    "Steinborn B",
+    "Adamczyk-Sowa M",
+    "Kalinowska A",
+    "Krzystanek E",
+    "Bonek R",
+    "Serafin Z",
+    "Sławek J",
+    "Nowacki P",
+    "Stępień A",
+    "Jóżwiak S",
+    "Rejdak K",
+    "Selmaj K",
+    "Walecki J"
+  ],
+  "mesh_terms": [
+    "Atrophy",
+    "Brain",
+    "Cross-Sectional Studies",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Multiple Sclerosis",
+    "Neurology",
+    "Poland",
+    "Societies, Medical"
+  ]
+}

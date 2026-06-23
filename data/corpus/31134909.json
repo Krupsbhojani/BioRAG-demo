@@ -1,0 +1,21 @@
+{
+  "pmid": "31134909",
+  "title": "Health challenges including behavioral problems in long-duration spaceflight.",
+  "abstract": "Over the past 60 years, our ability to live and work in space has evolved. From short sojourns in small spacecraft to landing on the moon and residing in an orbiting international space station, we have learned to adapt to an extreme environment and safely return home. Human missions to the Moon, Mars, and exploration of deep space are different. This paper summarizes the challenges of providing medical care, specifically mental health care during long-duration flights. Considerable information about challenges that crews bound for Mars will face is available. Literature regarding this issue is summarized. This manuscript provides a short historical summary of long-duration spaceflight to date; the challenges including limited communication with mission controllers on Earth; and, a summary of the behavioral impacts space flight has had on humans. A look at how the future autonomous systems might support physical and mental health when definitive care is millions of miles away, is also provided. Human spaceflight to Mars or other distant sites will require new approaches to mission preparedness and inflight medical support systems. Exploration class missions will be more autonomous than anything deployed until now. The concepts of telemedicine that have aptly supported crews from the 1960s to the present will no longer be in real-time. While communication between Earth and Mars is possible, it will be characterized by significant time delays. Mars-based crews will need to have systems onboard and on Mars to support all health and performance issues.",
+  "journal": "Neurology India",
+  "year": "2019",
+  "authors": [
+    "Doarn CR",
+    "Polk JD",
+    "Shepanek M"
+  ],
+  "mesh_terms": [
+    "Astronauts",
+    "History, 20th Century",
+    "History, 21st Century",
+    "Humans",
+    "Neurology",
+    "Space Flight",
+    "Telemedicine"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "pmid": "37907588",
+  "title": "Dementia, stroke, age, use of medical devices and antipsychotic drugs may increase the risk of nosocomial infections among elderly patients hospitalized at Neurology Clinics.",
+  "abstract": "Healthcare-acquired infections (HCAI) represent a major health problem worldwide. Stroke and dementia are considered risk factors for HCAI. Preliminary data suggest that use of antipsychotic drugs also increase the risk for HCAI. Here, we performed a retrospective study aimed at investigating the major risk and protective factors for HCAI in a cohort of elderly subjects hospitalized at an Italian tertiary Neurology Clinics. We included all patients with age ≥ 65 years hospitalized at Neurology Clinics of National Institute on Ageing, Ancona, Italy from 1st January 2018 to 31st December 2021. For each patient, the following data were collected: age, sex, use of medical devices, comorbidities, use of antipsychotic medications, development of HCAI. We included 1543 patients (41.4% males; median age 85 years [80-89]). According to multivariable analysis, age, stroke, duration of urinary catheter placement (for all p < 0.001) and midline placement (p = 0.035) resulted to be risk factors for HCAI, Diabetes resulted to be a protective factor for pneumonia (p = 0.041), while dementia and nasogastric tube were risks factor for this condition (p = 0.022 and p < 0.001, respectively). Urinary catheter was a risk factor for urinary tract infections (p < 0.001). Duration of placement of vascular catheters and use of antipsychotic drugs resulted to significantly increase the risk for bloodstream infections. Stroke, age and use of medical devices were confirmed to be risk factors for HCAI. Antipsychotic drugs resulted to increase risk for bloodstream infections. Further prospective studies will be needed to confirm these findings.",
+  "journal": "Scientific reports",
+  "year": "2023",
+  "authors": [
+    "Biscetti L",
+    "Cameriere V",
+    "Rossi T",
+    "Potente E",
+    "Sabbatini D",
+    "Bollettini F",
+    "Castellani S",
+    "Ferrara L",
+    "Galeazzi R",
+    "Lattanzio F",
+    "Di Rosa M",
+    "Foresi E",
+    "Pelliccioni G"
+  ],
+  "mesh_terms": [
+    "Male",
+    "Humans",
+    "Aged",
+    "Aged, 80 and over",
+    "Female",
+    "Cross Infection",
+    "Antipsychotic Agents",
+    "Prospective Studies",
+    "Retrospective Studies",
+    "Ambulatory Care Facilities",
+    "Risk Factors",
+    "Sepsis",
+    "Stroke",
+    "Dementia",
+    "Neurology",
+    "Urinary Tract Infections"
+  ]
+}

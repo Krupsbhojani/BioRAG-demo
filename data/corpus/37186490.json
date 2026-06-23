@@ -1,0 +1,33 @@
+{
+  "pmid": "37186490",
+  "title": "Contribution of whole slide imaging-based deep learning in the assessment of intraoperative and postoperative sections in neuropathology.",
+  "abstract": "The pathological diagnosis of intracranial germinoma (IG), oligodendroglioma, and low-grade astrocytoma on intraoperative frozen section (IFS) and hematoxylin-eosin (HE)-staining section directly determines patients' treatment options, but it is a difficult task for pathologists. We aimed to investigate whether whole-slide imaging (WSI)-based deep learning can contribute new precision to the diagnosis of IG, oligodendroglioma, and low-grade astrocytoma. Two types of WSIs (500 IFSs and 832 HE-staining sections) were collected from 379 patients at multiple medical centers. Patients at Center 1 were split into the training, testing, and internal validation sets (3:1:1), while the other centers were the external validation sets. First, we subdivided WSIs into small tiles and selected tissue tiles using a tissue tile selection model. Then a tile-level classification model was established, and the majority voting method was used to determine the final diagnoses. Color jitter was applied to the tiles so that the deep learning (DL) models could adapt to the variations in the staining. Last, we investigated the effectiveness of model assistance. The internal validation accuracies of the IFS and HE models were 93.9% and 95.3%, respectively. The external validation accuracies of the IFS and HE models were 82.0% and 76.9%, respectively. Furthermore, the IFS and HE models can predict Ki-67 positive cell areas with R",
+  "journal": "Brain pathology (Zurich, Switzerland)",
+  "year": "2023",
+  "authors": [
+    "Shi L",
+    "Shen L",
+    "Jian J",
+    "Xia W",
+    "Yang KD",
+    "Tian Y",
+    "Huang J",
+    "Yuan B",
+    "Shen L",
+    "Liu Z",
+    "Zhang J",
+    "Zhang R",
+    "Wu K",
+    "Jing D",
+    "Gao X"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Deep Learning",
+    "Oligodendroglioma",
+    "Ki-67 Antigen",
+    "Neuropathology",
+    "Brain Neoplasms",
+    "Astrocytoma"
+  ]
+}

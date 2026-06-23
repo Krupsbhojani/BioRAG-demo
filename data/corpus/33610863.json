@@ -1,0 +1,18 @@
+{
+  "pmid": "33610863",
+  "title": "Scientific and Clinical Challenges within Neuro-Oncology.",
+  "abstract": "Both primary and metastatic brain tumors carry poor prognoses despite modern advances in medical therapy, radiation therapy, and surgical techniques. Gliomas, including glioblastoma (GBM), are particularly difficult to treat, and high-grade gliomas have poor outcomes. Treatment of brain tumors involves a unique set of scientific and clinical challenges, which are often not present in the treatment of systemic malignancies. With respect to scientific challenges, the anatomy and physiology of brain tumors (including the blood-brain barrier, blood-tumor barrier, and blood-cerebrospinal fluid barrier) prevent adequate drug delivery into the central nervous system. The unique nature of the immune system in the central nervous system as well as the immunosuppressive microenvironment of tumors such as GBM also create therapeutic roadblocks in the treatment of brain tumors. Tumor heterogeneity, particularly in GBM, has classically been believed to contribute to multitherapy resistance; however, recent data suggest that this may not be the case. Clinical challenges include neurologic and medical comorbidities of patients with brain tumor, as well as potential toxicity of tumor-directed treatment. Clinical trials investigating new treatment paradigms are needed, but several roadblocks exist to good and promising clinical trial availability.",
+  "journal": "World neurosurgery",
+  "year": "2021",
+  "authors": [
+    "Barbaro M",
+    "Fine HA",
+    "Magge RS"
+  ],
+  "mesh_terms": [
+    "Brain Neoplasms",
+    "Humans",
+    "Medical Oncology",
+    "Neurology"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "38648459",
+  "title": "Converting LEA to Pelli-Robson contrast sensitivity score in neuro-ophthalmology patients.",
+  "abstract": "PURPOSE: The Pelli-Robson and LEA contrast sensitivity charts are commonly used in clinical settings to measure contrast sensitivity. Although the Pelli-Robson chart is considered the gold standard, it is limited by its bulky size. The LEA chart, on the contrary, offers a more practical and portable option that is still reliable. This has led to questions about whether we can predict Pelli-Robson scores based on LEA scores. This study developed a conversion method to help transition from the LEA chart to the Pelli-Robson chart and validate the conversion score. METHODS: In this retrospective study, we analyzed the relationship between LEA and the Pelli-Robson contrast sensitivity test. Our study examined a total of 120 eyes. We developed a conversion table through the equipercentile equating method. Subsequently, we assessed the reliability and accuracy of this algorithm for converting LEA results into Pelli-Robson contrast sensitivity scores. RESULTS: The study used a conversion table to convert LEA scores to Pelli-Robson scores. The conversion table achieved a reliability of 0.91 based on intraclass correlation, and the algorithm had an accuracy of 81.6% within a 1-point difference from the raw score. CONCLUSIONS: This study reported a reliable and comparable conversion algorithm for transforming LEA scores into converted estimated Pelli-Robson scores, thereby improving the usefulness of existing data in both clinical and research contexts.",
+  "journal": "Indian journal of ophthalmology",
+  "year": "2024",
+  "authors": [
+    "Prihatningtias R",
+    "Hardiyanti D",
+    "Valencia L"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Contrast Sensitivity",
+    "Retrospective Studies",
+    "Male",
+    "Female",
+    "Adult",
+    "Reproducibility of Results",
+    "Middle Aged",
+    "Vision Tests",
+    "Ophthalmology",
+    "Young Adult",
+    "Visual Acuity",
+    "Neurology",
+    "Algorithms",
+    "Aged",
+    "Adolescent"
+  ]
+}

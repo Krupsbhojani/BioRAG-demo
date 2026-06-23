@@ -1,0 +1,20 @@
+{
+  "pmid": "36547718",
+  "title": "The natural history of terms describing functional (neurological) disorders in the medical literature of the last 60 years.",
+  "abstract": "BACKGROUND: Functional neurological disorders (FND), a subtype of functional disorders (FD), are a frequent motive for neurology referrals. The various presentations and the unknown physiopathology of FD have led to the multiplication of terms describing these disorders over the years. METHODS: We examined the FD-related articles published from 1960 to 2020 in PubMed and PsycINFO databases. We searched for: psychogenic, somatization, somatoform, medically unexplained symptoms, hysteria, conversion disorder, dissociative, functional neurological disorder, and functional disorder. Use rates in the title, abstract, keyword, or MeSH fields were collected over successive 5-year periods. After correcting for off-topic results, we examined proportional distribution over time, term associations, and disciplinary fields (neurology and psychiatry). Term impact was estimated via H-index and number of citations. RESULTS: We found that none of the terms is prevailing in the recent medical literature. We observed three trends in the use rates: stability, increase, and decrease of use over time. While most of the terms were present in a stable proportion of the publications, hysteria and psychogenic lost popularity over time. We found a differential preference for terminology between disciplines. Functional neurological disorder showed the highest citation impact, yielding 10% of highly cited publications. CONCLUSION: We found a dynamic and evolving use of the different terms describing FD in the last 60 years. Despite the tendency to use the term functional in the recent highly cited publications, its low prevalence and coexistence with several other terms suggest that a precise, explanatory and non-offensive term remains yet to be found.",
+  "journal": "Journal of neurology",
+  "year": "2023",
+  "authors": [
+    "Bratanov C",
+    "Hot P",
+    "Vercueil L"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Hysteria",
+    "Conversion Disorder",
+    "Nervous System Diseases",
+    "Neurology",
+    "Psychiatry"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "34690137",
+  "title": "Prolonged Volatile Anesthetic Exposure Exacerbates Cognitive Impairment and Neuropathology in the 5xFAD Mouse Model of Alzheimer's Disease.",
+  "abstract": "BACKGROUND: Alzheimer's disease (AD) is a progressive neurodegenerative disease which shows a set of symptoms involving cognitive changes and psychological changes. Given that AD is the most common form of dementia in aging population and the increasing demand for anesthesia/surgery with aging, there has been significant interest in the exact impact of volatile anesthetics on cognitive function and pathological alterations in AD population. OBJECTIVE: This study aimed to investigate behavioral changes and neuropathology in the 5xFAD mouse model of Alzheimer's disease with short-term exposure or long-term exposure to desflurane, sevoflurane, or isoflurane. METHODS: In this study, we exposed 5xFAD mouse model of AD to isoflurane, sevoflurane, or desflurane in two different time periods (30 min and 6 h), and the memory related behaviors as well as the pathological changes in 5xFAD mice were evaluated 7 days after the anesthetic exposure. RESULTS: We found that short-term exposure to volatile anesthetics did not affect hippocampus dependent memory and the amyloid-β (Aβ) deposition in the brain. However, long-term exposure to sevoflurane or isoflurane significantly increased the Aβ deposition in CA1 and CA3 regions of hippocampus, as well as the glial cell activation in amygdala. Besides, the PSD-95 expression was decreased in 5xFAD mice with exposure to sevoflurane or isoflurane and the caspase-3 activation was enhanced in isoflurane, sevoflurane, and desflurane groups. CONCLUSION: Our results demonstrate the time-dependent effects of common volatile anesthetics and implicate that desflurane has the potential benefits to prolonged anesthetic exposure in AD patients.",
+  "journal": "Journal of Alzheimer's disease : JAD",
+  "year": "2022",
+  "authors": [
+    "Han F",
+    "Zhao J",
+    "Zhao G"
+  ],
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Anesthetics, Inhalation",
+    "Animals",
+    "Cognitive Dysfunction",
+    "Disease Models, Animal",
+    "Hippocampus",
+    "Isoflurane",
+    "Maze Learning",
+    "Mice",
+    "Mice, Transgenic",
+    "Neuropathology",
+    "Sevoflurane",
+    "Time Factors"
+  ]
+}

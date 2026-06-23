@@ -1,0 +1,26 @@
+{
+  "pmid": "34286289",
+  "title": "Protocols for assessing neurodegenerative phenotypes in Alzheimer's mouse models.",
+  "abstract": "Quantitative assessment of neuropathological changes is essential for the characterization of animal models of neurodegenerative disease. Here, we describe a detailed protocol for the detection and quantification of key neuropathological changes in Alzheimer's mouse models. The protocol covers detailed methods including perfusion, dissection, and paraffinization of the brain, preparation of serial brain sections, immunohistochemical analysis, stereological quantification, and sample coding methods for genotype blind analysis. This protocol may be applied to the analysis of neuropathological changes of other neurological disorders. For complete details on the use and execution of this protocol, please refer to Lee et al. (2020), Kang and Shen (2020), Giaime et al. (2017), Xia et al. (2015), Watanabe et al. (2012, 2014), Wines-Samuelson et al. (2010), and Saura et al. (2004).",
+  "journal": "STAR protocols",
+  "year": "2022",
+  "authors": [
+    "Kang J",
+    "Watanabe H",
+    "Shen J"
+  ],
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Animals",
+    "Apoptosis",
+    "Brain",
+    "Disease Models, Animal",
+    "Female",
+    "Gliosis",
+    "Histological Techniques",
+    "Male",
+    "Mice",
+    "Neuropathology",
+    "Phenotype"
+  ]
+}

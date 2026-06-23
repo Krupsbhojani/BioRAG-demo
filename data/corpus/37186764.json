@@ -1,0 +1,23 @@
+{
+  "pmid": "37186764",
+  "title": "Audio or Video? Access to Pediatric Neurology Outpatient Services Varies by the Type of Telehealth, Especially for Black Children.",
+  "abstract": "BACKGROUND: Children of minority race/ethnicity face barriers to accessing specialty services. During the COVID pandemic, health insurance companies reimbursed telehealth services. Our objective was to evaluate the effect of audio versus video visits on children's access to outpatient neurology services, particularly for Black children. METHODS: Using Electronic Health Record data, we collected information about children who had outpatient neurology appointments in a tertiary care children's hospital in North Carolina from March 10, 2020, to March 9, 2021. We used multivariable models to compare appointment outcomes (canceled vs completed, and missed vs completed) by visit type. We then conducted similar evaluation for the subgroup of Black children. RESULTS: A total of 1250 children accounted for 3829 scheduled appointments. Audio users were more likely to be Black and Hispanic, and to have public health insurance than video users. Adjusted odds ratio (aOR) for appointments completed versus canceled was 10 for audio and 6 for video, compared to in-person appointments. Audio visits were twice as likely as in-person visits to be completed versus missed; video visits were not different. For the subgroup of Black children, aOR for appointments completed versus canceled for audio was 9 and video was 5, compared to in-person appointments. For Black children, audio visits were 3 times as likely as in-person visits to be completed versus missed; video visits were not different. CONCLUSIONS: Audio visits improved access to pediatric neurology services, especially for Black children. Reversal of policies to reimburse audio visits could deepen the socioeconomic divide for children's access to neurology services.",
+  "journal": "Journal of child neurology",
+  "year": "2023",
+  "authors": [
+    "Grefe A",
+    "Chen SH",
+    "Ip EH",
+    "Kirkendall E",
+    "Nageswaran S"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Child",
+    "Outpatients",
+    "COVID-19",
+    "Ambulatory Care",
+    "Telemedicine",
+    "Neurology"
+  ]
+}

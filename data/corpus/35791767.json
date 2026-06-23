@@ -1,0 +1,36 @@
+{
+  "pmid": "35791767",
+  "title": "European Academy of Neurology/Movement Disorder Society-European Section Guideline on the Treatment of Parkinson's Disease: I. Invasive Therapies.",
+  "abstract": "BACKGROUND AND PURPOSE: This update of the treatment guidelines was commissioned by the European Academy of Neurology and the European section of the Movement Disorder Society. Although these treatments are initiated usually in specialized centers, the general neurologist should know the therapies and their place in the treatment pathway. METHODS: Grading of Recommendations Assessment, Development, and Evaluation (GRADE) methodology was used to assess the spectrum of approved interventions including deep brain stimulation (DBS) or brain lesioning with different techniques (radiofrequency thermocoagulation, radiosurgery, magnetic resonance imaging-guided focused ultrasound surgery [MRgFUS] of the following targets: subthalamic nucleus [STN], ventrolateral thalamus, and pallidum internum [GPi]). Continuous delivery of medication subcutaneously (apomorphine pump) or through percutaneous ileostomy (intrajejunal levodopa/carbidopa pump [LCIG]) was also included. Changes in motor features, health-related quality of life (QoL), adverse effects, and further outcome parameters were evaluated. Recommendations were based on high-class evidence and graded in three gradations. If only lower class evidence was available but the topic was felt to be of high importance, clinical consensus of the guideline task force was gathered. RESULTS: Two research questions have been answered with eight recommendations and five clinical consensus statements. Invasive therapies are reserved for specific patient groups and clinical situations mostly in the advanced stage of Parkinson's disease (PD). Interventions may be considered only for special patient profiles, which are mentioned in the text. Therapy effects are reported as change compared with current medical treatment. STN-DBS is the best-studied intervention for advanced PD with fluctuations not satisfactorily controlled with oral medications; it improves motor symptoms and QoL, and treatment should be offered to eligible patients. GPi-DBS can also be offered. For early PD with early fluctuations, STN-DBS is likely to improve motor symptoms, and QoL and can be offered. DBS should not be offered to people with early PD without fluctuations. LCIG and an apomorphine pump can be considered for advanced PD with fluctuations not sufficiently managed with oral treatments. Unilateral MRgFUS of the STN can be considered for distinctly unilateral PD within registries. Clinical consensus was reached for the following statements: Radiosurgery with gamma radiation cannot be recommended, unilateral radiofrequency thermocoagulation of the pallidum for advanced PD with treatment-resistant fluctuations and unilateral radiofrequency thermocoagulation of the thalamus for resistant tremor can be recommended if other options are not available, unilateral MRgFUS of the thalamus for medication-resistant tremor of PD can be considered only within registries, and unilateral MRgFUS of the pallidum is not recommended. CONCLUSIONS: Evidence for invasive therapies in PD is heterogeneous. Only some of these therapies have a strong scientific basis. They differ in their profile of effects and have been tested only for specific patient groups. © 2022 The Authors. Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+  "journal": "Movement disorders : official journal of the Movement Disorder Society",
+  "year": "2022",
+  "authors": [
+    "Deuschl G",
+    "Antonini A",
+    "Costa J",
+    "Śmiłowska K",
+    "Berg D",
+    "Corvol JC",
+    "Fabbrini G",
+    "Ferreira J",
+    "Foltynie T",
+    "Mir P",
+    "Schrag A",
+    "Seppi K",
+    "Taba P",
+    "Ruzicka E",
+    "Selikhova M",
+    "Henschke N",
+    "Villanueva G",
+    "Moro E"
+  ],
+  "mesh_terms": [
+    "Apomorphine",
+    "Deep Brain Stimulation",
+    "Humans",
+    "Neurology",
+    "Parkinson Disease",
+    "Quality of Life",
+    "Tremor"
+  ]
+}

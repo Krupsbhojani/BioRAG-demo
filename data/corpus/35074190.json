@@ -1,0 +1,36 @@
+{
+  "pmid": "35074190",
+  "title": "Dyslipidemias and stroke prevention: Recommendations of the Study Group of Cerebrovascular Diseases of the Spanish Society of Neurology.",
+  "abstract": "OBJECTIVE: We present an update of the Spanish Society of Neurology's recommendations for prevention of both primary and secondary stroke in patients with dyslipidaemia. DEVELOPMENT: We performed a systematic review to evaluate the main aspects of the management of dyslipidaemias in primary and secondary stroke prevention and establish a series of recommendations. CONCLUSIONS: In primary prevention, the patient's vascular risk should be determined in order to define target values for low-density lipoprotein cholesterol. In secondary prevention after an atherothrombotic stroke, a target value <55 mg/dL is recommended; in non-atherothombotic ischaemic strokes, given the unclear relationship with dyslipidaemia, target value should be established according to the vascular risk group of each patient. In both primary and secondary prevention, statins are the drugs of first choice, and ezetimibe and/or PCSK9 inhibitors may be added in patients not achieving the target value.",
+  "journal": "Neurologia",
+  "year": "2022",
+  "authors": [
+    "Palacio-Portilla EJ",
+    "Roquer J",
+    "Amaro S",
+    "Arenillas JF",
+    "Ayo-Martín O",
+    "Castellanos M",
+    "Freijo MM",
+    "Fuentes B",
+    "García-Pastor A",
+    "Gomis M",
+    "Gómez-Choco M",
+    "López-Cancio E",
+    "Martínez-Sánchez P",
+    "Morales A",
+    "Rodríguez-Yáñez M",
+    "Segura T",
+    "Serena J",
+    "Vivancos-Mora J",
+    "de Leciñana MA"
+  ],
+  "mesh_terms": [
+    "Dyslipidemias",
+    "Humans",
+    "Neurology",
+    "PCSK9 Inhibitors",
+    "Proprotein Convertase 9",
+    "Stroke"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "32522530",
+  "title": "Radiomics in neuro-oncology: Basics, workflow, and applications.",
+  "abstract": "Over the last years, the amount, variety, and complexity of neuroimaging data acquired in patients with brain tumors for routine clinical purposes and the resulting number of imaging parameters have substantially increased. Consequently, a timely and cost-effective evaluation of imaging data is hardly feasible without the support of methods from the field of artificial intelligence (AI). AI can facilitate and shorten various time-consuming steps in the image processing workflow, e.g., tumor segmentation, thereby optimizing productivity. Besides, the automated and computer-based analysis of imaging data may help to increase data comparability as it is independent of the experience level of the evaluating clinician. Importantly, AI offers the potential to extract new features from the routinely acquired neuroimages of brain tumor patients. In combination with patient data such as survival, molecular markers, or genomics, mathematical models can be generated that allow, for example, the prediction of treatment response or prognosis, as well as the noninvasive assessment of molecular markers. The subdiscipline of AI dealing with the computation, identification, and extraction of image features, as well as the generation of prognostic or predictive mathematical models, is termed radiomics. This review article summarizes the basics, the current workflow, and methods used in radiomics with a focus on feature-based radiomics in neuro-oncology and provides selected examples of its clinical application.",
+  "journal": "Methods (San Diego, Calif.)",
+  "year": "2021",
+  "authors": [
+    "Lohmann P",
+    "Galldiks N",
+    "Kocher M",
+    "Heinzel A",
+    "Filss CP",
+    "Stegmayr C",
+    "Mottaghy FM",
+    "Fink GR",
+    "Jon Shah N",
+    "Langen KJ"
+  ],
+  "mesh_terms": [
+    "Biomarkers, Tumor",
+    "Brain",
+    "Brain Neoplasms",
+    "Deep Learning",
+    "Humans",
+    "Image Processing, Computer-Assisted",
+    "Medical Oncology",
+    "Models, Biological",
+    "Neuroimaging",
+    "Neurology",
+    "Prognosis",
+    "Risk Assessment",
+    "Treatment Outcome",
+    "Workflow"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "30780078",
+  "title": "Seizure and epilepsy publication in nonneurology journals.",
+  "abstract": "PURPOSE: The prevalence and characteristics of seizure and epilepsy research published in nonneurology journals are unknown. Characterizing this published research allows for insight into the relevance of seizures and epilepsy in other specialties and may increase opportunity for cross-specialty collaboration. METHODS: In this observational study, we reviewed the top five highly cited clinical journals within eleven specialties in the InCites Journal Citation Reports (JCR) database (2016). For each specialty, we collected 2013-2017 PubMed data on publications with MeSH Major Topic of \"seizures,\" \"epilepsy,\" or \"status epilepticus.\" Medical subject headings (MeSH) in PubMed are standardized terms assigned by subject analysts. MeSH Major Topic identifies articles in which a specified topic is the major focus of the article. We also retrieved author country and medical specialty affiliations. We analyzed whether author specialty affiliation was 1) concordant with journal medical specialty, 2) neurology-related, or 3) other. RESULTS: Articles on \"seizures,\" \"epilepsy,\" or \"status epilepticus\" had the following prevalence in specialty clinical journals: cardiac and cardiovascular systems (0.01%); clinical neurology (5.34%); critical care medicine (0.20%); emergency medicine (0.47%); general and internal medicine (0.44%); neuroimaging (2.05%); neurosurgery (2.23%); obstetrics and gynecology (0.16%); oncology (0.01%); pediatrics (0.69%); and psychiatry (0.23%). Within general and internal medicine, neuroimaging, and pediatrics, seizure-related articles are more likely to be first-authored by someone with a neurology-related affiliation. Within critical care medicine, emergency medicine, neurosurgery, and obstetrics and gynecology, seizure-related articles were more likely to be first-authored by someone whose affiliation is within the field. CONCLUSIONS: Our study characterizes seizure and epilepsy research published in nonneurology journals. We found that there is a paucity of such research published in nonneurology journals, whether authored by neurologists or other specialists. This is not ideal since nonneurologists are often first-line providers for recognizing, diagnosing, or managing seizures prior to assessment by a neurologist. Cross-specialty collaboration should be strongly encouraged in clinical research.",
+  "journal": "Epilepsy & behavior : E&B",
+  "year": "2020",
+  "authors": [
+    "Wong VSS",
+    "Stevenson M",
+    "Mott J",
+    "Sahaya K"
+  ],
+  "mesh_terms": [
+    "Bibliometrics",
+    "Biomedical Research",
+    "Epilepsy",
+    "Humans",
+    "Interdisciplinary Communication",
+    "Neurology",
+    "Periodicals as Topic",
+    "Publishing",
+    "Seizures",
+    "Specialization"
+  ]
+}

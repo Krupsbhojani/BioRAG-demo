@@ -1,0 +1,27 @@
+{
+  "pmid": "34702348",
+  "title": "Identification and solution of drug-related problems in the neurology unit of a tertiary hospital in China.",
+  "abstract": "BACKGROUND: The prevalence and characteristics of drug-related problems (DRPs) and factors associated with the occurrence of DRPs in the neurology unit in China remain unknown. This study aimed to determine the prevalence, characteristics and severity ratings of DRPs and identify factors associated with the occurrence of DRPs in the neurology unit of a tertiary care and academic teaching hospital in China. METHODS: A retrospective study of DRPs and pharmacists' interventions for neurology patients was performed during a non-consecutive 24-month study period. Patient demographics and clinical characteristics, and pharmacist's intervention records were collected. The characteristics and severity ratings of DRPs were categorized using the Pharmaceutical Care Network Europe (PCNE) DRP classification tool V9.00 and the National Coordinating Council for Medication Error Reporting and Prevention (NCC-MERP) classification respectively. RESULTS: A total of 242 DRPs were detected for 974 admitted patients, an average of 0.25 DRPs per patient. Treatment safety was the major type of DRPs (106;43.8%) followed by treatment effectiveness (78;32.2%). The primary causes of DRPs were drug selection (124;44.1%) and dose selection (92;32.7%). Clinical pharmacists provided 525 interventions, and most interventions occurred at the prescriber level (241;45.9%). A total of 91.4% of these interventions were accepted, contributing to solving 93.0% of the identified problems. The majority of DRPs (210;86.8%) were rated at severity categories B to D (causing no patient harm). Multiple logistic regression showed that creatinine clearance, number of medications used, nasogastric feeding, diabetes, and infectious diseases were associated with more frequent DRPs (p < 0.05). CONCLUSIONS: DRPs are relatively common in the neurology unit in China, with primary causes of drug and dose selection, and clinical pharmacists can effectively reduce and prevent DRPs to optimize medication therapy.",
+  "journal": "BMC pharmacology & toxicology",
+  "year": "2022",
+  "authors": [
+    "Liu P",
+    "Li G",
+    "Han M",
+    "Zhang C"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "China",
+    "Drug-Related Side Effects and Adverse Reactions",
+    "Female",
+    "Humans",
+    "Male",
+    "Medication Errors",
+    "Middle Aged",
+    "Neurology",
+    "Pharmacy Service, Hospital",
+    "Retrospective Studies",
+    "Tertiary Care Centers"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "32555536",
+  "title": "Impairment in neurocognitive function following experimental neonatal guinea pig cytomegalovirus infection.",
+  "abstract": "BACKGROUND: Cytomegalovirus (CMV) is a leading infectious cause of neurologic deficits, both in the settings of congenital and perinatal infection, but few animal models exist to study neurodevelopmental outcomes. This study examined the impact of neonatal guinea pig CMV (GPCMV) infection on spatial learning and memory in a Morris water maze (MWM) model. METHODS: Newborn pups were challenged intraperitoneally (i.p.) with a pathogenic red fluorescent protein-tagged GPCMV, or sham inoculated. On days 15-19 post infection (p.i.), pups were tested in the MWM. Viral loads were measured in blood and tissue by quantitative PCR (qPCR), and brain samples collected at necropsy were examined by histology and immunohistochemistry. RESULTS: Viremia (DNAemia) was detected at day 3 p.i. in 7/8 challenged animals. End-organ dissemination was observed, by qPCR, in the lung, liver, and spleen. CD4-positive (CD4 CONCLUSION: Neonatal GPCMV infection in guinea pigs results in cognitive defects demonstrable by the MWM. This neonatal guinea pig challenge model can be exploited for studying antiviral interventions. IMPACT: CMV impairs neonatal neurocognition and memory in the setting of postnatal infection. The MWM can be used to examine memory and learning in a guinea pig model of neonatal CMV infection. CD4",
+  "journal": "Pediatric research",
+  "year": "2022",
+  "authors": [
+    "Fernández-Alarcón C",
+    "Meyer LE",
+    "McVoy MA",
+    "Lokensgard JR",
+    "Hu S",
+    "Benneyworth MA",
+    "Anderholm KM",
+    "Janus BC",
+    "Schleiss MR"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Animals, Newborn",
+    "Antibodies, Viral",
+    "CD4-Positive T-Lymphocytes",
+    "CD8-Positive T-Lymphocytes",
+    "Cytomegalovirus",
+    "Fibroblasts",
+    "Guinea Pigs",
+    "Luminescent Proteins",
+    "Maze Learning",
+    "Neurology",
+    "Viral Load",
+    "Red Fluorescent Protein"
+  ]
+}

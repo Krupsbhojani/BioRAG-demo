@@ -1,0 +1,31 @@
+{
+  "pmid": "35510782",
+  "title": "Rapid screening for neglect following stroke: A systematic search and European Academy of Neurology recommendations.",
+  "abstract": "BACKGROUND AND PURPOSE: Unilateral neglect is a common cognitive disorder following stroke. Neglect has a significant impact on functional outcomes, so it is important to detect. However, there is no consensus on which are the best screening tests to administer to detect neglect in time-limited clinical environments. METHODS: Members of the European Academy of Neurology Scientific Panel on Higher Cortical Functions, neuropsychologists, occupational therapists, and researchers produced recommendations for primary and secondary tests for bedside neglect testing based on a rigorous literature review, data extraction, online consensus meeting, and subsequent iterations. RESULTS: A total of 512 articles were screened, and 42 were included. These reported data from 3367 stroke survivors assessed using 62 neglect screens. Tests were grouped into cancellation, line bisection, copying, reading/writing, and behavioral. Cancellation tasks were most frequently used (97.6% of studies), followed by bisection, copying, behavioral, and reading/writing assessments. The panel recommended a cancellation test as the primary screening test if there is time to administer only one test. One of several cancellation tests might be used, depending on availability. If time permits, one or more of line bisection, figure copying, and baking tray task were recommended as secondary tests. Finally, if a functional and ecological test is feasible, the Catherine Bergego Scale was recommended. Overall, the literature suggests that no single test on its own is sufficient to exclude a diagnosis of neglect. Therefore, the panel recommended that multiple neglect tests should be used whenever possible. CONCLUSIONS: This study provides consensus recommendations for rapid bedside detection of neglect in real-world, clinical environments.",
+  "journal": "European journal of neurology",
+  "year": "2022",
+  "authors": [
+    "Moore M",
+    "Milosevich E",
+    "Beisteiner R",
+    "Bowen A",
+    "Checketts M",
+    "Demeyere N",
+    "Fordell H",
+    "Godefroy O",
+    "Laczó J",
+    "Rich T",
+    "Williams L",
+    "Woodward-Nutt K",
+    "Husain M"
+  ],
+  "mesh_terms": [
+    "Agnosia",
+    "Humans",
+    "Neurology",
+    "Neuropsychological Tests",
+    "Perceptual Disorders",
+    "Stroke",
+    "Stroke Rehabilitation"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "30730007",
+  "title": "Comparison of clinical and neuropathological diagnoses of neurodegenerative diseases in two centres from the Brains for Dementia Research (BDR) cohort.",
+  "abstract": "Early detection and accurate diagnosis of neurodegenerative disorders may provide better epidemiological data, closer monitoring of disease progression and enable more specialised intervention. We analysed the clinical records and pathology of brain donations from 180 patients from two Brains for Dementia Research cohorts to determine the agreement between in-life clinical diagnosis and post-mortem pathological results. Clinical diagnosis was extracted from medical records and cases assigned into broad clinical groups; control, Alzheimer's disease (AD), vascular dementia (CVD), dementia with Lewy bodies (DLB), frontotemporal dementia (FTD) and combined diseases. Pathology was assessed blindly, and cases categorised into; control, intermediate AD, severe AD, CVD, AD and CVD combined, DLB, AD and DLB combined and frontotemporal lobar degeneration (FTLD), according to the major contributing pathologies. In more than a third of cases clinical diagnosis was different from final neuropathological diagnosis. The majority of AD, DLB and control clinical groups matched the pathological diagnosis; however, thirty-five percent of clinical AD cases showed additional prominent CVD or DLB pathology which had not been diagnosed clinically and twenty-five percent of clinical control cases were found to have intermediate Tau pathology (modified Braak stage III-IV) or CVD. CVD and AD + CVD clinical groups showed an average of only thirty-two percent pathological correlation, the majority actually having no CVD, and fifty-three percent of pathologically identified FTLD cases had been incorrectly clinically diagnosed. Our results underlie the importance of neuropathological confirmation of clinical diagnosis. The relatively low accuracy of clinical diagnosis demonstrates the need for standardised and validated diagnostic assessment procedures.",
+  "journal": "Journal of neural transmission (Vienna, Austria : 1996)",
+  "year": "2020",
+  "authors": [
+    "Selvackadunco S",
+    "Langford K",
+    "Shah Z",
+    "Hurley S",
+    "Bodi I",
+    "King A",
+    "Aarsland D",
+    "Troakes C",
+    "Al-Sarraj S"
+  ],
+  "mesh_terms": [
+    "Dementia",
+    "Humans",
+    "Neurodegenerative Diseases",
+    "Neurology",
+    "Pathology, Clinical",
+    "Reproducibility of Results"
+  ]
+}

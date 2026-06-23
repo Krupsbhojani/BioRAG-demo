@@ -1,0 +1,18 @@
+{
+  "pmid": "37694567",
+  "title": "The Cognitive Framework Behind Modern Neuropathology.",
+  "abstract": "CONTEXT: In 2021 the World Health Organization distributed a new classification of central nervous system tumors that incorporated modern testing modalities in the diagnosis. Although universally accepted as a scientifically superior system, this schema has created controversy because its deployment globally is challenging in the best of circumstances and impossible in resource-poor health care ecosystems. Compounding this problem is the significant challenge that neuropathologists with expertise in central nervous system tumors are rare. OBJECTIVE: To demonstrate diagnostic use of simple unsupervised machine learning techniques using publicly available data sets. I also discuss some potential solutions to the deployment of neuropathology classification in health care ecosystems burdened by this classification schema. DATA SOURCES: The Cancer Genome Atlas RNA sequencing data from low-grade and high-grade gliomas. CONCLUSIONS: Methylation-based classification will be unable to solve all diagnostic problems in neuropathology. Information theory quantifications generate focused workflows in pathology, resulting in prevention of ordering unnecessary tests and identifying biomarkers that facilitate diagnosis.",
+  "journal": "Archives of pathology & laboratory medicine",
+  "year": "2024",
+  "authors": [
+    "Otero JJ"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Biomarkers, Tumor",
+    "Central Nervous System Neoplasms",
+    "Glioma",
+    "Neuropathology",
+    "Unsupervised Machine Learning"
+  ]
+}

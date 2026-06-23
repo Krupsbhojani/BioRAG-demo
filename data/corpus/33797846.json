@@ -1,0 +1,34 @@
+{
+  "pmid": "33797846",
+  "title": "AMYQ: An index to standardize quantitative amyloid load across PET tracers.",
+  "abstract": "INTRODUCTION: Positron emission tomography (PET) amyloid quantification methods require magnetic resonance imaging (MRI) for spatial registration and a priori reference region to scale the images. Furthermore, different tracers have distinct thresholds for positivity. We propose the AMYQ index, a new measure of amyloid burden, to overcome these limitations. METHODS: We selected 18F-amyloid scans from ADNI and Australian Imaging, Biomarker & Lifestyle Flagship Study of Ageing (AIBL) with the corresponding T1-MRI. A subset also had neuropathological data. PET images were normalized, and the AMYQ was calculated based on an adaptive template. We compared AMYQ with the Centiloid scale on clinical and neuropathological diagnostic performance. RESULTS: AMYQ was related with amyloid neuropathological burden and had excellent diagnostic performance to discriminate controls from patients with Alzheimer's disease (AD) (area under the curve [AUC] = 0.86). AMYQ had a high agreement with the Centiloid scale (intraclass correlation coefficient [ICC] = 0.88) and AUC between 0.94 and 0.99 to discriminate PET positivity when using different Centiloid cutoffs. DISCUSSION: AMYQ is a new MRI-independent index for standardizing and quantifying amyloid load across tracers.",
+  "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+  "year": "2021",
+  "authors": [
+    "Pegueroles J",
+    "Montal V",
+    "Bejanin A",
+    "Vilaplana E",
+    "Aranha M",
+    "Santos-Santos MA",
+    "Alcolea D",
+    "Carrió I",
+    "Camacho V",
+    "Blesa R",
+    "Lleó A",
+    "Fortea J"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Alzheimer Disease",
+    "Amyloid",
+    "Australia",
+    "Female",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Neuropathology",
+    "Positron-Emission Tomography",
+    "United States"
+  ]
+}

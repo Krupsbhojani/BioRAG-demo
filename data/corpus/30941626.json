@@ -1,0 +1,41 @@
+{
+  "pmid": "30941626",
+  "title": "Adherence to recommendations and clinical outcomes of patients hospitalized for stroke: the role of the admission ward-a real-life investigation from Italy.",
+  "abstract": "OBJECTIVE: To determine whether out-of-hospital healthcare and adverse outcomes are better in stroke patients admitted to a neurology ward compared with those admitted to general wards. METHODS: Beneficiaries of the National Health Service from the Italian Lombardy Region who were discharged alive after hospital admission during the year 2009 for ischemic stroke (9776 patients) or intracerebral or subarachnoid hemorrhage (1102 patients) entered into the cohort and were followed until 2012. Exposure of interest was the ward type where inpatients were admitted (neuro vs. general wards). Outcomes were out-of-hospital healthcare (i.e., drug prescriptions, diagnostic procedures, and laboratory clinical evaluations) and adverse clinical outcomes (i.e., all-cause death and hospital readmission). Exposure-outcome associations were investigated. High-dimensional propensity score methodology was used for taking into account confounders. Mediation analysis was used to verify whether the association between ward type and clinical outcomes is mediated by out-of-hospital adherence to healthcare. RESULTS: Better adherence to out-of-hospital healthcare received from patients discharged from neuro, rather than general, wards was observed being the proportions of adherent patients 42.4% and 39.5%, respectively. Compared with general wards, discharge from neuro was associated with reduced 3-year emergency admissions (from 50.1 to 47.5% among ischemic stroke patients) and reduced 3-year mortality (from 37.5 to 27.0% among hemorrhagic stroke patients). From 10 to 15% of outcome risk, reductions were mediated by better adherence to out-of-hospital healthcare. CONCLUSIONS: For patients with acute ischemic and hemorrhagic stroke, admission to neuro vs. general wards is associated with better out-of-hospital healthcare and long-term adverse outcomes.",
+  "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+  "year": "2020",
+  "authors": [
+    "Rea F",
+    "Micieli G",
+    "Musicco M",
+    "Cavallini A",
+    "Santucci C",
+    "Merlino L",
+    "Ieva F",
+    "Ferrarese C",
+    "Corrao G"
+  ],
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Aged",
+    "Aged, 80 and over",
+    "Brain Ischemia",
+    "Cerebral Hemorrhage",
+    "Cohort Studies",
+    "Female",
+    "Humans",
+    "Italy",
+    "Male",
+    "Middle Aged",
+    "Neurology",
+    "Patient Admission",
+    "Patient Compliance",
+    "Practice Guidelines as Topic",
+    "Propensity Score",
+    "Specialization",
+    "Stroke",
+    "Treatment Outcome",
+    "Young Adult"
+  ]
+}

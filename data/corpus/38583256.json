@@ -1,0 +1,30 @@
+{
+  "pmid": "38583256",
+  "title": "Screening for Quality of Life in a Neurology Tic Clinic Using Quality Improvement Methodology.",
+  "abstract": "BACKGROUND: Tic disorders in children often co-occur with other disorders that can significantly impact functioning. Screening for quality of life (QoL) can help identify optimal treatment paths. This quality improvement (QI) study describes implementation of a QoL measure in a busy neurology clinic to help guide psychological intervention for patients with tics. METHODS: Using QI methodology outlined by the Institute for Healthcare Improvement, this study implemented the PedsQL Generic Core (4.0) in an outpatient medical clinic specializing in the diagnosis and treatment of tic disorders. Assembling a research team to design process maps and key driver diagrams helped identify gaps in the screening process. Conducting several plan-do-study-act cycles refined identification of patients appropriate to receive the measure. Over the three-year study, electronic health record notification tools and data collection were increasingly utilized to capture patients' information during their visit. RESULTS: Over 350 unique patients were screened during the assessment period. Electronic means replaced paper measures as time progressed. The percentage of patients completing the measure increased from 0% to 51.9% after the initial implementation of process improvement, advancing to 91.6% after the introduction of electronic measures. This average completion rate was sustained for 15 months. CONCLUSIONS: Using QI methodology helped identify the pragmatics of implementing a QoL assessment to enhance screening practices in a busy medical clinic. Assessment review at the time of appointment helped inform treatment and referral decisions.",
+  "journal": "Pediatric neurology",
+  "year": "2024",
+  "authors": [
+    "Morgan B",
+    "Weisleder P",
+    "Patel AD",
+    "Parker W",
+    "Rose M",
+    "Butz C"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Quality Improvement",
+    "Quality of Life",
+    "Child",
+    "Adolescent",
+    "Tic Disorders",
+    "Male",
+    "Neurology",
+    "Female",
+    "Ambulatory Care Facilities",
+    "Mass Screening",
+    "Electronic Health Records",
+    "Child, Preschool"
+  ]
+}

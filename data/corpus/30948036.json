@@ -1,0 +1,43 @@
+{
+  "pmid": "30948036",
+  "title": "Identifying brain regions associated with the neuropathology of chronic low back pain: a resting-state amplitude of low-frequency fluctuation study.",
+  "abstract": "BACKGROUND: Previous studies have found widespread pain processing alterations in the brain in chronic low back pain (cLBP) patients. We aimed to (1) identify brain regions showing altered amplitude of low-frequency fluctuations (ALFF) using MRI and use these regions to discriminate cLBP patients from healthy controls (HCs) and (2) identify brain regions that are sensitive to cLBP pain intensity changes. METHODS: We compared ALFF differences by MRI between cLBP subjects (90) and HCs (74), conducted a discriminative analysis to validate the results, and explored structural changes in key brain regions of cLBP. We also compared ALFF changes in cLBP patients after pain-exacerbating manoeuvres. RESULTS: ALFF was increased in the post-/precentral gyrus (PoG/PrG), paracentral lobule (PCL)/supplementary motor area (SMA), and anterior cingulate cortex (ACC), and grey matter volume was increased in the left ACC in cLBP patients. PCL/SMA ALFF reliably discriminated cLBP patients from HCs in an independent cohort. cLBP patients showed increased ALFF in the insula, amygdala, hippocampal/parahippocampal gyrus, and thalamus and decreased ALFF in the default mode network (DMN) when their spontaneous low back pain intensity increased after the pain-exacerbating manoeuvre. CONCLUSIONS: Brain low-frequency oscillations in the PCL, SMA, PoG, PrG, and ACC may be associated with the neuropathology of cLBP. Low-frequency oscillations in the insula, amygdala, hippocampal/parahippocampal gyrus, thalamus, and DMN are sensitive to manoeuvre-induced spontaneous back pain intensity changes.",
+  "journal": "British journal of anaesthesia",
+  "year": "2019",
+  "authors": [
+    "Zhang B",
+    "Jung M",
+    "Tu Y",
+    "Gollub R",
+    "Lang C",
+    "Ortiz A",
+    "Park J",
+    "Wilson G",
+    "Gerber J",
+    "Mawla I",
+    "Chan ST",
+    "Wasan A",
+    "Edwards R",
+    "Lee J",
+    "Napadow V",
+    "Kaptchuk T",
+    "Rosen B",
+    "Kong J"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Brain",
+    "Brain Mapping",
+    "Chronic Pain",
+    "Cohort Studies",
+    "Female",
+    "Humans",
+    "Low Back Pain",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Middle Aged",
+    "Neuropathology",
+    "Rest",
+    "Young Adult"
+  ]
+}

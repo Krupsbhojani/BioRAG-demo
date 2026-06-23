@@ -1,0 +1,22 @@
+{
+  "pmid": "31920134",
+  "title": "Learning to collaborate: bringing together behavior and quantitative genomics.",
+  "abstract": "The genetic basis of complex trait like learning and memory have been well studied over the decades. Through those groundbreaking findings, we now have a better understanding about some of the genes and pathways that are involved in learning and/or memory. However, few of these findings identified the naturally segregating variants that are influencing learning and/or memory within populations. In this special issue honoring the legacy of Troy Zars, we review some of the traditional approaches that have been used to elucidate the genetic basis of learning and/or memory, specifically in fruit flies. We highlight some of his contributions to the field, and specifically describe his vision to bring together behavior and quantitative genomics with the aim of expanding our knowledge of the genetic basis of both learning and memory. Finally, we present some of our recent work in this area using a multiparental population (MPP) as a case study and describe the potential of this approach to advance our understanding of neurogenetics.",
+  "journal": "Journal of neurogenetics",
+  "year": "2021",
+  "authors": [
+    "Williams-Simon PA",
+    "Ganesan M",
+    "King EG"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Behavior, Animal",
+    "Drosophila melanogaster",
+    "Genomics",
+    "Learning",
+    "Memory",
+    "Neurology",
+    "Phenotype"
+  ]
+}

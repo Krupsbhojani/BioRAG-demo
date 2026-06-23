@@ -1,0 +1,29 @@
+{
+  "pmid": "35062146",
+  "title": "The Effect of Short Messaging System-Based Feedback on Physicians' Head CT Scan Ordering Behavior in Neurology and Neurosurgery Departments.",
+  "abstract": "Short messaging system (SMS) works as one of the most popular strategies for physicians' behavior change via sending feedback and reminder messages. One of the areas in which SMS feedback can be effective on physicians' behavior is CT scan ordering. This study investigates the effect of mobile phone SMS feedback on residents' head CT scan ordering at a general teaching hospital in Iran. Through a three-month before-after experimental study, an intervention was conducted, and the CT scans ordered by an individual resident were evaluated every two weeks. Consequently, personal SMS-based feedback was provided to the residents, and the rate of CT per patient in the two phases of the study was analyzed. The mean CT scan ordered per patient decreased from 1.98 ± 1.09 to 1.74 ± 1.45, and this decrease was insignificant (P = 0.106). SMS-based feedback can reduce head CT scan ordering among residents; whereas this decline was not significant further studies are required to investigate its effectiveness.",
+  "journal": "Studies in health technology and informatics",
+  "year": "2022",
+  "authors": [
+    "Meidani Z",
+    "Moosavi A",
+    "Akbari H",
+    "Holl F",
+    "Zare S",
+    "Nabovati E",
+    "Daneshvar R",
+    "Masoud A",
+    "Fakharian E",
+    "Mirhosseini F"
+  ],
+  "mesh_terms": [
+    "Cell Phone",
+    "Feedback",
+    "Humans",
+    "Neurology",
+    "Neurosurgery",
+    "Physicians",
+    "Text Messaging",
+    "Tomography, X-Ray Computed"
+  ]
+}

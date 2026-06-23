@@ -1,0 +1,30 @@
+{
+  "pmid": "34993971",
+  "title": "Description of neurological mimics presented to the neurology service of a small animal referral hospital.",
+  "abstract": "BACKGROUND: Clinicians observe that cats and dogs referred to neurology services often do not have an underlying neurological disorder. There has been no analysis of the frequency or categorisation of these neurological mimics. METHODS: Retrospective study of 520 cases was carried out. Data on signalment, presenting clinical signs, neurological examination findings and final diagnosis were collected. Final diagnoses were classified as primary neurological, non-neurological in origin but with neurological clinical manifestation, completely non-neurological (neurological mimics) or undiagnosed. Presenting clinical signs and neurological examination results were compared between neurological mimics and primary neurological cases using Chi-square or Fischer exact test. Relative risk (RR) was calculated for significant associations. RESULTS: A total of 74% were primary neurological conditions, 8% neurological mimics, 3% non-neurological with neurological manifestation and 15% undiagnosed. An animal referred for lameness was approximately five times more likely to be diagnosed as a neurological mimic than as a primary neurological disorder (RR = 5.42, p < 0.001). Cases with a normal neurological examination were approximately 15 times more likely to be a neurological mimic (RR = 14.97, p < 0.001). CONCLUSION: Thorough examination with consideration of alternative diagnoses is important when a neurological condition is suspected in an animal that presents with lameness or normal neurological examination.",
+  "journal": "The Veterinary record",
+  "year": "2022",
+  "authors": [
+    "Walker PE",
+    "Freeman P",
+    "Monforte Monteiro SR",
+    "Bexfield N",
+    "Harris G",
+    "Radke H",
+    "Alves L",
+    "Vanhaesebrouck AE"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Cat Diseases",
+    "Cats",
+    "Dog Diseases",
+    "Dogs",
+    "Hospitals, Animal",
+    "Lameness, Animal",
+    "Nervous System Diseases",
+    "Neurology",
+    "Referral and Consultation",
+    "Retrospective Studies"
+  ]
+}

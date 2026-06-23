@@ -1,0 +1,29 @@
+{
+  "pmid": "37177846",
+  "title": "Associations of VGF with Neuropathologies and Cognitive Health in Older Adults.",
+  "abstract": "OBJECTIVE: VGF is proposed as a potential therapeutic target for Alzheimer's (AD) and other neurodegenerative conditions. The cell-type specific and, separately, peptide specific associations of VGF with pathologic and cognitive outcomes remain largely unknown. We leveraged gene expression and protein data from the human neocortex and investigated the VGF associations with common neuropathologies and late-life cognitive decline. METHODS: Community-dwelling older adults were followed every year, died, and underwent brain autopsy. Cognitive decline was captured via annual cognitive testing. Common neurodegenerative and cerebrovascular conditions were assessed during neuropathologic evaluations. Bulk brain RNASeq and targeted proteomics analyses were conducted using frozen tissues from dorsolateral prefrontal cortex of 1,020 individuals. Cell-type specific gene expressions were quantified in a subsample (N = 424) following single nuclei RNASeq analysis from the same cortex. RESULTS: The bulk brain VGF gene expression was primarily associated with AD and Lewy bodies. The VGF gene association with cognitive decline was in part accounted for by neuropathologies. Similar associations were observed for the VGF protein. Cell-type specific analyses revealed that, while VGF was differentially expressed in most major cell types in the cortex, its association with neuropathologies and cognitive decline was restricted to the neuronal cells. Further, the peptide fragments across the VGF polypeptide resembled each other in relation to neuropathologies and cognitive decline. INTERPRETATION: Multiple pathways link VGF to cognitive health in older age, including neurodegeneration. The VGF gene functions primarily in neuronal cells and its protein associations with pathologic and cognitive outcomes do not map to a specific peptide. ANN NEUROL 2023;94:232-244.",
+  "journal": "Annals of neurology",
+  "year": "2023",
+  "authors": [
+    "Yu L",
+    "Petyuk VA",
+    "Lopes KP",
+    "Tasaki S",
+    "Menon V",
+    "Wang Y",
+    "Schneider JA",
+    "De Jager PL",
+    "Bennett DA"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Aged",
+    "Brain",
+    "Cognitive Dysfunction",
+    "Neuropathology",
+    "Nervous System Diseases",
+    "Cognition",
+    "Alzheimer Disease",
+    "Nerve Growth Factors"
+  ]
+}

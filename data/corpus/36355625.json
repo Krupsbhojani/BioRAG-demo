@@ -1,0 +1,34 @@
+{
+  "pmid": "36355625",
+  "title": "Neuropathological findings in COVID-19: an autopsy cohort.",
+  "abstract": "The literature regarding the neuropathological findings in cases of SARS-CoV-2 infection, which causes coronavirus disease 2019 (COVID-19), is expanding. We identified 72 patients who died of COVID-19 (n = 48) or had recovered shortly before death (n = 24) and had autopsies performed at our institution (49 males, 23 females; median age at death 76.4 years, range: 0.0-95.0 years). Droplet digital polymerase chain reaction (ddPCR) for the detection of SARS-CoV-2 was performed (n = 58) in multiple brain regions. In cases the assay was successfully completed (n = 50), 98.0% were negative (n = 49) and 2% were indeterminate (n = 1). Most histologic findings were typical of the patient age demographic, such as neurodegenerative disease and arteriolosclerosis. A subset of cases demonstrated findings which may be associated with sequelae of critical illness. We identified 3 cases with destructive perivascular lesions with axonal injury, one of which also harbored perivascular demyelinating lesions. These rare cases may represent a parainfectious process versus sequelae of vascular injury. The lack of detectable SARS-CoV-2 by ddPCR or significant histologic evidence of direct infection suggests that active encephalitis is not a feature of COVID-19.",
+  "journal": "Journal of neuropathology and experimental neurology",
+  "year": "2022",
+  "authors": [
+    "Eschbacher KL",
+    "Larsen RA",
+    "Moyer AM",
+    "Majumdar R",
+    "Reichard RR"
+  ],
+  "mesh_terms": [
+    "Male",
+    "Female",
+    "Humans",
+    "Infant, Newborn",
+    "Infant",
+    "Child, Preschool",
+    "Child",
+    "Adolescent",
+    "Young Adult",
+    "Adult",
+    "Middle Aged",
+    "Aged",
+    "Aged, 80 and over",
+    "COVID-19",
+    "SARS-CoV-2",
+    "Autopsy",
+    "Neurodegenerative Diseases",
+    "Neuropathology"
+  ]
+}

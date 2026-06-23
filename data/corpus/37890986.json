@@ -1,0 +1,21 @@
+{
+  "pmid": "37890986",
+  "title": "Methodological considerations for observational studies of treatment effectiveness in neurology: a clinician's guide.",
+  "abstract": "Data from cohorts, registries, randomised trials, electronic medical records and administrative claims databases have increasingly been used to inform the use of therapies for neurological diseases. While novel sophisticated methods are enabling us to use existing data to guide treatment decisions, the complexity of statistical methodology is making appraisal of clinical evidence increasingly demanding. In this narrative review, we provide a brief overview of the most commonly used methods for evaluation of treatment effectiveness in neurology. This primer discusses complementarity of randomised and non-randomised study designs, sources of observational data, different forms of bias and the appropriate mitigation strategies, statistical significance, Bayesian approaches and provides an overview of multivariable regression models, propensity score-based models, causal inference, mediation analysis and Mendelian randomisation.",
+  "journal": "Journal of neurology, neurosurgery, and psychiatry",
+  "year": "2024",
+  "authors": [
+    "Kalincik T",
+    "Roos I",
+    "Sharmin S",
+    "Malpas CB"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Bayes Theorem",
+    "Treatment Outcome",
+    "Causality",
+    "Research Design",
+    "Neurology"
+  ]
+}

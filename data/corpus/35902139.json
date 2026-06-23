@@ -1,0 +1,27 @@
+{
+  "pmid": "35902139",
+  "title": "Trends in characteristics of neurologists who provide stroke consultations in the USA, 2008-2021.",
+  "abstract": "INTRODUCTION: Patients with acute ischaemic strokes (AIS), on average, fare better with timely neurologist consultation, and a growing proportion of them receive one. However, little is known about trends in the characteristics of neurologists who treat AIS. METHODS: We identified AIS and transient ischaemic attack (TIA) episodes with neurologist consults in fee-for-service Medicare from January 2008 to September 2021. For each episode, we determined whether the neurologist was a vascular neurologist, was a high-volume provider, whether the patient was transferred between hospitals and the distance between the patient's home and physician's practice. RESULTS: From 2008 to 2021, the share of AIS/TIA episodes (n=5 073 294) with neurologist consults increased (52.9% to 61.7%). Among episodes with consults, the fraction conducted by a vascular neurologist (5.2% to 13.7%) or by a high-volume neurologist (13.2% to 14.9%) also increased. The fraction with the patient's home and neurologist greater than 100 miles apart (4.8% to 9.6%) or in different states (5.1% to 8.1%) increased, as did the fraction with transfers (4.2% to 8.5%). DISCUSSION: Over the study period, the proportion of AIS/TIA episodes with consultations from neurologists with either vascular neurology certifications or high volumes increased substantially.",
+  "journal": "Stroke and vascular neurology",
+  "year": "2023",
+  "authors": [
+    "Nakamoto CH",
+    "Wilcock AD",
+    "Schwamm LH",
+    "Majersik JJ",
+    "Zachrison KS",
+    "Mehrotra A"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Aged",
+    "United States",
+    "Neurologists",
+    "Ischemic Attack, Transient",
+    "Neurology",
+    "Medicare",
+    "Stroke",
+    "Referral and Consultation",
+    "Ischemic Stroke"
+  ]
+}

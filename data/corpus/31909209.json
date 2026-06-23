@@ -1,0 +1,37 @@
+{
+  "pmid": "31909209",
+  "title": "Modelling care quality for patients after a transient ischaemic attack within the US Veterans Health Administration.",
+  "abstract": "OBJECTIVE: Timely preventive care can substantially reduce risk of recurrent vascular events or death after a transient ischaemic attack (TIA). Our objective was to understand patient and facility factors influencing preventive care quality for patients with TIA in the US Veterans Health Administration (VHA). METHODS: We analysed administrative data from a retrospective cohort of 3052 patients with TIA cared for in the emergency department (ED) or inpatient setting in 110 VHA facilities from October 2010 to September 2011. A composite quality indicator (QI score) pass rate was constructed from four process-related quality measures-carotid imaging, brain imaging, high or moderate potency statin and antithrombotic medication, associated with the ED visit or inpatient admission after the TIA. We tested a multilevel structural equation model where facility and patient characteristics, inpatient admission, and neurological consultation were predictors of the resident's composite QI score. RESULTS: Presenting with a speech deficit and higher Charlson Comorbidity Index (CCI) were positively related to inpatient admission. Being admitted increased the likelihood of neurology consultation, whereas history of dementia, weekend arrival and a higher CCI score made neurological consultation less likely. Speech deficit, higher CCI, inpatient admission and neurological consultation had direct positive effects on the composite quality score. Patients in facilities with fewer full-time equivalent neurology staff were less likely to be admitted or to have a neurology consultation. Facilities having greater organisational complexity and with a VHA stroke centre designation were more likely to provide a neurology consultation. CONCLUSIONS: Better TIA preventive care could be achieved through increased inpatient admissions, or through enhanced neurology and other care resources in the ED and during follow-up care.",
+  "journal": "BMJ open quality",
+  "year": "2020",
+  "authors": [
+    "Arling G",
+    "Sico JJ",
+    "Reeves MJ",
+    "Myers L",
+    "Baye F",
+    "Bravata DM"
+  ],
+  "mesh_terms": [
+    "Administrative Claims, Healthcare",
+    "Adult",
+    "Aged",
+    "Aged, 80 and over",
+    "Emergency Service, Hospital",
+    "Female",
+    "Humans",
+    "Ischemic Attack, Transient",
+    "Male",
+    "Middle Aged",
+    "Neurology",
+    "Patient Admission",
+    "Quality of Health Care",
+    "Referral and Consultation",
+    "Retrospective Studies",
+    "Stroke",
+    "Time Factors",
+    "United States",
+    "United States Department of Veterans Affairs",
+    "Veterans"
+  ]
+}

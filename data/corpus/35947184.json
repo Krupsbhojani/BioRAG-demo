@@ -1,0 +1,36 @@
+{
+  "pmid": "35947184",
+  "title": "Rainwater Charitable Foundation criteria for the neuropathologic diagnosis of progressive supranuclear palsy.",
+  "abstract": "Neuropathologic criteria for progressive supranuclear palsy (PSP) proposed by a National Institute of Neurological Disorders and Stroke (NINDS) working group were published in 1994 and based on the presence of neurofibrillary tangles in basal ganglia and brainstem. These criteria did not stipulate detection methods or incorporate glial tau pathology. In this study, a group of 14 expert neuropathologists scored digital slides from 10 brain regions stained with hematoxylin and eosin (H&E) and phosphorylated tau (AT8) immunohistochemistry. The cases included 15 typical and atypical PSP cases and 10 other tauopathies. Blinded to clinical and neuropathological information, raters provided a categorical diagnosis (PSP or not-PSP) based upon provisional criteria that required neurofibrillary tangles or pretangles in two of three regions (substantia nigra, subthalamic nucleus, globus pallidus) and tufted astrocytes in one of two regions (peri-Rolandic cortices, putamen). The criteria showed high sensitivity (0.97) and specificity (0.91), as well as almost perfect inter-rater reliability for diagnosing PSP and differentiating it from other tauopathies (Fleiss kappa 0.826). Most cases (17/25) had 100% agreement across all 14 raters. The Rainwater Charitable Foundation criteria for the neuropathologic diagnosis of PSP feature a simplified diagnostic algorithm based on phosphorylated tau immunohistochemistry and incorporate tufted astrocytes as an essential diagnostic feature.",
+  "journal": "Acta neuropathologica",
+  "year": "2022",
+  "authors": [
+    "Roemer SF",
+    "Grinberg LT",
+    "Crary JF",
+    "Seeley WW",
+    "McKee AC",
+    "Kovacs GG",
+    "Beach TG",
+    "Duyckaerts C",
+    "Ferrer IA",
+    "Gelpi E",
+    "Lee EB",
+    "Revesz T",
+    "White CL",
+    "Yoshida M",
+    "Pereira FL",
+    "Whitney K",
+    "Ghayal NB",
+    "Dickson DW"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Neurofibrillary Tangles",
+    "Neuropathology",
+    "Reproducibility of Results",
+    "Supranuclear Palsy, Progressive",
+    "Tauopathies",
+    "tau Proteins"
+  ]
+}

@@ -1,0 +1,8 @@
+variant,faithfulness,answer_relevancy,context_precision,context_recall,avg_latency_ms,n_questions
+V1_Naive,0.3552,0.2073,0.2998,0.2733,46.0,100
+V2_HyDE,0.4046,0.2168,0.1432,0.28,1369.7,100
+V3_Reranker,0.3672,0.1879,0.304,0.34,388.2,100
+V4_HyDE_Reranker,0.4228,0.2465,0.1748,0.3,1795.3,100
+V5_MultiQuery,0.4049,0.2267,0.251,0.3708,1611.1,100
+V6_SelfRAG,0.1051,0.0496,0.286,0.31,48730.2,100
+V7_Hybrid,0.5339,0.1685,0.325,0.5067,1551.4,100

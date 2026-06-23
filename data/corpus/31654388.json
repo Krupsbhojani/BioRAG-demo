@@ -1,0 +1,25 @@
+{
+  "pmid": "31654388",
+  "title": "Advances in the Differentiation of Retinal Ganglion Cells from Human Pluripotent Stem Cells.",
+  "abstract": "Human pluripotent stem cell (hPSC) technology has revolutionized the field of biology through the unprecedented ability to study the differentiation of human cells in vitro. In the past decade, hPSCs have been applied to study development, model disease, develop drugs, and devise cell replacement therapies for numerous biological systems. Of particular interest is the application of this technology to study and treat optic neuropathies such as glaucoma. Retinal ganglion cells (RGCs) are the primary cell type affected in these diseases, and once lost, they are unable to regenerate in adulthood. This necessitates the development of strategies to study the mechanisms of degeneration as well as develop translational therapeutic approaches to treat early- and late-stage disease progression. Numerous protocols have been established to derive RGCs from hPSCs, with the ability to generate large populations of human RGCs for translational applications. In this review, the key applications of hPSCs within the retinal field are described, including the use of these cells as developmental models, disease models, drug development, and finally, cell replacement therapies. In greater detail, the current report focuses on the differentiation of hPSC-derived RGCs and the many unique characteristics associated with these cells in vitro including their genetic identifiers, their electrophysiological activity, and their morphological maturation. Also described is the current progress in the use of patient-specific hPSCs to study optic neuropathies affecting RGCs, with emphasis on the use of these RGCs for studying disease mechanisms and pathogenesis, drug screening, and cell replacement therapies in future studies.",
+  "journal": "Advances in experimental medicine and biology",
+  "year": "2019",
+  "authors": [
+    "Ohlemacher SK",
+    "Langer KB",
+    "Fligor CM",
+    "Feder EM",
+    "Edler MC",
+    "Meyer JS"
+  ],
+  "mesh_terms": [
+    "Cell Differentiation",
+    "Glaucoma",
+    "Humans",
+    "Neuropathology",
+    "Optic Nerve Diseases",
+    "Pluripotent Stem Cells",
+    "Retina",
+    "Retinal Ganglion Cells"
+  ]
+}

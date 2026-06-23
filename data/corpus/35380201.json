@@ -1,0 +1,33 @@
+{
+  "pmid": "35380201",
+  "title": "Neuropathologic changes associated with stereoelectroencephalography depth electrode placement.",
+  "abstract": "BACKGROUND: The aim of this study was to detail the neuropathologic changes resulting from the surgical placement of stereoelectroencephalography (SEEG) leads in an initial small group of epilepsy cases and to raise awareness of this iatrogenic pathology, especially to those medical providers who specialize in the care of epilepsy patients. METHODS: Five consecutive patients who underwent epilepsy resection surgery following SEEG monitoring at OSF Saint Francis Medical Center were included in our report. Resection specimens were examined grossly and entirely submitted for microscopic evaluation by a neuropathologist. Seizure-related pathologies, as well as histologic changes related to SEEG electrode placement, were documented. RESULTS: The patient cohort included two females and three males, with an age range of 9 to 47 years. Neuropathologic examination revealed one or more seizure-related pathologies in each patient's resection specimen. In addition, all brain resection specimens showed multiple microinfarcts, which appeared to correlate with the placement and size of SEEG electrodes. Patchy leptomeningeal chronic inflammation was also seen in most cases. CONCLUSIONS: SEEG electrode placement is an effective procedure for determining epileptogenic regions and guiding subsequent resection surgeries in medically refractory epilepsy. Multiple microinfarcts and chronic inflammation are commonly seen in brain resection specimens following SEEG electrode insertion, but studies detailing these iatrogenic histopathologic changes are lacking. The clinical significance and long-term implications of multiple small foci of electrode-induced injury that remain in the patient's brain after resection of the epileptogenic focus are unknown and may provide a welcome area for future study.",
+  "journal": "Journal of neurosurgical sciences",
+  "year": "2023",
+  "authors": [
+    "Winslow NK",
+    "Olson EA",
+    "Bach SE",
+    "Maldonado AL"
+  ],
+  "mesh_terms": [
+    "Male",
+    "Female",
+    "Humans",
+    "Child",
+    "Adolescent",
+    "Young Adult",
+    "Adult",
+    "Middle Aged",
+    "Neuropathology",
+    "Electroencephalography",
+    "Treatment Outcome",
+    "Stereotaxic Techniques",
+    "Epilepsy",
+    "Drug Resistant Epilepsy",
+    "Electrodes, Implanted",
+    "Seizures",
+    "Inflammation",
+    "Iatrogenic Disease"
+  ]
+}

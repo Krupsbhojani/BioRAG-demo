@@ -1,0 +1,30 @@
+{
+  "pmid": "37182869",
+  "title": "Comparison of Clinical, Genetic, and Pathologic Features of Limbic and Diffuse Transactive Response DNA-Binding Protein 43 Pathology in Alzheimer's Disease Neuropathologic Spectrum.",
+  "abstract": "BACKGROUND: Increasing evidence suggests that TAR DNA-binding protein 43 (TDP-43) pathology in Alzheimer's disease (AD), or AD-TDP, can be diffuse or limbic-predominant. Understanding whether diffuse AD-TDP has genetic, clinical, and pathological features that differ from limbic AD-TDP could have clinical and research implications. OBJECTIVE: To better characterize the clinical and pathologic features of diffuse AD-TDP and differentiate it from limbic AD-TDP. METHODS: 363 participants from the Mayo Clinic Study of Aging, Alzheimer's Disease Research Center, and Neurodegenerative Research Group with autopsy confirmed AD and TDP-43 pathology were included. All underwent genetic, clinical, neuropsychologic, and neuropathologic evaluations. AD-TDP pathology distribution was assessed using the Josephs 6-stage scale. Stages 1-3 were classified as Limbic, those 4-6 as Diffuse. Multivariable logistic regression was used to identify clinicopathologic features that independently predicted diffuse pathology. RESULTS: The cohort was 61% female and old at onset (median: 76 years [IQR:70-82]) and death (median: 88 years [IQR:82-92]). Fifty-four percent were Limbic and 46% Diffuse. Clinically, ∼10-20% increases in odds of being Diffuse associated with 5-year increments in age at onset (p = 0.04), 1-year longer disease duration (p = 0.02), and higher Neuropsychiatric Inventory scores (p = 0.03), while 15-second longer Trailmaking Test-B times (p = 0.02) and higher Block Design Test scores (p = 0.02) independently decreased the odds by ~ 10-15%. There was evidence for association of APOEɛ4 allele with limbic AD-TDP and of TMEM106B rs3173615 C allele with diffuse AD-TDP. Pathologically, widespread amyloid-β plaques (Thal phases: 3-5) decreased the odds of diffuse TDP-43 pathology by 80-90%, while hippocampal sclerosis increased it sixfold (p < 0.001). CONCLUSION: Diffuse AD-TDP shows clinicopathologic and genetic features different from limbic AD-TDP.",
+  "journal": "Journal of Alzheimer's disease : JAD",
+  "year": "2023",
+  "authors": [
+    "Carlos AF",
+    "Machulda MM",
+    "Rutledge MH",
+    "Nguyen AT",
+    "Reichard RR",
+    "Baker MC",
+    "Rademakers R",
+    "Dickson DW",
+    "Petersen RC",
+    "Josephs KA"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Female",
+    "Male",
+    "Alzheimer Disease",
+    "Amyloid beta-Peptides",
+    "Neuropathology",
+    "DNA-Binding Proteins",
+    "Membrane Proteins",
+    "Nerve Tissue Proteins"
+  ]
+}

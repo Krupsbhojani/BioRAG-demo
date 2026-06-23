@@ -1,0 +1,35 @@
+{
+  "pmid": "31256143",
+  "title": "Evaluation of Associations of Alzheimer's Disease Risk Variants that Are Highly Expressed in Microglia with Neuropathological Outcome Measures.",
+  "abstract": "A number of Alzheimer's disease (AD) susceptibility loci are expressed abundantly in microglia. We examined associations between AD risk variants in genes that are highly expressed in microglia and neuropathological outcomes, including cerebral amyloid angiopathy (CAA) and microglial activation, in 93 AD patients. We observed significant associations of CAA pathology with APOEɛ4 and PTK2B rs28834970. Nominally significant associations with measures of microglial activation in white matter were observed for variants in PTK2B, PICALM, and CR1. Our findings suggest that several AD risk variants may also function as disease modifiers through amyloid-β metabolism and white matter microglial activity.",
+  "journal": "Journal of Alzheimer's disease : JAD",
+  "year": "2020",
+  "authors": [
+    "Sakae N",
+    "Heckman MG",
+    "Vargas ER",
+    "Carrasquillo MM",
+    "Murray ME",
+    "Kasanuki K",
+    "Ertekin-Taner N",
+    "Younkin SG",
+    "Dickson DW"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Alzheimer Disease",
+    "Amyloid",
+    "Autopsy",
+    "Cerebral Amyloid Angiopathy",
+    "Female",
+    "Genetic Association Studies",
+    "Genetic Predisposition to Disease",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Immunohistochemistry",
+    "Male",
+    "Microglia",
+    "Neuropathology",
+    "Outcome Assessment, Health Care"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "38175720",
+  "title": "Utility of ChatGPT for Automated Creation of Patient Education Handouts: An Application in Neuro-Ophthalmology.",
+  "abstract": "BACKGROUND: Patient education in ophthalmology poses a challenge for physicians because of time and resource limitations. ChatGPT (OpenAI, San Francisco) may assist with automating production of patient handouts on common neuro-ophthalmic diseases. METHODS: We queried ChatGPT-3.5 to generate 51 patient education handouts across 17 conditions. We devised the \"Quality of Generated Language Outputs for Patients\" (QGLOP) tool to assess handouts on the domains of accuracy/comprehensiveness, bias, currency, and tone, each scored out of 4 for a total of 16. A fellowship-trained neuro-ophthalmologist scored each passage. Handout readability was assessed using the Simple Measure of Gobbledygook (SMOG), which estimates years of education required to understand a text. RESULTS: The QGLOP scores for accuracy, bias, currency, and tone were found to be 2.43, 3, 3.43, and 3.02 respectively. The mean QGLOP score was 11.9 [95% CI 8.98, 14.8] out of 16 points, indicating a performance of 74.4% [95% CI 56.1%, 92.5%]. The mean SMOG across responses as 10.9 [95% CI 9.36, 12.4] years of education. CONCLUSIONS: The mean QGLOP score suggests that a fellowship-trained ophthalmologist may have at-least a moderate level of satisfaction with the write-up quality conferred by ChatGPT. This still requires a final review and editing before dissemination. Comparatively, the rarer 5% of responses collectively on either extreme would require very mild or extensive revision. Also, the mean SMOG score exceeded the accepted upper limits of grade 8 reading level for health-related patient handouts. In its current iteration, ChatGPT should be used as an efficiency tool to generate an initial draft for the neuro-ophthalmologist, who may then refine the accuracy and readability for a lay readership.",
+  "journal": "Journal of neuro-ophthalmology : the official journal of the North American Neuro-Ophthalmology Society",
+  "year": "2024",
+  "authors": [
+    "Tao BK",
+    "Handzic A",
+    "Hua NJ",
+    "Vosoughi AR",
+    "Margolin EA",
+    "Micieli JA"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Ophthalmology",
+    "Smog",
+    "Patient Education as Topic",
+    "Fellowships and Scholarships",
+    "Neurology"
+  ]
+}

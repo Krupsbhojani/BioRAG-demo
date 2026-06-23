@@ -1,0 +1,24 @@
+{
+  "pmid": "36376963",
+  "title": "The hippocampal sparing subtype of Alzheimer's disease assessed in neuropathology and in vivo tau positron emission tomography: a systematic review.",
+  "abstract": "Neuropathology and neuroimaging studies have identified several subtypes of Alzheimer's disease (AD): hippocampal sparing AD, typical AD, and limbic predominant AD. An unresolved question is whether hippocampal sparing AD cases can present with neurofibrillary tangles (NFT) in association cortices while completely sparing the hippocampus. To address that question, we conducted a systematic review and performed original analyses on tau positron emission tomography (PET) data. We searched EMBASE, PubMed, and Web of Science databases until October 2022. We also implemented several methods for AD subtyping on tau PET to identify hippocampal sparing AD cases. Our findings show that seven out of the eight reviewed neuropathologic studies included cases at Braak stages IV or higher and therefore, could not identify hippocampal sparing cases with NFT completely sparing the hippocampus. In contrast, tau PET did identify AD participants with tracer retention in the association cortex while completely sparing the hippocampus. We conclude that tau PET can identify hippocampal sparing AD cases with NFT completely sparing the hippocampus. Based on the accumulating data, we suggest two possible pathways of tau spread: (1) a canonical pathway with early involvement of transentorhinal cortex and subsequent involvement of limbic regions and association cortices, and (2) a less common pathway that affects association cortices with limbic involvement observed at end stages of the disease or not at all.",
+  "journal": "Acta neuropathologica communications",
+  "year": "2022",
+  "authors": [
+    "Ferreira D",
+    "Mohanty R",
+    "Murray ME",
+    "Nordberg A",
+    "Kantarci K",
+    "Westman E"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Alzheimer Disease",
+    "Neurofibrillary Tangles",
+    "Positron-Emission Tomography",
+    "Hippocampus",
+    "Neuropathology",
+    "tau Proteins"
+  ]
+}

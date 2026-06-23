@@ -1,0 +1,29 @@
+{
+  "pmid": "39262065",
+  "title": "Use of artificial intelligence and radio genomics in neuroradiology and the future of brain tumour imaging and surgical planning in low- and middleincome countries.",
+  "abstract": "Brain tumour diagnosis involves assessing various radiological and histopathological parameters. Imaging modalities are an excellent resource for disease monitoring. However, manual inspection of imaging is laborious, and performance varies depending on expertise. Artificial Intelligence (AI) driven solutions a non-invasive and low-cost technology for diagnostics compared to surgical biopsy and histopathological diagnosis. We analysed various machine learning models reported in the literature and assess its applicability to improve neuro-oncological management. A scoping review of 47 full texts published in the last 3 years pertaining to the use of machine learning for the management of different types of gliomas where radiomics and radio genomic models have proven to be useful. Use of AI in conjunction with other factors can result in improving overall neurooncological management within LMICs. AI algorithms can evaluate medical imaging to aid in the early detection and diagnosis of brain tumours. This is especially useful where AI can deliver reliable and efficient screening methods, allowing for early intervention and treatment.",
+  "journal": "JPMA. The Journal of the Pakistan Medical Association",
+  "year": "2025",
+  "authors": [
+    "Urooj F",
+    "Tameezuddin A",
+    "Khalid Z",
+    "Aftab K",
+    "Bajwa MH",
+    "Siddiqui K",
+    "Bakhshi SK",
+    "Aziz HF",
+    "Enam SA"
+  ],
+  "mesh_terms": [
+    "Artificial Intelligence",
+    "Genomics",
+    "Neurology",
+    "Brain Neoplasms",
+    "Radiology",
+    "Humans",
+    "Machine Learning",
+    "Early Detection of Cancer",
+    "Computer Simulation"
+  ]
+}

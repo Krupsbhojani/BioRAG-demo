@@ -1,0 +1,41 @@
+{
+  "pmid": "32654010",
+  "title": "Medulloblastoma of the adult: results from a multicenter retrospective study by AINO (Italian Association of Neuro-Oncology) and SIN (Italian Society of Neurology).",
+  "abstract": "INTRODUCTION: Medulloblastoma (MB) is the most common primary malignant intracranial tumor in childhood, but it is very rare in adults, and for this reason, the optimal treatment has not yet been defined. We designed a multicentric study in order to define relevant outcome measures for future prospective studies. MATERIALS AND METHODS: The project involved 10 Italian centers. The database shared among the centers contains epidemiological, diagnostic (radiological and histological/molecular), therapeutic, recurrence information, and survival data. RESULTS: A total of 152 patients (102 males and 50 females, median age 32) were included in the study. Twenty-three of 152 patients had a diagnosis of classic medulloblastoma, 52/152 had desmoplastic/extensive nodularity, 2/152 had large-cell anaplastic medulloblastoma, and the remaining had diagnoses not otherwise specified. Almost all patients underwent craniospinal irradiation after surgery; in 85.5% of patients, adjuvant chemotherapy, mainly platinum- and etoposide-based chemotherapy, was performed immediately after RT. Upon recurrence, most patients were retreated with various chemotherapy regimens, including intrathecal chemotherapy in patients with leptomeningeal dissemination. The overall survival (OS) rate at 5 years was 73.3% (95% CI, 65.0-80.0%). The median OS for the whole group of patients was 112 months. CONCLUSIONS: The data collected were mainly consistent with the literature. A limitation of this study was the large number of patients lost to follow-up and the lack of molecular data for most patients diagnosed until 2010. An important challenge for the future will be MB biologic characterization in adults, with the identification of specific genetic patterns. It will be important to have more national and international collaborations to provide evidence-based management strategies that attempt to obtain a standard of care.",
+  "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+  "year": "2021",
+  "authors": [
+    "Gaviani P",
+    "Simonetti G",
+    "Rudà R",
+    "Franchino F",
+    "Lombardi G",
+    "Possanzini M",
+    "Squintu S",
+    "Villani V",
+    "Teriaca M",
+    "Cavallieri F",
+    "Caffo M",
+    "Salmaggi A",
+    "Bianco A",
+    "Anghileri E",
+    "Farinotti M",
+    "Tramacere I",
+    "Silvani A"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Antineoplastic Combined Chemotherapy Protocols",
+    "Cerebellar Neoplasms",
+    "Combined Modality Therapy",
+    "Female",
+    "Humans",
+    "Italy",
+    "Male",
+    "Medulloblastoma",
+    "Neoplasm Recurrence, Local",
+    "Neurology",
+    "Prospective Studies",
+    "Retrospective Studies"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "31222604",
+  "title": "Dynamics of device-based treatments for Parkinson's disease in Germany from 2010 to 2017: application of continuous subcutaneous apomorphine, levodopa-carbidopa intestinal gel, and deep brain stimulation.",
+  "abstract": "Parkinson's disease (PD) is a very common extrapyramidal movement disorder and currently the world's fastest growing neurological disorder. In the course of disease progression, a majority of PD patients develop severe motor fluctuations which often cannot be adequately treated with common oral anti-Parkinsonian medications. With continuous subcutaneous apomorphine infusion (CSAI), levodopa-carbidopa intestinal gel infusion (LCIG), and deep brain stimulation (DBS), there exist three effective treatment options for advanced PD patients with motor fluctuations. In this study, we analyze the dynamics of implementation for these treatments in Germany over the years 2010-2017 based on the diagnosis-related group statistics and structured quality reports. All three intensified therapy measures are increasingly applied in Germany. The mean age of therapy implementation is rising and more male than female patients receive treatments. Although DBS is provided primarily in university hospitals with a caseload of at least two procedures per month, there exists a substantial proportion of DBS procedures which is conducted in hospitals with only a low caseload. Most of the drug pump implementations (CSAI and LCIG) are conducted in a large number of hospitals with an overall low case number. As we detect a strong rise of the implementation of these device-based therapies, it will be a challenging task to satisfy patient need and perpetuate high standards for these specialized procedures in the future.",
+  "journal": "Journal of neural transmission (Vienna, Austria : 1996)",
+  "year": "2020",
+  "authors": [
+    "Richter D",
+    "Bartig D",
+    "Jost W",
+    "Jörges C",
+    "Stumpe B",
+    "Gold R",
+    "Krogias C",
+    "Tönges L"
+  ],
+  "mesh_terms": [
+    "Antiparkinson Agents",
+    "Apomorphine",
+    "Carbidopa",
+    "Deep Brain Stimulation",
+    "Drug Combinations",
+    "Gels",
+    "Germany",
+    "Humans",
+    "Infusions, Parenteral",
+    "Infusions, Subcutaneous",
+    "Levodopa",
+    "Neurology",
+    "Parkinson Disease",
+    "Practice Patterns, Physicians'"
+  ]
+}

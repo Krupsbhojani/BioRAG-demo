@@ -1,0 +1,24 @@
+{
+  "pmid": "34399397",
+  "title": "Care After Presenting with Seizures (CAPS): An analysis of the impact of a seizure referral pathway and nurse support on neurology referral rates for patients admitted with a seizure.",
+  "abstract": "INTRODUCTION: The National Audit of Seizure Management in Hospitals (NASH) identified low referral rates to neurology and epilepsy services after an emergency department attendance or admission with a seizure. METHODS: National Health Service Secondary Users Service (SUS) data were used to assess the impact of a seizure pathway at seven hospitals in Cheshire & Merseyside, which was implemented in 2014. Three of these hospitals also had a nurse employed part-time to support the pathway. Patients admitted with a seizure between 2011 and 2018 inclusive were identified using an algorithm based on ICD-10 codes, and the primary outcome was a neurology referral within 3 months of admission. Regression models were used to assess the impact of age, deprivation and comorbidity on post admission clinic referral rates. RESULTS: 13,285 admissions with seizure were included in the analysis. 5,677 had not attended a neurology clinic appointment in the 12 months before the admission. The percentage of whom that were offered an appointment following the admission was: 16.0% before the pathway and 35.9% with the nurse-supported pathway, which was significant in the regression model. 4,700 admissions had attended a neurology clinic appointment in the 12 months before the admission. Of this group, the percentage of whom that were offered an appointment following the admission was: 55.2% before the pathway and 62.4% with the nurse-supported pathway, an increase that was not significant in the regression model. The regression models identified significant health inequalities whereby older patients, those with comorbidities and those living in deprived areas were significantly less likely to be referred. CONCLUSION: Neurology out-patient appointment rates following an admission with seizures are low, worryingly so for those with no neurology appointment in the previous 12 months. A nurse-supported pathway can improve appointment rates, but the effect is modest. Further service redesign is required; the impact of which should be rigorously evaluated.",
+  "journal": "Seizure",
+  "year": "2021",
+  "authors": [
+    "Dixon P",
+    "Kallis C",
+    "Grainger R",
+    "Pearson MG",
+    "Tudur-Smith C",
+    "Marson AG"
+  ],
+  "mesh_terms": [
+    "Emergency Service, Hospital",
+    "Hospitalization",
+    "Humans",
+    "Neurology",
+    "Referral and Consultation",
+    "Seizures",
+    "State Medicine"
+  ]
+}

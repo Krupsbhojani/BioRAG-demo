@@ -1,0 +1,28 @@
+{
+  "pmid": "35938285",
+  "title": "A companion to the preclinical common data elements and case report forms for neuropathology studies in epilepsy research. A report of the TASK3 WG2 Neuropathology Working Group of the ILAE/AES Joint Translational Task Force.",
+  "abstract": "The International League Against Epilepsy/American Epilepsy Society (ILAE/AES) Joint Translational Task Force initiated the TASK3 working group to create common data elements (CDEs) for various aspects of preclinical epilepsy research studies, which could help improve the standardization of experimental designs. This article addresses neuropathological changes associated with seizures and epilepsy in rodent models of epilepsy. We discuss CDEs for histopathological parameters for neurodegeneration, changes in astrocyte morphology and function, mechanisms of inflammation, and changes in the blood-brain barrier and myelin/oligodendrocytes resulting from recurrent seizures in rats and mice. We provide detailed CDE tables and case report forms (CRFs), and with this companion manuscript, we discuss the rationale and methodological aspects of individual neuropathological examinations. The CDEs, CRFs, and companion paper are available to all researchers, and their use will benefit the harmonization and comparability of translational preclinical epilepsy research. The ultimate hope is to facilitate the development of rational therapy concepts for treating epilepsies, seizures, and comorbidities and the development of biomarkers assessing the pathological state of the disease.",
+  "journal": "Epilepsia open",
+  "year": "2025",
+  "authors": [
+    "Aronica E",
+    "Binder DK",
+    "Drexel M",
+    "Ikonomidou C",
+    "Kadam SD",
+    "Sperk G",
+    "Steinhäuser C"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Mice",
+    "Rats",
+    "Advisory Committees",
+    "Common Data Elements",
+    "Disease Models, Animal",
+    "Epilepsy",
+    "Neuropathology",
+    "Translational Research, Biomedical"
+  ]
+}

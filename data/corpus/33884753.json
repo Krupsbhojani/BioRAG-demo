@@ -1,0 +1,39 @@
+{
+  "pmid": "33884753",
+  "title": "Reduced synchrony in alpha oscillations during life predicts post mortem neurofibrillary tangle density in early-onset and atypical Alzheimer's disease.",
+  "abstract": "INTRODUCTION: Neurophysiological manifestations selectively associated with amyloid beta and tau depositions in Alzheimer's disease (AD) are useful network biomarkers to identify peptide specific pathological processes. The objective of this study was to validate the associations between reduced neuronal synchrony within alpha oscillations and neurofibrillary tangle (NFT) density in autopsy examination, in patients with AD. METHODS: In a well-characterized clinicopathological cohort of AD patients (n = 13), we quantified neuronal synchrony within alpha (8-12 Hz) and delta-theta (2-8 Hz) oscillations, using magnetoencephalography during the disease course, within six selected neocortical and hippocampal regions, including angular gyrus, superior temporal gurus, middle frontal gyrus, primary motor cortex, CA1, and subiculum, and correlated these with regional NFT density quantified at histopathological examination. RESULTS: Abnormal synchrony in alpha, but not in delta-theta, significantly predicted the NFT density at post mortem neuropathological examination. DISCUSSION: Reduced alpha synchrony is a sensitive neurophysiological index associated with pathological tau, and a potential network biomarker for clinical trials, to gauge the extent of network dysfunction and the degree of rescue in treatments targeting tau pathways in AD.",
+  "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+  "year": "2022",
+  "authors": [
+    "Ranasinghe KG",
+    "Petersen C",
+    "Kudo K",
+    "Mizuiri D",
+    "Rankin KP",
+    "Rabinovici GD",
+    "Gorno-Tempini ML",
+    "Seeley WW",
+    "Spina S",
+    "Miller BL",
+    "Vossel K",
+    "Grinberg LT",
+    "Nagarajan SS"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Alzheimer Disease",
+    "Atrophy",
+    "Autopsy",
+    "Brain",
+    "Cohort Studies",
+    "Female",
+    "Hippocampus",
+    "Humans",
+    "Magnetoencephalography",
+    "Male",
+    "Neurofibrillary Tangles",
+    "Neuropathology",
+    "Parietal Lobe",
+    "Temporal Lobe"
+  ]
+}

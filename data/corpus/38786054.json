@@ -1,0 +1,26 @@
+{
+  "pmid": "38786054",
+  "title": "The Role of Glial Cells in Neurobiology and Prion Neuropathology.",
+  "abstract": "Prion diseases are rare and neurodegenerative diseases that are characterized by the misfolding and infectious spread of the prion protein in the brain, causing progressive and irreversible neuronal loss and associated clinical and behavioral manifestations in humans and animals, ultimately leading to death. The brain has a complex network of neurons and glial cells whose crosstalk is critical for function and homeostasis. Although it is established that prion infection of neurons is necessary for clinical disease to occur, debate remains in the field as to the role played by glial cells, namely astrocytes and microglia, and whether these cells are beneficial to the host or further accelerate disease. Here, we review the current literature assessing the complex morphologies of astrocytes and microglia, and the crosstalk between these two cell types, in the prion-infected brain.",
+  "journal": "Cells",
+  "year": "2024",
+  "authors": [
+    "Hay A",
+    "Popichak K",
+    "Moreno J",
+    "Zabel M"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Prion Diseases",
+    "Animals",
+    "Neuroglia",
+    "Astrocytes",
+    "Brain",
+    "Neurobiology",
+    "Microglia",
+    "Neurons",
+    "Neuropathology",
+    "Prions"
+  ]
+}

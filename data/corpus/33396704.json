@@ -1,0 +1,36 @@
+{
+  "pmid": "33396704",
+  "title": "Limbic Encephalitis Brain Damage Induced by Cocal Virus in Adult Mice Is Reduced by Environmental Enrichment: Neuropathological and Behavioral Studies.",
+  "abstract": "We previously demonstrated, using the Piry virus model, that environmental enrichment promotes higher T-cell infiltration, fewer microglial changes, and faster central nervous system (CNS) virus clearance in adult mice. However, little is known about disease progression, behavioral changes, CNS cytokine concentration, and neuropathology in limbic encephalitis in experimental models. Using Cocal virus, we infected C57Bl6 adult mice and studied the neuroanatomical distribution of viral antigens in correlation with the microglial morphological response, measured the CNS cytokine concentration, and assessed behavioral changes. C57Bl6 adult mice were maintained in an impoverished environment (IE) or enriched environment (EE) for four months and then subjected to the open field test. Afterwards, an equal volume of normal or virus-infected brain homogenate was nasally instilled. The brains were processed to detect viral antigens and microglial morphological changes using selective immunolabeling. We demonstrated earlier significant weight loss and higher mortality in IE mice. Additionally, behavioral analysis revealed a significant influence of the environment on locomotor and exploratory activity that was associated with less neuroinvasion and a reduced microglial response. Thus, environmental enrichment was associated with a more effective immune response in a mouse model of limbic encephalitis, allowing faster viral clearance/decreased viral dissemination, reduced disease progression, and less CNS damage.",
+  "journal": "Viruses",
+  "year": "2021",
+  "authors": [
+    "Freitas PDSL",
+    "Lima AVL",
+    "Carvalho KGB",
+    "Cabral TDS",
+    "Farias AM",
+    "Rodrigues APD",
+    "Diniz DG",
+    "Picanço Diniz CW",
+    "Diniz Júnior JAP"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Antigens, Viral",
+    "Behavior, Animal",
+    "Biomarkers",
+    "Brain",
+    "Cytokines",
+    "Disease Models, Animal",
+    "Female",
+    "Limbic Encephalitis",
+    "Mice",
+    "Microglia",
+    "Mortality",
+    "Neuropathology",
+    "Symptom Assessment",
+    "Vesiculovirus",
+    "Viral Load"
+  ]
+}

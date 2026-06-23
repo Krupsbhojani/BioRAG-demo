@@ -1,0 +1,29 @@
+{
+  "pmid": "36458947",
+  "title": "What every neuropathologist needs to know: condensed protocol work-up for clinical dementia syndromes.",
+  "abstract": "Concerns about the costs associated with autopsy assessment of Alzheimer disease and related dementias according to 2012 NIA-AA Guidelines have been expressed since the publication of those guidelines. For this reason, we designed and validated a Condensed Protocol for the neuropathologic diagnoses of Alzheimer disease neuropathologic change, Lewy Body disease neuropathologic change, as well as chronic microvascular lesions, hippocampal sclerosis of aging, and cerebral amyloid angiopathy. In this study, the Condensed Protocol is updated to include frontotemporal lobar degeneration [FTLD] tau (corticobasal degeneration, progressive supranuclear palsy, and Pick disease), FTLD-TDP, and limbic-predominant, age-related TDP-43 encephalopathy. The same 20 brain regions are sampled and processed in 5 tissue cassettes, which reduces reagent costs by approximately 65%. Three board-certified neuropathologists were blinded to the original Northwestern University Alzheimer's Disease Research Center Original Protocol neuropathological diagnoses and all clinical history information. The results yielded near uniform agreement with the original comprehensive Alzheimer's Disease Research Center neuropathologic assessments. Diagnostic sensitivity was not impacted. In summary, our recent results show that our updated Condensed Protocol is also an accurate and less expensive alternative to the comprehensive protocols for the additional neuropathologic diagnoses of FTLD Tau and TDP43 proteinopathies.",
+  "journal": "Journal of neuropathology and experimental neurology",
+  "year": "2023",
+  "authors": [
+    "Multz RA",
+    "Spencer C",
+    "Matos A",
+    "Ajroud K",
+    "Zamudio C",
+    "Bigio E",
+    "Mao Q",
+    "Medeiros RA",
+    "Ahrendsen JT",
+    "Castellani RJ",
+    "Flanagan ME"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Alzheimer Disease",
+    "Neuropathology",
+    "Frontotemporal Dementia",
+    "Frontotemporal Lobar Degeneration",
+    "Pick Disease of the Brain",
+    "tau Proteins"
+  ]
+}

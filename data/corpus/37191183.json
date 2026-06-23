@@ -1,0 +1,26 @@
+{
+  "pmid": "37191183",
+  "title": "Preserved autophagy in cognitively intact non-demented individuals with Alzheimer's neuropathology.",
+  "abstract": "INTRODUCTION: Growing evidence supports that dysfunctional autophagy, the major cell mechanism responsible for removing protein aggregates and a route of clearance for Tau in healthy neurons, is a major finding in demented Alzheimer's disease (AD) patients. However, the association of autophagy with maintenance of cognitive integrity in resilient individuals who have AD neuropathology but remain non-demented (NDAN) has not been evaluated. METHODS: Using post mortem brain samples from age-matched healthy control, AD, and NDAN subjects, we evaluated autophagy in relation to Tau pathology using Western blot, immunofluorescence and RNA-seq. RESULTS: Compared to AD patients, NDAN subjects had preserved autophagy and reduced tauopathy. Furthermore, expression of autophagy genes and AD-related proteins were significantly associated in NDAN compared to AD and control subjects. DISCUSSION: Our results suggest preserved autophagy is a protective mechanism that maintains cognitive integrity in NDAN individuals. This novel observation supports the potential of autophagy-inducing strategies in AD therapeutics. HIGHLIGHTS: NDAN subjects have preserved autophagic protein levels comparable with control subjects. Compared to control subjects, NDAN subjects have significantly reduced Tau oligomers and PHF Tau phosphorylation at synapses that negatively correlate with autophagy markers. Transcription of autophagy genes strongly associates with AD-related proteins in NDAN donors.",
+  "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+  "year": "2023",
+  "authors": [
+    "Tumurbaatar B",
+    "Fracassi A",
+    "Scaduto P",
+    "Guptarak J",
+    "Woltjer R",
+    "Jupiter D",
+    "Taglialatela G"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Alzheimer Disease",
+    "tau Proteins",
+    "Brain",
+    "Autophagy",
+    "Neurons",
+    "Neuropathology",
+    "Amyloid beta-Peptides"
+  ]
+}

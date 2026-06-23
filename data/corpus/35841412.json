@@ -1,0 +1,35 @@
+{
+  "pmid": "35841412",
+  "title": "Neuropathologic scales of cerebrovascular disease associated with diffusion changes on MRI.",
+  "abstract": "Summarizing the multiplicity and heterogeneity of cerebrovascular disease (CVD) features into a single measure has been difficult in both neuropathology and imaging studies. The objective of this work was to evaluate the association between neuroimaging surrogates of CVD and two available neuropathologic CVD scales in those with both antemortem imaging CVD measures and postmortem CVD evaluation. Individuals in the Mayo Clinic Study of Aging with MRI scans within 5 years of death (N = 51) were included. Antemortem CVD measures were computed from diffusion MRI (dMRI), FLAIR, and T2* GRE imaging modalities and compared with postmortem neuropathologic findings using Kalaria and Strozyk Scales. Of all the neuroimaging measures, both regional and global dMRI measures were associated with Kalaria and Strozyk Scales (p < 0.05) and modestly correlated with global cognitive performance. The major conclusions from this study were: (i) microstructural white matter injury measurements using dMRI may be meaningful surrogates of neuropathologic CVD scales, because they aid in capturing diffuse (and early) changes to white matter and secondary neurodegeneration due to lesions; (ii) vacuolation in the corpus callosum may be associated with white matter changes measured on antemortem dMRI imaging; (iii) Alzheimer's disease neuropathologic change did not associate with neuropathologic CVD scales; and (iv) future work should be focused on developing better quantitative measures utilizing dMRI to optimally assess CVD-related neuropathologic changes.",
+  "journal": "Acta neuropathologica",
+  "year": "2022",
+  "authors": [
+    "Nguyen AT",
+    "Kouri N",
+    "Labuzan SA",
+    "Przybelski SA",
+    "Lesnick TG",
+    "Raghavan S",
+    "Reid RI",
+    "Reichard RR",
+    "Knopman DS",
+    "Petersen RC",
+    "Jack CR",
+    "Mielke MM",
+    "Dickson DW",
+    "Graff-Radford J",
+    "Murray ME",
+    "Vemuri P"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Neuropathology",
+    "Magnetic Resonance Imaging",
+    "Neuroimaging",
+    "White Matter",
+    "Cerebrovascular Disorders",
+    "Alzheimer Disease",
+    "Brain"
+  ]
+}

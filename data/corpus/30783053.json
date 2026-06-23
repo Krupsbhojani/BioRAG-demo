@@ -1,0 +1,29 @@
+{
+  "pmid": "30783053",
+  "title": "Telemedicine in General Neurology: Interrater Reliability of Clinical Neurological Examination Via Audio-Visual Telemedicine.",
+  "abstract": "INTRODUCTION: While there are several studies on reliability of telemedicine in assessing stroke scales, little is known about the validity of a general neurological examination performed via telemedicine. Therefore, we sought to test the agreement between bedside and remote examination in acute patients of the emergency room. METHODS: Acute patients at the emergency room of a 450-bed academic teaching hospital were included in this study. A clinical neurological examination consisting of 22 items was performed at bedside and also remotely via an audio-visual link by a different neurologist; both were experienced clinicians at the consultant level. Kappa statistics were calculated for each item of the examination. RESULTS: Forty three patients completed both examinations (mean age 58.3 years, 56% female). Patients were seen between 8 and 72 min after admission (mean 36.3 min). Total time for remote examination was 12.6 min (8-21 min) and 8.9 min (5-18 min) for bedside examination. K-coefficients ranged from 0.32 (muscle tone) - 0.82 (language) indicating a fair to excellent agreement in most items. CONCLUSIONS: Remote examination via an audio-visual link produces comparable results to bedside performance even in acute patients of the emergency room. Compared to the scarce data available, inter-observer agreement is about the same as that between 2 examiners at bedside. However, more studies on reliability and validity of clinical neurological examination are required.",
+  "journal": "European neurology",
+  "year": "2019",
+  "authors": [
+    "Awadallah M",
+    "Janssen F",
+    "Körber B",
+    "Breuer L",
+    "Scibor M",
+    "Handschu R"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Aged",
+    "Female",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Neurologic Examination",
+    "Neurologists",
+    "Neurology",
+    "Reproducibility of Results",
+    "Stroke",
+    "Telemedicine"
+  ]
+}

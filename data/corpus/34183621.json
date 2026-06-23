@@ -1,0 +1,33 @@
+{
+  "pmid": "34183621",
+  "title": "Predicting Unplanned Health Care Utilization and Cost: Comparing Patient-reported Outcomes Measurement Information System and Claims.",
+  "abstract": "OBJECTIVES: There is little literature describing if and how payers are utilizing patient-reported outcomes to predict future costs. This study assessed if Patient-reported Outcomes Measurement Information System (PROMIS) domain scores, collected in routine practice at neurology clinics, improved payer predictive models for unplanned care utilization and cost. STUDY DESIGN: Retrospective cohort analysis of private Health Plan-insured patients with visits at 18 Health Plan-affiliated neurology clinics. METHODS: PROMIS domains (Anxiety v1.0, Cognitive Function Abilities v2.0, Depression v1.0, Fatigue v1.0, Pain Interference v1.0, Physical Function v2.0, Sleep Disturbance v1.0, and Ability to Participate in Social Roles and Activities v2.0) are collected as part of routine care. Data from patients' first PROMIS measures between June 27, 2018 and April 16, 2019 were extracted and combined with claims data. Using (1) claims data alone and (2) PROMIS and claims data, we examined the association of covariates to utilization (using a logit model) and cost (using a generalized linear model). We evaluated model fit using area under the receiver operating characteristic curve (for unplanned care utilization), akaike information criterion (for unplanned care costs), and sensitivity and specificity in predicting top 15% of unplanned care costs. RESULTS: Area under the receiver operating curve values were slightly higher, and akaike information criterion values were similar, for PROMIS plus claims covariates compared with claims alone. The PROMIS plus claims model had slightly higher sensitivity and equivalent specificity compared with claims-only models. CONCLUSION: One-time PROMIS measure data combined with claims data slightly improved predictive model performance compared with claims alone, but likely not to an extent that indicates improved practical utility for payers.",
+  "journal": "Medical care",
+  "year": "2021",
+  "authors": [
+    "Kinsky S",
+    "Liang Q",
+    "Bellon J",
+    "Helwig A",
+    "McCracken P",
+    "Minnier T",
+    "Thirumala PD",
+    "Hanmer J"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Aged",
+    "Ambulatory Care Facilities",
+    "Female",
+    "Forecasting",
+    "Health Care Costs",
+    "Humans",
+    "Information Systems",
+    "Male",
+    "Middle Aged",
+    "Neurology",
+    "Patient Acceptance of Health Care",
+    "Patient Reported Outcome Measures",
+    "Retrospective Studies"
+  ]
+}

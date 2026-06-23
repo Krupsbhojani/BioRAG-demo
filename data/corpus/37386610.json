@@ -1,0 +1,31 @@
+{
+  "pmid": "37386610",
+  "title": "The neuropathological landscape of Hispanic and non-Hispanic White decedents with Alzheimer disease.",
+  "abstract": "Despite the increasing demographic diversity of the United States' aging population, there remain significant gaps in post-mortem research investigating the ethnoracial heterogeneity in the neuropathological landscape of Alzheimer Disease (AD). Most autopsy-based studies have focused on cohorts of non-Hispanic White decedents (NHWD), with few studies including Hispanic decedents (HD). We aimed to characterize the neuropathologic landscape of AD in NHWD (n = 185) and HD (n = 92) evaluated in research programs across three institutions: University of California San Diego, University of California Davis, and Columbia University. Only persons with a neuropathologic diagnosis of intermediate/high AD determined by NIA Reagan and/or NIA-AA criteria were included. A frequency-balanced random sample without replacement was drawn from the NHWD group using a 2:1 age and sex matching scheme with HD. Four brain areas were evaluated: posterior hippocampus, frontal, temporal, and parietal cortices. Sections were stained with antibodies against Aβ (4G8) and phosphorylated tau (AT8). We compared the distribution and semi-quantitative densities for neurofibrillary tangles (NFTs), neuropil threads, core, diffuse, and neuritic plaques. All evaluations were conducted by an expert blinded to demographics and group status. Wilcoxon's two-sample test revealed higher levels of neuritic plaques in the frontal cortex (p = 0.02) and neuropil threads (p = 0.02) in HD, and higher levels of cored plaques in the temporal cortex in NHWD (p = 0.02). Results from ordinal logistic regression controlling for age, sex, and site of origin were similar. In other evaluated brain regions, semi-quantitative scores of plaques, tangles, and threads did not differ statistically between groups. Our results demonstrate HD may be disproportionately burdened by AD-related pathologies in select anatomic regions, particularly tau deposits. Further research is warranted to understand the contributions of demographic, genetic, and environmental factors to heterogeneous pathological presentations.",
+  "journal": "Acta neuropathologica communications",
+  "year": "2023",
+  "authors": [
+    "Scalco R",
+    "Saito N",
+    "Beckett L",
+    "Nguyen ML",
+    "Huie E",
+    "Wang HP",
+    "Flaherty DA",
+    "Honig LS",
+    "DeCarli C",
+    "Rissman RA",
+    "Teich AF",
+    "Jin LW",
+    "Dugger BN"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Aged",
+    "Alzheimer Disease",
+    "Plaque, Amyloid",
+    "White",
+    "Neuropathology",
+    "Neurofibrillary Tangles"
+  ]
+}

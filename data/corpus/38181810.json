@@ -1,0 +1,42 @@
+{
+  "pmid": "38181810",
+  "title": "PET-based response assessment criteria for diffuse gliomas (PET RANO 1.0): a report of the RANO group.",
+  "abstract": "Response Assessment in Neuro-Oncology (RANO) response criteria have been established and were updated in 2023 for MRI-based response evaluation of diffuse gliomas in clinical trials. In addition, PET-based imaging with amino acid tracers is increasingly considered for disease monitoring in both clinical practice and clinical trials. So far, a standardised framework defining timepoints for baseline and follow-up investigations and response evaluation criteria for PET imaging of diffuse gliomas has not been established. Therefore, in this Policy Review, we propose a set of criteria for response assessment based on amino acid PET imaging in clinical trials enrolling participants with diffuse gliomas as defined in the 2021 WHO classification of tumours of the central nervous system. These proposed PET RANO criteria provide a conceptual framework that facilitates the structured implementation of PET imaging into clinical research and, ultimately, clinical routine. To this end, the PET RANO 1.0 criteria are intended to encourage specific investigations of amino acid PET imaging of gliomas.",
+  "journal": "The Lancet. Oncology",
+  "year": "2024",
+  "authors": [
+    "Albert NL",
+    "Galldiks N",
+    "Ellingson BM",
+    "van den Bent MJ",
+    "Chang SM",
+    "Cicone F",
+    "de Groot J",
+    "Koh ES",
+    "Law I",
+    "Le Rhun E",
+    "Mair MJ",
+    "Minniti G",
+    "Rudà R",
+    "Scott AM",
+    "Short SC",
+    "Smits M",
+    "Suchorska B",
+    "Tolboom N",
+    "Traub-Weidinger T",
+    "Tonn JC",
+    "Verger A",
+    "Weller M",
+    "Wen PY",
+    "Preusser M"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Glioma",
+    "Amino Acids",
+    "Internal Medicine",
+    "Neurology",
+    "Positron-Emission Tomography",
+    "Transcription Factors"
+  ]
+}

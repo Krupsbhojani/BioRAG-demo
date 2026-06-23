@@ -1,0 +1,25 @@
+{
+  "pmid": "32546652",
+  "title": "Wisdom of the expert crowd prediction of response for 3 neurology randomized trials.",
+  "abstract": "OBJECTIVE: To explore the accuracy of combined neurology expert forecasts in predicting primary endpoints for trials. METHODS: We identified one major randomized trial each in stroke, multiple sclerosis (MS), and amyotrophic lateral sclerosis (ALS) that was closing within 6 months. After recruiting a sample of neurology experts for each disease, we elicited forecasts for the primary endpoint outcomes in the trial placebo and treatment arms. Our main outcome was the accuracy of averaged predictions, measured using ordered Brier scores. Scores were compared against an algorithm that offered noncommittal predictions. RESULTS: Seventy-one neurology experts participated. Combined forecasts of experts were less accurate than a noncommittal prediction algorithm for the stroke trial (pooled Brier score = 0.340, 95% subjective probability interval [sPI] 0.340 to 0.340 vs 0.185 for the uninformed prediction), and approximately as accurate for the MS study (pooled Brier score = 0.107, 95% confidence interval [CI] 0.081 to 0.133 vs 0.098 for the noncommittal prediction) and the ALS study (pooled Brier score = 0.090, 95% CI 0.081 to 0.185 vs 0.090). The 95% sPIs of individual predictions contained actual trial outcomes among 44% of experts. Only 18% showed prediction skill exceeding the noncommittal prediction. Independent experts and coinvestigators achieved similar levels of accuracy. CONCLUSION: In this first-of-kind exploratory study, averaged expert judgments rarely outperformed noncommittal forecasts. However, experts at least anticipated the possibility of effects observed in trials. Our findings, if replicated in different trial samples, caution against the reliance on simple approaches for combining expert opinion in making research and policy decisions.",
+  "journal": "Neurology",
+  "year": "2020",
+  "authors": [
+    "Atanasov P",
+    "Diamantaras A",
+    "MacPherson A",
+    "Vinarov E",
+    "Benjamin DM",
+    "Shrier I",
+    "Paul F",
+    "Dirnagl U",
+    "Kimmelman J"
+  ],
+  "mesh_terms": [
+    "Forecasting",
+    "Humans",
+    "Neurology",
+    "Randomized Controlled Trials as Topic",
+    "Treatment Outcome"
+  ]
+}

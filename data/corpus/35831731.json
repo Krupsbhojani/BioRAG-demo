@@ -1,0 +1,25 @@
+{
+  "pmid": "35831731",
+  "title": "Surge Capacity in the COVID-19 Era: a Natural Experiment of Neurocritical Care in General Critical Care.",
+  "abstract": "BACKGROUND: COVID-19 surges led to significant challenges in ensuring critical care capacity. In response, some centers leveraged neurocritical care (NCC) capacity as part of the surge response, with neurointensivists providing general critical care for patients with COVID-19 without neurologic illness. The relative outcomes of NCC critical care management of patients with COVID-19 remain unclear and may help guide further surge planning and provide broader insights into general critical care provided in NCC units. METHODS: We performed an observational cohort study of all patients requiring critical care for COVID-19 across four hospitals within the Emory Healthcare system during the first three surges. Patients were categorized on the basis of admission to intensive care units (ICUs) staffed by general intensivists or neurointensivists. Patients with primary neurological diagnoses were excluded. Baseline demographics, clinical complications, and outcomes were compared between groups using univariable and propensity score matching statistics. RESULTS: A total of 1141 patients with a primary diagnosis of COVID-19 required ICU admission. ICUs were staffed by general intensivists (n = 1071) or neurointensivists (n = 70). Baseline demographics and presentation characteristics were similar between groups, except for patients admitted to neurointensivist-staffed ICUs being younger (59 vs. 65, p = 0.027) and having a higher PaO CONCLUSIONS: COVID-19 surges precipitated a natural experiment in which neurology-trained neurointensivists provided critical care in a comparable context to general intensivists treating the same disease. Neurology-trained neurointensivists delivered comparable outcomes to those of general ICUs during COVID-19 surges. These results further support the role of NCC in meeting general critical care needs of neurocritically ill patients and as a viable surge resource in general critical care.",
+  "journal": "Neurocritical care",
+  "year": "2023",
+  "authors": [
+    "Philips S",
+    "Shi Y",
+    "Coopersmith CM",
+    "Samuels OB",
+    "Pimentel-Farias C",
+    "Mei Y",
+    "Sadan O",
+    "Akbik F"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "COVID-19",
+    "Surge Capacity",
+    "Critical Care",
+    "Intensive Care Units",
+    "Neurology"
+  ]
+}

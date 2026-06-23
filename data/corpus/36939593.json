@@ -1,0 +1,25 @@
+{
+  "pmid": "36939593",
+  "title": "Neurotology Workforce in the United States: Gender Diversity and Geographic Distribution.",
+  "abstract": "OBJECTIVE: The workforce of neurotology has changed with increasing numbers of accredited programs and diverse representation among trainees over the past several decades. This study aims to describe the characteristics, density, and geographic variation of the current neurotology workforce in the United States. STUDY DESIGN: Cross-sectional study. SETTING: American Board of Otolaryngology-Head and Neck Surgery portal and online search. METHODS: The study cohort included physicians certified in Neurotology by the American Board of Otolaryngology as of 2021 (n = 372). Physician characteristics including years of practice, gender, practice setting, and location were collected. Geographic variation analysis was performed by the state, county, and hospital referral region. Associations between the number of neurotologists per population and socioeconomic characteristics were assessed using multivariable regression analysis. RESULTS: Among 372 neurotologists, 65% practiced in academic settings and 13% were female. The percentage of female neurotologists increased from 0% among neurotologists with ≥30 years of practice to 23% among <10 years of practice. There were no differences in a practice setting by gender. The geographical analysis demonstrated that the average number of neurotologists was 1.1 per 1 million Americans. In a multivariable model, the density of neurotologists was significantly higher within counties with the highest quartiles of college education (β = .6 [95% confidence interval, CI: 0.3-0.8]) and income (β = .3 [95% CI: 0.1-0.6]). CONCLUSION: The number of board-certified neurotologists has gradually increased and there have been trends toward greater gender diversity. The geographical distribution of neurotology practice was concentrated in counties with higher socioeconomic status as expected given the referral-based nature of the subspecialty. There should be efforts to reach out to low socioeconomic communities to ensure equivalent access to neurotological care.",
+  "journal": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+  "year": "2023",
+  "authors": [
+    "Choi JS",
+    "Ziltzer R",
+    "Gadkaree SK",
+    "Adams ME",
+    "Huang TC"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Female",
+    "United States",
+    "Male",
+    "Neurotology",
+    "Cross-Sectional Studies",
+    "Otolaryngology",
+    "Workforce",
+    "Physicians"
+  ]
+}

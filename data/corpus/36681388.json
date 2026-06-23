@@ -1,0 +1,40 @@
+{
+  "pmid": "36681388",
+  "title": "Prediction of neuropathologic lesions from clinical data.",
+  "abstract": "INTRODUCTION: Post-mortem analysis provides definitive diagnoses of neurodegenerative diseases; however, only a few can be diagnosed during life. METHODS: This study employed statistical tools and machine learning to predict 17 neuropathologic lesions from a cohort of 6518 individuals using 381 clinical features (Table S1). The multisite data allowed validation of the model's robustness by splitting train/test sets by clinical sites. A similar study was performed for predicting Alzheimer's disease (AD) neuropathologic change without specific comorbidities. RESULTS: Prediction results show high performance for certain lesions that match or exceed that of research annotation. Neurodegenerative comorbidities in addition to AD neuropathologic change resulted in compounded, but disproportionate, effects across cognitive domains as the comorbidity number increased. DISCUSSION: Certain clinical features could be strongly associated with multiple neurodegenerative diseases, others were lesion-specific, and some were divergent between lesions. Our approach could benefit clinical research, and genetic and biomarker research by enriching cohorts for desired lesions.",
+  "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+  "year": "2023",
+  "authors": [
+    "Phongpreecha T",
+    "Cholerton B",
+    "Bukhari S",
+    "Chang AL",
+    "De Francesco D",
+    "Thuraiappah M",
+    "Godrich D",
+    "Perna A",
+    "Becker MG",
+    "Ravindra NG",
+    "Espinosa C",
+    "Kim Y",
+    "Berson E",
+    "Mataraso S",
+    "Sha SJ",
+    "Fox EJ",
+    "Montine KS",
+    "Baker LD",
+    "Craft S",
+    "White L",
+    "Poston KL",
+    "Beecham G",
+    "Aghaeepour N",
+    "Montine TJ"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Alzheimer Disease",
+    "Comorbidity",
+    "Neuropathology",
+    "Biomarkers"
+  ]
+}

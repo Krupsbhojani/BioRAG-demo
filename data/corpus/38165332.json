@@ -1,0 +1,23 @@
+{
+  "pmid": "38165332",
+  "title": "Geographic Disparities in Access to Neurologists and Multiple Sclerosis Care in the United States.",
+  "abstract": "BACKGROUND AND OBJECTIVES: A shortage of neurology clinicians and healthcare disparities may hinder access to neurologic care. This study examined disparities in geographic access to neurologists and subspecialty multiple sclerosis (MS) care among various demographic segments of the United States. METHODS: Neurologist practice locations from 2022 CMS Care Compare physician data and MS Center locations as defined by the Consortium of Multiple Sclerosis Centers were used to compute spatial access for all U.S. census tracts. Census tract-level community characteristics (sex, age, race, ethnicity, education, income, insurance, % with computer, % without a vehicle, % with limited English, and % with hearing, vision, cognitive, and ambulatory difficulty) were obtained from 2020 American Community Survey 5-year estimates. Rural-urban status was obtained from 2010 rural-urban commuting area codes. Logistic and linear regression models were used to examine access to a neurologist or MS Center within 60 miles and 60-mile spatial access ratios. RESULTS: Of 70,858 census tracts, 388 had no neurologists within 60 miles and 17,837 had no MS centers within 60 miles. Geographic access to neurologists (spatial access ratio [99% CI]) was lower for rural (-80.49%; CI [-81.65 to -79.30]) and micropolitan (-60.50%; CI [-62.40 to -58.51]) areas compared with metropolitan areas. Tracts with 10% greater percentage of Hispanic individuals (-4.53%; CI [-5.23 to -3.83]), men (-6.76%; CI [-8.96 to -4.5]), uninsured (-7.99%; CI [-9.72 to -6.21]), individuals with hearing difficulty (-40.72%; CI [-44.62 to -36.54]), vision difficulty (-13.0%; [-18.72 to -6.89]), and ambulatory difficulty (-15.68%; CI [-19.25 to -11.95]) had lower access to neurologists. Census tracts with 10% greater Black individuals (3.50%; CI [2.93-10.71]), college degree holders (-7.49%; CI [6.67-8.32]), individuals with computers (16.57%, CI [13.82-19.40]), individuals without a vehicle (9.57%; CI [8.69-10.47]), individuals with cognitive difficulty (25.63%; CI [19.77-31.78]), and individuals with limited English (18.5%; CI [16.30-20.73]), and 10-year older individuals (8.85%; CI [7.03-10.71]) had higher spatial access to neurologists. Covariates for access followed similar patterns for MS centers. DISCUSSION: Geographic access to neurologists is decreased in rural areas, in areas with higher proportions of Hispanics, populations with disabilities, and those uninsured. Access is further limited for MS subspecialty care. This study highlights disparities in geographic access to neurologic care.",
+  "journal": "Neurology",
+  "year": "2024",
+  "authors": [
+    "McGinley MP",
+    "Harvey T",
+    "Lopez R",
+    "Ontaneda D",
+    "Buchalter RB"
+  ],
+  "mesh_terms": [
+    "Male",
+    "Humans",
+    "Neurologists",
+    "Mobility Limitation",
+    "Multiple Sclerosis",
+    "Physicians",
+    "Neurology"
+  ]
+}

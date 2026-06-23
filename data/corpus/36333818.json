@@ -1,0 +1,40 @@
+{
+  "pmid": "36333818",
+  "title": "Single-cell spatial proteomic imaging for human neuropathology.",
+  "abstract": "Neurodegenerative disorders are characterized by phenotypic changes and hallmark proteopathies. Quantifying these in archival human brain tissues remains indispensable for validating animal models and understanding disease mechanisms. We present a framework for nanometer-scale, spatial proteomics with multiplex ion beam imaging (MIBI) for capturing neuropathological features. MIBI facilitated simultaneous, quantitative imaging of 36 proteins on archival human hippocampus from individuals spanning cognitively normal to dementia. Customized analysis strategies identified cell types and proteopathies in the hippocampus across stages of Alzheimer's disease (AD) neuropathologic change. We show microglia-pathologic tau interactions in hippocampal CA1 subfield in AD dementia. Data driven, sample independent creation of spatial proteomic regions identified persistent neurons in pathologic tau neighborhoods expressing mitochondrial protein MFN2, regardless of cognitive status, suggesting a survival advantage. Our study revealed unique insights from multiplexed imaging and data-driven approaches for neuropathologic analysis and serves broadly as a methodology for spatial proteomic analysis of archival human neuropathology. TEASER: Multiplex Ion beam Imaging enables deep spatial phenotyping of human neuropathology-associated cellular and disease features.",
+  "journal": "Acta neuropathologica communications",
+  "year": "2022",
+  "authors": [
+    "Vijayaragavan K",
+    "Cannon BJ",
+    "Tebaykin D",
+    "Bossé M",
+    "Baranski A",
+    "Oliveria JP",
+    "Bukhari SA",
+    "Mrdjen D",
+    "Corces MR",
+    "McCaffrey EF",
+    "Greenwald NF",
+    "Sigal Y",
+    "Marquez D",
+    "Khair Z",
+    "Bruce T",
+    "Goldston M",
+    "Bharadwaj A",
+    "Montine KS",
+    "Angelo RM",
+    "Montine TJ",
+    "Bendall SC"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Proteomics",
+    "Neuropathology",
+    "Alzheimer Disease",
+    "Hippocampus",
+    "Microglia",
+    "tau Proteins"
+  ]
+}

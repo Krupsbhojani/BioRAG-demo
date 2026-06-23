@@ -1,0 +1,19 @@
+{
+  "pmid": "36443304",
+  "title": "Quantum affective processes for multidimensional decision-making.",
+  "abstract": "In modeling the human affective system and applying lessons learned to human-robot interaction, the challenge is to handle ambiguous emotional states of an agency (whether human or artificial), probabilistic decisions, and freedom of choice in affective and behavioral patterns. Moreover, many cognitive processes seem to run in parallel whereas seriality is the standard in conventional computation. Representation of contextual aspects of behavior and processes and of self-directed neuroplasticity are still wanted and so we attempt a quantum-computational construction of robot affect, which theoretically should be able to account for indefinite and ambiguous states as well as parallelism. Our Quantum Coppélia (Q-Coppélia) is a translation into quantum logics of the fuzzy-based Silicon Coppélia system, which simulates the progression of a robot's attitude towards its user. We show the entire circuitry of the Q-Coppélia framework, aiming at contemporary descriptions of (neuro)psychological processes. Arguably, our work provides a system for simulating and handling affective interactions among various agencies from an understanding of the relations between quantum algorithms and the fundamental nature of psychology.",
+  "journal": "Scientific reports",
+  "year": "2022",
+  "authors": [
+    "Ho JKW",
+    "Hoorn JF"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Algorithms",
+    "Emotions",
+    "Neurology",
+    "Neuronal Plasticity",
+    "Silicon"
+  ]
+}

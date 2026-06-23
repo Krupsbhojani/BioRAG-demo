@@ -1,0 +1,28 @@
+{
+  "pmid": "31899366",
+  "title": "A third of community-dwelling elderly with intermediate and high level of Alzheimer's neuropathologic changes are not demented: A meta-analysis.",
+  "abstract": "This systematic review and meta-analysis assessed the bidirectional association between AD pathology and dementia in community-dwelling elderly populations. We searched PubMed/MEDLINE, Embase, Scopus, Web of Science, and references of the pertinent articles for community/population-based longitudinal cohorts with regular assessment of cognitive status of participants followed by postmortem neuropathology data, with no language and date restrictions, until 20 September 2019. Finally, we retrieved 18 articles with data from 17 cohorts comprising 4677 persons. Dementia was twice as likely in participants with definitive neuropathological indicator for AD compared to those without it: moderate/high Braak and Braak (BB) stages III-VI of neurofibrillary tangles (54 % vs. 26 % in participants with BB stages 0-II), the Consortium to Establish a Registry for AD (CERAD) moderate/frequent neuritic plaques scores (64 % vs. 33 % in participants with CERAD none/infrequent), and National Institute on Aging and the Reagan Institute of the Alzheimer's Association criteria intermediate/high AD probability (52 % vs. 28 % in participants with no/low AD probability). Accordingly, a substantial proportion of community-dwelling elderly people with definitive AD pathology may not develop dementia. Brain reserve or contribution of other factors and pathologies, such as vascular and degenerative pathology to dementia might explain this apparent discrepancy. These findings also suggest caution in equating Alzheimer pathology biomarkers with dementia.",
+  "journal": "Ageing research reviews",
+  "year": "2020",
+  "authors": [
+    "Azarpazhooh MR",
+    "Avan A",
+    "Cipriano LE",
+    "Munoz DG",
+    "Erfanian M",
+    "Amiri A",
+    "Stranges S",
+    "Hachinski V"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Alzheimer Disease",
+    "Brain",
+    "Dementia",
+    "Humans",
+    "Independent Living",
+    "Neurofibrillary Tangles",
+    "Neuropathology",
+    "Plaque, Amyloid"
+  ]
+}

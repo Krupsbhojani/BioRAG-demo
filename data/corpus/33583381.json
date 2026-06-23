@@ -1,0 +1,32 @@
+{
+  "pmid": "33583381",
+  "title": "The Contribution of Cerebral Vascular Neuropathology to Mild Stage of Alzheimer's Dementia Using the NACC Database.",
+  "abstract": "BACKGROUND: The interaction between cerebral vessel disease (CVD) pathology and Alzheimer's disease (AD) pathology in the development of dementia is controversial. We examined the association of cerebral vascular neuropathology and cerebrovascular risk factors with the mild stage of Alzheimer's dementia and cognitive function. METHODS: This cross-sectional study included men and women aged 60 years or over who had yearly clinical assessments and had agreed to brain autopsy at the time of death, and who contributed to data stored at the National Alzheimer's Coordinating Center (NACC) in the USA. Cognitively normal and impaired subjects with presumptive aetiology of AD, including mild cognitive impairment (ADMCI) and dementia (Alzheimer's dementia), and with complete neuropathological data, were included in our analyses. We used neuropsychological data proximate to death to create summary measures of global cognition and cognitive domains. Systematic neuropathological assessments documenting the severity of cerebral vascular pathology were included. Logistic and linear regression analyses corrected for age at death, sex and Lewy body pathology were used to examine associations of vessel disease with the severity of Alzheimer's disease dementia, and cognitive function, respectively. RESULTS: No significant relationship was observed between late-life risk factors and Alzheimer's dementia. The severity of arteriosclerosis and presence of global infarcts/lacunes were related to mild Alzheimer's dementia (B=0.423, p<0.001; B=0.366, p=0.026), and the effects were significant after adjusting for neuritic plaques and neurofibrillary tangles (B=0.385, p<0.001; B=0.63, p=0.001). When vascular brain injuries were subdivided into old and acute/subacute types, we found that old microinfarcts and old microbleeds were associated with mild Alzheimer's dementia (B=0.754, p=0.007; B=2.331, p=0.032). The old microinfarcts remained significantly associated with mild Alzheimer's dementia after correcting AD pathologies (B=1.31, p<0.001). In addition, the number of microinfarcts in the cerebral cortex had a significant relation with mild Alzheimer's dementia, whether or not the data were corrected for AD pathologies (B=0.616, p=0.016; B=0.884, p=0.005). Atherosclerosis, arteriosclerosis and white matter rarefaction were found to be significantly associated with faster progression of Alzheimer's dementia (B=0.068, p=0.001; B=0.046, p=0.016, B=0.081, p=0.037), but white matter rarefaction no longer had a significant effect after adjusting for AD pathologies. We also found that the severity of atherosclerosis was related to impairment in processing speed (β=-0.112, p=0.006) and executive function (β=-0.092, p=0.023). Arteriosclerosis was significantly associated with language (β=-0.103, p=0.011) and global cognition (β=-0.098, p=0.016) deficits. CONCLUSION: Our study found the significant relation of global, old, acute/subacute and regional cerebral vascular pathologies, but not white matter rarefaction, to the onset and severity of Alzheimer's dementia. We also showed that late-life risk factors were found to have no relation with Alzheimer's dementia, and the increased risk of dementia with APOE ε4 is not mediated by CVD. The best interpretation of these findings is that CVD has a potential additive effect with AD pathologies in the development and progression of what is clinically diagnosed as Alzheimer's dementia.",
+  "journal": "Current Alzheimer research",
+  "year": "2021",
+  "authors": [
+    "Liu Y",
+    "Chan DK",
+    "Crawford JD",
+    "Sachdev PS",
+    "Braidy N"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Aged, 80 and over",
+    "Alzheimer Disease",
+    "Autopsy",
+    "Brain",
+    "Cerebrovascular Disorders",
+    "Cognitive Dysfunction",
+    "Cross-Sectional Studies",
+    "Databases, Factual",
+    "Female",
+    "Humans",
+    "Male",
+    "Neurofibrillary Tangles",
+    "Neuropathology",
+    "Neuropsychological Tests",
+    "Plaque, Amyloid"
+  ]
+}

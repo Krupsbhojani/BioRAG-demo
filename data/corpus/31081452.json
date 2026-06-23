@@ -1,0 +1,23 @@
+{
+  "pmid": "31081452",
+  "title": "Construction of three-dimensional printed anatomic models for frontal sinus education.",
+  "abstract": "BACKGROUND: The anatomy of the frontal sinus can pose a challenge for many neuroradiolgists and otolaryngologists, especially trainees. While much of resident education occurs in didactics, self-study or in the operating room, studies suggest that some trainees prefer hands-on learning. Three-dimensional (3D) printing technology provides users the opportunity to make customizable low-cost objects that provide tactile learning-a learning modality that may be preferable in education. METHODS: Three-dimensional printed models of frontal sinus anatomy based on selected patient computed tomography scans that represent various air cells according to the International Frontal Sinus Classification (IFAC) as different colored solid structures were printed using binder jetting. RESULTS: Seven unique de-identified patient scans were selected as the basis for the models so that all frontal cell types described in the IFAC scheme are represented between all 3D printed models. CONCLUSION: This paper describes the technology and process necessary to create these models.",
+  "journal": "The neuroradiology journal",
+  "year": "2020",
+  "authors": [
+    "Low CM",
+    "Choby G",
+    "Viozzi M",
+    "Morris JM"
+  ],
+  "mesh_terms": [
+    "Education, Medical, Graduate",
+    "Frontal Sinus",
+    "Humans",
+    "Models, Anatomic",
+    "Neurology",
+    "Otolaryngology",
+    "Printing, Three-Dimensional",
+    "Radiology"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "pmid": "32363889",
+  "title": "Comparison of Materials Used for 3D-Printing Temporal Bone Models to Simulate Surgical Dissection.",
+  "abstract": "OBJECTIVE: To identify 3D-printed temporal bone (TB) models that most accurately recreate cortical mastoidectomy for use as a training tool by comparison of different materials and fabrication methods. BACKGROUND: There are several different printers and materials available to create 3D-printed TB models for surgical planning and trainee education. Current reports using Acrylonitrile Butadiene Styrene (ABS) plastic generated via fused deposition modeling (FDM) have validated the capacity for 3D-printed models to serve as accurate surgical simulators. Here, a head-to-head comparison of models produced using different materials and fabrication processes was performed to identify superior models for application in skull base surgical training. METHODS: High-resolution CT scans of normal TBs were used to create stereolithography files with image conversion for application in 3D-printing. The 3D-printed models were constructed using five different materials and four printers, including ABS printed on a MakerBot 2x printer, photopolymerizable polymer (Photo) using the Objet 350 Connex3 Printer, polycarbonate (PC) using the FDM-Fortus 400 mc printer, and two types of photocrosslinkable acrylic resin, white and blue (FLW and FLB, respectively), using the Formlabs Form 2 stereolithography printer. Printed TBs were drilled to assess the haptic experience and recreation of TB anatomy with comparison to the current paradigm of ABS. RESULTS: Surgical drilling demonstrated that FLW models created by FDM as well as PC and Photo models generated using photopolymerization more closely recreated cortical mastoidectomy compared to ABS models. ABS generated odor and did not represent the anatomy accurately. Blue resin performed poorly in simulation, likely due to its dark color and translucent appearance. CONCLUSIONS: PC, Photo, and FLW models best replicated surgical drilling and anatomy as compared to ABS and FLB models. These prototypes are reliable simulators for surgical training.",
+  "journal": "The Annals of otology, rhinology, and laryngology",
+  "year": "2020",
+  "authors": [
+    "McMillan A",
+    "Kocharyan A",
+    "Dekker SE",
+    "Kikano EG",
+    "Garg A",
+    "Huang VW",
+    "Moon N",
+    "Cooke M",
+    "Mowry SE"
+  ],
+  "mesh_terms": [
+    "Acrylic Resins",
+    "Butadienes",
+    "Humans",
+    "Mastoidectomy",
+    "Materials Testing",
+    "Models, Anatomic",
+    "Neurotology",
+    "Otologic Surgical Procedures",
+    "Polycarboxylate Cement",
+    "Polymers",
+    "Polystyrenes",
+    "Printing, Three-Dimensional",
+    "Simulation Training",
+    "Stereolithography",
+    "Temporal Bone",
+    "Tomography, X-Ray Computed"
+  ]
+}

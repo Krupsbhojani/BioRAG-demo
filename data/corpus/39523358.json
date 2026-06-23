@@ -1,0 +1,30 @@
+{
+  "pmid": "39523358",
+  "title": "Genes to therapy: a comprehensive literature review of whole-exome sequencing in neurology and neurosurgery.",
+  "abstract": "Whole-exome sequencing (WES), a ground-breaking technology, has emerged as a linchpin in neurology and neurosurgery, offering a comprehensive elucidation of the genetic landscape of various neurological disorders. This transformative methodology concentrates on the exonic portions of DNA, which constitute approximately 1% of the human genome, thus facilitating an expedited and efficient sequencing process. WES has been instrumental in advancing our understanding of neurodegenerative diseases, neuro-oncology, cerebrovascular disorders, and epilepsy by revealing rare variants and novel mutations and providing intricate insights into their genetic complexities. This has been achieved while maintaining a substantial diagnostic yield, thereby offering novel perspectives on the pathophysiology and personalized management of these conditions. The utilization of WES boasts several advantages over alternative genetic sequencing methodologies, including cost-effectiveness, reduced incidental findings, simplified analysis and interpretation process, and reduced computational demands. However, despite its benefits, there are challenges, such as the interpretation of variants of unknown significance, cost considerations, and limited accessibility in resource-constrained settings. Additionally, ethical, legal, and social concerns are raised, particularly in the context of incidental findings and patient consent. As we look to the future, the integration of WES with other omics-based approaches could help revolutionize the field of personalized medicine through its implications in predictive models and the development of targeted therapeutic strategies, marking a significant stride toward more effective and clinically oriented solutions.",
+  "journal": "European journal of medical research",
+  "year": "2024",
+  "authors": [
+    "Tan JK",
+    "Awuah WA",
+    "Ahluwalia A",
+    "Sanker V",
+    "Ben-Jaafar A",
+    "Tenkorang PO",
+    "Aderinto N",
+    "Mehta A",
+    "Darko K",
+    "Shah MH",
+    "Roy S",
+    "Abdul-Rahman T",
+    "Atallah O"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Exome Sequencing",
+    "Neurosurgery",
+    "Neurology",
+    "Nervous System Diseases",
+    "Precision Medicine"
+  ]
+}

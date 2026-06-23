@@ -1,0 +1,28 @@
+{
+  "pmid": "31914231",
+  "title": "Late-life cognitive decline is associated with hippocampal volume, above and beyond its associations with traditional neuropathologic indices.",
+  "abstract": "INTRODUCTION: Reduced hippocampal volume is associated with late-life cognitive decline, but prior studies have not determined whether this association persists after accounting for Alzheimer's disease (AD) and other neuropathologies. METHODS: Participants were 531 deceased older adults from community-based cohort studies of aging who had undergone annual cognitive evaluations. At death, brain tissue underwent neuropathologic examination and magnetic resonance imaging (MRI). Linear mixed models examined whether hippocampal volume measured via MRI accounted for variation in decline rate of global cognition and five cognitive domains, above and beyond neuropathologic indices. RESULTS: Demographics and indices of AD, cerebrovascular disease, Lewy body disease, hippocampal sclerosis, TDP-43, and atherosclerosis accounted for 42.6% of the variation in global cognitive decline. Hippocampal volume accounted for an additional 5.4% of this variation and made similar contributions in four of the five cognitive domains. DISCUSSION: Hippocampal volume is associated with late-life cognitive decline, above and beyond contributions from common neuropathologic indices.",
+  "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+  "year": "2020",
+  "authors": [
+    "Dawe RJ",
+    "Yu L",
+    "Arfanakis K",
+    "Schneider JA",
+    "Bennett DA",
+    "Boyle PA"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Aging",
+    "Brain",
+    "Cognitive Dysfunction",
+    "Female",
+    "Hippocampus",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Neuropathology",
+    "Temporal Lobe"
+  ]
+}

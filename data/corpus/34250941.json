@@ -1,0 +1,27 @@
+{
+  "pmid": "34250941",
+  "title": "Antemortem Visit-To-Visit Blood Pressure Variability Predicts Cerebrovascular Lesion Burden in Autopsy-Confirmed Alzheimer's Disease.",
+  "abstract": "BACKGROUND: Blood pressure variability is linked to Alzheimer's disease (AD) risk and MRI-based markers of cerebrovascular disease. Less is known about the role of blood pressure variability in postmortem evaluation of cerebrovascular disease and AD. OBJECTIVE: To determine whether antemortem blood pressure variability predicts cerebrovascular and AD pathology and follow-up cognitive change in autopsy-confirmed AD. METHODS: National Alzheimer's Coordinating Center participants (n = 513) underwent 3-4 approximately annual blood pressure measurements and were confirmed to have AD at postmortem evaluation. A subset (n = 493) underwent neuropsychological evaluation at follow-up. Regression models examined relationships between blood pressure variability and cerebrovascular and AD pathological features and follow-up cognitive change. RESULTS: Elevated blood pressure variability predicted increased postmortem cerebrovascular lesion burden (ß = 0.26 [0.10, 0.42]; p = 0.001; R2 = 0.12). Increased blood pressure variability predicted specific cerebrovascular lesion severity, including atherosclerosis in the Circle of Willis (OR = 1.22 [1.03, 1.44]; p = 0.02) and cerebral arteriolosclerosis (OR = 1.32 [1.04, 1.69]; p = 0.03). No significant relationships were observed between blood pressure variability and AD pathological findings, including Braak & Braak stage, neuritic plaques or diffuse plaques, or cerebral amyloid angiopathy, or follow-up cognitive decline. CONCLUSION: Findings suggest that elevated blood pressure variability is related to postmortem cerebrovascular lesion burden in autopsy-confirmed AD, independent of average blood pressure and AD neuropathology. Blood pressure fluctuation may selectively promote atherosclerotic and arteriolosclerotic brain lesions with potential implications for cognitive impairment and dementia.",
+  "journal": "Journal of Alzheimer's disease : JAD",
+  "year": "2021",
+  "authors": [
+    "Sible IJ",
+    "Bangen KJ",
+    "Blanken AE",
+    "Ho JK",
+    "Nation DA"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Alzheimer Disease",
+    "Autopsy",
+    "Blood Pressure",
+    "Cerebrovascular Disorders",
+    "Female",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Neuropathology",
+    "Neuropsychological Tests"
+  ]
+}

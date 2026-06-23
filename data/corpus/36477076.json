@@ -1,0 +1,17 @@
+{
+  "pmid": "36477076",
+  "title": "The effects of microglia on tauopathy progression can be quantified using Nexopathy in silico (Nexis) models.",
+  "abstract": "The prion-like transsynaptic propagation of misfolded tau along the brain's connectome has previously been modeled using connectome-based network diffusion models. In addition to the connectome, interactions between the general neurological \"milieu\" in the neurodegenerative brain and proteinopathic species can also contribute to pathology propagation. Such a molecular nexopathy framework posits that the distinct characteristics of neurodegenerative disorders stem from interactions between the network and surrounding molecular players. However, the effects of these modulators remain unquantified. Here, we present Nexopathy in silico (\"Nexis\"), a quantitative model of tau progression augmenting earlier models by including parameters of pathology propagation defined by the molecular modulators of connectome-based spread. Our Nexis:microglia model provides the first quantitative characterization of this effect on the whole brain by expanding previous models of neuropathology progression by incorporating microglial influence. We show that Trem2, but not microglial homeostasis genes, significantly improved the model's predictive power. Trem2 appears to reduce tau accumulation rate while increasing its interregional spread from the hippocampal seed area, causing higher tau burden in the striatum, pallidum, and contralateral hippocampus. Nexis provides an improved understanding and quantification of microglial contribution to tau propagation and can be flexibly modified to include other modulators of progressive neurodegeneration.",
+  "journal": "Scientific reports",
+  "year": "2022",
+  "authors": [
+    "Anand C",
+    "Maia PD",
+    "Torok J",
+    "Mezias C",
+    "Raj A"
+  ],
+  "mesh_terms": [
+    "Neuropathology"
+  ]
+}

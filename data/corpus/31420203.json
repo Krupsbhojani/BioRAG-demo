@@ -1,0 +1,31 @@
+{
+  "pmid": "31420203",
+  "title": "Neuropsychological latent classes at enrollment and postmortem neuropathology.",
+  "abstract": "INTRODUCTION: We classified individuals based on their baseline performance on cognitive measures and investigated the association between cognitive classifications and neuropathological findings ∼7 years later, as an external validator. METHODS: Brain autopsies of 779 decedents were examined. Baseline latent class analysis on 10 neuropsychological measures was previously assigned: mixed-domains impairment (n = 39, 5%), memory-specific impairment (n = 210, 27%), frontal impairment (n = 113, 14.5%), average cognition (n = 360, 46.2%), and superior cognition (n = 57, 7.3%). Linear regressions and risks ratios were used to examine the relation of latent class assignment at enrollment with neuropathological indices. RESULTS: Amyloid β, tau, and transactive response DNA-binding protein 43 were associated with mixed-domains impairment and memory-specific impairment classes ∼7 years before death. Moderate arteriolosclerosis was associated with membership in the frontal impairment class. DISCUSSION: Our findings support the use of latent class models that incorporate more comprehensive neuropsychological measures to classify cognitive impairment.",
+  "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+  "year": "2020",
+  "authors": [
+    "Zammit AR",
+    "Hall CB",
+    "Bennett DA",
+    "Ezzati A",
+    "Katz MJ",
+    "Muniz-Terrera G",
+    "Lipton RB"
+  ],
+  "mesh_terms": [
+    "Aged, 80 and over",
+    "Amyloid beta-Peptides",
+    "Autopsy",
+    "Brain",
+    "Cognition",
+    "Cognitive Dysfunction",
+    "Female",
+    "Humans",
+    "Male",
+    "Memory Disorders",
+    "Neuropathology",
+    "Neuropsychological Tests",
+    "tau Proteins"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pmid": "30635049",
+  "title": "Morphological analysis of sigmoid sinus anatomy: clinical applications to neurotological surgery.",
+  "abstract": "OBJECTIVES: The primary objective of this study was to use high-resolution micro-CT images to create accurate three-dimensional (3D) models of several intratemporal structures, and to compare several surgically important dimensions within the temporal bone. The secondary objective was to create a statistical shape model (SSM) of a dominant and non-dominant sigmoid sinus (SS) to provide a template for automated segmentation algorithms. METHODS: A free image processing software, 3D Slicer, was utilized to create three-dimensional reconstructions of the SS, jugular bulb (JB), facial nerve (FN), and external auditory canal (EAC) from micro-CT scans. The models were used to compare several clinically important dimensions between the dominant and non-dominant SS. Anatomic variability of the SS was also analyzed using SSMs generated using the Statismo software framework. RESULTS: Three-dimensional models from 38 temporal bones were generated and analyzed. Right dominance was observed in 74% of the paired SSs. All distances were significantly shorter on the dominant side (p < 0.05), including: EAC - SS (dominant: 13.7 ± 3.4 mm; non-dominant: 15.3 ± 2.7 mm), FN - SS (dominant: 7.2 ± 1.8 mm; non-dominant: 8.1 ± 2.3 mm), 2nd genu FN - superior tip of JB (dominant: 8.7 ± 2.2 mm; non-dominant: 11.2 ± 2.6 mm), horizontal distance between the superior tip of JB - descending FN (dominant: 9.5 ± 2.3 mm; non-dominant: 13.2 ± 3.5 mm), and horizontal distance between the FN at the stylomastoid foramen - JB (dominant: 5.4 ± 2.2 mm; non-dominant: 7.7 ± 2.1). Analysis of the SSMs indicated that SS morphology is most variable at its junction with the transverse sinus, and least variable at the JB. CONCLUSIONS: This is the first known study to investigate the anatomical variation and relationships of the SS using high resolution scans, 3D  models and statistical shape analysis. This analysis seeks to guide neurotological surgical approaches and provide a template for automated segmentation and surgical simulation.",
+  "journal": "Journal of otolaryngology - head & neck surgery = Le Journal d'oto-rhino-laryngologie et de chirurgie cervico-faciale",
+  "year": "2019",
+  "authors": [
+    "Van Osch K",
+    "Allen D",
+    "Gare B",
+    "Hudson TJ",
+    "Ladak H",
+    "Agrawal SK"
+  ],
+  "mesh_terms": [
+    "Algorithms",
+    "Cadaver",
+    "Cranial Sinuses",
+    "Humans",
+    "Imaging, Three-Dimensional",
+    "Models, Anatomic",
+    "Neurotology",
+    "Temporal Bone",
+    "X-Ray Microtomography"
+  ]
+}

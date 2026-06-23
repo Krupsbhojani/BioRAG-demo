@@ -1,0 +1,36 @@
+{
+  "pmid": "34145002",
+  "title": "Quality of Neurologic Care in the United States: Initial Report From the Axon Registry.",
+  "abstract": "OBJECTIVE: To provide the initial description of the quality of outpatient US neurologic care as collected and reported in the Axon Registry. METHODS: We describe characteristics of registry participants and the performance of neurology providers on 20 of the 2019 Axon Registry quality measures. From the distribution of providers' scores on a quality measure, we calculate the median performance for each quality measure. We test for associations between quality measure performance, provider characteristics, and intrinsic measure parameters. RESULTS: There were 948 neurology providers who contributed a total of 6,480 provider-metric observations. Overall, the average quality measure performance score at the provider level was 66 (median 77). At the measure level (n = 20), the average quality measure performance score was 53 (median 55) with a range of 2 to 100 (interquartile range 20-91). Measures with a lower-complexity category (e.g., discrete orders, singular concepts) or developed through the specialty's qualified clinical data registry pathway had higher performance distributions. There was no difference in performance between Merit-Based Incentive Payment System (MIPS) and non-MIPS providers. There was no association between quality measure performance and practice size, measure clinical topic/neurologic condition, or measure year of entry. CONCLUSIONS: This cross-sectional assessment of quality measure performance in 2019 Axon Registry data demonstrates modest performance scores and considerable variability across measures and providers. More complex measures were associated with lower performance. These findings serve as a baseline assessment of quality of ambulatory neurologic care in the United States and provide insights into future measure design.",
+  "journal": "Neurology",
+  "year": "2021",
+  "authors": [
+    "Wilson AM",
+    "Benish SM",
+    "McCarthy L",
+    "Romano JG",
+    "Lundgren KB",
+    "Byrne M",
+    "Schierman B",
+    "Jones LK"
+  ],
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Aged",
+    "Ambulatory Care",
+    "Cross-Sectional Studies",
+    "Female",
+    "Health Services Research",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Nervous System Diseases",
+    "Neurologists",
+    "Neurology",
+    "Professional Practice",
+    "Quality Indicators, Health Care",
+    "Registries",
+    "Young Adult"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "pmid": "32152955",
+  "title": "Neurocritical Care: Bench to Bedside (Eds. Claude Hemphill, Michael James) Integrating and Using Big Data in Neurocritical Care.",
+  "abstract": "The critical care environment drives huge volumes of data, and clinicians are tasked with quickly processing this data and responding to it urgently. The neurocritical care environment increasingly involves EEG, multimodal intracranial monitoring, and complex imaging which preclude comprehensive human synthesis, and requires new concepts to integrate data into clinical care. By definition, Big Data is data that cannot be handled using traditional infrastructures and is characterized by the volume, variety, velocity, and variability of the data being produced. Big Data in the neurocritical care unit requires rethinking of data storage infrastructures and the development of tools and analytics to drive advancements in the field. Preprocessing, feature extraction, statistical inference, and analytic tools are required in order to achieve the primary goals of Big Data for clinical use: description, prediction, and prescription. Barriers to its use at bedside include a lack of infrastructure development within the healthcare industry, lack of standardization of data inputs, and ultimately existential and scientific concerns about the outputs that result from the use of tools such as artificial intelligence. However, as implied by the fundamental theorem of biomedical informatics, physicians remain central to the development and utility of Big Data to improve patient care.",
+  "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
+  "year": "2021",
+  "authors": [
+    "Foreman B"
+  ],
+  "mesh_terms": [
+    "Big Data",
+    "Critical Care",
+    "Humans",
+    "Medical Informatics",
+    "Neurology"
+  ]
+}

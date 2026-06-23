@@ -1,0 +1,43 @@
+{
+  "pmid": "32414996",
+  "title": "Neurosurgery and Neurology Practices during the Novel COVID-19 Pandemic: A Consensus Statement from India.",
+  "abstract": "BACKGROUND: The COVID-19 infection outbreak has aroused increasing attention and affected thousands of people nationwide. The long incubation period, high infectious rate, varied manifestation, and absence of effective treatment make it difficult to manage the disease transmission. OBJECTIVE: The intended goals are to encourage efficient management of neurological and neurosurgical patients, resource utilization, and protecting the healthcare provider during the COVID-19 epidemic. Herein, we present a consensus statement from various centers in India. METHODOLOGY: In addition to the literature review, recommendations were included from neurologists and neurosurgeons from various centers in India. RESULTS: Every patient presenting for treatment should be treated as a potential asymptomatic infected case. Patients should be categorized based upon the priority as acute (require immediate treatment/surgery within 24 h), sub-acute (requiring treatment within a maximum of 7-10 days), or chronic (requiring treatment within a month). Non-essential elective surgeries and outpatient clinics should be avoided after informing the patient(s). There is a high risk of aerosol dispersion during intubation and certain neurosurgical procedures particularly those involving drills and endoscopes. These procedures should be performed wearing full personal protective equipment. The workflow of the operating rooms should also be modified significantly. Minor modifications in personal and professional lifestyles and routine training to use the PPE will ensure efficient management of resources. CONCLUSION: These recommendations could be used to mitigate the risks and reduce exposure to other patients, public, and healthcare staff.",
+  "journal": "Neurology India",
+  "year": "2020",
+  "authors": [
+    "Gupta P",
+    "Muthukumar N",
+    "Rajshekhar V",
+    "Tripathi M",
+    "Thomas S",
+    "Gupta SK",
+    "Lal V",
+    "Pal P",
+    "Abraham M",
+    "Behari S",
+    "Paliwal V",
+    "Singh D",
+    "Pandey S",
+    "Narasimhan L",
+    "Srinivas D",
+    "Panda S",
+    "Kale SS",
+    "Chandra PS"
+  ],
+  "mesh_terms": [
+    "COVID-19",
+    "Consensus",
+    "Coronavirus Infections",
+    "Disease Transmission, Infectious",
+    "Humans",
+    "Infection Control",
+    "Infectious Disease Transmission, Patient-to-Professional",
+    "Neurology",
+    "Neurosurgery",
+    "Neurosurgical Procedures",
+    "Pandemics",
+    "Patient Care",
+    "Personal Protective Equipment",
+    "Pneumonia, Viral"
+  ]
+}

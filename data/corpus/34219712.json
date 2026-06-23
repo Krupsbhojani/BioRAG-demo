@@ -1,0 +1,29 @@
+{
+  "pmid": "34219712",
+  "title": "Neuronal Cell Cycle Re-Entry Enhances Neuropathological Features in AppNLF Knock-In Mice.",
+  "abstract": "BACKGROUND: Aberrant cell cycle re-entry is a well-documented process occurring early in Alzheimer's disease (AD). This is an early feature of the disease and may contribute to disease pathogenesis. OBJECTIVE: To assess the effect of forced neuronal cell cycle re-entry in mice expressing humanized Aβ, we crossed our neuronal cell cycle re-entry mouse model with AppNLF knock-in (KI) mice. METHODS: Our neuronal cell cycle re-entry (NCCR) mouse model is bitransgenic mice heterozygous for both Camk2a-tTA and TRE-SV40T. The NCCR mice were crossed with AppNLF KI mice to generate NCCR-AppNLF animals. Using this tet-off system, we triggered NCCR in our animals via neuronal expression of SV40T starting at 1 month of age. The animals were examined at the following time points: 9, 12, and 18 months of age. Various neuropathological features in our mice were evaluated by image analysis and stereology on brain sections stained using either immunofluorescence or immunohistochemistry. RESULTS: We show that neuronal cell cycle re-entry in humanized Aβ plaque producing AppNLF KI mice results in the development of additional AD-related pathologies, namely, pathological tau, neuroinflammation, brain leukocyte infiltration, DNA damage response, and neurodegeneration. CONCLUSION: Our findings show that neuronal cell cycle re-entry enhances AD-related neuropathological features in AppNLF mice and highlight our unique AD mouse model for studying the pathogenic role of aberrant cell cycle re-entry in AD.",
+  "journal": "Journal of Alzheimer's disease : JAD",
+  "year": "2021",
+  "authors": [
+    "Barrett T",
+    "Stangis KA",
+    "Saito T",
+    "Saido T",
+    "Park KHJ"
+  ],
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Amyloid beta-Peptides",
+    "Animals",
+    "Brain",
+    "Cell Cycle",
+    "Disease Models, Animal",
+    "Gene Knock-In Techniques",
+    "Humans",
+    "Mice",
+    "Mice, Transgenic",
+    "Mutation",
+    "Neurons",
+    "Neuropathology"
+  ]
+}

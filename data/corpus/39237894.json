@@ -1,0 +1,24 @@
+{
+  "pmid": "39237894",
+  "title": "Evaluating guideline and registration policies among neurology journals: a cross-sectional analysis.",
+  "abstract": "BACKGROUND: Neurological disorders have had a substantial rise the last three decades, imposing substantial burdens on both patients and healthcare costs. Consequently, the demand for high-quality research has become crucial for exploring effective treatment options. However, current neurology research has some limitations in terms of transparency, reproducibility, and reporting bias. The adoption of reporting guidelines (RGs) and trial registration policies has been proven to address these issues and improve research quality in other medical disciplines. It is unclear the extent to which these policies are being endorsed by neurology journals. Therefore, our study aims to evaluate the publishing policies of top neurology journals regarding RGs and trial registration. METHODS: For this cross-sectional study, neurology journals were identified using the 2021 Scopus CiteScore Tool. The top 100 journals were listed and screened for eligibility for our study. In a masked, duplicate fashion, investigators extracted data on journal characteristics, policies on RGs, and policies on trial registration using information from each journal's Instruction for Authors webpage. Additionally, investigators contacted journal editors to ensure information was current and accurate. No human participants were involved in this study. Our data collection and analyses were performed from December 14, 2022, to January 9, 2023. RESULTS: Of the 356 neurology journals identified, the top 100 were included into our sample. The five-year impact of these journals ranged from 50.844 to 2.226 (mean [SD], 7.82 [7.01]). Twenty-five (25.0%) journals did not require or recommend a single RG within their Instructions for Authors webpage, and a third (33.0%) did not require or recommend clinical trial registration. The most frequently mentioned RGs were CONSORT (64.6%), PRISMA (52.5%), and ARRIVE (53.1%). The least mentioned RG was QUOROM (1.0%), followed by MOOSE (9.0%), and SQUIRE (17.9%). CONCLUSIONS: While many top neurology journals endorse the use of RGs and trial registries, there are still areas where their adoption can be improved. Addressing these shortcomings leads to further advancements in the field of neurology, resulting in higher-quality research and better outcomes for patients.",
+  "journal": "BMC neurology",
+  "year": "2024",
+  "authors": [
+    "Tran AV",
+    "Stadler JK",
+    "Ernst Z",
+    "Smith CA",
+    "Nees D",
+    "Hughes GK",
+    "Vassar M"
+  ],
+  "mesh_terms": [
+    "Clinical Trials as Topic",
+    "Cross-Sectional Studies",
+    "Editorial Policies",
+    "Neurology",
+    "Periodicals as Topic",
+    "Practice Guidelines as Topic"
+  ]
+}

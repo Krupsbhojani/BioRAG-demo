@@ -1,0 +1,32 @@
+{
+  "pmid": "34152062",
+  "title": "European Academy of Neurology and European Federation of Neurorehabilitation Societies guideline on pharmacological support in early motor rehabilitation after acute ischaemic stroke.",
+  "abstract": "BACKGROUND AND PURPOSE: Early pharmacological support for post-stroke neurorehabilitation has seen an abundance of mixed results from clinical trials, leaving practitioners at a loss regarding the best options to improve patient outcomes. The objective of this evidence-based guideline is to support clinical decision-making of healthcare professionals involved in the recovery of stroke survivors. METHODS: This guideline was developed using the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) framework. PubMed, Cochrane Library and Embase were searched (from database inception to June 2018, inclusive) to identify studies on pharmacological interventions for stroke rehabilitation initiated in the first 7 days (inclusive) after stroke, which were delivered together with neurorehabilitation. A sensitivity analysis was conducted on identified interventions to address results from breaking studies (from end of search to February 2020). RESULTS: Upon manually screening 17,969 unique database entries (of 57,001 original query results), interventions underwent meta-analysis. Cerebrolysin (30 ml/day, intravenous, minimum 10 days) and citalopram (20 mg/day, oral) are recommended for clinical use for early neurorehabilitation after acute ischaemic stroke. The remaining interventions identified by our systematic search are not recommended for clinical use: amphetamine (5, 10 mg/day, oral), citalopram (10 mg/day, oral), dextroamphetamine (10 mg/day, oral), Di-Huang-Yi-Zhi (2 × 18 g/day, oral), fluoxetine (20 mg/day, oral), lithium (2 × 300 mg/day, oral), MLC601(3 × 400 mg/day, oral), phosphodiesterase-5 inhibitor PF-03049423 (6 mg/day, oral). No recommendation 'for' or 'against' is provided for selegiline (5 mg/day, oral). Issues with safety and tolerability were identified for amphetamine, dextroamphetamine, fluoxetine and lithium. CONCLUSIONS: This guideline provides information for clinicians regarding existing pharmacological support in interventions for neurorecovery after acute ischaemic stroke. Updates to this material will potentially elucidate existing conundrums, improve current recommendations, and hopefully expand therapeutic options for stroke survivors.",
+  "journal": "European journal of neurology",
+  "year": "2021",
+  "authors": [
+    "Beghi E",
+    "Binder H",
+    "Birle C",
+    "Bornstein N",
+    "Diserens K",
+    "Groppa S",
+    "Homberg V",
+    "Lisnic V",
+    "Pugliatti M",
+    "Randall G",
+    "Saltuari L",
+    "Strilciuc S",
+    "Vester J",
+    "Muresanu D"
+  ],
+  "mesh_terms": [
+    "Brain Ischemia",
+    "Humans",
+    "Ischemic Stroke",
+    "Neurological Rehabilitation",
+    "Neurology",
+    "Stroke",
+    "Stroke Rehabilitation"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "pmid": "37816646",
+  "title": "Large Language Models in Neurology Research and Future Practice.",
+  "abstract": "Recent advancements in generative artificial intelligence, particularly using large language models (LLMs), are gaining increased public attention. We provide a perspective on the potential of LLMs to analyze enormous amounts of data from medical records and gain insights on specific topics in neurology. In addition, we explore use cases for LLMs, such as early diagnosis, supporting patient and caregivers, and acting as an assistant for clinicians. We point to the potential ethical and technical challenges raised by LLMs, such as concerns about privacy and data security, potential biases in the data for model training, and the need for careful validation of results. Researchers must consider these challenges and take steps to address them to ensure that their work is conducted in a safe and responsible manner. Despite these challenges, LLMs offer promising opportunities for improving care and treatment of various neurologic disorders",
+  "journal": "Neurology",
+  "year": "2023",
+  "authors": [
+    "Romano MF",
+    "Shih LC",
+    "Paschalidis IC",
+    "Au R",
+    "Kolachalama VB"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Artificial Intelligence",
+    "Neurology",
+    "Language",
+    "Medical Records",
+    "Research Personnel"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "37634667",
+  "title": "Chat GPT as a Neuro-Score Calculator: Analysis of a Large Language Model's Performance on Various Neurological Exam Grading Scales.",
+  "abstract": "BACKGROUND: ChatGPT is a large language model artificial intelligence chatbot that has been applied to different aspects of the medical field. Our study aims to assess the quality of chatGPT to evaluate patients based on their exams for different scores including Glasgow Coma Scale (GCS), intracranial hemorrhage score (ICH), and Hunt & Hess (H&H) classification. METHODS: We created batches of patient test cases with detailed neurological exams, totaling 20 cases and created variants of increasing complex phrasing of the test cases. Using ChatGPT, we assessed repeatability and quantified the errors, including the average error rate (AER) and magnitude of errors (AME). We repeated this process for the H&H and the ICH score using base cases. Specific prompts were created for each calculator. RESULTS: The GCS calculator on 10 base test cases had an AER/AME of 10%/0.150. The accuracy of ChatGPT decreased with increasing complexity; for example, in a variation where crucial information was missing, the AER was 45% for 20 cases. For H&H, AER/AME was 13%/0.13 and for ICH, AER/AME was 27.5%/0.325. Using a simple prompt resulted in a significantly higher error rate of 70%. CONCLUSIONS: ChatGPT demonstrates ability in this proof-of-concept experiment in evaluating neuroexams using established assessment scales including GCS, ICH, and H&H. However, it has limitations in accuracy and may \"hallucinate\" with complex or vague descriptions. Nonetheless, ChatGPT, has promising potential in medicine.",
+  "journal": "World neurosurgery",
+  "year": "2023",
+  "authors": [
+    "Chen TC",
+    "Kaminski E",
+    "Koduri L",
+    "Singer A",
+    "Singer J",
+    "Couldwell M",
+    "Delashaw J",
+    "Dumont A",
+    "Wang A"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Artificial Intelligence",
+    "Neurology",
+    "Medicine",
+    "Glasgow Coma Scale",
+    "Intracranial Hemorrhages",
+    "Language"
+  ]
+}

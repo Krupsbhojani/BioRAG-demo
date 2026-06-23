@@ -1,0 +1,27 @@
+{
+  "pmid": "37672212",
+  "title": "Neuronal maturation-dependent nano-neuro interaction and modulation.",
+  "abstract": "Nanotechnology-enabled neuromodulation is a promising minimally-invasive tool in neuroscience and engineering for both fundamental studies and clinical applications. However, the nano-neuro interaction at different stages of maturation of a neural network and its implications for the nano-neuromodulation remain unclear. Here, we report heterogeneous to homogeneous transformation of neuromodulation in a progressively maturing neural network. Utilizing plasmonic-fluors as ultrabright fluorescent nanolabels, we reveal that negative surface charge of nanoparticles renders selective nano-neuro interaction with a strong correlation between the maturation stage of the individual neurons in the neural network and the density of the nanoparticles bound on the neurons. In stark contrast to homogeneous neuromodulation in a mature neural network reported so far, the maturation-dependent density of the nanoparticles bound to neurons in a developing neural network resulted in a heterogeneous optical neuromodulation (",
+  "journal": "Nanoscale horizons",
+  "year": "2023",
+  "authors": [
+    "Gupta P",
+    "Rathi P",
+    "Gupta R",
+    "Baldi H",
+    "Coquerel Q",
+    "Debnath A",
+    "Derami HG",
+    "Raman B",
+    "Singamaneni S"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Neurons",
+    "Neurology",
+    "Neurogenesis",
+    "Brain",
+    "Nanotechnology",
+    "Mammals"
+  ]
+}

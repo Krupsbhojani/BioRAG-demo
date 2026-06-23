@@ -1,0 +1,30 @@
+{
+  "pmid": "36905813",
+  "title": "The evolution of comprehensive genetic analysis in neurology: Implications for precision medicine.",
+  "abstract": "Technological advancements have facilitated the availability of reliable and thorough genetic analysis in many medical fields, including neurology. In this review, we focus on the importance of selecting the appropriate genetic test to aid in the accurate identification of disease utilizing currently employed technologies for analyzing monogenic neurological disorders. Moreover, the applicability of comprehensive analysis via NGS for various genetically heterogeneous neurological disorders is reviewed, revealing its efficiency in clarifying a frequently cloudy diagnostic picture and delivering a conclusive and solid diagnosis that is essential for the proper management of the patient. The feasibility and effectiveness of medical genetics in neurology require interdisciplinary cooperation among several medical specialties and geneticists, to select and perform the most relevant test according to each patient's medical history, using the most appropriate technological tools. The prerequisites for a comprehensive genetic analysis are discussed, highlighting the utility of appropriate gene selection, variant annotation, and classification. Moreover, genetic counseling and interdisciplinary collaboration could improve diagnostic yield further. Additionally, a sub-analysis is conducted on the 1,502,769 variation records with submitted interpretations in the Clinical Variation (ClinVar) database, with a focus on neurology-related genes, to clarify the value of suitable variant categorization. Finally, we review the current applications of genetic analysis in the diagnosis and personalized management of neurological patients and the advances in the research and scientific knowledge of hereditary neurological disorders that are evolving the utility of genetic analysis towards the individualization of the treatment strategy.",
+  "journal": "Journal of the neurological sciences",
+  "year": "2023",
+  "authors": [
+    "Papadopoulou E",
+    "Pepe G",
+    "Konitsiotis S",
+    "Chondrogiorgi M",
+    "Grigoriadis N",
+    "Kimiskidis VK",
+    "Tsivgoulis G",
+    "Mitsikostas DD",
+    "Chroni E",
+    "Domouzoglou E",
+    "Tsaousis G",
+    "Nasioulas G"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Precision Medicine",
+    "Genetic Testing",
+    "Neurology",
+    "Nervous System Diseases",
+    "Databases, Factual",
+    "High-Throughput Nucleotide Sequencing"
+  ]
+}

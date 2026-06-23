@@ -1,0 +1,26 @@
+{
+  "pmid": "31089720",
+  "title": "The 30-day unplanned readmission rate and hospital volume: a national population-based study in South Korea.",
+  "abstract": "OBJECTIVE: To examine the association between hospital volume and the unplanned 30-day readmission rate as a quality measure. DESIGN: A retrospective cross-sectional study. SETTING: The Korea healthcare system is operated by a single payer under the National Health Insurance Service. PARTICIPANTS: Using national health claims data of the Health Insurance Review and Assessment in South Korea, we examined 1 296 275 adult discharges (≥18 years old) from 90 hospitals (≥500 beds) in the 2013 calendar year. MAIN OUTCOME MEASURES: We analysed the 30-day, unplanned, observed-to-expected standardized readmission rate for hospitals and for five specialty cohorts: medicine, surgery/gynaecology, cardiovascular, cardiorespiratory, and neurology. We assessed the association between hospital volume by tertiles and the 30-day standardized readmission rates with and without adjustment for hospital characteristics. RESULTS: The rate for the lowest-volume hospitals was 6.10 compared with 6.20 for the highest-volume hospitals. We observed the standardized readmission rates did not differ significantly between the lowest- and highest-volume groups, except for the neurology cohort, which remained significant after adjusting for hospital characteristics. CONCLUSIONS: The standardized readmission rates were not associated with hospital volume, except for the neurology cohort, in which the standardized readmission rate was significantly higher in the highest-volume hospitals than in lowest- and intermediate-volume hospitals, which was not consistent with the typical association of greater hospital volume with better outcomes. This association was independent of hospital characteristics. Therefore, the rate of readmissions should be used with caution when gauging the quality of hospital care according to hospital volume.",
+  "journal": "International journal for quality in health care : journal of the International Society for Quality in Health Care",
+  "year": "2020",
+  "authors": [
+    "Lee HY",
+    "Shin JY",
+    "Lee SA",
+    "Ju YJ",
+    "Park EC"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Cross-Sectional Studies",
+    "Hospitals, High-Volume",
+    "Hospitals, Low-Volume",
+    "Humans",
+    "Neurology",
+    "Patient Readmission",
+    "Quality Indicators, Health Care",
+    "Republic of Korea",
+    "Retrospective Studies"
+  ]
+}

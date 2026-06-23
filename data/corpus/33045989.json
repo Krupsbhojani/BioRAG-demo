@@ -1,0 +1,30 @@
+{
+  "pmid": "33045989",
+  "title": "Evaluation of regional ventilation by electric impedance tomography during percutaneous dilatational tracheostomy in neurocritical care: a pilot study.",
+  "abstract": "BACKGROUND: Percutaneous dilatational tracheostomy (PDT) has become a widely performed technique in neurocritical care, which is however known to be accompanied by some risks to the patient. The aim of this pilot study was to assess the derecruitment effects of PDT with the electric impedance tomography (EIT) during the PDT procedure in neurocritical care. METHODS: The prospective observational pilot study investigated 11 adult, intubated, mechanically ventilated patients with acute brain disease. We recorded EIT data to determine regional ventilation delay standard deviation (RVD SD), compliance win (CW) and loss (CL), end-expiratory lung impedance (EELI), with the EIT belt placed at the level of Th 4 before, during and after the PDT, performed in the standard PDT position ensuring hyperextension of the neck. RESULTS: From 11 patients, we finally analyzed EIT data in 6 patients - EIT data of 5 patients have been excluded due to the insufficient EIT recordings. The mean RVD SD post-PDT decreased to 7.00 ± 1.29% from 7.33 ± 1.89%. The mean post-PDT CW was 27.33 ± 15.81 and PDT CL 6.33 ± 6.55. Only in one patient, where the trachea was open for 170 s, was a massive dorsal collapse (∆EELI - 25%) detected. In other patients, the trachea was open from 15 to 50 s. CONCLUSIONS: This pilot study demonstrated the feasibility of EIT to detect early lung derecruitment occurring due to the PDT procedure. The ability to detect regional changes in ventilation could be helpful in predicting further progression of ventilation impairment and subsequent hypoxemia, to consider optimal ventilation regimes or time-schedule and type of recruitment maneuvres required after the PDT.",
+  "journal": "BMC neurology",
+  "year": "2021",
+  "authors": [
+    "Spatenkova V",
+    "Teschner E",
+    "Jedlicka J"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Critical Care",
+    "Electric Impedance",
+    "Female",
+    "Humans",
+    "Lung Diseases",
+    "Male",
+    "Middle Aged",
+    "Monitoring, Physiologic",
+    "Neurology",
+    "Pilot Projects",
+    "Prospective Studies",
+    "Respiration",
+    "Respiration, Artificial",
+    "Tomography",
+    "Tracheostomy"
+  ]
+}

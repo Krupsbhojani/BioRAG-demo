@@ -1,0 +1,21 @@
+{
+  "pmid": "33184980",
+  "title": "Diagnostic and investigative approach of consultant neurologists in a real-world clinical setting: A pilot study.",
+  "abstract": "PURPOSE: Whilst core curricula in neurology are nationally standardised, in real-world clinical practice, different approaches may be taken by individual consultants. The aims of this study were to investigate differences by assessing: (a) variance in diagnostic and investigative practice, using a case-based analysis of inter-rater agreement; (b) potential importance of any differences in terms of patient care; (c) relationships between clinical experience, diagnostic certainty, diagnostic peer-agreement and investigative approach. The objective was to develop novel individualised metrics to facilitate reflection and appraisal. METHODS: Three neurologists with 6-23 years' experience at consultant level provided diagnosis, certainty (10-point Likert scale), and investigative approach for 200 consecutive general neurology outpatients seen by a newly qualified consultant in 2015. Diagnostic agreement was evaluated by percentage agreement. The potential importance of any diagnostic differences on patient outcome was assigned a score (6-point Likert scale) by the evaluating neurologist. Associations between diagnostic agreement, certainty and investigative approach were assessed using Spearman correlation, logistic and ordinal regression, and reported as individualised metrics for each rater. RESULTS: Diagnostic peer-agreement was 3/3, 2/3 and 1/3 in 55.5%, 31.0% and 13.5% of cases, respectively. In 15.5%, differences in patient management were judged potentially important. Investigation rates were 42%-73%. Mean diagnostic certainty ranged from 6.63/10 (SD 1.98) to 7.72/10 (SD 2.20) between least and most experienced consultants. Greater diagnostic certainty was associated with greater diagnostic peer-agreement (individual-rater regression coefficients 0.33-0.44, P < .01) and lower odds of arranging investigations (individual-rater odds ratios 0.56-0.71, P < .01). CONCLUSIONS: It appears that variance in diagnostic and investigative practice between consultant neurologists exists and may result in differing management. Mean diagnostic certainty was associated with greater diagnostic peer-agreement and lower investigation rates. Metrics reflecting concordance with peers, and relationships to diagnostic confidence, could be developed in larger cohorts to inform reflective practice.",
+  "journal": "International journal of clinical practice",
+  "year": "2021",
+  "authors": [
+    "Aitchison C",
+    "Blackburn DJ",
+    "Khan A",
+    "Grünewald RA",
+    "Jenkins TM"
+  ],
+  "mesh_terms": [
+    "Consultants",
+    "Humans",
+    "Neurologists",
+    "Neurology",
+    "Pilot Projects"
+  ]
+}

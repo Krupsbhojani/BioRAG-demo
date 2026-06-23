@@ -1,0 +1,39 @@
+{
+  "pmid": "38447117",
+  "title": "Disparities in Genetic Testing for Neurologic Disorders.",
+  "abstract": "BACKGROUND AND OBJECTIVES: Genetic testing is now the standard of care for many neurologic conditions. Health care disparities are unfortunately widespread in the US health care system, but disparities in the utilization of genetic testing for neurologic conditions have not been studied. We tested the hypothesis that access to and results of genetic testing vary according to race, ethnicity, sex, socioeconomic status, and insurance status for adults with neurologic conditions. METHODS: We analyzed retrospective data from patients who underwent genetic evaluation and testing through our institution's neurogenetics program. We tested for differences between demographic groups in 3 steps of a genetic evaluation pathway: (1) attending a neurogenetic evaluation, (2) completing genetic testing, and (3) receiving a diagnostic result. We compared patients on this genetic evaluation pathway with the population of all neurology outpatients at our institution, using univariate and multivariable logistic regression analyses. RESULTS: Between 2015 and 2022, a total of 128,440 patients were seen in our outpatient neurology clinics and 2,540 patients underwent genetic evaluation. Black patients were less than half as likely as White patients to be evaluated (odds ratio [OR] 0.49, DISCUSSION: We observed unequal utilization of our clinical neurogenetics program for patients from marginalized and minoritized demographic groups, especially Black patients. Among patients who do undergo evaluation, all groups benefit similarly from genetic testing when it is indicated. Understanding and removing barriers to accessing genetic testing will be essential to health care equity and optimal care for all patients with neurologic disorders.",
+  "journal": "Neurology",
+  "year": "2024",
+  "authors": [
+    "Baldwin A",
+    "Copeland J",
+    "Azage M",
+    "Dratch L",
+    "Johnson K",
+    "Paul RA",
+    "Amado DA",
+    "Baer M",
+    "Deik A",
+    "Elman LB",
+    "Guo M",
+    "Hamedani AG",
+    "Irwin DJ",
+    "Lasker A",
+    "Orthmann-Murphy J",
+    "Quinn CC",
+    "Tropea TF",
+    "Scherer SS",
+    "Shinohara RT",
+    "Hamilton RH",
+    "Ellis CA"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Humans",
+    "Retrospective Studies",
+    "Nervous System Diseases",
+    "Neurology",
+    "Ambulatory Care Facilities",
+    "Genetic Testing"
+  ]
+}

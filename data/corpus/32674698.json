@@ -1,0 +1,22 @@
+{
+  "pmid": "32674698",
+  "title": "Electronic patient portal utilization by neurology patients and association with outcomes.",
+  "abstract": "Existing literature on electronic patient portals demonstrates mixed findings for portal user demographic patterns and relationships between portal usage and clinical outcomes. This study sought to determine characteristics of portal users specific to a neurology patient population and examine whether usage predicted decreased clinic visits and risk of hospitalization. A cross-sectional analysis on 13,483 patients seen at a tertiary neurology outpatient clinic over a 1-year period found significant associations between demographics, and interactions between age, sex, and race. Black and Hispanic patients were less likely to be portal users. While females had higher odds of portal usage overall, their probability decreased with increasing age. Portal users had higher rates of clinic utilization but no difference in hospitalization risk. These results highlight demographics that may need strategic targeting to increase portal uptake and the need for other interventions for populations more likely to experience health events resulting in hospitalization.",
+  "journal": "Health informatics journal",
+  "year": "2021",
+  "authors": [
+    "Ochoa C",
+    "Baron-Lee J",
+    "Popescu C",
+    "Busl KM"
+  ],
+  "mesh_terms": [
+    "Black or African American",
+    "Cross-Sectional Studies",
+    "Electronics",
+    "Female",
+    "Humans",
+    "Neurology",
+    "Patient Portals"
+  ]
+}

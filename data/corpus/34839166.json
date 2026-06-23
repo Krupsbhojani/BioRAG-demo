@@ -1,0 +1,23 @@
+{
+  "pmid": "34839166",
+  "title": "What do biomarkers add: Mapping quantitative imaging biomarkers research.",
+  "abstract": "PURPOSE: To understand the contribution of the concept of \"biomarker\" to quantitative imaging research. METHOD: The study consists of a bibliometric and a network analysis of quantitative imaging biomarkers research based on publication data retrieved from the Web of Science (WoS) for the period 1976-2017. Co-authorship is used as a proxy for scientific collaboration among research groups. Research groups are disambiguated and assigned to an institutional sector and to a medical specialty or academic discipline. Co-occurrence maps of specialties are built to delineate the collaborative network structure of this emerging field. RESULTS: Two very distinct growth patterns emerged from the 5432 publications retrieved from WoS. Scientific production on «quantitative imaging biomarkers» (QIB) began 20 years after the first publications on «quantitative imaging» (QI). The field of QIB has exhibited rapid growth becoming the most used term since 2011. Among the 12,882 institutions identified, 56% include the term QIB and 44% include the term QI; among the 14,734 different research groups identified, 60% include the term QIB and 40% the term QI. QIB is characterized by a well-established community of researchers whose largest contributors are in medical specialties (radiology 17%, neurology 16%, mental 10%, oncology 10%), while QI shows a more fragmented and diverse community (radiology 13%, engineering 13%, physics 10%, oncology 9%, neurology 6%, biology 4%, nuclear 3%, computing 3%). This suggests a qualitative difference between QIB and QI networks. CONCLUSIONS: Adding biomarkers to quantitative imaging suggests that medical imaging is rapidly evolving, driven by the efforts to translate quantitative imaging research into clinical practice.",
+  "journal": "European journal of radiology",
+  "year": "2022",
+  "authors": [
+    "Meseguer E",
+    "Barberá-Tomás D",
+    "Benito-Amat C",
+    "Díaz-Faes AA",
+    "Martí-Bonmatí L"
+  ],
+  "mesh_terms": [
+    "Authorship",
+    "Bibliometrics",
+    "Biomarkers",
+    "Biomedical Research",
+    "Diagnostic Imaging",
+    "Humans",
+    "Neurology"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "38437669",
+  "title": "Evolving concepts in margin strategies and adaptive radiotherapy for glioblastoma: A new future is on the horizon.",
+  "abstract": "Chemoradiotherapy is the standard treatment after maximal safe resection for glioblastoma (GBM). Despite advances in molecular profiling, surgical techniques, and neuro-imaging, there have been no major breakthroughs in radiotherapy (RT) volumes in decades. Although the majority of recurrences occur within the original gross tumor volume (GTV), treatment of a clinical target volume (CTV) ranging from 1.5 to 3.0 cm beyond the GTV remains the standard of care. Over the past 15 years, the incorporation of standard and functional MRI sequences into the treatment workflow has become a routine practice with increasing adoption of MR simulators, and new integrated MR-Linac technologies allowing for daily pre-, intra- and post-treatment MR imaging. There is now unprecedented ability to understand the tumor dynamics and biology of GBM during RT, and safe CTV margin reduction is being investigated with the goal of improving the therapeutic ratio. The purpose of this review is to discuss margin strategies and the potential for adaptive RT for GBM, with a focus on the challenges and opportunities associated with both online and offline adaptive workflows. Lastly, opportunities to biologically guide adaptive RT using non-invasive imaging biomarkers and the potential to define appropriate volumes for dose modification will be discussed.",
+  "journal": "Neuro-oncology",
+  "year": "2024",
+  "authors": [
+    "Tseng CL",
+    "Zeng KL",
+    "Mellon EA",
+    "Soltys SG",
+    "Ruschin M",
+    "Lau AZ",
+    "Lutsik NS",
+    "Chan RW",
+    "Detsky J",
+    "Stewart J",
+    "Maralani PJ",
+    "Sahgal A"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Glioblastoma",
+    "Radiation Oncology",
+    "Chemoradiotherapy",
+    "Neurology"
+  ]
+}

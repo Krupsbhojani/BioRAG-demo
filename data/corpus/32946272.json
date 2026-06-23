@@ -1,0 +1,23 @@
+{
+  "pmid": "32946272",
+  "title": "Artificial Intelligence and Deep Learning in Neuroradiology: Exploring the New Frontier.",
+  "abstract": "There have been many recently published studies exploring machine learning (ML) and deep learning applications within neuroradiology. The improvement in performance of these techniques has resulted in an ever-increasing number of commercially available tools for the neuroradiologist. In this narrative review, recent publications exploring ML in neuroradiology are assessed with a focus on several key clinical domains. In particular, major advances are reviewed in the context of: (1) intracranial hemorrhage detection, (2) stroke imaging, (3) intracranial aneurysm screening, (4) multiple sclerosis imaging, (5) neuro-oncology, (6) head and tumor imaging, and (7) spine imaging.",
+  "journal": "Canadian Association of Radiologists journal = Journal l'Association canadienne des radiologistes",
+  "year": "2021",
+  "authors": [
+    "Kaka H",
+    "Zhang E",
+    "Khan N"
+  ],
+  "mesh_terms": [
+    "Artificial Intelligence",
+    "Deep Learning",
+    "Humans",
+    "Image Interpretation, Computer-Assisted",
+    "Magnetic Resonance Imaging",
+    "Neurology",
+    "Neuroradiography",
+    "Radiology",
+    "Tomography, X-Ray Computed"
+  ]
+}

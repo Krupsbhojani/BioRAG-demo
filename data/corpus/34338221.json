@@ -1,0 +1,26 @@
+{
+  "pmid": "34338221",
+  "title": "Management of Neurocysticercosis in Children: Association of Child Neurology Consensus Guidelines.",
+  "abstract": "JUSTIFICATION: Neurocysticercosis (NCC) is a significant problem in India and other developing countries; however, several aspects of this disease have no clear, practical guidelines. There is a need for pragmatic guidelines, summarizing the available evidence, and filling in the gaps in evidence with expert advice to manage children with neurocysticercosis. PROCESS: An expert group (16 members) and a writing group (8 members) was constituted, consisting of members with varied expertise. It included pediatric neurologists (18), neurologist (1), Neuroradiologists (4), and a parasitologist (1). The writing group divided the six topics and reviewed the literature on the topics individually to determine the clinical questions for which no clear guidance was available from the literature. The experts were then contacted and opinions were obtained online. The Delphi consensus method was adopted to arrive at a general consensus regarding various questions, with both the experts and the writing group members contributing. The final guidelines were then drafted by the writing group. RECOMMENDATIONS: Diagnosis of NCC should be based on clinical history and neuroimaging. Contrast-enhanced magnetic resonance imaging of the brain is the modality of choice. For single enhancing lesion, albendazole therapy for 10-14 days is recommended, and it should be combined with praziquantel for 10-14 days for more than one ring-enhancing lesions. For persistent lesion, the same dose and duration of albendazole or concurrent administration of albendazole and praziquantel should be given. Pulse intravenous steroids should be used to reduce the acute symptomatic edema in children with cysticercal encephalitis. Carbamazepine or oxcarbazepine are best suited for seizure prophylaxis for those who present with seizures; phenytoin and levetiracetam are the other alternatives. In the case of NCC presenting with symptoms other than seizures, there appears to be no role for routine anti-seizure medication prophylaxis. For a single ring-enhancing lesion, six months of anti-seizure medication is sufficient if the lesion resolves on follow-up. Those with persistent lesions, calcification, or multiple lesions, require a longer treatment duration of at least 24 months.",
+  "journal": "Indian pediatrics",
+  "year": "2021",
+  "authors": [
+    "Sankhyan N",
+    "Kadwa RA",
+    "Kamate M",
+    "Kannan L",
+    "Kumar A",
+    "Passi GR",
+    "Sharawat IK",
+    "Singhi P"
+  ],
+  "mesh_terms": [
+    "Albendazole",
+    "Child",
+    "Humans",
+    "Neurocysticercosis",
+    "Neurology",
+    "Phenytoin",
+    "Seizures"
+  ]
+}

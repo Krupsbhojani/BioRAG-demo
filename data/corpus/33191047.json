@@ -1,0 +1,41 @@
+{
+  "pmid": "33191047",
+  "title": "Factors associated with hospitalization for ischemic stroke and TIA following an emergency department headache visit.",
+  "abstract": "BACKGROUND: Misdiagnosis of cerebrovascular disease among Emergency Department (ED) patients with headache has been reported. We hypothesized that markers of substandard diagnostic processes would be associated with subsequent ischemic cerebrovascular events among patients discharged from the ED with a headache diagnosis even after adjusting for demographic variables and medical history. METHODS: We conducted a case-control study of adult ED patients diagnosed with a primary headache disorder at Montefiore Medical Center from 9/1/2013-9/1/2018. Cases were defined as patients hospitalized for an ischemic stroke or TIA within 365 days of their index ED visit. Control patients were defined as those who lacked a subsequent hospitalization for cerebrovascular disease. Pre-specified demographic, clinical, and diagnostic process factors were compared between groups; conditional logistic regression was used to assess the separate and joint influence of baseline features on risk of cerebral ischemia. RESULTS: A total of 93 consecutive headache patients with a subsequent ischemic stroke/TIA hospitalization were matched to 93 controls (n = 186). Cases were older than controls and more likely to have traditional cerebrovascular risk factors. Neurological consultation was obtained more often for cases (13% vs. 4%; P = 0.03), cases were in the ED for longer (6 vs. 5 h, P = 0.03), and more frequently received neuroimaging (80% vs. 48%; P < 0.0001). Rates of neurological examination, documented differential diagnoses, and clear discharge follow up plans were similar between cases and controls. In our conditional logistic regression model, only history of prior stroke/TIA was associated with increased odds of subsequent cerebral ischemia. CONCLUSION: Factors associated with diagnostic process failures did not increase the odds of subsequent ischemic stroke/TIA hospitalization following ED headache visit in our study.",
+  "journal": "The American journal of emergency medicine",
+  "year": "2021",
+  "authors": [
+    "Liberman AL",
+    "Lu J",
+    "Wang C",
+    "Cheng NT",
+    "Moncrieffe K",
+    "Lipton RB"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Age Factors",
+    "Aged",
+    "Aged, 80 and over",
+    "Case-Control Studies",
+    "Cerebrovascular Disorders",
+    "Diagnosis, Differential",
+    "Diagnostic Errors",
+    "Documentation",
+    "Emergency Service, Hospital",
+    "Female",
+    "Headache",
+    "Humans",
+    "Ischemic Attack, Transient",
+    "Ischemic Stroke",
+    "Length of Stay",
+    "Logistic Models",
+    "Male",
+    "Middle Aged",
+    "Neurologic Examination",
+    "Neurology",
+    "Patient Discharge",
+    "Referral and Consultation",
+    "Risk Factors"
+  ]
+}

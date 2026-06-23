@@ -1,0 +1,32 @@
+{
+  "pmid": "35961665",
+  "title": "Procedural, workforce, and reimbursement trends in neuroendovascular procedures.",
+  "abstract": "BACKGROUND: This study aims to define the proportion of Medicare neuroendovascular procedures performed by different specialists from 2013 to 2019, map the geographic distribution of these specialists, and trend reimbursement for these procedures. METHODS: The Medicare Provider Utilization Database was queried for recognized neuroendovascular procedures. Data on specialists and their geographic distribution were tabulated. Reimbursement data were gathered using the Physician Fee Schedule Look-Up Tool and adjusted for inflation using the United States Bureau of Labor Statistics' Consumer Price Index Inflation calculator. RESULTS: The neuroendovascular workforce in 2013 and 2019, respectively, was as follows: radiologists (46% vs 44%), neurosurgeons (45% vs 35%), and neurologists (9% vs 21%). Neurologists increased proportionally (p=0.03). Overall procedure numbers increased across each specialty: radiology (360%; p=0.02), neurosurgery (270%; p<0.01), and neurology (1070%; p=0.03). Neuroendovascular revascularization (CPT 61645) increased in all fields: radiology (170%; p<0.01), neurosurgery (280%; p<0.01), neurology (240%; p<0.01); central nervous system (CNS) permanent occlusion/embolization (CPT61624) in neurosurgery (67%; p=0.03); endovascular temporary balloon artery occlusion (CPT61623) in neurology (29%; p=0.04). In 2019, radiologists were the most common neuroendovascular specialists everywhere except in the Northeast where neurosurgeons predominated. Inflation adjusted reimbursement decreased for endovascular temporary balloon occlusion (CPT61623, -13%; p=0.01), CNS transcatheter permanent occlusion or embolization (CPT61624, -13%; p=0.02), non-CNS transcatheter permanent occlusion or embolization (CPT61626, -12%; p<0.01), and intracranial stent placement (CPT61635, -12%; p=0.05). CONCLUSIONS: The number of neuroendovascular procedures and specialists increased, with neurologists becoming more predominant. Reimbursement decreased. Coordination among neuroendovascular specialists in terms of training and practice location may maximize access to acute care.",
+  "journal": "Journal of neurointerventional surgery",
+  "year": "2023",
+  "authors": [
+    "Steiger K",
+    "Singh R",
+    "Fox WC",
+    "Koester S",
+    "Brown N",
+    "Shahrestani S",
+    "Miller DA",
+    "Patel NP",
+    "Catapano JS",
+    "Srinivasan VM",
+    "Meschia JF",
+    "Erben Y"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Humans",
+    "United States",
+    "Medicare",
+    "Neurosurgery",
+    "Neurosurgical Procedures",
+    "Neurology",
+    "Vascular Diseases",
+    "Endovascular Procedures"
+  ]
+}

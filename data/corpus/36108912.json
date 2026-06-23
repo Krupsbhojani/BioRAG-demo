@@ -1,0 +1,24 @@
+{
+  "pmid": "36108912",
+  "title": "Mapping the Landscape of Neurofibromatosis: A Bibliometric Evaluation Highlighting Our Current Understanding, Emerging Therapies, and Global Research Trends.",
+  "abstract": "BACKGROUND: The literature on neurofibromatosis (NF) has never been systematically assessed using bibliometric analytic methodologies. We quantitatively analyzed the major trends and scientific output regarding NF, highlighting potential avenues for research. METHODS: An Elsevier's Scopus database search was performed for all indexed studies related to NF from 1898 to 2021. Validated bibliometric parameters were analyzed using productivity, citation, and keyword analysis, including text mining, content analysis, and collaboration network mapping from inception to date on R 4.1.2. RESULTS: Our search yielded 15,024 documents. Annual scientific production has grown at a compounded rate of 5.86%, with the largest occurring in 2021 (n = 626). Journals with the most publications on NF include the Journal of Medical Genetics (n = 117) and Neurology (n = 113). The topmost cited author was Gutmann DH (n = 295). The United States had the most international collaboration (n = 435; multiple country publications). Identification of citation classics revealed a shift in recent decades towards understanding genetic and molecular pathways of NF tumorigenesis. Macro-level and micro-level text mining revealed the top 20 genetic and molecular pathways, and syndromes, associated with NF. CONCLUSIONS: Our study exemplifies a quantitative method for understanding the historical and current state of academic efforts regarding NF. There has been a shift of treatment strategies towards targeting specific pathways involved in tumorigenesis. We highlight the top 20 genetic and molecular pathways in the literature as well as the top 20 associated syndromes. This data is encouraging as increased research in molecular targeted therapies aimed at NF pathogenesis may allow advances in disease control.",
+  "journal": "World neurosurgery",
+  "year": "2023",
+  "authors": [
+    "Durrani S",
+    "Mualem W",
+    "Shoushtari A",
+    "Nathani KR",
+    "Bydon M"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Bibliometrics",
+    "Carcinogenesis",
+    "Databases, Factual",
+    "Neurology",
+    "Syndrome",
+    "United States",
+    "Neurofibromatoses"
+  ]
+}

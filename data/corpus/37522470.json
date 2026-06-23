@@ -1,0 +1,19 @@
+{
+  "pmid": "37522470",
+  "title": "Statistical guidance provided to authors by clinical neurology and neuroscience journals.",
+  "abstract": "BACKGROUND AND PURPOSE: Transparent reporting and appropriate interpretation of statistical methods and results are important to facilitate scientific evaluation and enable future replication. The goal of this study was to describe statistical reporting guidance provided to authors by clinical neurology and neuroscience journals. METHODS: For first-quartile journals in each discipline (per Clarivate InCites), information collected from Instructions to Authors website sections included whether journals required presentation of sample size justification, estimates of precision, and method of checking assumptions; and guidance for interpretation of p-values and appropriate presentation of descriptive statistics and graphs. Journal endorsement of common but statistically nonspecific published transparent reporting guidelines for human and animal research was also collected, to capture the select statistical reporting items included in each guideline. RESULTS: Journals (n = 85) frequently did not require/recommend sample size justifications (15% not required; 62% only required per external transparent reporting guideline), estimates of precision (15% not required; 41% only required per external guidelines), or disclosure of method of checking assumptions (46%); nor provide guidance for reporting/interpretation of p-values (71%), reporting of descriptive statistics (75%), or use of appropriate graphs (92%). Endorsement of statistically nonspecific standalone reporting guidelines ranged between 52% and 68%, depending on the guideline. CONCLUSIONS: There is opportunity for journals to facilitate improvement in transparency of statistical methods and results for clinical neurology and neuroscience studies by providing guidelines and advice to authors at manuscript submission.",
+  "journal": "European journal of neurology",
+  "year": "2023",
+  "authors": [
+    "Tumma S",
+    "Sonneborn C",
+    "Padate A",
+    "Hogue O"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Periodicals as Topic",
+    "Neurology"
+  ]
+}

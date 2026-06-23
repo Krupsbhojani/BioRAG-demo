@@ -1,0 +1,35 @@
+{
+  "pmid": "38767061",
+  "title": "Child neurology telemedicine: Analyzing 14 820 patient encounters during the first year of the COVID-19 pandemic.",
+  "abstract": "AIM: To determine the long-term impact of telemedicine in child neurology care during the COVID-19 pandemic and with the reopening of outpatient clinics. METHOD: We performed an observational cohort study of 34 837 in-person visits and 14 820 telemedicine outpatient visits across 26 399 individuals. We assessed differences in care across visit types, time-period observed, time between follow-ups, patient portal activation rates, and demographic factors. RESULTS: We observed a higher proportion of telemedicine for epilepsy (International Classification of Diseases, 10th Revision G40: odds ratio [OR] 1.4, 95% confidence interval [CI] 1.3-1.5) and a lower proportion for movement disorders (G25: OR 0.7, 95% CI 0.6-0.8; R25: OR 0.7, 95% CI 0.6-0.9) relative to in-person visits. Infants were more likely to be seen in-person after reopening clinics than by telemedicine (OR 1.6, 95% CI 1.5-1.8) as were individuals with neuromuscular disorders (OR 1.6, 95% CI 1.5-1.7). Self-reported racial and ethnic minority populations and those with highest social vulnerability had lower telemedicine participation rates (OR 0.8, 95% CI 0.8-0.8; OR 0.7, 95% CI 0.7-0.8). INTERPRETATION: Telemedicine continued to be utilized even once in-person clinics were available. Pediatric epilepsy care can often be performed using telemedicine while young patients with neuromuscular disorders often require in-person assessment. Prominent barriers for socially vulnerable families and racial and ethnic minorities persist.",
+  "journal": "Developmental medicine and child neurology",
+  "year": "2024",
+  "authors": [
+    "Kaufman MC",
+    "Xian J",
+    "Galer PD",
+    "Parthasarathy S",
+    "Gonzalez AK",
+    "McKee JL",
+    "Prelack MS",
+    "Fitzgerald MP",
+    "Helbig I"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "COVID-19",
+    "Telemedicine",
+    "Child",
+    "Neurology",
+    "Male",
+    "Female",
+    "Adolescent",
+    "Child, Preschool",
+    "Infant",
+    "Epilepsy",
+    "Cohort Studies",
+    "Pediatrics",
+    "Neuromuscular Diseases",
+    "SARS-CoV-2"
+  ]
+}

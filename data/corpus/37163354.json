@@ -1,0 +1,22 @@
+{
+  "pmid": "37163354",
+  "title": "The 100 Most-Cited Articles on Optic Neuritis: Trends of Subtypes, Authorship, and Time.",
+  "abstract": "BACKGROUND: Optic neuritis (ON) is an optic nerve inflammation that may lead to different degrees of vision loss. In recent decades, ON research facilitated a better understanding of the disease and its subtypes. This bibliometric analysis aimed to detect the 100 most-cited medical articles related to ON in the last 50 years (1972-2021) and describe publication trends arising from the list. METHODS: The Scopus database was used to locate and screen the 100 most influential ON papers based on the number of citations per article. Each entry was reviewed for the first author (name, gender, institution, and country), year of publication, journal, number of citations, ON subtype, and study design. The mean impact factor (IF) of each journal was calculated. RESULTS: The median number of citations was 265 (range 182-2,396). Observational studies on neuromyelitis optica-associated ON were the most common (27%), and the most influential decade was 2002-2011 (54 papers). Seventy-nine percent of articles were published in neurology journals, and a positive correlation between the mean number of citations per article and the journal mean IF was observed ( r = 0.62, P < 0.001). Between 2009 and 2021, female authors led more ON studies (52%), and more publications originated outside the USA (68%), compared with previous years. CONCLUSIONS: This analysis summarizes the impact and shifting trends of ON research in the last decades.",
+  "journal": "Journal of neuro-ophthalmology : the official journal of the North American Neuro-Ophthalmology Society",
+  "year": "2023",
+  "authors": [
+    "Assayag E",
+    "Weill Y",
+    "Rappoport D"
+  ],
+  "mesh_terms": [
+    "Female",
+    "Humans",
+    "Authorship",
+    "Bibliometrics",
+    "Journal Impact Factor",
+    "Neurology",
+    "Optic Neuritis",
+    "Male"
+  ]
+}

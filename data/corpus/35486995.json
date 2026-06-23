@@ -1,0 +1,26 @@
+{
+  "pmid": "35486995",
+  "title": "The glucocorticoid toxicity index: Measuring change in glucocorticoid toxicity over time.",
+  "abstract": "Glucocorticoids (GCs) have been the cornerstone of treating dozens of inflammatory conditions for more than seven decades. GC toxicity is ubiquitous in both clinical trials and clinical practice, and toxicities associated with GC use are central to the experience of most patients being treated for immune-mediated conditions. These conditions span the full range of medical specialties, including rheumatology, nephrology, gastroenterology, neurology, pulmonology, ophthalmology, and others. One of the goals of novel therapies for inflammatory disease must be to diminish the effects of GC toxicity in clinically important ways, thereby differentiating these new treatments from existing approaches. Despite the importance of glucocorticoids in the treatment of inflammatory disease for more than 70 years, no reliable means of calculating the degree to which GC toxicity has worsened or improved over the course of treatment has been available. The Glucocorticoid Toxicity Index (GTI), developed by an international group of subspecialty physician experts as a clinician-facing clinical trials outcome measure, is a standardized, validated measure of the phenomenon known as GC toxicity. The purpose of the instrument is to measure change in GC toxicity between two points in time: for example, between the baseline visit and the time of the primary efficacy outcome assessment. The instrument is designed to quantify both worsening and improvement in GC toxicity. The GTI has been validated in both real-world experiences and clinical trials, including a phase 3, label-enabling trial in ANCA associated vasculitis. This article reviews the history and rationale for the development of the GTI, describes key data from validation studies, considers the minimum clinically important difference, and provides instructions for use of the instrument.",
+  "journal": "Seminars in arthritis and rheumatism",
+  "year": "2022",
+  "authors": [
+    "Stone JH",
+    "McDowell PJ",
+    "Jayne DRW",
+    "Merkel PA",
+    "Robson J",
+    "Patel NJ",
+    "Zhang Y",
+    "Yue H",
+    "Bekker P",
+    "Heaney LG"
+  ],
+  "mesh_terms": [
+    "Glucocorticoids",
+    "Humans",
+    "Neurology",
+    "Outcome Assessment, Health Care",
+    "Rheumatology"
+  ]
+}

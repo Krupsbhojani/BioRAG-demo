@@ -1,0 +1,27 @@
+{
+  "pmid": "33326454",
+  "title": "Effectiveness of bystander cardiopulmonary resuscitation in improving the survival and neurological recovery of patients with out-of-hospital cardiac arrest: A nationwide patient cohort study.",
+  "abstract": "INTRODUCTION: Few studies have focused on enhancing causality and yielding unbiased estimates on the effectiveness of bystander cardiopulmonary resuscitation (BCPR) on the outcomes of out-of-hospital cardiac arrest (OHCA) in a real-world setting. Therefore, this study evaluated the effect of BCPR on the outcomes of OHCA and its differences according to the characteristics of OHCA. METHODS: This study enrolled all patients with OHCA of cardiac etiology treated by emergency medical services (EMS) in Korea from 2012 to 2015. The endpoints were survival and neurological recovery at discharge, and the main exposure was BCPR conducted by a layperson. The effect of BCPR was analyzed after adjusting for confounders, determined using a directed acyclic graph, by inverse probability of treatment weighting (IPTW) and model-based standardization (STR). Moreover, differences in subgroups and time trends were evaluated. RESULTS: Among 10,505 eligible patients after excluding those with missing data on BCPR, 7,721 patients received BCPR, accounting for 74.3% of EMS-treated OHCA patients. BCPR increased the odds of survival and good neurological recovery at discharge by 1.67- (95% confidence interval (CI): 1.44-1.93) and 1.93- (95% CI: 1.56-2.39) fold, respectively, in the IPTW analysis. These findings were comparable to those obtained with STR. The odds ratios were 2.39 (95% CI: 1.91-2.94) and 2.70 (95% CI: 1.94-3.41), respectively, in the sensitivity analysis of the missing BCPR information considering confounders and the outcome variable. However, the effect of qualified BCPR was not evenly distributed, and it did not increase with time. BCPR was likely to be more effective in male patients aged <65 years, those who experienced an OHCA in a private place or non-capital region, and those with shockable rhythm at the scene. CONCLUSION: Based on data from a nationwide registry, the estimated effect of BCPR on survival and neurological recovery was moderate and did not improve from 2012 to 2015.",
+  "journal": "PloS one",
+  "year": "2021",
+  "authors": [
+    "Lee J",
+    "Lee W",
+    "Lee YJ",
+    "Sim H",
+    "Lee WK"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Cardiopulmonary Resuscitation",
+    "Cohort Studies",
+    "Female",
+    "Humans",
+    "Male",
+    "Neurology",
+    "Out-of-Hospital Cardiac Arrest",
+    "Recovery of Function",
+    "Republic of Korea",
+    "Survival Analysis"
+  ]
+}

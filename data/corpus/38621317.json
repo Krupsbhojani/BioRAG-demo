@@ -1,0 +1,36 @@
+{
+  "pmid": "38621317",
+  "title": "Oral administration of IPI549 protects mice from neuropathology and an overwhelming inflammatory response during experimental cerebral malaria.",
+  "abstract": "Infection with Plasmodium falciparum is often deadly when it results in cerebral malaria, which is associated with neuropathology described as an overwhelming inflammatory response and mechanical obstruction of cerebral microvascular. PI3Kγ is a critical component of intracellular signal transduction and plays a central role in regulating cell chemotaxis, migration, and activation. The purpose of this study was to examine the relationship between inhibiting the PI3Kγ pathway and the outcome of experimental cerebral malaria (ECM) in C57BL/6J mice infected with the mouse malaria parasite, Plasmodium berghei ANKA. We observed that oral administration of the PI3Kγ inhibitor IPI549 after infection completely protected mice from ECM. IPI549 treatment significantly dampened the magnitude of inflammatory responses, with reduced production of pro-inflammatory factors, decreased T cell activation, and altered differentiation of antigen-presenting cells. IPI549 treatment protected the infected mice from neuropathology, as assessed by an observed reduction of pathogenic T cells in the brain. Treating the infected mice with IPI549 three days after parasite inoculation improved the murine blood brain barrier (BBB) integrity and helped the mice pass the onset of ECM. Together, these data indicate that oral administration of the PI3Kγ inhibitor IPI549 has a suppressive role in host inflammation and alleviates cerebral pathology, which supports IPI549 as a new malaria treatment option with potential therapeutic implications for cerebral malaria.",
+  "journal": "International journal for parasitology. Drugs and drug resistance",
+  "year": "2024",
+  "authors": [
+    "Jin Z",
+    "Pang W",
+    "Zhao Y",
+    "Min H",
+    "Yao S",
+    "Bian Z",
+    "Wen Y",
+    "Peng C",
+    "Cao Y",
+    "Zheng L"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Malaria, Cerebral",
+    "Mice",
+    "Plasmodium berghei",
+    "Mice, Inbred C57BL",
+    "Administration, Oral",
+    "Inflammation",
+    "Blood-Brain Barrier",
+    "Disease Models, Animal",
+    "Brain",
+    "Female",
+    "Antimalarials",
+    "Neuropathology",
+    "T-Lymphocytes",
+    "Class Ib Phosphatidylinositol 3-Kinase"
+  ]
+}

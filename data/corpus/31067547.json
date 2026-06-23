@@ -1,0 +1,34 @@
+{
+  "pmid": "31067547",
+  "title": "Antiphospholipid Antibodies: Cognitive and Motor Decline, Neuroimaging and Neuropathology.",
+  "abstract": "BACKGROUND: Few data are available on associations of antiphospholipid (aPL) antibodies with cognitive and motor decline in aging, and cerebrovascular disease on in vivo neuroimaging and postmortem neuropathology. METHODS: This longitudinal, clinical-pathologic study (aPL antibodies, brain infarcts, and cognitive and motor decline in aging), was derived from 2 ongoing community-based cohort studies. A panel of 3 aPL antibodies was assayed in serum from 956 older individuals (mean age = 81.1 years; 72% women). Serum was also tested in a subset for markers of inflammation (C-reactive protein [CRP]) and blood-brain barrier breakdown (matrix metalloproteinases, MMPs). Annual clinical evaluations documented cognitive (17 neuropsychological tests) and motor function including parkinsonism. Cerebrovascular disease data were derived from in vivo neuroimaging and postmortem neuropathologic evaluations (699 individuals). We examined associations of aPL with cognitive and motor decline, other serum markers, neuroimaging, and neuropathology. RESULTS: Of 956 individuals, 197 (20.6%) had aPL positivity, defined as positivity on any of the assays, at the time of first measurement. During a mean follow-up of 6.6 years (SD 4), overall aPL positivity was not associated with change in global cognition (estimate = -0.005, SE 0.011; p = 0.622) or parkinsonian signs (estimate = -0.003, SE 0.017; p = 0.860). aPL were not associated with serum CRP or MMPs (both p > 0.268). aPL were not associated with in vivo brain magnetic resonance imaging white matter hyperintensities or infarcts (both p > 0.376). Among those autopsied, aPL were not associated with pathologically confirmed brain infarcts, or cerebral atherosclerosis or arteriolosclerosis (all p≥ 0.447). CONCLUSIONS: In older individuals followed longitudinally, aPL do not relate to cognitive or motor decline, inflammation, or cerebrovascular disease on in vivo neuroimaging or postmortem neuropathology.",
+  "journal": "Neuroepidemiology",
+  "year": "2020",
+  "authors": [
+    "Arvanitakis Z",
+    "Capuano AW",
+    "Brey R",
+    "Fleischman DA",
+    "Arfanakis K",
+    "Buchman AS",
+    "Schneider JA",
+    "Levine SR",
+    "Bennett DA"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Aged, 80 and over",
+    "Antibodies, Antiphospholipid",
+    "Biomarkers",
+    "Cognitive Dysfunction",
+    "Cohort Studies",
+    "Female",
+    "Follow-Up Studies",
+    "Humans",
+    "Longitudinal Studies",
+    "Male",
+    "Motor Disorders",
+    "Neuroimaging",
+    "Neuropathology"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "39393031",
+  "title": "Using Multilevel Models and Generalized Estimating Equation Models to Account for Clustering in Neurology Clinical Research.",
+  "abstract": "In clinical and health services research, clustered data (also known as data with a multilevel or hierarchical structure) are frequently encountered. For example, patients may be clustered or nested within hospitals. Understanding when data have a multilevel structure is important because clustering of individuals can induce a homogeneity in outcomes within clusters, so that, even after adjusting for measured covariates, outcomes for 2 individuals in the same cluster are more likely to be similar than outcomes for 2 individuals from different clusters. Using conventional statistical regression models to analyze clustered data can result in incorrect conclusions being drawn. In particular, estimated CIs may be artificially narrow, and significance levels may be artificially low. As a result, one may conclude that there is a statistically significant association when there is none. To avoid this problem, investigators should ensure that their analyses use techniques that account for clustering of data. Generalized linear models estimated using generalized estimating equation (GEE) methods and multilevel regression models (also known as hierarchical regression models, mixed-effects models, or random-effects models) are two such techniques. We provide an introduction to clustered or multilevel data and describe how GEE models or multilevel models can be used for the analysis of multilevel data.",
+  "journal": "Neurology",
+  "year": "2024",
+  "authors": [
+    "Austin PC",
+    "Kapral MK",
+    "Vyas MV",
+    "Fang J",
+    "Yu AYX"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Cluster Analysis",
+    "Neurology",
+    "Multilevel Analysis",
+    "Biomedical Research",
+    "Models, Statistical",
+    "Data Interpretation, Statistical"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "38439697",
+  "title": "Aberrant dynamic properties of whole-brain functional connectivity in acute mild traumatic brain injury revealed by hidden Markov models.",
+  "abstract": "OBJECTIVES: This study aimed to investigate the temporal dynamics of brain activity and characterize the spatiotemporal specificity of transitions and large-scale networks on short timescales in acute mild traumatic brain injury (mTBI) patients and those with cognitive impairment in detail. METHODS: Resting-state functional magnetic resonance imaging (rs-fMRI) was acquired for 71 acute mTBI patients and 57 age-, sex-, and education-matched healthy controls (HCs). A hidden Markov model (HMM) analysis of rs-fMRI data was conducted to identify brain states that recurred over time and to assess the dynamic patterns of activation states that characterized acute mTBI patients and those with cognitive impairment. The dynamic parameters (fractional occupancy, lifetime, interval time, switching rate, and probability) between groups and their correlation with cognitive performance were analyzed. RESULTS: Twelve HMM states were identified in this study. Compared with HCs, acute mTBI patients and those with cognitive impairment exhibited distinct changes in dynamics, including fractional occupancy, lifetime, and interval time. Furthermore, the switching rate and probability across HMM states were significantly different between acute mTBI patients and patients with cognitive impairment (all p < 0.05). The temporal reconfiguration of states in acute mTBI patients and those with cognitive impairment was associated with several brain networks (including the high-order cognition network [DMN], subcortical network [SUB], and sensory and motor network [SMN]). CONCLUSIONS: Hidden Markov models provide additional information on the dynamic activity of brain networks in patients with acute mTBI and those with cognitive impairment. Our results suggest that brain network dynamics determined by the HMM could reinforce the understanding of the neuropathological mechanisms of acute mTBI patients and those with cognitive impairment.",
+  "journal": "CNS neuroscience & therapeutics",
+  "year": "2024",
+  "authors": [
+    "Lu L",
+    "Li F",
+    "Li H",
+    "Zhou L",
+    "Wu X",
+    "Yuan F"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Brain Concussion",
+    "Brain",
+    "Cognition",
+    "Cognitive Dysfunction",
+    "Neuropathology"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "pmid": "38937033",
+  "title": "Performance Metrics, Algorithms, and Applications of Artificial Intelligence in Vascular and Interventional Neurology: A Review of Basic Elements.",
+  "abstract": "Artificial intelligence (AI) is currently being used as a routine tool for day-to-day activity. Medicine is not an exception to the growing usage of AI in various scientific fields. Vascular and interventional neurology deal with diseases that require early diagnosis and appropriate intervention, which are crucial to saving patients' lives. In these settings, AI can be an extra pair of hands for physicians or in conditions where there is a shortage of clinical experts. In this article, the authors have reviewed the common metrics used in interpreting the performance of models and common algorithms used in this field.",
+  "journal": "Neurologic clinics",
+  "year": "2024",
+  "authors": [
+    "Abdollahifard S",
+    "Farrokhi A",
+    "Mowla A",
+    "Liebeskind DS"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Artificial Intelligence",
+    "Neurology",
+    "Algorithms"
+  ]
+}

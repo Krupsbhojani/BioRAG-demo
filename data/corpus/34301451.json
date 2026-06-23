@@ -1,0 +1,36 @@
+{
+  "pmid": "34301451",
+  "title": "Comparison of Whole-Head Functional Near-Infrared Spectroscopy With Functional Magnetic Resonance Imaging and Potential Application in Pediatric Neurology.",
+  "abstract": "BACKGROUND: Changes in cerebral blood flow in response to neuronal activation can be measured by time-dependent fluctuations in hemoglobin species within the brain; this is the basis of functional magnetic resonance imaging (fMRI) and functional near-infrared spectroscopy (fNIRS). There is a clinical need for portable neural imaging systems, such as fNIRS, to accommodate patients who are unable to tolerate an MR environment. OBJECTIVE: Our objective was to compare task-related full-head fNIRS and fMRI signals across cortical regions. METHODS: Eighteen healthy adults completed a same-day fNIRS-fMRI study, in which they performed right- and left-hand finger tapping tasks and a semantic-decision tones-decision task. First- and second-level general linear models were applied to both datasets. RESULTS: The finger tapping task showed that significant fNIRS channel activity over the contralateral primary motor cortex corresponded to surface fMRI activity. Similarly, significant fNIRS channel activity over the bilateral temporal lobe corresponded to the same primary auditory regions as surface fMRI during the semantic-decision tones-decision task. Additional channels were significant for this task that did not correspond to surface fMRI activity. CONCLUSION: Although both imaging modalities showed left-lateralized activation for language processing, the current fNIRS analysis did not show concordant or expected localization at the level necessary for clinical use in individual pediatric epileptic patients. Future work is needed to show whether fNIRS and fMRI are comparable at the source level so that fNIRS can be used in a clinical setting on individual patients. If comparable, such an imaging approach could be applied to children with neurological disorders.",
+  "journal": "Pediatric neurology",
+  "year": "2022",
+  "authors": [
+    "Wagner JC",
+    "Zinos A",
+    "Chen WL",
+    "Conant L",
+    "Malloy M",
+    "Heffernan J",
+    "Quirk B",
+    "Sugar J",
+    "Prost R",
+    "Whelan JB",
+    "Beardsley SA",
+    "Whelan HT"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Brain",
+    "Brain Mapping",
+    "Congresses as Topic",
+    "Female",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Middle Aged",
+    "Neurology",
+    "Pediatrics",
+    "Spectroscopy, Near-Infrared",
+    "Young Adult"
+  ]
+}

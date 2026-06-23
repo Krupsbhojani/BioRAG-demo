@@ -1,0 +1,30 @@
+{
+  "pmid": "36847175",
+  "title": "Does E-learning Facilitate Medical Education in Pediatric Neurology?",
+  "abstract": "BACKGROUND: E-learning has become commonplace in medical education. Incorporation of multimedia, clinical cases, and interactive elements has increased its attractiveness over textbooks. Although there has been an expansion of e-learning in medicine, the feasibility of e-learning in pediatric neurology is unclear. This study evaluates knowledge acquisition and satisfaction using pediatric neurology e-learning compared to conventional learning. METHODS: Residents of Canadian pediatrics, neurology, and pediatric neurology programs and medical students from Queens University, Western University, and the University of Ottawa were invited to participate. Learners were randomly assigned two review papers and two ebrain modules in a four-topic crossover design. Participants completed pre-tests, experience surveys, and post-tests. We calculated the median change in score from pre-test to post-test and constructed a mixed-effects model to determine the effect of variables on post-test scores. RESULTS: In total, 119 individuals participated (53 medical students; 66 residents). Ebrain had a larger positive change than review papers in post-test score from pre-test score for the pediatric stroke learning topic but a smaller positive change for Duchenne muscular dystrophy, childhood absence epilepsy, and acute disseminated encephalomyelitis. Learning topics showed statistical relationship to post-test scores ( CONCLUSIONS: Ebrain users scored higher on post-tests than review paper users. However, the effect is small and it is unclear if it is educationally meaningful. Although the difference in scores may not be substantially different, most learners preferred e-learning. Future projects should focus on improving the quality and efficacy of e-learning modules.",
+  "journal": "The Canadian journal of neurological sciences. Le journal canadien des sciences neurologiques",
+  "year": "2024",
+  "authors": [
+    "Curry B",
+    "Buttle S",
+    "McMillan HJ",
+    "Webster R",
+    "Reddy D",
+    "Karir A",
+    "Spence S",
+    "Mineyko A",
+    "Writer H",
+    "MacLean H",
+    "Pohl D"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Canada",
+    "Computer-Assisted Instruction",
+    "Education, Medical",
+    "Neurology",
+    "Students, Medical",
+    "Cross-Over Studies",
+    "Pediatrics"
+  ]
+}

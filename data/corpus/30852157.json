@@ -1,0 +1,41 @@
+{
+  "pmid": "30852157",
+  "title": "Failure to detect an association between self-reported traumatic brain injury and Alzheimer's disease neuropathology and dementia.",
+  "abstract": "INTRODUCTION: Recent research with neuropathologic or biomarker evidence of Alzheimer's disease (AD) casts doubt on traumatic brain injury (TBI) as a risk factor for AD. We leveraged the National Alzheimer's Coordinating Center to examine the association between self-reported TBI with loss of consciousness and AD neuropathologic changes, and with baseline and longitudinal clinical status. METHODS: The sample included 4761 autopsy participants (453 with remote TBI with loss of consciousness; 2822 with AD neuropathologic changes) from National Alzheimer's Coordinating Center. RESULTS: Self-reported TBI did not predict AD neuropathologic changes (P > .10). Reported TBI was not associated with baseline or change in dementia severity or cognitive function in participants with or without autopsy-confirmed AD. DISCUSSION: Self-reported TBI with loss of consciousness may not be an independent risk factor for clinical or pathological AD. Research that evaluates number and severity of TBIs is needed to clarify the neuropathological links between TBI and dementia documented in other large clinical databases.",
+  "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+  "year": "2020",
+  "authors": [
+    "Sugarman MA",
+    "McKee AC",
+    "Stein TD",
+    "Tripodis Y",
+    "Besser LM",
+    "Martin B",
+    "Palmisano JN",
+    "Steinberg EG",
+    "O'Connor MK",
+    "Au R",
+    "McClean M",
+    "Killiany R",
+    "Mez J",
+    "Weiner MW",
+    "Kowall NW",
+    "Stern RA",
+    "Alosco ML"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Alzheimer Disease",
+    "Autopsy",
+    "Brain Injuries, Traumatic",
+    "Cognition",
+    "Databases, Factual",
+    "Female",
+    "Humans",
+    "Interviews as Topic",
+    "Male",
+    "Neuropathology",
+    "Risk Factors",
+    "Self Report"
+  ]
+}

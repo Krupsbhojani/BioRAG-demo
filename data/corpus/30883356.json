@@ -1,0 +1,36 @@
+{
+  "pmid": "30883356",
+  "title": "Ophthalmology-Based Neuropathology Risk Factors: Diabetic Retinopathy is Associated with Deep Microinfarcts in a Community-Based Autopsy Study.",
+  "abstract": "BACKGROUND: The aging eye offers unique opportunities to study and understand the aging brain, in particular related to Alzheimer's disease (AD) and dementia. However, little is known about relationships between eye diseases and dementia-related neurodegeneration. OBJECTIVE: To determine the potential association between three age-related eye diseases and AD and dementia-related neuropathology. METHODS: We reviewed autopsy data from the prospective longitudinal Adult Changes in Thought (ACT) cohort. ICD-9 codes were used to identify diagnoses of diabetic retinopathy, glaucoma, and age-related macular degeneration. Multivariate regression models were used to determine odds ratios (OR) of neuropathology features associated with dementia, including Braak stage, Consortium to Establish a Registry for AD (CERAD score), Lewy bodies, hippocampal sclerosis, and microvascular brain injury, in addition to quantitative paired helical filament (PHF)-tau levels for people with and without each eye condition. We also evaluated interactions between eye conditions and dementia related neuropathologic findings were evaluated. RESULTS: 676 autopsies were included. Diabetic retinopathy was significantly associated with increased risk of deep cerebral microinfarcts (OR = 1.91 [95% confidence interval (CI) 1.11, 3.27], p = 0.02). No other significant association or interaction between eye diseases and neuropathology was found. When PHF-tau quantity was evaluated in 124 decedents, the OR for the association between PHF-tau in the occipital cortex and glaucoma was 1.36 (95% CI 0.91, 2.03, p = 0.13). No statistical correction was made for multiple comparisons. CONCLUSION: Increased risk of deep cerebral microinfarcts was found in participants diagnosed with diabetic retinopathy. Eye diseases such as glaucoma may increase susceptibility to neurofibrillary tangles in the occipital cortex.",
+  "journal": "Journal of Alzheimer's disease : JAD",
+  "year": "2020",
+  "authors": [
+    "Lee CS",
+    "Larson EB",
+    "Gibbons LE",
+    "Latimer CS",
+    "Rose SE",
+    "Hellstern LL",
+    "Keene CD",
+    "Crane PK"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Aged, 80 and over",
+    "Autopsy",
+    "Cerebral Infarction",
+    "Cohort Studies",
+    "Dementia",
+    "Diabetic Retinopathy",
+    "Female",
+    "Humans",
+    "Longitudinal Studies",
+    "Male",
+    "Microvessels",
+    "Neuropathology",
+    "Ophthalmology",
+    "Prospective Studies",
+    "Registries",
+    "Risk Factors"
+  ]
+}

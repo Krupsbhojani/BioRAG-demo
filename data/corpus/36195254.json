@@ -1,0 +1,21 @@
+{
+  "pmid": "36195254",
+  "title": "Inappropriate Use of the Term \"Papilledema\" in the Medical Literature: A Systematic Review of Case Reports across Specialties.",
+  "abstract": "TOPIC: The term \"papilledema\" is often misused in different ways when describing nonintracranial pressure-related optic disc edema (ODE) or on fundoscopic examination. However, the extent of these errors is unknown among case reports. CLINICAL RELEVANCE: \"Papilledema\" refers to ODE secondary to raised intracranial pressure (ICP). Papilledema is a leading reason for referral to neuro-ophthalmologists. In any specialty setting, papilledema must be distinguished from other causes of ODE because it implies a unique pathophysiology and management strategy. If managed inappropriately, papilledema may cause permanent vision loss. METHODS: Cross-sectional evidence-based study with protocol registered on Open Science Framework (digital object identifier: 10.17605/OSF.IO/BUQS3). From Ovid MEDLINE and EMBASE, we included case reports with \"papilledema\" in their title, abstract, or article keywords between January 2011 and March 2022. Studies were graded for the following errors: type 1 (using \"papilledema\" without evidence of elevated ICP), type 2 (declaring \"papilledema\" on examination before finding evidence of elevated ICP), type 3 (both errors type 1 and 2), or no error. RESULTS: Among 722 case reports, there was a total of 482 errors (66.8%). There were 12 type 1 errors, 360 type 2 errors, 110 type 3 errors, and 240 studies with no errors. Ophthalmology, neurology, and neurosurgery were the most represented fields, yet only ophthalmology had a low prevalence of errors among all specialties. Regardless, all specialties with at least 10 included reports had a high error prevalence (>30%). Reduced error prevalence was significantly associated with higher impact factor journals, non-open-access publication models, and origin countries with an English official language. Error prevalence was not significantly associated with publication year. Also, the relationship between article citation counts and the prevalence of any type of error did not reach significance. Risk of bias analysis indicated that error occurrence was unrelated to the quality of case report study design. CONCLUSION: \"Papilledema\" is widely misused even among ophthalmology case reports. When allowed to propagate, this error can mislead care delivery to patients with ODE. Our results, although limited to case reports, indicate a need for more thorough peer-review standards and neuro-ophthalmology exposure in medical education.",
+  "journal": "Ophthalmology",
+  "year": "2023",
+  "authors": [
+    "Tao B",
+    "Vosoughi A",
+    "Margolin E",
+    "Micieli JA"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Papilledema",
+    "Cross-Sectional Studies",
+    "Intracranial Hypertension",
+    "Medicine",
+    "Neurology"
+  ]
+}

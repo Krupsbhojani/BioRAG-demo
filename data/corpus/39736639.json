@@ -1,0 +1,25 @@
+{
+  "pmid": "39736639",
+  "title": "Comparison of the effects of different teaching methods on the effectiveness of teaching neurology in China: a bayesian network meta-analysis and systematic review.",
+  "abstract": "BACKGROUND: In China, investigations into the efficacy of neurological clinical teaching try to ascertain the impacts of various teaching methods on intervention outcomes. However, these studies often suffer from limited sample sizes, single-center studies and low quality, compounded by the lack of direct comparative analyses between teaching methods, thereby leaving the identification of the most effective method unresolved. This study aims to compare the effectiveness of various teaching methods in the standardized training of Chinese neurology clinicians to inform an optimal teaching model utilizing a Bayesian network meta-analysis (NMA) approach. METHODS: A comprehensive computer search was conducted to identify randomized controlled trials (RCTs) assessing the efficacy of 7 teaching methods: problem-based learning (PBL), case-based learning (CBL), flipped classroom model (FCM), evidence-based medicine (EBM), clinical practice (CP), team-based learning (TBL), and lecture-based learning (LBL). The search, which spanned databases including the China National Knowledge Infrastructure (CNKI), Chinese Citation Database (CDD), China Science Periodical Database (CSPD), Chinese BioMedical Literature Database (CBM), PubMed, Web of Science, and the Cochrane Library, covered the period from the inception of these databases to April 1, 2023. The quality of the included studies was evaluated, and the data were analyzed in R 4.3.2 and Stata 17.0 software. RESULTS: From the 31 studies included, comprising 2124 subjects, significant findings emerged. In theoretical examinations, a statistically significant difference was noted among the teaching methods, with CBL, PBL, TBL, FCM, and EBM showing superior performance over the LBL method. The effectiveness ranking of these methods was as follows: CBL > PBL > TBL > FCM > EBM > CP > LBL. In terms of practical skills examinations, a similar pattern of effectiveness was observed. Here, the order of effectiveness was CBL > EBM > PBL > TBL > FCM > CP > LBL. CONCLUSIONS: This NMA indicated that the modern teaching pedagogies, particularly CBL, could be effective in neurology education, and might help improve the theoretical examinations and practical skills of neurology clinicians. Fully tapping into the strengths of modern teaching methods in neurology teaching will require additional work and advancing research.",
+  "journal": "BMC medical education",
+  "year": "2024",
+  "authors": [
+    "Li X",
+    "Zhang L",
+    "Sun W",
+    "Lei M",
+    "Li Y",
+    "Zhang J",
+    "Huang X"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Neurology",
+    "Bayes Theorem",
+    "China",
+    "Teaching",
+    "Education, Medical",
+    "Problem-Based Learning"
+  ]
+}

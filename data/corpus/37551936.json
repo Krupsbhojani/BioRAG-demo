@@ -1,0 +1,24 @@
+{
+  "pmid": "37551936",
+  "title": "Age-related hearing loss and dementia-related neuropathology: An analysis of the United Kingdom brains for dementia research cohort.",
+  "abstract": "Age-related hearing loss frequently precedes or coexists with mild cognitive impairment and dementia. The role specific neuropathologies play in this association, as either a cause or a consequence, is unclear. We therefore aimed to investigate whether specific dementia related neuropathologies were associated with hearing impairment in later life. We analysed data on ante-mortem hearing impairment with post-mortem neuropathological data for 442 participants from the Brains for Dementia Research Cohort. Binary logistic regression models were used to estimate the association of hearing impairment with the presence of each dementia-related neuropathology overall, and with specific staged changes. All analyses adjusted for age and sex, and several sensitivity analyses were conducted to test the robustness of findings. Presence and density of neuritic plaques were associated with higher odds of hearing impairment ante-mortem (OR = 3.65, 95% CI 1.78-7.46 for frequent density of plaques). Presence of any LB disease was likewise associated with hearing impairment (OR = 2.10, 95% CI 1.27-3.48), but this did not increase with higher cortical pathology (OR = 1.53, 95% CI 0.75-3.11). Nonspecific amyloid deposition, neurofibrillary tangle staging, overall AD neuropathology level, and cerebrovascular disease were not clearly associated with increased risks of hearing impairment. Our results provide some support for an association between dementia-related neuropathology and hearing loss and suggest that hearing loss may be associated with a high neuritic plaque burden and more common in Lewy body disease.",
+  "journal": "Brain pathology (Zurich, Switzerland)",
+  "year": "2023",
+  "authors": [
+    "Katanga JA",
+    "Hamilton CA",
+    "Walker L",
+    "Attems J",
+    "Thomas AJ"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Alzheimer Disease",
+    "Brain",
+    "Cognitive Dysfunction",
+    "Neurofibrillary Tangles",
+    "Hearing Loss",
+    "Plaque, Amyloid",
+    "Neuropathology"
+  ]
+}

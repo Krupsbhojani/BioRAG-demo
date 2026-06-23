@@ -1,0 +1,23 @@
+{
+  "pmid": "31577603",
+  "title": "New metabolic imaging tools in neuro-oncology.",
+  "abstract": "PURPOSE OF REVIEW: The current treatment of gliomas dovetails results of decades-old clinical trials with modern trends in chemotherapy. Molecular characterization now plays a pivotal role, and IDH mutations are key characteristics and the subject of active debate. IDH-mutant tumors produce the 'onco-metabolite', 2-hydroxyglutarate. Metabolic changes have become central to the understanding of tumor biology, and tumors display a fundamental metabolic change called the Warburg Effect. The Warburg Effect represents a preference for glycolysis, as opposed to oxidative phosphorylation. The present review details the clinical context and discusses clinical and preclinical metabolic imaging tools to characterize the Warburg Effect. RECENT FINDINGS: A clinical Warburg Index is proposed, defined as the lactate concentration measured by H-MRSI over the SUV measured by FDG-PET, to measure the Warburg Effect. A preclinical technique called deuterium metabolic imaging has successfully imaged the Warburg Effect in vivo in glioblastoma. SUMMARY: Metabolic imaging provides an opportunity to measure the Warburg Effect and other metabolic changes in brain tumors. An increased understanding of metabolic shifts integral to brain cancer has the potential to address multiple contemporary debates on glioma pathophysiology and treatment. Metabolic imaging tools thus have the potential to advance research findings, clinical trial development, and clinical care.",
+  "journal": "Current opinion in neurology",
+  "year": "2020",
+  "authors": [
+    "Corbin ZA"
+  ],
+  "mesh_terms": [
+    "Brain Neoplasms",
+    "Deuterium",
+    "Glioblastoma",
+    "Glycolysis",
+    "Humans",
+    "Lactic Acid",
+    "Medical Oncology",
+    "Multimodal Imaging",
+    "Neurology",
+    "Positron-Emission Tomography",
+    "Proton Magnetic Resonance Spectroscopy"
+  ]
+}

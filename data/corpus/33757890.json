@@ -1,0 +1,29 @@
+{
+  "pmid": "33757890",
+  "title": "Trends of Acute Ischemic Stroke Reperfusion Therapies from 2012 to 2016 in the United States.",
+  "abstract": "BACKGROUND: American Heart Association/American Stroke Association guidelines recommend endovascular stroke therapy (EST) with recombinant tissue plasminogen activator (rt-PA) for eligible patients in acute ischemic stroke (AIS). Using the National Inpatient Sample database, we evaluated trends in treatment with rt-PA and EST for AIS and their outcomes. METHODS: This is a cross-sectional observational study of patients with AIS admitted in US hospitals from 2012 to 2016. Patients were grouped into those who received rt-PA alone, EST alone, and rtPA+EST. Survey statistical procedures were performed. Multivariable regression analysis with pairwise comparisons of each treatment group with no treatment group was performed for discharge outcomes. RESULTS: The study included 2,290,520 patients with AIS with the mean age of 70.46 years. Treatment rates increased from 2012 to 2016 for rt-PA by 7% per year (5.86%-7.67%, odds ratio [OR] = 1.07, 95% confidence interval [CI]: 1.05-1.08) and EST by 38% per year (0.55%-1.75%, OR = 1.38, 95% CI: 1.31-1.45) but not rt-PA+EST (0.54%-0.57%, OR = 1.04, 95% CI: 0.99-1.08). The mean length of stay reduced from 2012 to 2016 for rt-PA (6.07-4.91 days, P < 0.0001) and rt-PA+EST (9.19-7.10 days, P = 0.0067) but not for EST (9.61-8.51 days, P = 0.5074). The odds of patients discharged home increased by 8%, 9%, and 15% among patients who received rt-PA alone, EST alone, and rt-PA+EST, respectively, compared with no treatment group. CONCLUSION: The utilization of rt-PA alone and EST alone increased but that of rt-PA+EST remained unchanged from 2012 to 2016 in the National Inpatient Sample.",
+  "journal": "World neurosurgery",
+  "year": "2021",
+  "authors": [
+    "Nagaraja N",
+    "Kubilis PS",
+    "Hoh BL",
+    "Wilson CA",
+    "Khanna AY",
+    "Kelly AG"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Cross-Sectional Studies",
+    "Endovascular Procedures",
+    "Female",
+    "Humans",
+    "Ischemic Stroke",
+    "Male",
+    "Middle Aged",
+    "Neurology",
+    "Reperfusion",
+    "Tissue Plasminogen Activator",
+    "United States"
+  ]
+}

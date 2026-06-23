@@ -1,0 +1,30 @@
+{
+  "pmid": "34852743",
+  "title": "Biological Mechanism-based Neurology and Psychiatry: A BACE1/2 and Downstream Pathway Model.",
+  "abstract": "In oncology, comprehensive omics and functional enrichment studies have led to an extensive profiling of (epi)genetic and neurobiological alterations that can be mapped onto a single tumor's clinical phenotype and divergent clinical phenotypes expressing common pathophysiological pathways. Consequently, molecular pathway-based therapeutic interventions for different cancer typologies, namely tumor type- and site-agnostic treatments, have been developed, encouraging the real-world implementation of a paradigm shift in medicine. Given the breakthrough nature of the new-generation translational research and drug development in oncology, there is an increasing rationale to transfertilize this blueprint to other medical fields, including psychiatry and neurology. In order to illustrate the emerging paradigm shift in neuroscience, we provide a state-of-the-art review of translational studies on the β-site amyloid precursor protein cleaving enzyme (BACE) and its most studied downstream effector, neuregulin, which are molecular orchestrators of distinct biological pathways involved in several neurological and psychiatric diseases. This body of data aligns with the evidence of a shared genetic/biological architecture among Alzheimer's disease, schizoaffective disorder, and autism spectrum disorders. To facilitate a forward-looking discussion about a potential first step towards the adoption of biological pathway-based, clinical symptom-agnostic, categorization models in clinical neurology and psychiatry for precision medicine solutions, we engage in a speculative intellectual exercise gravitating around BACE-related science, which is used as a paradigmatic case here. We draw a perspective whereby pathway-based therapeutic strategies could be catalyzed by highthroughput techniques embedded in systems-scaled biology, neuroscience, and pharmacology approaches that will help overcome the constraints of traditional descriptive clinical symptom and syndrome-focused constructs in neurology and psychiatry.",
+  "journal": "Current neuropharmacology",
+  "year": "2023",
+  "authors": [
+    "Hampel H",
+    "Caruso G",
+    "Nisticò R",
+    "Piccioni G",
+    "Mercuri NB",
+    "Giorgi FS",
+    "Ferrarelli F",
+    "Lemercier P",
+    "Caraci F",
+    "Lista S",
+    "Vergallo A",
+    "Neurodegeneration Precision Medicine Initiative Npmi"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Amyloid Precursor Protein Secretases",
+    "Aspartic Acid Endopeptidases",
+    "Alzheimer Disease",
+    "Neurology",
+    "Amyloid beta-Protein Precursor",
+    "Psychiatry"
+  ]
+}

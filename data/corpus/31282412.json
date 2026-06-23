@@ -1,0 +1,31 @@
+{
+  "pmid": "31282412",
+  "title": "Investigating the Association Between Verbal Forgetting and Pathological Markers of Alzheimer's and Lewy Body Diseases.",
+  "abstract": "BACKGROUND: The percentage of verbal forgetting (VF%) measure of the Rey Auditory Verbal Learning Test (RAVLT) has been proposed to differentiate patients diagnosed clinically with Alzheimer's disease (AD) and dementia with Lewy bodies (DLB). OBJECTIVE: To determine if VF% aligns with gold-standard biomarker and autopsy evidence of AD and DLB neuropathology. METHODS: Clinical, cognitive, sociodemographic, and biomarker data were collected from 315 patients with baseline cognitive impairment and 485 normal controls from the Alzheimer's Disease Neuroimaging Initiative (ADNI). AD markers included reduced cerebrospinal fluid (CSF) amyloid-β, elevated total-tau and phosphorylated-tau, hippocampal atrophy, and the presence of amyloid plaques and neurofibrillary tangles at autopsy. DLB markers included reduced CSF α-synuclein, preserved hippocampus, atrophied putamen, occipital glucose metabolism, and the presence of Lewy bodies at autopsy. Cognitively impaired participants were classified as ADVF% (n = 190) or DLBVF% (n = 125) based on their RAVLT VF% scores using a 75% cut-off (≥75%  = ADVF%, <75%  = DLBVF%). Postmortem data were available for 13 ADVF% participants, 13 DLBVF% patients, and six healthy controls. RESULTS: ADVF% and DLBVF% participants did not differ on CSF or neuroimaging biomarkers, with the exception of total tau levels which were higher in ADVF%. In the subset of participants with autopsy data, comorbid AD and DLB pathology was most frequent in ADVF% participants, and pure DLB pathology was most frequent in DLBVF% participants, however, these differences were not statistically significant. CONCLUSION: The RAVLT VF% measure does not reliably align with AD and DLB neuropathology in ADNI participants.",
+  "journal": "Journal of Alzheimer's disease : JAD",
+  "year": "2020",
+  "authors": [
+    "Schaeffer MJ",
+    "Callahan BL"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Alzheimer Disease",
+    "Amyloid beta-Peptides",
+    "Atrophy",
+    "Biomarkers",
+    "Diagnosis, Differential",
+    "Female",
+    "Hippocampus",
+    "Humans",
+    "Lewy Body Disease",
+    "Male",
+    "Memory and Learning Tests",
+    "Neuroimaging",
+    "Neuropathology",
+    "Reproducibility of Results",
+    "Verbal Learning",
+    "alpha-Synuclein",
+    "tau Proteins"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pmid": "38353753",
+  "title": "Regional AT-8 reactive tau species correlate with intracellular Aβ levels in cases of low AD neuropathologic change.",
+  "abstract": "The amyloid cascade hypothesis states that Aβ aggregates induce pathological changes in tau, leading to neurofibrillary tangles (NFTs) and cell death. A caveat with this hypothesis is the spatio-temporal divide between plaques and NFTs. This has been addressed by the inclusion of soluble Aβ and tau species in the revised amyloid cascade hypothesis. Nevertheless, despite the potential for non-plaque Aβ to contribute to tau pathology, few studies have examined relative correlative strengths between total Aβ, plaque Aβ and intracellular Aβ with tau pathology within a single tissue cohort. Employing frozen and fixed frontal cortex grey and white matter tissue from non-AD controls (Con; n = 39) and Alzheimer's disease (AD) cases (n = 21), biochemical and immunohistochemical (IHC) measures of Aβ and AT-8 phosphorylated tau were assessed. Biochemical native-state dot blots from crude tissue lysates demonstrated robust correlations between total Aβ and AT-8 tau, when considered as a combined cohort (Con and AD) and when as Con and AD cases, separately. In contrast, no associations between Aβ plaques and AT-8 were reported when using IHC measurements in either Con or AD cases. However, when intracellular Aβ was measured via the Aβ specific antibody MOAB-2, a correlative relationship with AT-8 tau was reported in non-AD controls but not in AD cases. Collectively the data suggests that accumulating intracellular Aβ may influence AT-8 pathology, early in AD-related neuropathological change. Despite the lower levels of phospho-tau and Aβ in controls, the robust correlative relationships observed suggest a physiological association of Aβ production and tau phosphorylation, which may be modified during disease. This study is supportive of a revised amyloid cascade hypothesis and demonstrates regional associative relationships between tau pathology and intracellular Aβ, but not extracellular Aβ plaques.",
+  "journal": "Acta neuropathologica",
+  "year": "2024",
+  "authors": [
+    "Malik N",
+    "Miah MU",
+    "Galgani A",
+    "McAleese K",
+    "Walker L",
+    "LeBeau FE",
+    "Attems J",
+    "Outeiro TF",
+    "Thomas A",
+    "Koss DJ"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Alzheimer Disease",
+    "Neuropathology",
+    "Neurofibrillary Tangles",
+    "Amyloidogenic Proteins",
+    "Antibodies",
+    "Plaque, Amyloid"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "30803086",
+  "title": "The relationship between the morphological subtypes of microglia and Alzheimer's disease neuropathology.",
+  "abstract": "Microglial associations with both the major Alzheimer's disease (AD) pathognomonic entities, β-amyloid-positive plaques and tau-positive neurofibrillary tangles, have been noted in previous investigations of both human tissue and mouse models. However, the precise nature of their role in the pathogenesis of AD is debated; the major working hypothesis is that pro-inflammatory activities of activated microglia contribute to disease progression. In contrast, others have proposed that microglial dystrophy with a loss of physiological and neuroprotective activities promotes neurodegeneration. This immunohistochemical study sought to gain clarity in this area by quantifying the morphological subtypes of microglia in the mildly-affected primary visual cortex (PVC), the moderately affected superior frontal cortex (SFC) and the severely affected inferior temporal cortex (ITC) of 8 AD cases and 15 age and gender-matched, non-demented controls with ranging AD-type pathology. AD cases had increased β-amyloid and tau levels compared to controls in all regions. Neuronal loss was observed in the SFC and ITC, and was associated with atrophy in the latter. A major feature of the ITC in AD was a decrease in ramified (healthy) microglia with image analysis confirming reductions in arborized area and skeletal complexity. Activated microglia were not associated with AD but were increased in non-demented controls with greater AD-type pathology. Microglial clusters were occasionally associated with β-amyloid- and tau-positive plaques but represented less than 2% of the total microglial population. Dystrophic microglia were not associated with AD, but were inversely correlated with brain pH suggesting that agonal events were responsible for this morphological subtype. Overall these novel findings suggest that there is an early microglial reaction to AD-type pathology but a loss of healthy microglia is the prominent feature in severely affected regions of the AD brain.",
+  "journal": "Brain pathology (Zurich, Switzerland)",
+  "year": "2020",
+  "authors": [
+    "Paasila PJ",
+    "Davies DS",
+    "Kril JJ",
+    "Goldsbury C",
+    "Sutherland GT"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Aged, 80 and over",
+    "Alzheimer Disease",
+    "Amyloid beta-Peptides",
+    "Brain",
+    "Disease Progression",
+    "Female",
+    "Frontal Lobe",
+    "Humans",
+    "Male",
+    "Microglia",
+    "Nervous System Diseases",
+    "Neurofibrillary Tangles",
+    "Neuropathology",
+    "Plaque, Amyloid",
+    "Tauopathies",
+    "Temporal Lobe",
+    "Visual Cortex",
+    "tau Proteins"
+  ]
+}

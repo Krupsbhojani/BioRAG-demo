@@ -1,0 +1,25 @@
+{
+  "pmid": "34057813",
+  "title": "Prevalence of cerebral amyloid angiopathy: A systematic review and meta-analysis.",
+  "abstract": "Reported prevalence estimates of sporadic cerebral amyloid angiopathy (CAA) vary widely. CAA is associated with cognitive dysfunction and intracerebral hemorrhage, and linked to immunotherapy-related side-effects in Alzheimer's disease (AD). Given ongoing efforts to develop AD immunotherapy, accurate estimates of CAA prevalence are important. CAA can be diagnosed neuropathologically or during life using MRI markers including strictly lobar microbleeds. In this meta-analysis of 170 studies including over 73,000 subjects, we show that in patients with AD, CAA prevalence based on pathology (48%) is twice that based on presence of strictly lobar cerebral microbleeds (22%); in the general population this difference is three-fold (23% vs 7%). Both methods yield similar estimated prevalences of CAA in cognitively normal elderly (5% to 7%), in patients with intracerebral hemorrhage (19% to 24%), and in patients with lobar intracerebral hemorrhage (50% to 57%). However, we observed large heterogeneity among neuropathology and MRI protocols, which calls for standardized assessment and reporting of CAA.",
+  "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+  "year": "2022",
+  "authors": [
+    "Jäkel L",
+    "De Kort AM",
+    "Klijn CJM",
+    "Schreuder FHBM",
+    "Verbeek MM"
+  ],
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Cerebral Amyloid Angiopathy",
+    "Cerebral Hemorrhage",
+    "Cognitive Dysfunction",
+    "Humans",
+    "Immunotherapy",
+    "Magnetic Resonance Imaging",
+    "Neuropathology",
+    "Prevalence"
+  ]
+}

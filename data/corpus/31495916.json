@@ -1,0 +1,32 @@
+{
+  "pmid": "31495916",
+  "title": "European Federation of Neurological Societies cutoff values significantly reduce creatine kinase sensitivity for diagnosing neuromuscular disorders.",
+  "abstract": "INTRODUCTION: Elevated creatine kinase (CK) level was redefined by the European Federation of Neurological Societies)EFNS(as 1.5 times the upper limit of normal. In the current study we sought to determine the sensitivity and specificity of CK testing for the diagnosis of neuromuscular disorders. METHODS: Demographics and CK levels were retrospectively extracted from an electronic database for 234 patients with neuromuscular disorders. Sensitivity, specificity, and likelihood ratios and the area under curve were determined for each diagnosis and different cutoff CK values. RESULTS: Using the EFNS cutoff values significantly reduced CK test sensitivity. Creatine kinase values >1000 IU/L showed a high likelihood (11.04) for myopathies and a low likelihood for polyneuropathies (0). DISCUSSION: European Federation of Neurological Societies cutoff values significantly reduce CK sensitivity for diagnosing neuromuscular disorders. While low CK values cannot exclude a neuromuscular disease, values >1000 IU/L are associated with a high likelihood of myopathy.",
+  "journal": "Muscle & nerve",
+  "year": "2020",
+  "authors": [
+    "Abraham A",
+    "Katzberg HD",
+    "Lovblom LE",
+    "Bril V"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Aged",
+    "Area Under Curve",
+    "Creatine Kinase",
+    "Europe",
+    "Female",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Motor Neuron Disease",
+    "Muscular Diseases",
+    "Neurology",
+    "Neuromuscular Diseases",
+    "Polyneuropathies",
+    "Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",
+    "Reference Values",
+    "Societies, Medical"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "31075318",
+  "title": "Hitchhiking on the neuronal highway: Mechanisms of transsynaptic specificity.",
+  "abstract": "Transsynaptic viral tracers are an invaluable neuroanatomical tool to define neuronal circuit connectivity across single or multiple synapses. There are variants that label either inputs or outputs of defined starter populations, most of which are based on the herpes and rabies viruses. However, we still have an incomplete understanding of the factors influencing specificity of neuron-neuron transmission and labeling of inputs vs. outputs. This article will touch on three topics: First, how specific are the directional transmission patterns of these viruses? Second, what are the properties that confer synaptic specificity of viral transmission? Lastly, what can we learn from this specificity, and can we use it to devise better transsynaptic tracers?",
+  "journal": "Journal of chemical neuroanatomy",
+  "year": "2020",
+  "authors": [
+    "Beier KT"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Neurology",
+    "Neurons",
+    "Synapses",
+    "Synaptic Transmission",
+    "Viral Tropism",
+    "Viruses"
+  ]
+}

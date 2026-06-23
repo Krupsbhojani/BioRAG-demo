@@ -1,0 +1,24 @@
+{
+  "pmid": "36927491",
+  "title": "Plasma phospho-tau in Alzheimer's disease: towards diagnostic and therapeutic trial applications.",
+  "abstract": "As the leading cause of dementia, Alzheimer's disease (AD) is a major burden on affected individuals, their families and caregivers, and healthcare systems. Although AD can be identified and diagnosed by cerebrospinal fluid or neuroimaging biomarkers that concord with neuropathological evidence and clinical symptoms, challenges regarding practicality and accessibility hinder their widespread availability and implementation. Consequently, many people with suspected cognitive impairment due to AD do not receive a biomarker-supported diagnosis. Blood biomarkers have the capacity to help expand access to AD diagnostics worldwide. One such promising biomarker is plasma phosphorylated tau (p-tau), which has demonstrated specificity to AD versus non-AD neurodegenerative diseases, and will be extremely important to inform on clinical diagnosis and eligibility for therapies that have recently been approved. This review provides an update on the diagnostic and prognostic performances of plasma p-tau181, p-tau217 and p-tau231, and their associations with in vivo and autopsy-verified diagnosis and pathological hallmarks. Additionally, we discuss potential applications and unanswered questions of plasma p-tau for therapeutic trials, given their recent addition to the biomarker toolbox for participant screening, recruitment and during-trial monitoring. Outstanding questions include assay standardization, threshold generation and biomarker verification in diverse cohorts reflective of the wider community attending memory clinics and included in clinical trials.",
+  "journal": "Molecular neurodegeneration",
+  "year": "2023",
+  "authors": [
+    "Gonzalez-Ortiz F",
+    "Kac PR",
+    "Brum WS",
+    "Zetterberg H",
+    "Blennow K",
+    "Karikari TK"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Alzheimer Disease",
+    "tau Proteins",
+    "Cognitive Dysfunction",
+    "Biomarkers",
+    "Neuropathology",
+    "Amyloid beta-Peptides"
+  ]
+}

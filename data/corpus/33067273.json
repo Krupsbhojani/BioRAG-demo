@@ -1,0 +1,33 @@
+{
+  "pmid": "33067273",
+  "title": "Management of chronic headache with referral from primary care to direct access to MRI compared with Neurology services: an observational prospective study in London.",
+  "abstract": "OBJECTIVES: To evaluate the cost, accessibility and patient satisfaction implications of two clinical pathways used in the management of chronic headache. INTERVENTION: Management of chronic headache following referral from Primary Care that differed in the first appointment, either a Neurology appointment or an MRI brain scan. DESIGN AND SETTING: A pragmatic, non-randomised, prospective, single-centre study at a Central Hospital in London. PARTICIPANTS: Adult patients with chronic headache referred from primary to secondary care. PRIMARY AND SECONDARY OUTCOME MEASURES: Participants' use of healthcare services and costs were estimated using primary and secondary care databases and questionnaires quarterly up to 12 months postrecruitment. Cost analyses were compared using generalised linear models. Secondary outcomes assessed: access to care, patient satisfaction, headache burden and self-perceived quality of life using headache-specific (Migraine Disability Assessment Scale and Headache Impact Test) and a generic questionnaire (5-level EQ-5D). RESULTS: Mean (SD) cost up to 6 months postrecruitment per participant was £578 (£420) for the Neurology group (n=128) and £245 (£172) for the MRI group (n=95), leading to an estimated mean cost difference of £333 (95% CI £253 to £413, p<0.001). The mean cost difference at 12 months increased to £518 (95% CI £401 to £637, p<0.001). When adjusted for baseline and follow-up imbalances between groups, this remained statistically significant. The utilisation of brain MRI improved access to care compared with the Neurology group (p<0.001). Participants in the Neurology group reported higher levels of satisfaction associated with the pathway and led to greater change in care management. CONCLUSION: Direct referral to brain MRI from Primary Care led to cost-savings and quicker access to care but lower satisfaction levels when compared with referral to Neurology services. Further research into the use of brain MRI for a subset of patient population more likely to be reassured by a negative brain scan should be considered. TRIAL REGISTRATION NUMBER: NCT02753933.",
+  "journal": "BMJ open",
+  "year": "2021",
+  "authors": [
+    "Rua T",
+    "Mazumder A",
+    "Akande Y",
+    "Margariti C",
+    "Ochulor J",
+    "Turville J",
+    "Razavi R",
+    "Peacock JL",
+    "McCrone P",
+    "Goh V",
+    "Shearer J",
+    "Afridi S"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Headache Disorders",
+    "Humans",
+    "London",
+    "Magnetic Resonance Imaging",
+    "Neurology",
+    "Primary Health Care",
+    "Prospective Studies",
+    "Quality of Life",
+    "Referral and Consultation"
+  ]
+}

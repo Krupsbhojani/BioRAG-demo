@@ -1,0 +1,21 @@
+{
+  "pmid": "32710675",
+  "title": "Precision Neurology for Parkinson's Disease: Coupling Miro1-Based Diagnosis With Drug Discovery.",
+  "abstract": "Parkinson's disease (PD) is a debilitating movement disorder, significantly afflicting the aging population. Efforts to develop an effective treatment have been challenged by the lack of understanding of the pathological mechanisms underlying neurodegeneration. We have shown that Miro1, an outer mitochondrial membrane protein, situates at the intersection of the complex genetic and functional network of PD. Removing Miro1 from the surface of damaged mitochondria is a prerequisite for mitochondrial clearance via mitophagy. Parkinson's proteins PINK1, Parkin, and LRRK2 are the molecular helpers to remove Miro1 from dysfunctional mitochondria destined for mitophagy. We have found a delay in clearing Miro1 and initiating mitophagy in postmortem brains and induced pluripotent stem cell-derived neurons from PD patients harboring mutations in LRRK2, PINK1, or Parkin, or from sporadic PD patients with no known mutations. In addition, we have shown that reducing Miro1 by both genetic and pharmacological approaches can correct this Miro1 phenotype and rescue Parkinson's-relevant phenotypes in human neurons and fly PD models. These results suggest that the Miro1 defect may be a common denominator for PD, and compounds that reduce Miro1 promise a new class of drugs to battle PD. We propose to couple this Miro1 phenotype with Miro1-based drug discovery in future therapeutic studies, which could significantly improve the success of clinical trials. © 2020 International Parkinson and Movement Disorder Society.",
+  "journal": "Movement disorders : official journal of the Movement Disorder Society",
+  "year": "2021",
+  "authors": [
+    "Bharat V",
+    "Wang X"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Drug Discovery",
+    "Humans",
+    "Mitophagy",
+    "Neurology",
+    "Parkinson Disease",
+    "Protein Kinases",
+    "Ubiquitin-Protein Ligases"
+  ]
+}

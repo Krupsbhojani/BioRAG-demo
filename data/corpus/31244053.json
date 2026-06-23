@@ -1,0 +1,21 @@
+{
+  "pmid": "31244053",
+  "title": "Nanostructure Endows Neurotherapeutic Potential in Optogenetics: Current Development and Future Prospects.",
+  "abstract": "Optogenetics have evolved as a promising tool to control the processes at a cellular level via photons. Specially, it confers a specific control over cellular function through real-time cytomodulation even in freely moving animals. Neuronal stimulation is prerequisite for deep tissue light penetration or insertion of optrode for light illumination to the neurons that have been proven to be compromised due to poor light penetration and invasiveness of the procedure, respectively. In this review, the application of nanotechnology is being elaborated by the use of metal nanoparticles (AuNPs), upconversion nanocrystals (UCNPs), and quantum dots (CdSe) for targeting particular organs or tissues, and their potential to emit a specific light on excitation to overcome the limitations associated with earlier methods has been elucidated. The optothermal and magnetothermal properties, photoluminescence, and higher photostability of nanomaterials are explored in context of therapeutic applicability of optogenetics. The nanostructure characteristics and specific ion channel targeting have shown promising therapeutic potential against neurodegenerative disorders (Alzheimer's, Parkinson's, Huntington's), epilepsy, and blindness. This review compiles mechanical and optical characteristics of nanomaterials that endow superior optogenetic therapeutic potentials to cure immedicable infirmities.",
+  "journal": "ACS chemical neuroscience",
+  "year": "2020",
+  "authors": [
+    "Sardoiwala MN",
+    "Srivastava AK",
+    "Karmakar S",
+    "Roy Choudhury S"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Nanoparticles",
+    "Nanotechnology",
+    "Neurology",
+    "Optogenetics"
+  ]
+}

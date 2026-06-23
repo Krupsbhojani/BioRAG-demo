@@ -1,0 +1,23 @@
+{
+  "pmid": "36633356",
+  "title": "A Validated Method to Identify Neuro-Ophthalmologists in a Large Administrative Claims Database.",
+  "abstract": "BACKGROUND: Validated methods to identify neuro-ophthalmologists in administrative data do not exist. The development of such method will facilitate research on the quality of neuro-ophthalmic care and health care utilization for patients with neuro-ophthalmic conditions in the United States. METHODS: Using nationally representative, 20% sample from Medicare carrier files from 2018, we identified all neurologists and ophthalmologists billing at least 1 office-based evaluation and management (E/M) outpatient visit claim in 2018. To isolate neuro-ophthalmologists, the National Provider Identifier numbers of neuro-ophthalmologists in the North American Neuro-Ophthalmology Society (NANOS) directory were collected and linked to Medicare files. The proportion of E/M visits with International Classification of Diseases-10 diagnosis codes that best distinguished neuro-ophthalmic care (\"neuro-ophthalmology-specific codes\" or NSC) was calculated for each physician. Multiple logistic regression models assessed predictors of neuro-ophthalmology specialty designation after accounting for proportion of ophthalmology, neurology, and NSC claims and primary specialty designation. Sensitivity, specificity, and positive predictive value (PPV) for varying proportions of E/M visits with NSC were calculated. RESULTS: We identified 32,293 neurologists and ophthalmologists who billed at least 1 outpatient E/M visit claim in 2018 in Medicare. Of the 472 NANOS members with a valid individual National Provider Identifier, 399 (84.5%) had a Medicare outpatient E/M visit in 2018. The model containing only the proportion of E/M visits with NSC best predicted neuro-ophthalmology specialty designation (odds ratio 1.05 [95% confidence interval 1.04, 1.05]; P < 0.001; area under the receiver operating characteristic [AUROC] = 0.91). Model predictiveness for neuro-ophthalmology designation was maximized when 6% of all billed claims were for NSC (AUROC = 0.89; sensitivity: 84.0%; specificity: 93.9%), but PPV was low (14.9%). The threshold was unchanged when limited only to neurologists billing ≥1% ophthalmology claims or ophthalmologists billing ≥1% neurology claims, but PPV increased (33.3%). CONCLUSIONS: Our study provides a validated method to identify neuro-ophthalmologists who can be further adapted for use in other administrative databases to facilitate future research of neuro-ophthalmic care delivery in the United States.",
+  "journal": "Journal of neuro-ophthalmology : the official journal of the North American Neuro-Ophthalmology Society",
+  "year": "2023",
+  "authors": [
+    "Feng Y",
+    "Lin CC",
+    "Hamedani AG",
+    "De Lott LB"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Humans",
+    "United States",
+    "Medicare",
+    "Ophthalmologists",
+    "Neurology",
+    "Delivery of Health Care",
+    "Ophthalmology"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "36642626",
+  "title": "The foundation and architecture of precision medicine in neurology and psychiatry.",
+  "abstract": "Neurological and psychiatric diseases have high degrees of genetic and pathophysiological heterogeneity, irrespective of clinical manifestations. Traditional medical paradigms have focused on late-stage syndromic aspects of these diseases, with little consideration of the underlying biology. Advances in disease modeling and methodological design have paved the way for the development of precision medicine (PM), an established concept in oncology with growing attention from other medical specialties. We propose a PM architecture for central nervous system diseases built on four converging pillars: multimodal biomarkers, systems medicine, digital health technologies, and data science. We discuss Alzheimer's disease (AD), an area of significant unmet medical need, as a case-in-point for the proposed framework. AD can be seen as one of the most advanced PM-oriented disease models and as a compelling catalyzer towards PM-oriented neuroscience drug development and advanced healthcare practice.",
+  "journal": "Trends in neurosciences",
+  "year": "2023",
+  "authors": [
+    "Hampel H",
+    "Gao P",
+    "Cummings J",
+    "Toschi N",
+    "Thompson PM",
+    "Hu Y",
+    "Cho M",
+    "Vergallo A"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Precision Medicine",
+    "Alzheimer Disease",
+    "Neurology",
+    "Neurosciences",
+    "Psychiatry"
+  ]
+}

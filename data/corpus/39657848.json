@@ -1,0 +1,18 @@
+{
+  "pmid": "39657848",
+  "title": "Precision neurology.",
+  "abstract": "Over the past several decades, high-resolution brain imaging, blood and cerebrospinal fluid analyses, and other advanced technologies have changed diagnosis from an exercise depending primarily on the history and physical examination to a computer- and online resource-aided process that relies on larger and larger quantities of data. In addition, randomized controlled trials (RCT) at a population level have led to many new drugs and devices to treat neurological disease, including disease-modifying therapies. We are now at a crossroads. Combinatorially profound increases in data about individuals has led to an alternative to population-based RCTs. Genotyping and comprehensive \"deep\" phenotyping can sort individuals into smaller groups, enabling precise medical decisions at a personal level. In neurology, precision medicine that includes prediction, prevention and personalization requires that genomic and phenomic information further incorporate imaging and behavioral data. In this article, we review the genomic, phenomic, and computational aspects of precision medicine for neurology. After defining biological markers, we discuss some applications of these \"-omic\" and neuroimaging measures, and then outline the role of computation and ultimately brain simulation. We conclude the article with a discussion of the relation between precision medicine and value-based care.",
+  "journal": "Ageing research reviews",
+  "year": "2025",
+  "authors": [
+    "Small SL"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Precision Medicine",
+    "Neurology",
+    "Nervous System Diseases",
+    "Neuroimaging",
+    "Genomics"
+  ]
+}

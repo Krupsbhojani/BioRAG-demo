@@ -1,0 +1,32 @@
+{
+  "pmid": "32603805",
+  "title": "Use of a simulation-based mastery learning curriculum for neurology residents to improve the identification and management of status epilepticus.",
+  "abstract": "BACKGROUND: Appropriate and timely treatment of status epilepticus (SE) decreases morbidity and mortality. Therefore, skill-based training in the identification and management of SE is crucial for clinicians. OBJECTIVE: The objective of the study was to develop and evaluate the impact of a simulation-based mastery learning (SBML) curriculum to train neurology residents on the identification and management of SE. METHODS: We used pretest-posttest design with a retention test on SE skills for this study. Neurology residents in the second postgraduate year (PGY-2) were eligible to participate in the SE SBML curriculum. Learners completed a baseline-simulated SE skills assessment (pretest) using a 26-item dichotomous skills checklist. Next, they participated in a didactic session about the identification and management of SE, followed by deliberate skills practice. Subsequently, participants completed another skills assessment (posttest) using the same 26-item checklist. All participants were required to meet or exceed a minimum passing standard (MPS) determined by a panel of 14 SE experts using the Mastery Angoff standard setting method. After meeting the MPS at posttest, participants were reassessed during an unannounced in situ simulation session on the medical wards. We compared pretest with posttest simulated SE skills performance and posttest with reassessment in situ performance. RESULTS: The MPS was set at 88% (23/26) checklist items correct. Sixteen neurology residents participated in the intervention. Participant performance improved from a median of 44.23% (Interquartile range (IQR): 34.62-55.77) at pretest to 94.23% (IQR: 92.13-100) at the posttest after SBML (p < .001). There was no significant difference in scores between the posttest and in situ test up to 8 months later (94.23%; IQR: 92.31-100 vs. 92.31%; IQR: 88.46-96.15; p = .13). CONCLUSIONS: Our SBML curriculum significantly improved residents' SE identification and management skills that were largely retained during an unannounced simulated encounter in the hospital setting.",
+  "journal": "Epilepsy & behavior : E&B",
+  "year": "2021",
+  "authors": [
+    "Mikhaeil-Demo Y",
+    "Barsuk JH",
+    "Culler GW",
+    "Bega D",
+    "Salzman DH",
+    "Cohen ER",
+    "Templer JW",
+    "Gerard EE"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Checklist",
+    "Clinical Competence",
+    "Computer Simulation",
+    "Curriculum",
+    "Educational Measurement",
+    "Female",
+    "Humans",
+    "Internship and Residency",
+    "Male",
+    "Manikins",
+    "Neurology",
+    "Status Epilepticus"
+  ]
+}

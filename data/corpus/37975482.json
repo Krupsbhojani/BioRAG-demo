@@ -1,0 +1,38 @@
+{
+  "pmid": "37975482",
+  "title": "Patient headache questionnaires can improve headache diagnosis and treatment in children.",
+  "abstract": "OBJECTIVE: To examine trends in diagnosis of headache and migraine in a large pediatric neurology cohort, and test whether an electronic health record (EHR)-integrated headache questionnaire can increase specificity of diagnosis and likelihood of prescribing migraine treatment. BACKGROUND: Under-diagnosis of migraine contributes to the burden of disease. As we founded our Pediatric Headache Program in 2013, we recognized that the proportion of patients with headache who were given a diagnosis of migraine was much lower than expected. METHODS: We developed a patient headache questionnaire, initially on paper (2013-2014), then in an electronic database (2014-2016), and finally integrated into our electronic health record (pilot: 2016, full: May 2017). We compared diagnoses and prescribed treatments for new patients who were given a headache diagnosis, looking at trends in the proportion of patients given specific diagnoses (migraine, etc.) versus the non-specific diagnosis, \"headache.\" Next, we conducted a prospective cohort study to test for association between provider use of the form and the presence of a specific diagnosis, then for an association between specific diagnosis and prescription of migraine treatment. RESULTS: Between July 2011 and December 2022 the proportion of new headache patients who were given a diagnosis of migraine increased 9.7% and non-specific headache diagnoses decreased 21.0%. In the EHR cohort (June 2017-December 2022, n = 15,122), use of the provider form increased the rate of specific diagnosis to 87.2% (1839/2109) compared to 75.5% (5708/7560) without a patient questionnaire, nearly doubling the odds of making a specific diagnosis (odds ratio [OR] 1.90, 95% confidence interval [CI]: 1.65-2.19). Compared to those given only a non-specific headache diagnosis who were prescribed a migraine therapy 53.7% (1766/3286) of the time, 75.3% (8914/11836) of those given a specific diagnosis received a migraine therapy, more than doubling the odds of prescription (OR 2.39, 95% CI: 2.20-2.60). CONCLUSIONS: Interventions to improve specificity of diagnosis were effective and led to increased rates of prescription of migraine treatments. These results have been sustained over several years. This headache questionnaire was adapted into the Foundation system of EpicCare, so it is broadly available as a clinical and research tool for institutions that use this EHR software.",
+  "journal": "Headache",
+  "year": "2023",
+  "authors": [
+    "Szperka CL",
+    "Witzman S",
+    "Ostapenko S",
+    "Farrar JT",
+    "Hsu JY",
+    "Malavolta CP",
+    "Bunney JD",
+    "Bange EM",
+    "Patterson Gentile C",
+    "Velasquez G",
+    "Marquez de Prado B",
+    "Cosico M",
+    "Lee M",
+    "Pojomovsky McDonnell P",
+    "Prelack MS",
+    "Chadehumbe MA",
+    "Stephenson DJ",
+    "Kichula EA",
+    "Tomaine SC",
+    "Hershey AD"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Child",
+    "Prospective Studies",
+    "Headache",
+    "Migraine Disorders",
+    "Surveys and Questionnaires",
+    "Neurology"
+  ]
+}

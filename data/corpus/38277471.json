@@ -1,0 +1,25 @@
+{
+  "pmid": "38277471",
+  "title": "Clinical benchmarking of a commercial software for skin dose estimation in cardiac, abdominal, and neurology interventional procedures.",
+  "abstract": "BACKGROUND: Radiation exposure from interventional radiology (IR) could lead to potential risk of skin injury in patients. Several dose monitoring software like radiation dose monitor (RDM) were developed to estimate the patient skin dose (PSD) distribution in IR. PURPOSE: This study benchmarked the accuracy of RDM software in estimating PSD as compared to GafChromic film baseline in-vivo measurements on patients during cardiac, abdominal, and neurology IR procedures. METHODS: The prospective study conducted in four IR departments included 81 IR procedures (25 cardiac, 31 abdominal, and 25 neurology procedures) on three angiographic systems. PSD and field geometry were measured by placing GafChromic film under the patient's back. Statistical analyses were performed to compare the software estimation and film measurement results in terms of PSD and geometric accuracy. RESULTS: Median values of measured/calculated PSD were 1140/1005, 591/655.9, and 538/409.7 mGy for neurology, cardiac, and abdominal procedures, respectively. For all angiographic systems, the median (InterQuartile Range, IQR) difference between calculated and measured PSD was -10.2% (-21.8%-5.7%) for neurology, -4.5% (-19.5%-15.5%) for cardiac, and -21.9% (-38.7%--3.6%) for abdominal IR procedures. These differences were not significant for all procedures (p > 0.05). Discrepancies increased up to -82% in lower dose regions where the measurement uncertainties are higher. Regarding the geometric accuracy, RDM correctly reproduced the skin dose map and estimated PSD area dimensions closely matched those registered on films with a median (IQR) difference of 0 cm (-1-0.8 cm). CONCLUSIONS: RDM is proved to be a useful solution for the estimation of PSD and skin dose distribution during abdominal, cardiac and neurology IR procedures despite a geometry phantom which is not specific to the latter type of IR procedures.",
+  "journal": "Medical physics",
+  "year": "2024",
+  "authors": [
+    "Hadid-Beurrier L",
+    "Geryes BH",
+    "Jean-Pierre A",
+    "Gaudin PA",
+    "Feghali JA"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Skin",
+    "Benchmarking",
+    "Software",
+    "Radiation Dosage",
+    "Abdomen",
+    "Neurology",
+    "Prospective Studies",
+    "Heart"
+  ]
+}

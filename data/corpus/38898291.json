@@ -1,0 +1,25 @@
+{
+  "pmid": "38898291",
+  "title": "Large-scale neurophysiology and single-cell profiling in human neuroscience.",
+  "abstract": "Advances in large-scale single-unit human neurophysiology, single-cell RNA sequencing, spatial transcriptomics and long-term ex vivo tissue culture of surgically resected human brain tissue have provided an unprecedented opportunity to study human neuroscience. In this Perspective, we describe the development of these paradigms, including Neuropixels and recent brain-cell atlas efforts, and discuss how their convergence will further investigations into the cellular underpinnings of network-level activity in the human brain. Specifically, we introduce a workflow in which functionally mapped samples of human brain tissue resected during awake brain surgery can be cultured ex vivo for multi-modal cellular and functional profiling. We then explore how advances in human neuroscience will affect clinical practice, and conclude by discussing societal and ethical implications to consider. Potential findings from the field of human neuroscience will be vast, ranging from insights into human neurodiversity and evolution to providing cell-type-specific access to study and manipulate diseased circuits in pathology. This Perspective aims to provide a unifying framework for the field of human neuroscience as we welcome an exciting era for understanding the functional cytoarchitecture of the human brain.",
+  "journal": "Nature",
+  "year": "2024",
+  "authors": [
+    "Lee AT",
+    "Chang EF",
+    "Paredes MF",
+    "Nowakowski TJ"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Brain",
+    "Neuropathology",
+    "Neurophysiology",
+    "Neurosciences",
+    "Single-Cell Analysis",
+    "Single-Cell Gene Expression Analysis",
+    "Transcriptome",
+    "Workflow",
+    "Animals"
+  ]
+}

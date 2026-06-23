@@ -1,0 +1,18 @@
+{
+  "pmid": "37979413",
+  "title": "An overview of clinical machine learning applications in neurology.",
+  "abstract": "Machine learning techniques for clinical applications are evolving, and the potential impact this will have on clinical neurology is important to recognize. By providing a broad overview on this growing paradigm of clinical tools, this article aims to help healthcare professionals in neurology prepare to navigate both the opportunities and challenges brought on through continued advancements in machine learning. This narrative review first elaborates on how machine learning models are organized and implemented. Machine learning tools are then classified by clinical application, with examples of uses within neurology described in more detail. Finally, this article addresses limitations and considerations regarding clinical machine learning applications in neurology.",
+  "journal": "Journal of the neurological sciences",
+  "year": "2023",
+  "authors": [
+    "Smith CM",
+    "Weathers AL",
+    "Lewis SL"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Health Personnel",
+    "Machine Learning",
+    "Neurology"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "38369425",
+  "title": "Determining the impact of specialized care on health outcomes and health care utilization in Parkinsonism.",
+  "abstract": "BACKGROUND: Although care of Parkinsonism (PKM) is assumed to be optimally provided by movement disorder neurologists within an interdisciplinary clinic model, there is a paucity of published data to support this. OBJECTIVES: To investigate the impact of movement disorder neurologist care of individuals with Parkinsonism (PKM). METHODS: A retrospective exposure design was adopted using administrative data. Incident PKM individuals were identified in billing claims. A nine-year exposure period to movement disorder neurologist, general neurologist and non-neurologist care was calculated based on the billing codes. Regression models were used to test the association of provider exposure on time to death and long-term care (LTC) admission. Linear models were used to test varying provider exposure and hospital admissions, hospital days and emergency department visits. RESULTS: 1914 incident individuals were identified. There was no difference in PKM mortality, emergency visits, hospital admissions, or hospital days between providers, however exposure to general neurology and non-neurology care was associated with a significantly higher risk of admission to LTC compared to movement disorder neurologist care (HR 1.43; 95% CI 1.09-1.87 for general neurology (p-value = 0.0089); HR 1.61; 95% CI 1.25-2.05 for non-neurology (p-value = 0.0002), respectively. CONCLUSION: Movement disorder neurologist care is associated with a lower risk of admission to LTC over general neurologist care in individuals with PKM.",
+  "journal": "Parkinsonism & related disorders",
+  "year": "2024",
+  "authors": [
+    "Goerz CJ",
+    "Kanungo A",
+    "Lix LM",
+    "Leslie WD",
+    "Burchill C",
+    "Hobson DE"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Female",
+    "Male",
+    "Aged",
+    "Retrospective Studies",
+    "Parkinsonian Disorders",
+    "Middle Aged",
+    "Patient Acceptance of Health Care",
+    "Aged, 80 and over",
+    "Hospitalization",
+    "Neurologists",
+    "Long-Term Care",
+    "Neurology",
+    "Adult",
+    "Emergency Service, Hospital"
+  ]
+}

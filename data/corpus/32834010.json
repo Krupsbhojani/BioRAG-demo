@@ -1,0 +1,30 @@
+{
+  "pmid": "32834010",
+  "title": "Surgical results in acute type A aortic dissection with preoperative cardiopulmonary resuscitation: Survival and neurological outcome.",
+  "abstract": "BACKGROUND: Acute type A aortic dissection (ATAAD) is a life-threatening disease that requires emergent surgical intervention. This retrospective study aimed to clarify the individual characteristics, short-term and mid-term outcomes, and prognostic factors of patients who underwent surgical repair of ATAAD with preoperative cardiopulmonary resuscitation (CPR). METHODS: Between January 2007 and January 2020, 656 consecutive patients underwent ATAAD repair at our institution; 22 (3.4%) of these patients underwent CPR prior to surgery. Patients who underwent preoperative CPR were classified as the survivor group (n = 9) and non-survivor group (n = 13), according to whether they survived to hospital discharge. Clinical features, surgical information, and postoperative complications were analyzed and compared. Three-year cumulative survival rates and cerebral performance categories (CPC) scores are presented. RESULTS: In patients undergoing CPR prior to ATAAD surgery, the in-hospital mortality rate was 59.1%. A total of 72.7% of patients underwent concomitant surgical resuscitation procedures during CPR such as emergent subxiphoid pericardiotomy and/or emergent cardiopulmonary bypass. The survivor group had a higher rate of return of spontaneous heartbeat (ROSB) compared to the non-survivor group (100% versus 53.8%; P = 0.017). The 3-year cumulative survival rates were 35.1% (95% confidence interval [CI], 27.6%-42.6%) and 85.7% (95% CI, 81.9%-88.8%) for overall patients and for survivors, respectively. As for the neurological outcome, 77.8% (7/9) of patients had full cerebral performance (CPC-1) at the 3-month follow-up examination after discharge. CONCLUSIONS: Patients with ATAAD undergoing preoperative CPR, especially those without ROSB after CPR, are at high risk for in-hospital mortality. However, the short-term and mid-term outcomes, including the cerebral performance after discharge and 3-year survival rate, are promising for patients who survived to discharge.",
+  "journal": "PloS one",
+  "year": "2020",
+  "authors": [
+    "Lin CY",
+    "Tseng CN",
+    "Lu CH",
+    "Tung TH",
+    "Tsai FC",
+    "Wu MY"
+  ],
+  "mesh_terms": [
+    "Acute Disease",
+    "Aged",
+    "Aged, 80 and over",
+    "Aortic Dissection",
+    "Cardiopulmonary Resuscitation",
+    "Female",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Neurology",
+    "Preoperative Period",
+    "Survival Analysis",
+    "Treatment Outcome"
+  ]
+}

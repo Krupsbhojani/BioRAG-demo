@@ -1,0 +1,37 @@
+{
+  "pmid": "34085743",
+  "title": "European Academy of Neurology/Peripheral Nerve Society guideline on diagnosis and treatment of chronic inflammatory demyelinating polyradiculoneuropathy: Report of a joint Task Force-Second revision.",
+  "abstract": "To revise the 2010 consensus guideline on chronic inflammatory demyelinating polyradiculoneuropathy (CIDP). Seventeen disease experts, a patient representative, and two Cochrane methodologists constructed 12 Population/Intervention/Comparison/Outcome (PICO) questions regarding diagnosis and treatment to guide the literature search. Data were extracted and summarized in GRADE summary of findings (for treatment PICOs) or evidence tables (for diagnostic PICOs). Statements were prepared according to the GRADE Evidence-to-Decision frameworks. Typical CIDP and CIDP variants were distinguished. The previous term \"atypical CIDP\" was replaced by \"CIDP variants\" because these are well characterized entities (multifocal, focal, distal, motor, or sensory CIDP). The levels of diagnostic certainty were reduced from three (definite, probable, possible CIDP) to only two (CIDP and possible CIDP), because the diagnostic accuracy of criteria for probable and definite CIDP did not significantly differ. Good Practice Points were formulated for supportive criteria and investigations to be considered to diagnose CIDP. The principal treatment recommendations were: (a) intravenous immunoglobulin (IVIg) or corticosteroids are strongly recommended as initial treatment in typical CIDP and CIDP variants; (b) plasma exchange is strongly recommended if IVIg and corticosteroids are ineffective; (c) IVIg should be considered as first-line treatment in motor CIDP (Good Practice Point); (d) for maintenance treatment, IVIg, subcutaneous immunoglobulin or corticosteroids are recommended; (e) if the maintenance dose of any of these is high, consider either combination treatments or adding an immunosuppressant or immunomodulatory drug (Good Practice Point); and (f) if pain is present, consider drugs against neuropathic pain and multidisciplinary management (Good Practice Point).",
+  "journal": "Journal of the peripheral nervous system : JPNS",
+  "year": "2022",
+  "authors": [
+    "Van den Bergh PYK",
+    "van Doorn PA",
+    "Hadden RDM",
+    "Avau B",
+    "Vankrunkelsven P",
+    "Allen JA",
+    "Attarian S",
+    "Blomkwist-Markens PH",
+    "Cornblath DR",
+    "Eftimov F",
+    "Goedee HS",
+    "Harbo T",
+    "Kuwabara S",
+    "Lewis RA",
+    "Lunn MP",
+    "Nobile-Orazio E",
+    "Querol L",
+    "Rajabally YA",
+    "Sommer C",
+    "Topaloglu HA"
+  ],
+  "mesh_terms": [
+    "Adrenal Cortex Hormones",
+    "Humans",
+    "Immunoglobulins, Intravenous",
+    "Neurology",
+    "Peripheral Nerves",
+    "Polyradiculoneuropathy, Chronic Inflammatory Demyelinating"
+  ]
+}

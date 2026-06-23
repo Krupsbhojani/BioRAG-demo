@@ -1,0 +1,34 @@
+{
+  "pmid": "35410438",
+  "title": "Detection of astrocytic tau pathology facilitates recognition of chronic traumatic encephalopathy neuropathologic change.",
+  "abstract": "Traumatic brain injury (TBI) is associated with the development of a range of neurodegenerative pathologies, including chronic traumatic encephalopathy (CTE). Current consensus diagnostic criteria define the pathognomonic cortical lesion of CTE neuropathologic change (CTE-NC) as a patchy deposition of hyperphosphorylated tau in neurons, with or without glial tau in thorn-shaped astrocytes, typically towards the depths of sulci and clustered around small blood vessels. Nevertheless, although incorporated into consensus diagnostic criteria, the contribution of the individual cellular components to identification of CTE-NC has not been formally evaluated. To address this, from the Glasgow TBI Archive, cortical tissue blocks were selected from consecutive brain donations from contact sports athletes in which there was known to be either CTE-NC (n = 12) or Alzheimer's disease neuropathologic change  (n = 4). From these tissue blocks, adjacent tissue sections were stained for tau antibodies selected to reveal either solely neuronal pathology (3R tau; GT-38) or mixed neuronal and astroglial pathologies (4R tau; PHF-1). These stained sections were then randomised and independently assessed by a panel of expert neuropathologists, blind to patient clinical history and primary antibody applied to each section, who were asked to record whether CTE-NC was present. Results demonstrate that, in sections stained for either 4R tau or PHF-1, consensus recognition of CTE-NC was high. In contrast, recognition of CTE-NC in sections stained for 3R tau or GT-38 was poor; in the former no better than chance. Our observations demonstrate that the presence of both neuronal and astroglial tau pathologies facilitates detection of CTE-NC, with its detection less consistent when neuronal tau pathology alone is visible. The combination of both glial and neuronal pathologies, therefore, may be required for detection of CTE-NC.",
+  "journal": "Acta neuropathologica communications",
+  "year": "2022",
+  "authors": [
+    "Ameen-Ali KE",
+    "Bretzin A",
+    "Lee EB",
+    "Folkerth R",
+    "Hazrati LN",
+    "Iacono D",
+    "Keene CD",
+    "Kofler J",
+    "Kovacs GG",
+    "Nolan A",
+    "Perl DP",
+    "Priemer DS",
+    "Smith DH",
+    "Wiebe DJ",
+    "Stewart W"
+  ],
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Astrocytes",
+    "Brain",
+    "Brain Injuries, Traumatic",
+    "Chronic Traumatic Encephalopathy",
+    "Humans",
+    "Neuropathology",
+    "tau Proteins"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "pmid": "36456582",
+  "title": "A hybrid interpretable deep structure based on adaptive neuro-fuzzy inference system, decision tree, and K-means for intrusion detection.",
+  "abstract": "For generating an interpretable deep architecture for identifying deep intrusion patterns, this study proposes an approach that combines ANFIS (Adaptive Network-based Fuzzy Inference System) and DT (Decision Tree) for interpreting the deep pattern of intrusion detection. Meanwhile, for improving the efficiency of training and predicting, Pearson Correlation analysis, standard deviation, and a new adaptive K-means are used to select attributes and make fuzzy interval decisions. The proposed algorithm was trained, validated, and tested on the NSL-KDD (National security lab-knowledge discovery and data mining) dataset. Using 22 attributes that highly related to the target, the performance of the proposed method achieves a 99.86% detection rate and 0.14% false alarm rate on the KDDTrain+ dataset, a 77.46% detection rate on the KDDTest+ dataset, which is better than many classifiers. Besides, the interpretable model can help us demonstrate the complex and overlapped pattern of intrusions and analyze the pattern of various intrusions.",
+  "journal": "Scientific reports",
+  "year": "2022",
+  "authors": [
+    "Liu J",
+    "Yinchai W",
+    "Siong TC",
+    "Li X",
+    "Zhao L",
+    "Wei F"
+  ],
+  "mesh_terms": [
+    "Decision Trees",
+    "Neurology",
+    "Algorithms",
+    "Data Mining",
+    "Knowledge Discovery"
+  ]
+}

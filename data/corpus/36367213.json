@@ -1,0 +1,17 @@
+{
+  "pmid": "36367213",
+  "title": "Neurology education in the era of artificial intelligence.",
+  "abstract": "PURPOSE OF REVIEW: The practice of neurology is undergoing a paradigm shift because of advances in the field of data science, artificial intelligence, and machine learning. To ensure a smooth transition, physicians must have the knowledge and competence to apply these technologies in clinical practice. In this review, we describe physician perception and preparedness, as well as current state for clinical applications of artificial intelligence and machine learning in neurology. RECENT FINDINGS: Digital health including artificial intelligence-based/machine learning-based technology has made significant inroads into various aspects of healthcare including neurological care. Surveys of physicians and healthcare stakeholders suggests an overall positive perception about the benefits of artificial intelligence/machine learning in clinical practice. This positive perception is tempered by concerns for lack of knowledge and limited opportunities to build competence in artificial intelligence/machine learning technology. Literature about neurologist's perception and preparedness towards artificial intelligence/machine learning-based technology is scant. There are very few opportunities for physicians particularly neurologists to learn about artificial intelligence/machine learning-based technology. SUMMARY: Neurologists have not been surveyed about their perception and preparedness to adopt artificial intelligence/machine learning-based technology in clinical practice. We propose development of a practical artificial intelligence/machine learning curriculum to enhance neurologists' competence in these newer technologies.",
+  "journal": "Current opinion in neurology",
+  "year": "2023",
+  "authors": [
+    "Kedar S",
+    "Khazanchi D"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Neurology"
+  ]
+}

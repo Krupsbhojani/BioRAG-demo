@@ -1,0 +1,37 @@
+{
+  "pmid": "38506968",
+  "title": "Leveraging the Capabilities of AI: Novice Neurology-Trained Operators Performing Cardiac POCUS in Patients with Acute Brain Injury.",
+  "abstract": "BACKGROUND: Cardiac point-of-care ultrasound (cPOCUS) can aid in the diagnosis and treatment of cardiac disorders. Such disorders can arise as complications of acute brain injury, but most neurologic intensive care unit (NICU) providers do not receive formal training in cPOCUS. Caption artificial intelligence (AI) uses a novel deep learning (DL) algorithm to guide novice cPOCUS users in obtaining diagnostic-quality cardiac images. The primary objective of this study was to determine how often NICU providers with minimal cPOCUS experience capture quality images using DL-guided cPOCUS as well as the association between DL-guided cPOCUS and change in management and time to formal echocardiograms in the NICU. METHODS: From September 2020 to November 2021, neurology-trained physician assistants, residents, and fellows used DL software to perform clinically indicated cPOCUS scans in an academic tertiary NICU. Certified echocardiographers evaluated each scan independently to assess the quality of images and global interpretability of left ventricular function, right ventricular function, inferior vena cava size, and presence of pericardial effusion. Descriptive statistics with exact confidence intervals were used to calculate proportions of obtained images that were of adequate quality and that changed management. Time to first adequate cardiac images (either cPOCUS or formal echocardiography) was compared using a similar population from 2018. RESULTS: In 153 patients, 184 scans were performed for a total of 943 image views. Three certified echocardiographers deemed 63.4% of scans as interpretable for a qualitative assessment of left ventricular size and function, 52.6% of scans as interpretable for right ventricular size and function, 34.8% of scans as interpretable for inferior vena cava size and variability, and 47.2% of scans as interpretable for the presence of pericardial effusion. Thirty-seven percent of screening scans changed management, most commonly adjusting fluid goals (81.2%). Time to first adequate cardiac images decreased significantly from 3.1 to 1.7 days (p < 0.001). CONCLUSIONS: With DL guidance, neurology providers with minimal to no cPOCUS training were often able to obtain diagnostic-quality cardiac images, which informed management changes and significantly decreased time to cardiac imaging.",
+  "journal": "Neurocritical care",
+  "year": "2024",
+  "authors": [
+    "Mears J",
+    "Kaleem S",
+    "Panchamia R",
+    "Kamel H",
+    "Tam C",
+    "Thalappillil R",
+    "Murthy S",
+    "Merkler AE",
+    "Zhang C",
+    "Ch'ang JH"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Echocardiography",
+    "Brain Injuries",
+    "Male",
+    "Female",
+    "Neurology",
+    "Point-of-Care Systems",
+    "Middle Aged",
+    "Clinical Competence",
+    "Artificial Intelligence",
+    "Aged",
+    "Deep Learning",
+    "Adult",
+    "Internship and Residency",
+    "Intensive Care Units",
+    "Physician Assistants"
+  ]
+}

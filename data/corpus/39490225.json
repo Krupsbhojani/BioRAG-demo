@@ -1,0 +1,27 @@
+{
+  "pmid": "39490225",
+  "title": "The emerging role of artificial intelligence in neuropathology: Where are we and where do we want to go?",
+  "abstract": "The field of neuropathology, a subspecialty of pathology which studies the diseases affecting the nervous system, is experiencing significant changes due to advancements in artificial intelligence (AI). Traditionally reliant on histological methods and clinical correlations, neuropathology is now experiencing a revolution due to the development of AI technologies like machine learning (ML) and deep learning (DL). These technologies enhance diagnostic accuracy, optimize workflows, and enable personalized treatment strategies. AI algorithms excel at analyzing histopathological images, often revealing subtle morphological changes missed by conventional methods. For example, deep learning models applied to digital pathology can effectively differentiate tumor grades and detect rare pathologies, leading to earlier and more precise diagnoses. Progress in neuroimaging is another helpful tool of AI, as enhanced analysis of MRI and CT scans supports early detection of neurodegenerative diseases. By identifying biomarkers and progression patterns, AI aids in timely therapeutic interventions, potentially slowing disease progression. In molecular pathology, AI's ability to analyze complex genomic data helps uncover the genetic and molecular basis of neuropathological conditions, facilitating personalized treatment plans. AI-driven automation streamlines routine diagnostic tasks, allowing pathologists to focus on complex cases, especially in settings with limited resources. This review explores AI's integration into neuropathology, highlighting its current applications, benefits, challenges, and future directions.",
+  "journal": "Pathology, research and practice",
+  "year": "2024",
+  "authors": [
+    "Broggi G",
+    "Mazzucchelli M",
+    "Salzano S",
+    "Barbagallo GMV",
+    "Certo F",
+    "Zanelli M",
+    "Palicelli A",
+    "Zizzo M",
+    "Koufopoulos N",
+    "Magro G",
+    "Caltabiano R"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Artificial Intelligence",
+    "Neuropathology",
+    "Deep Learning",
+    "Machine Learning"
+  ]
+}

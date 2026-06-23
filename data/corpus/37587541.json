@@ -1,0 +1,20 @@
+{
+  "pmid": "37587541",
+  "title": "Observational studies of treatment effectiveness in neurology.",
+  "abstract": "The capacity and power of data from cohorts, registries and randomized trials to provide answers to contemporary clinical questions in neurology has increased considerably over the past two decades. Novel sophisticated statistical methods are enabling us to harness these data to guide treatment decisions, but their complexity is making appraisal of clinical evidence increasingly demanding. In this review, we discuss several methodological aspects of contemporary research of treatment effectiveness in observational data in neurology, aimed at academic neurologists and analysts specializing in outcomes research. The review discusses specifics of the sources of observational data and their key features. It focuses on the limitations of observational data and study design, as well as statistical approaches aimed to overcome these limitations. Among the examples of leading clinical themes typically studied with analyses of observational data, the review discusses methodological approaches to comparative treatment effectiveness, development of diagnostic criteria and definitions of clinical outcomes. Finally, this review provides a brief summary of key points that will help clinical audience critically evaluate design and analytical aspects of studies of disease outcomes using observational data.",
+  "journal": "Brain : a journal of neurology",
+  "year": "2023",
+  "authors": [
+    "Kalincik T",
+    "Roos I",
+    "Sharmin S"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Treatment Outcome",
+    "Outcome Assessment, Health Care",
+    "Registries",
+    "Research Design",
+    "Neurology"
+  ]
+}

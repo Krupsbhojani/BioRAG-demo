@@ -1,0 +1,29 @@
+{
+  "pmid": "31104734",
+  "title": "Association Between Patient Experience With Patient-Reported Outcome Measurements and Overall Satisfaction With Care in Neurology.",
+  "abstract": "BACKGROUND: There has been increasing focus on both patient-reported outcome measurement (PROM) collection and patient satisfaction ratings; nevertheless, little is known about their relationship. OBJECTIVES: To determine the association between patient experience with PROM collection and visit satisfaction and to identify characteristics of better ratings for each. METHODS: This cross-sectional observational study included all patients seen in 15 neurological clinics who completed PROMs as well as 6 questions on the patient experience with PROMs at least once from October 1, 2015 to December 31, 2016. Visit satisfaction was evaluated using a composite measure of physician communication, overall physician rating, and the likelihood of recommending that physician as indicated on the Clinician and Group Consumer Assessment of Healthcare Providers and Systems survey. Predictors of PROM experience and satisfaction were identified using proportional odds and logistic regression models, respectively. RESULTS: There were 6454 patients (average age 58 ± 15 years, 59% women) who completed PROMs and responded to the Clinician and Group Consumer Assessment of Healthcare Providers and Systems survey. There were significant positive associations between each PROM experience question and visit satisfaction (r = 0.11-0.19; P<.010), although factors predicting visit satisfaction differed from those predicting PROM experience. A differential effect of PROMs on visit satisfaction was identified for patients who were nonwhite, had lower income, and had more comorbidities. CONCLUSIONS: Although there was a significant association between better PROM experience and higher visit satisfaction, relationships with clinical characteristics differed, providing insights into how PROMs may be associated with patients' visit satisfaction. Further research is necessary to confirm whether PROMs can be used to improve visit satisfaction, particularly in patients who historically have reported lower quality of care.",
+  "journal": "Value in health : the journal of the International Society for Pharmacoeconomics and Outcomes Research",
+  "year": "2019",
+  "authors": [
+    "Lapin BR",
+    "Honomichl RD",
+    "Thompson NR",
+    "Rose S",
+    "Sugano D",
+    "Udeh B",
+    "Katzan IL"
+  ],
+  "mesh_terms": [
+    "Communication",
+    "Cross-Sectional Studies",
+    "Female",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Neurology",
+    "Patient Reported Outcome Measures",
+    "Patient Satisfaction",
+    "Physician-Patient Relations",
+    "Surveys and Questionnaires"
+  ]
+}

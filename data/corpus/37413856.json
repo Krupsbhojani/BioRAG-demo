@@ -1,0 +1,20 @@
+{
+  "pmid": "37413856",
+  "title": "A bibliometric evaluation of the top 100 cited articles on ocrelizumab.",
+  "abstract": "BACKGROUND: To analyze the 100 most cited articles (T100) on ocrelizumab using bibliometric methods to determine the current situation and identify research hotspots. METHODS: Articles with \"ocrelizumab\" in their title were searched for in the Web of Science (WoS) database, identifying 900 articles. After the exclusion criteria were applied, 183 original articles and reviews were obtained. The T100 were selected from among these articles. Data on these articles (author, source, institution, country, scientific category, citation number, and citation density) were analyzed. RESULTS: The number of articles showed a fluctuating upward trend from 2006 to 2022. The total number of citations for the T100 ranged from two to 923. The average number of citations per article was 45.11. The most articles were published in 2021 (n = 31). The \"Ocrelizumab versus Placebo in Primary Progressive Multiple Sclerosis\" study (T1) was the most cited article among the T100 and had the highest annual average number of citations. T1, T2, and T3 were clinical trials on treating multiple sclerosis. The USA was the most productive and influential research country, with 44 articles. Multiple Sclerosis and Related Disorders was the most productive journal (n = 22). Clinical neurology ranked first among the WoS categories (n = 70). Hauser Stephen and Kappos Ludwig were the most influential authors, with 10 articles each. Biotechnology company Roche was at the top of the publication list, with 36 articles. CONCLUSION: This study's results can give researchers an idea about current developments and research collaborations on ocrelizumab. These data can help researchers easily obtain publications that have become classics. We conclude that the clinical and academic communities have shown a growing interest in ocrelizumab for treating primary progressive multiple sclerosis in recent years.",
+  "journal": "Multiple sclerosis and related disorders",
+  "year": "2023",
+  "authors": [
+    "Altunisik E",
+    "Cengiz EK",
+    "Keceli YK"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Multiple Sclerosis, Chronic Progressive",
+    "Bibliometrics",
+    "Multiple Sclerosis",
+    "Neurology",
+    "Databases, Factual"
+  ]
+}

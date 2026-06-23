@@ -1,0 +1,31 @@
+{
+  "pmid": "34243046",
+  "title": "Risk of Admission to the Emergency Room/Inpatient Service After a Neurology Telemedicine Visit During COVID-19 Pandemic.",
+  "abstract": "BACKGROUND: We compared emergency department (ED) and overnight inpatient admission (admission) rates within eight weeks of home-based telemedicine visits during COVID-19 in 2020 with in-person visits (conventional visit) in 2019. This was a quality improvement project prompted by an adverse event after a telemedicine visit. METHODS: We reviewed all completed telemedicine and conventional visits from March 26 to June 1 of 2020 and 2019 to identify patients who required an ED visit or hospital admission within eight weeks after the visit. RESULTS: In 2020, the overall rate of ED visits of hospital admission within eight weeks of a neurology visit was less than 5%. Comparing 2020 with 2019: (1) cohorts were similar for age, payor, state of residence, medical complexity, recommendation for close follow-up, new medications, or new tests ordered; (2) it took longer to present to the ED (by 10 days) or to be hospitalized (by three days); (3) planned admissions were approximately 50% lower; (4) on multivariate analysis, risk factors for any ED/admission included a patient call within seven days before the ED/admission (P = 0.0004) or being seen by an epilepsy specialist (P = 0.02); (5) a presenting complaint of worsening symptoms had a lower odds ratio of subsequent ED visit/admission (P = 0.005). CONCLUSIONS: Telemedicine is safe, with a similar likelihood of ED or hospital admission during the pandemic in 2020 versus before the pandemic in 2019. In 2020, even if patients described worse symptoms at the time of their clinic visit, the odds of ED or hospital admission were lower than in 2019, but those who called after the telemedicine visit were more likely to be seen in ED or require hospitalization.",
+  "journal": "Pediatric neurology",
+  "year": "2021",
+  "authors": [
+    "Joshi C",
+    "Jacobson M",
+    "Silveira L",
+    "Shea S",
+    "Yang M",
+    "Eschbach K"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "COVID-19",
+    "Emergency Service, Hospital",
+    "Female",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Nervous System Diseases",
+    "Neurology",
+    "Patient Admission",
+    "Patient Safety",
+    "Quality Improvement",
+    "Risk Factors",
+    "Telemedicine"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "pmid": "38395249",
+  "title": "The dichotomous activities of microglia: A potential driver for phenotypic heterogeneity in Alzheimer's disease.",
+  "abstract": "Alzheimer's disease (AD) is a leading cause of dementia, characterized by two defining neuropathological hallmarks: amyloid plaques composed of Aβ aggregates and neurofibrillary pathology. Recent research suggests that microglia have both beneficial and detrimental effects in the development of AD. A new theory proposes that microglia play a beneficial role in the early stages of the disease but become harmful in later stages. Further investigations are needed to gain a comprehensive understanding of this shift in microglia's function. This transition is likely influenced by specific conditions, including spatial, temporal, and transcriptional factors, which ultimately lead to the deterioration of microglial functionality. Additionally, recent studies have also highlighted the potential influence of microglia diversity on the various manifestations of AD. By deciphering the multiple states of microglia and the phenotypic heterogeneity in AD, significant progress can be made towards personalized medicine and better treatment outcomes for individuals affected by AD.",
+  "journal": "Brain research",
+  "year": "2024",
+  "authors": [
+    "Pumo A",
+    "Legeay S"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Alzheimer Disease",
+    "Microglia",
+    "Nervous System Diseases",
+    "Neuropathology",
+    "Amyloid beta-Peptides"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "32732276",
+  "title": "Artificial Intelligence in Neuroradiology: Current Status and Future Directions.",
+  "abstract": "Fueled by new techniques, computational tools, and broader availability of imaging data, artificial intelligence has the potential to transform the practice of neuroradiology. The recent exponential increase in publications related to artificial intelligence and the central focus on artificial intelligence at recent professional and scientific radiology meetings underscores the importance. There is growing momentum behind leveraging artificial intelligence techniques to improve workflow and diagnosis and treatment and to enhance the value of quantitative imaging techniques. This article explores the reasons why neuroradiologists should care about the investments in new artificial intelligence applications, highlights current activities and the roles neuroradiologists are playing, and renders a few predictions regarding the near future of artificial intelligence in neuroradiology.",
+  "journal": "AJNR. American journal of neuroradiology",
+  "year": "2021",
+  "authors": [
+    "Lui YW",
+    "Chang PD",
+    "Zaharchuk G",
+    "Barboriak DP",
+    "Flanders AE",
+    "Wintermark M",
+    "Hess CP",
+    "Filippi CG"
+  ],
+  "mesh_terms": [
+    "Artificial Intelligence",
+    "Humans",
+    "Neurology",
+    "Radiology"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "32569136",
+  "title": "Quality of Otology and Neurotology Research in Otolaryngology Journals.",
+  "abstract": "OBJECTIVE: To identify trends in the quality of otology studies published in general otolaryngology journals over a 20-year period. STUDY DESIGN: Retrospective analysis. METHODS: Otologic and neurotologic papers from 1997, 2007, and 2017 were identified in the three general otolaryngology journals with the highest Eigenfactor scores: the Laryngoscope, European Archives of Otorhinolaryngology, and Otolaryngology-Head and Neck Surgery. The studies were reviewed and assigned level of evidence (LoE) based on standards set by the Centres for Evidence Based Medicine (CEBM). One-way analysis of variance were calculated with a 95% bootstrap sensitivity analysis performed. RESULTS: A total of 786 otology articles were reviewed for level of evidence, of which 557 (70.8%) were original, clinical research, eligible for LoE assignation. Total publications increased for each year in all three journals. Both the absolute number and proportion of high evidence studies (level of evidence 1 and 2) increased with respect to time in all three journals. Lower evidence studies (level of evidence 3, 4, or 5) made up 66.8% of total publications in 2017. There was a reduction in average level of evidence (towards higher quality evidence) by 0.431 units from 1997 to 2017 (Diff = -0.431 between 1997 and 2017, p < 0.001). There was no significant difference in rate of change of level of evidence between 1997 and 2007 and 2007 and 2017 (0.033, p = 0.864). CONCLUSION: Over a 20-year period the number of total publications increased with time. The majority of otology publications in 2017 were lower evidence studies, though significant increases in the number and proportion of high evidence studies in general otolaryngology journals were observed throughout the study period.",
+  "journal": "Otology & neurotology : official publication of the American Otological Society, American Neurotology Society [and] European Academy of Otology and Neurotology",
+  "year": "2021",
+  "authors": [
+    "Socolovsky LD",
+    "Krishnan P",
+    "Ramraj R",
+    "Retnam R",
+    "Sima A",
+    "Bauschard MJ",
+    "Coelho DH"
+  ],
+  "mesh_terms": [
+    "Evidence-Based Medicine",
+    "Humans",
+    "Neurotology",
+    "Otolaryngology",
+    "Periodicals as Topic",
+    "Retrospective Studies"
+  ]
+}

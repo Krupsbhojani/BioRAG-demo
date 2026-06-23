@@ -1,0 +1,31 @@
+{
+  "pmid": "32663285",
+  "title": "Artificial intelligence neuropathologist for glioma classification using deep learning on hematoxylin and eosin stained slide images and molecular markers.",
+  "abstract": "BACKGROUND: Pathological diagnosis of glioma subtypes is essential for treatment planning and prognosis. Standard histological diagnosis of glioma is based on postoperative hematoxylin and eosin stained slides by neuropathologists. With advancing artificial intelligence (AI), the aim of this study was to determine whether deep learning can be applied to glioma classification. METHODS: A neuropathological diagnostic platform is designed comprising a slide scanner and deep convolutional neural networks (CNNs) to classify 5 major histological subtypes of glioma to assist pathologists. The CNNs were trained and verified on over 79 990 histological patch images from 267 patients. A logical algorithm is used when molecular profiles are available. RESULTS: A new model of the squeeze-and-excitation block DenseNet with weighted cross-entropy (named SD-Net_WCE) is developed for the glioma classification task, which learns the recognizable features of glioma histology CNN-based independent diagnostic testing on data from 56 patients with 17 262 histological patch images demonstrated patch level accuracy of 86.5% and patient level accuracy of 87.5%. Histopathological classifications could be further amplified to integrated neuropathological diagnosis by 2 molecular markers (isocitrate dehydrogenase and 1p/19q). CONCLUSION: The model is capable of solving multiple classification tasks and can satisfactorily classify glioma subtypes. The system provides a novel aid for the integrated neuropathological diagnostic workflow of glioma.",
+  "journal": "Neuro-oncology",
+  "year": "2021",
+  "authors": [
+    "Jin L",
+    "Shi F",
+    "Chun Q",
+    "Chen H",
+    "Ma Y",
+    "Wu S",
+    "Hameed NUF",
+    "Mei C",
+    "Lu J",
+    "Zhang J",
+    "Aibaidula A",
+    "Shen D",
+    "Wu J"
+  ],
+  "mesh_terms": [
+    "Artificial Intelligence",
+    "Deep Learning",
+    "Eosine Yellowish-(YS)",
+    "Glioma",
+    "Hematoxylin",
+    "Humans",
+    "Neuropathology"
+  ]
+}

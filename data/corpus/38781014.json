@@ -1,0 +1,28 @@
+{
+  "pmid": "38781014",
+  "title": "Assessment of disease pattern and drug utilization among neurology intensive care unit patients in a developing country: an observational analysis.",
+  "abstract": "OBJECTIVE: This study aimed to assess the disease pattern and drug utilization among admitted patients in a tertiary-care hospital's neurology intensive care unit (neuro ICU). METHODS: A prospective observational cohort study was conducted between August 2022 and January 2023. Patients of any age and gender admitted to the neuro ICU were included, but those who declined to participate were excluded. Demographics, clinical, and medication details were consistently gathered and maintained until discharge. The World Health Organization (WHO)/International Network of Rational Use of Drugs (INRUD) prescribing indicators and the Anatomical Therapeutic Chemical (ATC) classification/Defined Daily Dose (DDD) system were used to evaluate drug use. RESULTS: A total of 516 patients were included, predominantly male (65.1%), with an average age of 54.62 ± 15.02 years. The most common diagnosis was stroke [72.3%, comprised of hemorrhagic (46.7%) and ischemic (25.6%)], followed by seizure disorders (6.6%), and central nervous system infections (5.4%). Patients received an average of 7.8 medications, 32.3% prescribed by generic name, 16.0% antibiotics, 74.1% injections, and 100% essential drugs. A (28.5%), C (19.2%), N (17.3%), J (19.2%), B (13.5%), and R (2.3%) were commonly prescribed ATC classes of medications. Number of DDDs was maximum for pantoprazole and furosemide. Based on discharged status, 41.0% were discharged on request, 24.8% against medical advice, 23.8% routine, and 10.2% mortality during hospitalization. CONCLUSION: Our study reveals a high prevalence of hemorrhagic stroke, especially among men, diverging from global ischemic stroke trends. Irregular hypertension treatment is the primary cause, exacerbated by low healthcare knowledge in rural areas, where patients often discharge on request, probably due to poor socio-economic conditions. Urgent public awareness campaigns and further research are needed to address this elevated hemorrhagic stroke incidence.",
+  "journal": "Hospital practice (1995)",
+  "year": "2024",
+  "authors": [
+    "Niveditha M",
+    "Kasana R",
+    "Barua AR",
+    "Barthakur M",
+    "Undela K"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Male",
+    "Female",
+    "Middle Aged",
+    "Prospective Studies",
+    "Intensive Care Units",
+    "Adult",
+    "Aged",
+    "Developing Countries",
+    "Drug Utilization",
+    "Neurology",
+    "Tertiary Care Centers"
+  ]
+}

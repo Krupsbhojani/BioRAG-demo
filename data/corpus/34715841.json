@@ -1,0 +1,31 @@
+{
+  "pmid": "34715841",
+  "title": "Broadening learning communities during COVID-19: developing a curricular framework for telemedicine education in neurology.",
+  "abstract": "BACKGROUND: In response to the cancellation of clinical clerkships due to COVID-19, the Johns Hopkins (JH) Neurology Education Team developed a virtual elective to enhance medical students' clinical telemedicine skills and foster community between academic institutions. METHODS: This two-week clinical elective, entitled \"Virtual Patient Rounds in Neurology,\" was administered once in April 2020 and once in May 2020. The curriculum included attending/fellow-led Virtual Rounds, Student Presentations, and Asynchronous Educational Activities. We also developed a new lecture series entitled JHNeuroChats, which consisted of live synchronous lectures presented by JH faculty and Virtual Visiting Professors. Trainees and faculty from outside institutions were invited to participate in the JHNeuroChats. Students and faculty completed pre- and post-elective surveys to assess the educational impact of the elective. Student's t-tests were used to compare scores between pre- and post-elective surveys. RESULTS: Seven JH medical students enrolled in each iteration of the elective, and an additional 337 trainees and faculty, representing 14 different countries, registered for the JHNeuroChats. We hosted 48 unique JHNeuroChats, 32 (66.7%) of which were led by invited Virtual Visiting Professors. At the end of the elective, students reported increased confidence in virtually obtaining a history (P < 0.0001) and performing a telehealth neurological physical exam (P < 0.0001), compared to the start of the course. In addition, faculty members reported increased confidence in teaching clinical medicine virtually, although these findings were not statistically significant (P = 0.15). CONCLUSIONS: Despite the constraints imposed by COVID-19, this virtual Neurology elective increased medical students' confidence in certain telemedicine skills and successfully broadened our learning community to encompass learners from around the world. As virtual medical education becomes more prevalent, it is important that we are intentional in creating opportunities for shared learning across institutions. We believe that this elective can serve as a model for these future educational collaborations.",
+  "journal": "BMC medical education",
+  "year": "2021",
+  "authors": [
+    "Gummerson CE",
+    "Lo BD",
+    "Porosnicu Rodriguez KA",
+    "Cosner ZL",
+    "Hardenbergh D",
+    "Bongiorno DM",
+    "Wainger J",
+    "Hu K",
+    "Gamaldo C",
+    "Salas RME",
+    "Romo C",
+    "Leung DG"
+  ],
+  "mesh_terms": [
+    "COVID-19",
+    "Clinical Clerkship",
+    "Curriculum",
+    "Humans",
+    "Neurology",
+    "SARS-CoV-2",
+    "Students, Medical",
+    "Telemedicine"
+  ]
+}

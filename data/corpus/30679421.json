@@ -1,0 +1,43 @@
+{
+  "pmid": "30679421",
+  "title": "Neuropathological correlates and genetic architecture of microglial activation in elderly human brain.",
+  "abstract": "Microglia, the resident immune cells of the brain, have important roles in brain health. However, little is known about the regulation and consequences of microglial activation in the aging human brain. Here we report that the proportion of morphologically activated microglia (PAM) in postmortem cortical tissue is strongly associated with β-amyloid, tau-related neuropathology, and the rate of cognitive decline. Effect sizes for PAM measures are substantial, comparable to that of APOE ε4, the strongest genetic risk factor for Alzheimer's disease, and mediation models support an upstream role for microglial activation in Alzheimer's disease via accumulation of tau. Further, we identify a common variant (rs2997325) influencing PAM that also affects in vivo microglial activation measured by [",
+  "journal": "Nature communications",
+  "year": "2019",
+  "authors": [
+    "Felsky D",
+    "Roostaei T",
+    "Nho K",
+    "Risacher SL",
+    "Bradshaw EM",
+    "Petyuk V",
+    "Schneider JA",
+    "Saykin A",
+    "Bennett DA",
+    "De Jager PL"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Aged, 80 and over",
+    "Alzheimer Disease",
+    "Amyloid beta-Peptides",
+    "Apolipoprotein E4",
+    "Apolipoproteins E",
+    "Brain",
+    "Cognitive Dysfunction",
+    "Cohort Studies",
+    "Female",
+    "Genome-Wide Association Study",
+    "Genotype",
+    "Humans",
+    "Inflammation",
+    "Logistic Models",
+    "Male",
+    "Microglia",
+    "Nervous System Diseases",
+    "Neuropathology",
+    "Phenotype",
+    "Proteomics",
+    "Risk Factors"
+  ]
+}

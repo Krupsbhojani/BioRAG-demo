@@ -1,0 +1,24 @@
+{
+  "pmid": "35253761",
+  "title": "Characterizing Network Selectiveness to the Dynamic Spreading of Neuropathological Events in Alzheimer's Disease.",
+  "abstract": "BACKGROUND: Mounting evidence shows that the neuropathological burdens manifest preference in affecting brain regions during the dynamic progression of Alzheimer's disease (AD). Since the distinct brain regions are physically wired by white matter fibers, it is reasonable to hypothesize the differential spreading pattern of neuropathological burdens may underlie the wiring topology, which can be characterized using neuroimaging and network science technologies. OBJECTIVE: To study the dynamic spreading patterns of neuropathological events in AD. METHODS: We first examine whether hub nodes with high connectivity in the brain network (assemble of white matter wirings) are susceptible to a higher level of pathological burdens than other regions that are less involved in the process of information exchange in the network. Moreover, we propose a novel linear mixed-effect model to characterize the multi-factorial spreading process of neuropathological burdens from hub nodes to non-hub nodes, where age, sex, and APOE4 indicators are considered as confounders. We apply our statistical model to the longitudinal neuroimaging data of amyloid-PET and tau-PET, respectively. RESULTS: Our meta-data analysis results show that 1) AD differentially affects hub nodes with a significantly higher level of pathology, and 2) the longitudinal increase of neuropathological burdens on non-hub nodes is strongly correlated with the connectome distance to hub nodes rather than the spatial proximity. CONCLUSION: The spreading pathway of AD neuropathological burdens might start from hub regions and propagate through the white matter fibers in a prion-like manner.",
+  "journal": "Journal of Alzheimer's disease : JAD",
+  "year": "2022",
+  "authors": [
+    "Li W",
+    "Yang D",
+    "Yan C",
+    "Chen M",
+    "Li Q",
+    "Zhu W",
+    "Wu G"
+  ],
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Brain",
+    "Connectome",
+    "Humans",
+    "Neuroimaging",
+    "Neuropathology"
+  ]
+}

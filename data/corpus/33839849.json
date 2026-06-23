@@ -1,0 +1,23 @@
+{
+  "pmid": "33839849",
+  "title": "Time Series Analysis and Prediction of Intracranial Pressure Using Time-Varying Dynamic Linear Models.",
+  "abstract": "Intracranial pressure (ICP) monitoring is a key clinical tool in the assessment and treatment of patients in a neuro-intensive care unit (neuro-ICU). As such, a deeper understanding of how an individual patient's ICP can be influenced by therapeutic interventions could improve clinical decision-making. A pilot application of a time-varying dynamic linear model was conducted using the BrainIT dataset, a multi-centre European dataset containing temporaneous treatment and vital-sign recordings. The study included 106 patients with a minimum of 27 h of ICP monitoring. The model was trained on the first 24 h of each patient's ICU stay, and then the next 2 h of ICP was forecast. The algorithm enabled switching between three interventional states: analgesia, osmotic therapy and paralysis, with the inclusion of arterial blood pressure, age and gender as exogenous regressors. The overall median absolute error was 2.98 (2.41-5.24) mmHg calculated using all 106 2-h forecasts. This is a novel technique which shows some promise for forecasting ICP with an adequate accuracy of approximately 3 mmHg. Further optimisation is required for the algorithm to become a usable clinical tool.",
+  "journal": "Acta neurochirurgica. Supplement",
+  "year": "2021",
+  "authors": [
+    "Shaw M",
+    "Hawthorne C",
+    "Moss L",
+    "Kommer M",
+    "O'Kane R",
+    "Piper I"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Intensive Care Units",
+    "Intracranial Pressure",
+    "Linear Models",
+    "Monitoring, Physiologic",
+    "Neurology"
+  ]
+}

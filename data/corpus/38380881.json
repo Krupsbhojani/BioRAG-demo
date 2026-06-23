@@ -1,0 +1,24 @@
+{
+  "pmid": "38380881",
+  "title": "Toxicologic Neuropathology of Novel Biotherapeutics.",
+  "abstract": "Biotherapeutic modalities such as cell therapies, gene therapies, nucleic acids, and proteins are increasingly investigated as disease-modifying treatments for severe and life-threatening neurodegenerative disorders. Such diverse bio-derived test articles are fraught with unique and often unpredictable biological consequences, while guidance regarding nonclinical experimental design, neuropathology evaluation, and interpretation is often limited. This paper summarizes key messages offered during a half-day continuing education course on toxicologic neuropathology of neuro-targeted biotherapeutics. Topics included fundamental neurobiology concepts, pharmacology, frequent toxicological findings, and their interpretation including adversity decisions. Covered biotherapeutic classes included cell therapies, gene editing and gene therapy vectors, nucleic acids, and proteins. If agents are administered directly into the central nervous system, initial screening using hematoxylin and eosin (H&E)-stained sections of currently recommended neural organs (brain [7 levels], spinal cord [3 levels], and sciatic nerve) may need to expand to include other components (e.g., more brain levels, ganglia, and/or additional nerves) and/or special neurohistological procedures to characterize possible neural effects (e.g., cell type-specific markers for reactive glial cells). Scientists who evaluate the safety of novel biologics will find this paper to be a practical reference for preclinical safety testing and risk assessment.",
+  "journal": "Toxicologic pathology",
+  "year": "2024",
+  "authors": [
+    "Bangari DS",
+    "Lanigan LG",
+    "Cramer SD",
+    "Grieves JL",
+    "Meisner R",
+    "Rogers AB",
+    "Galbreath EJ",
+    "Bolon B"
+  ],
+  "mesh_terms": [
+    "Neuropathology",
+    "Brain",
+    "Spinal Cord",
+    "Sciatic Nerve",
+    "Nucleic Acids"
+  ]
+}

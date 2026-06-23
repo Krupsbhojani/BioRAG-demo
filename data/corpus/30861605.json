@@ -1,0 +1,37 @@
+{
+  "pmid": "30861605",
+  "title": "Neuropathological lesions in the very old: results from a large Brazilian autopsy study.",
+  "abstract": "OBJECTIVE: To compare neuropathological correlates of cognitive impairment between very old and younger individuals from a Brazilian clinicopathological study. METHODS: We assessed the frequency of neuropathological lesions and their association with cognitive impairment (Clinical Dementia Rating scale ≥0.5) in the 80 or over age group compared to younger participants, using logistic regression models adjusted for sex, race and education. RESULTS: Except for infarcts and siderocalcinosis, all neuropathological lesions were more common in the 80 or over age group (n = 412) compared to 50-79 year olds (n = 677). Very old participants had more than twice the likelihood of having ≥2 neuropathological diagnoses than younger participants (OR = 2.66, 95% CI = 2.03-3.50). Neurofibrillary tangles, infarcts and hyaline arteriolosclerosis were associated with cognitive impairment in the two age groups. Siderocalcinosis was associated with cognitive impairment in the younger participants only, while Lewy body disease was associated with cognitive impairment in the very old only. In addition, we found that the association of infarcts and multiple pathologies with cognitive impairment was attenuated in very old adults (Infarcts: P for interaction = 0.04; and multiple pathologies: P = 0.05). However, the predictive value for the aggregate model with all neuropathological lesions showed similar discrimination in both age groups [Area under Receiver Operating Characteristic curve (AUROC) = 0.778 in younger participants and AUROC = 0.765 in the very old]. CONCLUSION AND RELEVANCE: Despite a higher frequency of neuropathological findings in the very old group, as found in studies with high-income populations, we found attenuation of the effect of infarcts rather than neurofibrillary tangles and plaques as reported previously.",
+  "journal": "Brain pathology (Zurich, Switzerland)",
+  "year": "2020",
+  "authors": [
+    "Suemoto CK",
+    "Leite REP",
+    "Ferretti-Rebustini REL",
+    "Rodriguez RD",
+    "Nitrini R",
+    "Pasqualucci CA",
+    "Jacob-Filho W",
+    "Grinberg LT"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Aged, 80 and over",
+    "Alzheimer Disease",
+    "Autopsy",
+    "Brain",
+    "Brazil",
+    "Cognition Disorders",
+    "Cognitive Dysfunction",
+    "Female",
+    "Humans",
+    "Lewy Body Disease",
+    "Male",
+    "Middle Aged",
+    "Neurofibrillary Tangles",
+    "Neuropathology",
+    "Neuropsychological Tests",
+    "Plaque, Amyloid",
+    "ROC Curve"
+  ]
+}

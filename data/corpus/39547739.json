@@ -1,0 +1,20 @@
+{
+  "pmid": "39547739",
+  "title": "Advancing Neurocritical Care with Artificial Intelligence and Machine Learning: The Promise, Practicalities, and Pitfalls ahead.",
+  "abstract": "Expansion of artificial intelligence (AI) in the field of medicine is changing the paradigm of clinical practice at a rapid pace. Incorporation of AI in medicine offers new tools as well as challenges, and physicians and learners need to adapt to assimilate AI into practice and education. AI can expedite early diagnosis and intervention with real-time multimodal monitoring. AI assistants can decrease the clerical burden of heath care improving the productivity of work force while mitigating burnout. There are still no regulatory parameters for use of AI and regulatory framework is needed for the implementation of AI systems in medicine to ensure transparency, accountability, and equitable access.",
+  "journal": "Neurologic clinics",
+  "year": "2024",
+  "authors": [
+    "Sharma R",
+    "Salman S",
+    "Gu Q",
+    "Freeman WD"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Artificial Intelligence",
+    "Critical Care",
+    "Machine Learning",
+    "Neurology"
+  ]
+}

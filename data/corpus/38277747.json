@@ -1,0 +1,29 @@
+{
+  "pmid": "38277747",
+  "title": "Tumor-associated microenvironment, PD-L1 expression and their relationship with immunotherapy in glioblastoma, IDH-wild type: A comprehensive review with emphasis on the implications for neuropathologists.",
+  "abstract": "Although novel knowledge has been acquired on the molecular landscape of glioblastoma (GBM), a relatively few steps forward have been made regarding its therapy. With the increasing use of novel immunotherapeutic drugs capable of stimulating the antitumor inflammatory response, in the last decades numerous studies aimed to characterize the tumor-associated microenvironment (TME) and its relationship with the immunogenicity of GBM. In this regard, although the tumor-associated microglia and macrophages (TAMs) and PD-L1/PD-1 axis have been emerged as one of the most relevant components of the GBM TME and one of the potential molecular pathways targetable with immunotherapy, respectively. It has been supposed that TAMs may acquire different phenotypes, switching from M1 to M2 phenotypes, with tumor-suppressive and tumor-stimulating role depending on the different surrounding conditions. PD-L1 is a type 1 transmembrane protein ligand expressed by T-cells, B-cells and antigen-presenting cells, with a main inhibitory checkpoint role on tumor immune regulation. While PD-L1 immunohistochemical expression has been extensively investigated in many cancers, its usefulness in the evaluation of GBM response rates to immunotherapy and its standardized evaluation by immunohistochemistry are still debated. The present review paper focuses on the current \"state of the art\" about the relationship between TME, PD-L1/PD-1 pathway and immunotherapy in GBM, also providing neuropathologists with an updated guide about the clinical trials conducted with PD-L1 and PD-1 inhibitors.",
+  "journal": "Pathology, research and practice",
+  "year": "2024",
+  "authors": [
+    "Broggi G",
+    "Angelico G",
+    "Farina J",
+    "Tinnirello G",
+    "Barresi V",
+    "Zanelli M",
+    "Palicelli A",
+    "Certo F",
+    "Barbagallo G",
+    "Magro G",
+    "Caltabiano R"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Glioblastoma",
+    "B7-H1 Antigen",
+    "Programmed Cell Death 1 Receptor",
+    "Neuropathology",
+    "Immunotherapy",
+    "Tumor Microenvironment"
+  ]
+}

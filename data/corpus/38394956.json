@@ -1,0 +1,20 @@
+{
+  "pmid": "38394956",
+  "title": "Leveraging dendritic properties to advance machine learning and neuro-inspired computing.",
+  "abstract": "The brain is a remarkably capable and efficient system. It can process and store huge amounts of noisy and unstructured information, using minimal energy. In contrast, current artificial intelligence (AI) systems require vast resources for training while still struggling to compete in tasks that are trivial for biological agents. Thus, brain-inspired engineering has emerged as a promising new avenue for designing sustainable, next-generation AI systems. Here, we describe how dendritic mechanisms of biological neurons have inspired innovative solutions for significant AI problems, including credit assignment in multi-layer networks, catastrophic forgetting, and high-power consumption. These findings provide exciting alternatives to existing architectures, showing how dendritic research can pave the way for building more powerful and energy efficient artificial learning systems.",
+  "journal": "Current opinion in neurobiology",
+  "year": "2024",
+  "authors": [
+    "Pagkalos M",
+    "Makarov R",
+    "Poirazi P"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Brain",
+    "Gastropoda",
+    "Neurology"
+  ]
+}

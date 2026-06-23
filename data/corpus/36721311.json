@@ -1,0 +1,33 @@
+{
+  "pmid": "36721311",
+  "title": "Antiseizure medication withdrawal risk estimation and recommendations: A survey of American Academy of Neurology and EpiCARE members.",
+  "abstract": "OBJECTIVE: Choosing candidates for antiseizure medication (ASM) withdrawal in well-controlled epilepsy is challenging. We evaluated (a) the correlation between neurologists' seizure risk estimation (\"clinician predictions\") vs calculated predictions, (b) how viewing calculated predictions influenced recommendations, and (c) barriers to using risk calculation. METHODS: We asked US and European neurologists to predict 2-year seizure risk after ASM withdrawal for hypothetical vignettes. We compared ASM withdrawal recommendations before vs after viewing calculated predictions, using generalized linear models. RESULTS: Three-hundred and forty-six neurologists responded. There was moderate correlation between clinician and calculated predictions (Spearman coefficient 0.42). Clinician predictions varied widely, for example, predictions ranged 5%-100% for a 2-year seizure-free adult without epileptiform abnormalities. Mean clinician predictions exceeded calculated predictions for vignettes with epileptiform abnormalities (eg, childhood absence epilepsy: clinician 65%, 95% confidence interval [CI] 57%-74%; calculated 46%) and surgical vignettes (eg, focal cortical dysplasia 6-month seizure-free mean clinician 56%, 95% CI 52%-60%; calculated 28%). Clinicians overestimated the influence of epileptiform EEG findings on withdrawal risk (26%, 95% CI 24%-28%) compared with calculators (14%, 95% 13%-14%). Viewing calculated predictions slightly reduced willingness to withdraw (-0.8/10 change, 95% CI -1.0 to -0.7), particularly for vignettes without epileptiform abnormalities. The greatest barrier to calculator use was doubting its accuracy (44%). SIGNIFICANCE: Clinicians overestimated the influence of abnormal EEGs particularly for low-risk patients and overestimated risk and the influence of seizure-free duration for surgical patients, compared with calculators. These data may question widespread ordering of EEGs or time-based seizure-free thresholds for surgical patients. Viewing calculated predictions reduced willingness to withdraw particularly without epileptiform abnormalities.",
+  "journal": "Epilepsia open",
+  "year": "2023",
+  "authors": [
+    "Terman SW",
+    "van Griethuysen R",
+    "Rheaume CE",
+    "Slinger G",
+    "Haque AS",
+    "Smith SN",
+    "Kerr WT",
+    "van Asch C",
+    "Otte WM",
+    "Ferreira-Atuesta C",
+    "Galovic M",
+    "Burke JF",
+    "Braun KPJ"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Humans",
+    "Child",
+    "Anticonvulsants",
+    "Recurrence",
+    "Seizures",
+    "Epilepsy, Absence",
+    "Substance Withdrawal Syndrome",
+    "Neurology"
+  ]
+}

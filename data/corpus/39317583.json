@@ -1,0 +1,20 @@
+{
+  "pmid": "39317583",
+  "title": "What we've learnt about autoimmune neurological diseases from neuropathology.",
+  "abstract": "Antibody-associated autoimmune neurological diseases are a group of disorders with various immune effector mechanisms that result in significant differences in disease course and prognosis. Paraneoplastic or idiopathic autoimmune encephalitis associated with antibodies against intracellular antigens are mostly characterized by a T-cell-dominated inflammation with neuronal loss, astrogliosis, and microglial nodules. In anti-Yo paraneoplastic cerebellar degeneration CD8+/granzymeB+ T cells were demonstrated in close apposition to neurons along with a nuclear upregulation of the activator of transcription 1, suggesting an important role of interferon-gamma in disease pathogenesis. Early and late disease stages may show different lesion types. For example, tissue samples from patients with temporal lobe epilepsy associated with antiglutamic acid decarboxylase 65 antibodies in early disease stages show numerous infiltrating T cells targeting hippocampal neurons and high numbers of B cells and plasma cells, while in chronic stages inflammation gets less and is followed by hippocampal sclerosis. Similarly, antiglial fibrillary acidic protein meningoencephalomyelitis may show loss of astrocytes only in the very early lesions, whereas in subacute and chronic stages astrocytes can get replenished most likely due to their high regeneration potential. In contrast, neuropathology of autoimmune neurological diseases mediated by surface antibodies is mostly characterized by a dysfunction of neurons in the absence of immune-mediated neuronal damage. The interaction of surface antibodies with their target antigen and the resulting downstream mechanisms are variable and can range from an internalization of the receptor in well-preserved neurons in anti-N-methyl-D-aspartate receptor encephalitis to an irreversible internalization and blocking of the receptor that may be associated with an accumulation of phosphorylated tau in specific brain regions in anti-IgLON5 disease. Interestingly, anti-IgLON5 patients with short disease duration were shown to present prominent deposition of IgG4 in the neuropil and on neuronal membranes in the absence of neuronal tau deposits, suggesting that the immune mechanisms precede neurodegeneration. Knowledge about pathomechanisms and patterns of tissue damage in different disease stages of antibody-associated autoimmune diseases will help to identify novel biomarkers and can give important clues for possible therapeutic interventions.",
+  "journal": "Revue neurologique",
+  "year": "2024",
+  "authors": [
+    "Nitsch S",
+    "Höftberger R"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Autoimmune Diseases of the Nervous System",
+    "Autoantibodies",
+    "Neuropathology",
+    "Hashimoto Disease",
+    "Encephalitis",
+    "Nervous System Diseases"
+  ]
+}

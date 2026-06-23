@@ -1,0 +1,42 @@
+{
+  "pmid": "35027452",
+  "title": "Discovery of a dual-action small molecule that improves neuropathological features of Alzheimer's disease mice.",
+  "abstract": "Alzheimer's disease (AD) is characterized by complex, multifactorial neuropathology, suggesting that small molecules targeting multiple neuropathological factors are likely required to successfully impact clinical progression. Acid sphingomyelinase (ASM) activation has been recognized as an important contributor to these neuropathological features in AD, leading to the concept of using ASM inhibitors for the treatment of this disorder. Here we report the identification of KARI 201, a direct ASM inhibitor evaluated for AD treatment. KARI 201 exhibits highly selective inhibition effects on ASM, with excellent pharmacokinetic properties, especially with regard to brain distribution. Unexpectedly, we found another role of KARI 201 as a ghrelin receptor agonist, which also has therapeutic potential for AD treatment. This dual role of KARI 201 in neurons efficiently rescued neuropathological features in AD mice, including amyloid beta deposition, autophagy dysfunction, neuroinflammation, synaptic loss, and decreased hippocampal neurogenesis and synaptic plasticity, leading to an improvement in memory function. Our data highlight the possibility of potential clinical application of KARI 201 as an innovative and multifaceted drug for AD treatment.",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2022",
+  "authors": [
+    "Park MH",
+    "Park KH",
+    "Choi BJ",
+    "Han WH",
+    "Yoon HJ",
+    "Jung HY",
+    "Lee J",
+    "Song IS",
+    "Lim DY",
+    "Choi MK",
+    "Lee YH",
+    "Park CM",
+    "Wang M",
+    "Jo J",
+    "Kim HJ",
+    "Kim SH",
+    "Schuchman EH",
+    "Jin HK",
+    "Bae JS"
+  ],
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Animals",
+    "Brain",
+    "Disease Models, Animal",
+    "Hippocampus",
+    "Memory",
+    "Mice",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Neuropathology",
+    "Receptors, Ghrelin",
+    "Sphingomyelin Phosphodiesterase"
+  ]
+}

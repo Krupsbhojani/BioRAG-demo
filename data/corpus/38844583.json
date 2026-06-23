@@ -1,0 +1,22 @@
+{
+  "pmid": "38844583",
+  "title": "From real world data to real world evidence to improve outcomes in neuro-ophthalmology.",
+  "abstract": "Real-world data (RWD) can be defined as all data generated during routine clinical care. This includes electronic health records, disease-specific registries, imaging databanks, and data linkage to administrative databases. In the field of neuro-ophthalmology, the intersection of RWD and clinical practice offers unprecedented opportunities to understand and treat rare diseases. However, translating RWD into real-world evidence (RWE) poses several challenges, including data quality, legal and ethical considerations, and sustainability of data sources. This review explores existing RWD sources in neuro-ophthalmology, such as patient registries and electronic health records, and discusses the challenges of data collection and standardisation. We focus on research questions that need to be answered in neuro-ophthalmology and provide an update on RWE generated from various RWD sources. We review and propose solutions to some of the key barriers that can limit translation of a collection of data into impactful clinical evidence. Careful data selection, management, analysis, and interpretation are critical to generate meaningful conclusions.",
+  "journal": "Eye (London, England)",
+  "year": "2024",
+  "authors": [
+    "Colman BD",
+    "Zhu Z",
+    "Qi Z",
+    "van der Walt A"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Ophthalmology",
+    "Electronic Health Records",
+    "Neurology",
+    "Registries",
+    "Databases, Factual",
+    "Evidence-Based Medicine"
+  ]
+}

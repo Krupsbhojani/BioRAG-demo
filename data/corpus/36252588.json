@@ -1,0 +1,23 @@
+{
+  "pmid": "36252588",
+  "title": "Store-and-forward teleneurology results in a large Brazilian city.",
+  "abstract": "BACKGROUND: Neurology is a high-demand specialty with long waiting lines. Some pathologies require rapid decision-making. Through technology, telemedicine can allow neurological patients to have faster access to specialized assessment. In store-and-forward telemedicine, the specialist physician evaluates data collected by a general practitioner and optimizes screening. OBJECTIVE: The aim of the present study is to evaluate the effectiveness of asynchronous telemedicine, used to refer patients from primary care to neurology, in the city of Curitiba, in southern Brazil. METHODS: A retrospective analysis of all patients referred from primary care to neurology between September 2019 and February 2020. After a request is made by a general medical doctor for a specialist's opinion, 5 neurologists with complete access to patients' records are tasked with the decision-making. The main variables analyzed were clinical reasons for telemedicine request, neurologist decision, final diagnosis, indication for diagnostic procedures, and subsequent follow-up. RESULTS: Between September 2019 and February 2020, 1,035 asynchronous telemedicine consultations were performed. Headache (30.43%), epilepsy (19.03%), and dementia (15.85%) accounted for almost two-thirds of the primary care requests; one-third of the cases (33.62%) required a complementary diagnostic procedure. More than 70% of the cases did not require face-to-face assessment by a neurologist. CONCLUSIONS: In this study, store-and-forward teleneurology successfully reduced the need for in-visit consultation in 70% of cases. Further studies should identify the best opportunities for teleneurology in the city of Curitiba to facilitate better integrated care between primary care providers and neurologists.",
+  "journal": "Arquivos de neuro-psiquiatria",
+  "year": "2022",
+  "authors": [
+    "Scavasine VC",
+    "Ribas MZ",
+    "Augustin G",
+    "Zetola VHF",
+    "Ducci RD",
+    "Lange MC"
+  ],
+  "mesh_terms": [
+    "Brazil",
+    "Humans",
+    "Neurologists",
+    "Neurology",
+    "Retrospective Studies",
+    "Telemedicine"
+  ]
+}

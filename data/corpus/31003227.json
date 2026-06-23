@@ -1,0 +1,28 @@
+{
+  "pmid": "31003227",
+  "title": "Variation in hospital charges in patients with external ventricular drains: comparison between the intensive care and surgical floor settings.",
+  "abstract": "OBJECTIVE: Placement of an external ventricular drain (EVD) is a common and potentially life-saving neurosurgical procedure, but the economic aspect of EVD management and the relationship to medical expenditure remain poorly studied. Similarly, interinstitutional practice patterns vary significantly. Whereas some institutions require that patients with EVDs be monitored strictly within the intensive care unit (ICU), other institutions opt primarily for management of EVDs on the surgical floor. Therefore, an ICU burden for patients with EVDs may increase a patient's costs of hospitalization. The objective of the current study was to examine the expense differences between the ICU and the general neurosurgical floor for EVD care. METHODS: The authors performed a retrospective analysis of data from 2 hospitals within a single, large academic institution-the University of Washington Medical Center (UWMC) and Seattle Children's Hospital (SCH). Hospital charges were evaluated according to patients' location at the time of EVD management: SCH ICU, SCH floor, or UWMC ICU. Daily hospital charges from day of EVD insertion to day of removal were included and screened for days that would best represent baseline expenses for EVD care. Independent-samples Kruskal-Wallis analysis was performed to compare daily charges for the 3 settings. RESULTS: Data from a total of 261 hospital days for 23 patients were included in the analysis. Ten patients were cared for in the UWMC ICU and 13 in the SCH ICU and/or on the SCH neurosurgical floor. The median values for total daily hospital charges were $19,824.68 (interquartile range [IQR] $12,889.73-$38,494.81) for SCH ICU care, $8,620.88 (IQR $6,416.76-$11,851.36) for SCH floor care, and $10,002.13 (IQR $8,465.16-$12,123.03) for UWMC ICU care. At SCH, it was significantly more expensive to provide EVD care in the ICU than on the floor (p < 0.001), and the daily hospital charges for the UWMC ICU were significantly greater than for the SCH floor (p = 0.023). No adverse clinical event related to the presence of an EVD was identified in any of the settings. CONCLUSIONS: ICU admission solely for EVD care is costly. If safe EVD care can be provided outside of the ICU, it would represent a potential area for significant cost savings. Identifying appropriate patients for EVD care on the floor is multifactorial and requires vigilance in balancing the expenses associated with ICU utilization and optimal patient care.",
+  "journal": "Journal of neurosurgery. Pediatrics",
+  "year": "2020",
+  "authors": [
+    "Chu JK",
+    "Feroze AH",
+    "Collins K",
+    "McGrath LB",
+    "Young CC",
+    "Williams JR",
+    "Browd SR"
+  ],
+  "mesh_terms": [
+    "Hospital Charges",
+    "Hospital Units",
+    "Humans",
+    "Intensive Care Units",
+    "Neurology",
+    "Retrospective Studies",
+    "Statistics, Nonparametric",
+    "Time Factors",
+    "Ventriculostomy",
+    "Washington"
+  ]
+}

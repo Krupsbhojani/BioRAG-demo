@@ -1,0 +1,39 @@
+{
+  "pmid": "38111331",
+  "title": "Telemedicine-Based Cognitive Examinations During COVID-19 and Beyond: Perspective of the Massachusetts General Hospital Behavioral Neurology & Neuropsychiatry Group.",
+  "abstract": "Telehealth and telemedicine have encountered explosive growth since the beginning of the COVID-19 pandemic, resulting in increased access to care for patients located far from medical centers and clinics. Subspecialty clinicians in behavioral neurology & neuropsychiatry (BNNP) have implemented the use of telemedicine platforms to perform cognitive examinations that were previously office based. In this perspective article, BNNP clinicians at Massachusetts General Hospital (MGH) describe their experience performing cognitive examinations via telemedicine. The article reviews the goals, prerequisites, advantages, and potential limitations of performing a video- or telephone-based telemedicine cognitive examination. The article shares the approaches used by MGH BNNP clinicians to examine cognitive and behavioral areas, such as orientation, attention and executive functions, language, verbal learning and memory, visual learning and memory, visuospatial function, praxis, and abstract abilities, as well as to survey for neuropsychiatric symptoms and assess activities of daily living. Limitations of telemedicine-based cognitive examinations include limited access to and familiarity with telecommunication technologies on the patient side, limitations of the technology itself on the clinician side, and the limited psychometric validation of virtual assessments. Therefore, an in-person examination with a BNNP clinician or a formal in-person neuropsychological examination with a neuropsychologist may be recommended. Overall, this article emphasizes the use of standardized cognitive and behavioral assessment instruments that are either in the public domain or, if copyrighted, are nonproprietary and do not require a fee to be used by the practicing BNNP clinician.",
+  "journal": "The Journal of neuropsychiatry and clinical neurosciences",
+  "year": "2024",
+  "authors": [
+    "Tanev KS",
+    "Camprodon JA",
+    "Caplan DN",
+    "Dickerson BC",
+    "Chemali Z",
+    "Eldaief MC",
+    "Kim DD",
+    "Josephy-Hernandez SE",
+    "Kritzer MD",
+    "Moo LR",
+    "Newhouse A",
+    "Perez DL",
+    "Ramirez Gomez LA",
+    "Razafsha M",
+    "Rivas-Grajales AM",
+    "Scharf JM",
+    "Schmahmann JD",
+    "Sherman JC"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "COVID-19",
+    "Neuropsychiatry",
+    "Hospitals, General",
+    "Pandemics",
+    "Activities of Daily Living",
+    "Telemedicine",
+    "Neurology",
+    "Massachusetts",
+    "Cognition"
+  ]
+}

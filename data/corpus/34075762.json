@@ -1,0 +1,19 @@
+{
+  "pmid": "34075762",
+  "title": "Molecular Diagnostics of Adult Gliomas in Neuropathological Practice.",
+  "abstract": "This review focuses on adult gliomas, highlighting the most relevant biomarkers in the diagnosis of these tumours and the use of DNA methylation arrays to complement conventional molecular diagnostic techniques. The discovery and characterisation of diagnostic and prognostic biomarkers in brain tumours has significantly changed the neuropathological landscape over the last decade. These include mutations in the IDH1 and IDH2 genes in astrocytomas and oligodendrogliomas, histone H3 K27M mutations in midline gliomas, or BRAF mutations in a range of low-grade and high-grade glial and glioneuronal tumours. Other biomarkers of relevance are mutations in the TERT promoter, the ATRX gene, and genomic alterations such as 1p/19q codeletion, EGFR amplification, and chromosome 7 gain and 10 loss. The development of DNA methylation profiling and algorithmic classification of brain tumours has further enhanced the diagnostic abilities of neuropathologists. Methylation profiling is particularly useful for the diagnostic workup of biopsies with an inconclusive molecular test results, small samples, or samples with indistinctive low-grade or high-grade histology. This technology has become indispensable for the risk stratification of ependymal tumours, medulloblastomas and meningiomas. CONCLUSION: This review highlights the importance of an integrated approach to brain tumour diagnostics and gives a balanced view of the relevance and choice of conventional and molecular techniques in the workup of adult gliomas in diagnostic neuropathology practice.",
+  "journal": "Acta medica academica",
+  "year": "2021",
+  "authors": [
+    "Brandner S"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Glioma",
+    "Humans",
+    "Isocitrate Dehydrogenase",
+    "Neuropathology",
+    "Oligodendroglioma",
+    "Pathology, Molecular"
+  ]
+}

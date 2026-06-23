@@ -1,0 +1,26 @@
+{
+  "pmid": "40830998",
+  "title": "ChatGPT Assisting Diagnosis of Neuro-Ophthalmology Diseases Based on Case Reports.",
+  "abstract": "BACKGROUND: To evaluate the accuracy of Chat Generative Pre-Trained Transformer (ChatGPT), a large language model (LLM), to assist in diagnosing neuro-ophthalmic diseases based on case reports. METHODS: We selected 22 different case reports of neuro-ophthalmic disorders from a publicly available online database. These cases included a wide range of chronic and acute diseases commonly seen by neuro-ophthalmologists. We inserted each case as a new prompt into ChatGPTs (GPT-3.5 and GPT-4) and asked for the most likely diagnosis. We then presented the exact information to 2 neuro-ophthalmologists and recorded their diagnoses, followed by comparing responses from both versions of ChatGPT. RESULTS: GPT-3.5 and GPT-4 and the 2 neuro-ophthalmologists were correct in 13 (59%), 18 (82%), 19 (86%), and 19 (86%) out of 22 cases, respectively. The agreements between the various diagnostic sources were as follows: GPT-3.5 and GPT-4, 13 (59%); GPT-3.5 and the first neuro-ophthalmologist, 12 (55%); GPT-3.5 and the second neuro-ophthalmologist, 12 (55%); GPT-4 and the first neuro-ophthalmologist, 17 (77%); GPT-4 and the second neuro-ophthalmologist, 16 (73%); and first and second neuro-ophthalmologists 17 (77%). CONCLUSIONS: The accuracy of GPT-3.5 and GPT-4 in diagnosing patients with neuro-ophthalmic disorders was 59% and 82%, respectively. With further development, GPT-4 may have the potential to be used in clinical care settings to assist clinicians in providing accurate diagnoses. The applicability of using LLMs like ChatGPT in clinical settings that lack access to subspeciality trained neuro-ophthalmologists deserves further research.",
+  "journal": "Journal of neuro-ophthalmology : the official journal of the North American Neuro-Ophthalmology Society",
+  "year": "2025",
+  "authors": [
+    "Madadi Y",
+    "Delsoz M",
+    "Lao PA",
+    "Fong JW",
+    "Hollingsworth TJ",
+    "Kahook MY",
+    "Yousefi S"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Eye Diseases",
+    "Nervous System Diseases",
+    "Ophthalmology",
+    "Female",
+    "Male",
+    "Neurology",
+    "Generative Artificial Intelligence"
+  ]
+}

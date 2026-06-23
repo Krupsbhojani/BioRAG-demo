@@ -1,0 +1,37 @@
+{
+  "pmid": "33474816",
+  "title": "Neurological complications of COVID-19 in hospitalized patients: The registry of a neurology department in the first wave of the pandemic.",
+  "abstract": "OBJECTIVE: To describe the spectrum of neurological complications observed in a hospital-based cohort of COVID-19 patients who required a neurological assessment. METHODS: We conducted an observational, monocentric, prospective study of patients with a COVID-19 diagnosis hospitalized during the 3-month period of the first wave of the COVID-19 pandemic in a tertiary hospital in Madrid (Spain). We describe the neurological diagnoses that arose after the onset of COVID-19 symptoms. These diagnoses could be divided into different groups. RESULTS: Only 71 (2.6%) of 2750 hospitalized patients suffered at least one neurological complication (77 different neurological diagnoses in total) during the timeframe of the study. The most common diagnoses were neuromuscular disorders (33.7%), cerebrovascular diseases (CVDs) (27.3%), acute encephalopathy (19.4%), seizures (7.8%), and miscellanea (11.6%) comprising hiccups, myoclonic tremor, Horner syndrome and transverse myelitis. CVDs and encephalopathy were common in the early phase of the COVID-19 pandemic compared to neuromuscular disorders, which usually appeared later on (p = 0.005). Cerebrospinal fluid severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) polymerase chain reaction was negative in 15/15 samples. The mortality was higher in the CVD group (38.1% vs. 8.9%; p = 0.05). CONCLUSIONS: The prevalence of neurological complications is low in patients hospitalized for COVID-19. Different mechanisms appear to be involved in these complications, and there was no evidence of direct invasion of the nervous system in our cohort. Some of the neurological complications can be classified into early and late neurological complications of COVID-19, as they occurred at different times following the onset of COVID-19 symptoms.",
+  "journal": "European journal of neurology",
+  "year": "2021",
+  "authors": [
+    "Portela-Sánchez S",
+    "Sánchez-Soblechero A",
+    "Melgarejo Otalora PJ",
+    "Rodríguez López Á",
+    "Velilla Alonso G",
+    "Palacios-Mendoza MA",
+    "Cátedra Caramé C",
+    "Amaya Pascasio L",
+    "Mas Serrano M",
+    "Massot-Tarrús A",
+    "De La Casa-Fages B",
+    "Díaz-Otero F",
+    "Catalina I",
+    "García Domínguez JM",
+    "Pérez-Sánchez JR",
+    "Muñoz-Blanco JL",
+    "Grandas F"
+  ],
+  "mesh_terms": [
+    "COVID-19",
+    "COVID-19 Testing",
+    "Humans",
+    "Nervous System Diseases",
+    "Neurology",
+    "Pandemics",
+    "Prospective Studies",
+    "Registries",
+    "SARS-CoV-2"
+  ]
+}

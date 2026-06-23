@@ -1,0 +1,27 @@
+{
+  "pmid": "37965965",
+  "title": "Association between military service and Alzheimer's disease neuropathology at autopsy.",
+  "abstract": "INTRODUCTION: Anti-amyloid therapies are at the forefront of efforts to treat Alzheimer's disease (AD). Identifying amyloid risk factors may aid screening and intervention strategies. While veterans face increased exposure to risk factors, whether they face a greater neuropathologic amyloid burden is not well understood. METHODS: Male decedents donating to two Alzheimer's Disease Research Center (ADRC) brain banks from 1986 to 2018 with categorized neuritic plaque density and neurofibrillary tangles (n = 597) were included. Using generalized ordered logistic regression we modeled each outcome's association with military history adjusting for age and death year. RESULTS: Having served in the military (60% of sample) is associated with post mortem neuritic amyloid plaque (for each comparison of higher to lower C scores OR = 1.26; 95% confidence interval [CI] = 1.06-1.49) and tau pathology (B score OR = 1.10; 95% CI = 1.08-1.12). DISCUSSION: This is the first study, to our knowledge, finding increased levels of verified AD neuropathology in those with military service. Targeted veteran AD therapies is a pressing need.",
+  "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+  "year": "2024",
+  "authors": [
+    "Powell WR",
+    "Vilen L",
+    "Zuelsdorff M",
+    "Goutman SA",
+    "Salamat S",
+    "Rissman RA",
+    "Bendlin BB",
+    "Kind AJH"
+  ],
+  "mesh_terms": [
+    "Male",
+    "Humans",
+    "Alzheimer Disease",
+    "Neurofibrillary Tangles",
+    "Autopsy",
+    "Brain",
+    "Neuropathology",
+    "Plaque, Amyloid"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "pmid": "35144402",
+  "title": "Systematic review and meta-analysis of a variety of chemicals to treat migraine in the neurology department.",
+  "abstract": "BACKGROUND: Migraine refers to a group of recurrent, chronic, neurological, and vascular diseases. Long-term recurrent migraine not only affects personal life and work, but also results in a huge economic burden on the family and society. Timely and accurate diagnosis of migraine and early and standardized treatment can effectively control migraine attacks. The treatment of migraine is to quickly stop the attack, relieve the associated symptoms, prevent recurrence, and restore normal life function as soon as possible. METHODS: Literature retrieval was performed in the PubMed, Embase, and OVID-Medline English databases, and the retrieval period was from the establishment of the database to April 2021. Keywords such as migraine, chemical drugs, and therapeutic effect were used. RESULTS: A total of 13 studies involving 1,921 migraine patients were included. The results showed that there was a significant difference in incidence of adverse events in patients after treatment with chemical drugs and placebo [risk difference (RD) =0.11; 95% confidence interval (CI): 0.03 to 0.20; Z=2.70; P=0.007] and the frequency of headaches [mean difference (MD) =-1.31; 95% CI: -1.89 to -0.73; Z=4.40; P<0.0001]. The incidence of adverse events after topiramate treatment [odds ratio (OR) =3.63; 95% CI: 1.65 to 7.97; Z=3.21; P=0.001] and the frequency of headache [MD =-1.31; 95% CI: -1.87 to -0.75; Z=4.59; P<0.00001] was significantly different from the placebo group; The frequency of headache after sodium valproate treatment [MD =-0.92; 95% CI: -1.80 to -0.04; Z=2.05; P=0.04] was also significantly different from the placebo group. However, there was no significant difference in the incidence of adverse events and the frequency of headaches after flunarizine and placebo treatment. DISCUSSION: A total of 13 articles were included to evaluate the efficacy and tolerability of chemotherapeutic treatments for migraine. This study found that sodium valproate and propranolol were well tolerated for the prevention and treatment of migraine. The clinical manifestations were mainly unilateral temporal pulsing headache, some patients were accompanied by visual aura, fatigue, emotional and other triggers, and nearly half of the patients had a family history.",
+  "journal": "Annals of palliative medicine",
+  "year": "2022",
+  "authors": [
+    "Zhang Y",
+    "Deng Y",
+    "Zhang S",
+    "Du X",
+    "Ji Y"
+  ],
+  "mesh_terms": [
+    "Emotions",
+    "Fatigue",
+    "Headache",
+    "Humans",
+    "Migraine Disorders",
+    "Neurology"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "37340272",
+  "title": "The VA National Teleneurology Program (NTNP): Implementing Teleneurology to Improve Equitable Access to Outpatient Neurology Care.",
+  "abstract": "BACKGROUND: Telehealth is increasingly utilized in many healthcare systems to improve access to specialty care and better allocate limited resources, especially for rurally residing persons who face unique barriers to care. OBJECTIVES: The VHA sought to address critical gaps in access to neurology care by developing and implementing the first outpatient National Teleneurology Program (NTNP). DESIGN: Pre-post evaluation of intervention and control sites. PARTICIPANTS: NTNP sites and VA control sites; Veterans completing an NTNP consult and their referring providers. INTERVENTION: Implementation of the NTNP at participating sites. MAIN MEASURES: NTNP and community care neurology (CCN) volume of consults before and after implementation; time to schedule and complete consults; Veteran satisfaction. KEY RESULTS: In FY2021, the NTNP was implemented at 12 VA sites; 1521 consults were placed and 1084 (71.3%) were completed. NTNP consults were scheduled (10.1 vs 29.0 days, p < 0.001) and completed (44.0 vs 96.9 days, p < 0.001) significantly faster than CCN consults. Post-implementation, monthly CCN consult volume was unchanged at NTNP sites compared to pre-implementation (mean change of 4.6 consults per month, [95% CI - 4.3, 13.6]), but control sites had a significant increase (mean change of 24.4 [5.2, 43.7]). The estimated difference in mean change in CCN consults between NTNP and control sites persisted after adjusting for local neurology availability (p < 0.001). Veterans (N = 259) were highly satisfied with NTNP care (mean (SD) overall satisfaction score 6.3 (1.2) on a 7-point Likert scale). CONCLUSIONS: Implementation of NTNP resulted in more timely neurologic care than care in the community. The observed significant increase in monthly CCN consults at non-participating sites during the post-implementation period was not seen at NTNP sites. Veterans were highly satisfied with Teleneurology care.",
+  "journal": "Journal of general internal medicine",
+  "year": "2023",
+  "authors": [
+    "Wilkinson J",
+    "Myers L",
+    "Daggy J",
+    "Martin H",
+    "Bastin G",
+    "Yang Z",
+    "Damush T",
+    "Narechania A",
+    "Schriber S",
+    "Williams LS"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "United States",
+    "Outpatients",
+    "Neurology",
+    "Telemedicine",
+    "Referral and Consultation",
+    "Ambulatory Care",
+    "Veterans",
+    "United States Department of Veterans Affairs"
+  ]
+}

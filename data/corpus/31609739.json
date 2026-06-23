@@ -1,0 +1,22 @@
+{
+  "pmid": "31609739",
+  "title": "Applications of artificial intelligence in neuro-oncology.",
+  "abstract": "PURPOSE OF REVIEW: To discuss recent applications of artificial intelligence within the field of neuro-oncology and highlight emerging challenges in integrating artificial intelligence within clinical practice. RECENT FINDINGS: In the field of image analysis, artificial intelligence has shown promise in aiding clinicians with incorporating an increasing amount of data in genomics, detection, diagnosis, classification, risk stratification, prognosis, and treatment response. Artificial intelligence has also been applied in epigenetics, pathology, and natural language processing. SUMMARY: Although nascent, applications of artificial intelligence within neuro-oncology show significant promise. Artificial intelligence algorithms will likely improve our understanding of brain tumors and help drive future innovations in neuro-oncology.",
+  "journal": "Current opinion in neurology",
+  "year": "2020",
+  "authors": [
+    "Aneja S",
+    "Chang E",
+    "Omuro A"
+  ],
+  "mesh_terms": [
+    "Artificial Intelligence",
+    "Biomarkers, Tumor",
+    "Brain Neoplasms",
+    "Genomics",
+    "Humans",
+    "Medical Oncology",
+    "Neuroimaging",
+    "Neurology"
+  ]
+}

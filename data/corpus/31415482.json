@@ -1,0 +1,32 @@
+{
+  "pmid": "31415482",
+  "title": "An Educational Intervention for Acute Dizziness Care: A Randomized, Vignette-based Study.",
+  "abstract": "IMPORTANCE: Benign paroxysmal positional vertigo (BPPV) is a common cause of acute dizziness. Strong evidence exists for diagnosing BPPV using the Dix-Hallpike Test (DHT) and treating it with the canalith repositioning maneuver (CRM). Despite this, both are infrequently used in the emergency department (ED). OBJECTIVE: As an early method to evaluate a BPPV-focused educational intervention, we evaluated whether an educational intervention improved ED provider performance on hypothetical stroke and BPPV cases delivered by vignette. DESIGN: A randomized, controlled, educational intervention study in ED physicians. The intervention aimed to promote the appropriate use of the DHT and CRM. A BPPV vignette, a stroke-dizziness (safety) vignette, and vignette scoring schemes (higher scores indicating more optimal care) used previously established vignette methodology. SETTING: We recruited participants at the exhibitor hall of an emergency medicine annual meeting. PARTICIPANTS: We recruited 48 emergency physicians. All were board certified or residency trained and board eligible. All were engaged in the active practice of emergency medicine. None were trainees. INTERVENTIONS: Intervention group: a narrated, educational presentation by computer followed by the clinical vignettes. CONTROL GROUP: Received no educational intervention and completed the clinical vignettes-intended to mirror current clinician practice. MAIN OUTCOME MEASURE: Primary endpoint: total score (out of 200 points) on a vignette-based scoring instrument assessing the performance of history, physical, and diagnostic testing on hypothetical stroke and BPPV cases. RESULTS: The efficacy threshold was crossed at the interim analysis. The intervention group had higher performance scores compared with controls (113.2 versus 68.6, p < 0.00001). BPPV and safety subscores were both significantly higher in the intervention group. Sixty-two percent of the intervention group planned to use the DHT versus 29% of controls. After the vignette described characteristic BPPV nystagmus, 100% of the intervention group planned to use the CRM versus 17% of controls. CONCLUSIONS AND RELEVANCE: The educational intervention increased provider performance in dizziness vignettes, including more frequent appropriate use of the DHT/CRM. These findings indicate the intervention positively influenced planned behavior. Future work is needed to implement and evaluate this intervention in clinical practice.",
+  "journal": "Otology & neurotology : official publication of the American Otological Society, American Neurotology Society [and] European Academy of Otology and Neurotology",
+  "year": "2020",
+  "authors": [
+    "Meurer WJ",
+    "Johnson P",
+    "Brown D",
+    "Tsodikov A",
+    "Rowell B",
+    "Fagerlin A",
+    "Telian SA",
+    "Damschroder L",
+    "An LC",
+    "Morgenstern LB",
+    "Kerber KA"
+  ],
+  "mesh_terms": [
+    "Benign Paroxysmal Positional Vertigo",
+    "Dizziness",
+    "Emergency Service, Hospital",
+    "Female",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Neurology",
+    "Patient Positioning",
+    "Physicians"
+  ]
+}

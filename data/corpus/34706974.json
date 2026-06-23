@@ -1,0 +1,28 @@
+{
+  "pmid": "34706974",
+  "title": "Simulation-Based Assessment of Graduate Neurology Trainees' Performance Managing Acute Ischemic Stroke.",
+  "abstract": "BACKGROUND AND OBJECTIVES: Multidisciplinary acute stroke teams improve acute ischemic stroke management but may hinder trainees' education, which in turn may contribute to poorer outcomes in community hospitals on graduation. Our goal was to assess graduate neurology trainee performance independently of a multidisciplinary stroke team in the management of acute ischemic stroke, tissue plasminogen activator (tPA)-related hemorrhage, and cerebral herniation syndrome. METHODS: In this prospective, observational, single-center simulation-based study, participants (subinterns to attending physicians) managed a patient with acute ischemic stroke followed by tPA-related hemorrhagic conversion leading to cerebral herniation. Critical actions were developed by a modified Delphi approach based on relevant American Heart Association guidelines and the Neurocritical Care Society's Emergency Neurologic Life Support protocols. The primary outcome measure was graduate neurology trainees' critical action item sum score. We sought validity evidence to support our findings by comparing performance across 4 levels of training. RESULTS: Fifty-three trainees (including 31 graduate neurology trainees) and 5 attending physicians completed the simulation. The mean sum of critical actions completed by graduate neurology trainees was 15 of 22 (68%). Ninety percent of graduate neurology trainees properly administered tPA; 84% immediately stopped tPA infusion after patient deterioration; but only 55% reversed tPA according to guidelines. There was a moderately strong effect of level of training on critical action sum score (level 1 mean [SD] score 7.2 [2.8] vs level 2 mean [SD] score 12.3 [2.6] vs level 3 mean [SD] score 13.3 [2.2] vs level 4 mean [SD] score 16.3 [2.4], DISCUSSION: Graduate neurology trainees reassuringly perform well in initial management of acute ischemic stroke but frequently make errors in the treatment of hemorrhagic transformation after thrombolysis, suggesting the need for more education surrounding this low-frequency, high-acuity event. High-fidelity simulation holds promise as an assessment tool for acute stroke management performance.",
+  "journal": "Neurology",
+  "year": "2022",
+  "authors": [
+    "Pergakis MB",
+    "Chang WW",
+    "Tabatabai A",
+    "Phipps MS",
+    "Neustein B",
+    "Podell JE",
+    "Parikh G",
+    "Badjatia N",
+    "Motta M",
+    "Lerner DP",
+    "Morris NA"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Ischemic Stroke",
+    "Neurology",
+    "Prospective Studies",
+    "Stroke",
+    "Tissue Plasminogen Activator"
+  ]
+}

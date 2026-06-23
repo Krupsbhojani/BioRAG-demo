@@ -1,0 +1,25 @@
+{
+  "pmid": "36519414",
+  "title": "Augmented Reality in Otology/Neurotology: A Scoping Review with Implications for Practice and Education.",
+  "abstract": "OBJECTIVE: To determine how augmented reality (AR) has been applied to the field of otology/neurotology, examine trends and gaps in research, and provide an assessment of the future potential of this technology within surgical practice and education. DATA SOURCES: PubMed, EMBASE, and Cochrane Library were assessed from their inceptions through October 2022. A manual bibliography search was also conducted. REVIEW METHODS: A scoping review was conducted and reported according to PRISMA-ScR guidelines. Data from studies describing the application of AR to the field of otology/neurotology were evaluated, according to a priori inclusion/exclusion criteria. Exclusion criteria included non-English language articles, abstracts, letters/commentaries, conference papers, and review articles. RESULTS: Eighteen articles covering a diverse range of AR platforms were included. Publication dates spanned from 2007 to 2022 and the rate of publication increased over this time. Six of 18 studies were case series in human patients although the remaining were proof of concepts in cadaveric/artificial/animal models. The most common application of AR was for surgical navigation (14 of 18 studies). Computed tomography was the most common source of input data. Few studies noted potential applications to surgical training. CONCLUSION: Interest in the application of AR to otology/neurotology is growing based on the number of recent publications that use a broad range of hardware, software, and AR platforms. Large gaps in research such as the need for submillimeter registration error must be addressed prior to adoption in the operating room and for educational purposes. LEVEL OF EVIDENCE: N/A Laryngoscope, 133:1786-1795, 2023.",
+  "journal": "The Laryngoscope",
+  "year": "2023",
+  "authors": [
+    "Chen JX",
+    "Yu SE",
+    "Ding AS",
+    "Lee DJ",
+    "Welling DB",
+    "Carey JP",
+    "Gray ST",
+    "Creighton FX"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Augmented Reality",
+    "Neurotology",
+    "Surgery, Computer-Assisted",
+    "Otolaryngology",
+    "Software"
+  ]
+}

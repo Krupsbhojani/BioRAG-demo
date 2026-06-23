@@ -1,0 +1,25 @@
+{
+  "pmid": "31806693",
+  "title": "Temporal changes in the likelihood of dementia and MCI over 18 years in a population sample.",
+  "abstract": "OBJECTIVE: To examine the temporal changes in the likelihood of dementia and mild cognitive impairment (MCI) between 1993 and 2012 using a short battery of cognitive tests. METHODS: A cohort of 10,342 participants underwent a short battery of cognitive tests collected during triennial in-home interviews with 2,794 of those evaluated for the clinical diagnosis of dementia and MCI. We used a generalized logit regression model to estimate the likelihood of dementia and MCI, and a quasibinomial regression model to examine the temporal changes in those likelihood scores. RESULTS: A short battery of cognitive tests-delayed story recall test, Symbol Digit Modalities Test, and the Mini-Mental State Examination-were associated with the clinical diagnosis of dementia and MCI. The classification accuracy of likelihood scores was 0.92 for dementia and 0.85 for MCI. After adjusting for age, race/ethnicity, and education, the likelihood of dementia in the population decreased from 21.6% (95% confidence interval [CI] 20.9%-22.3%) to 18.9% (95% CI 18.1%-19.7%) between 1993-1996 and 2000-2002 and showed no significant decline between 2000-2002 and 2009-2012 (-0.2%, 95% CI -1.1% to 0.7%). The estimated likelihood of MCI remained similar between 1993-1996 and 2009-2012 (29.0%, 95% CI 27.9%-30.1%), but showed a nonsignificant decrease in 2000-2002. CONCLUSION: The likelihood scores based on a short battery of cognitive tests can serve as a measure of dementia and MCI in epidemiologic studies. The decline in the likelihood of dementia and MCI over earlier years was not sustained in later years.",
+  "journal": "Neurology",
+  "year": "2020",
+  "authors": [
+    "Rajan KB",
+    "Weuve J",
+    "Wilson RS",
+    "Barnes LL",
+    "McAninch EA",
+    "Evans DA"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Aged, 80 and over",
+    "Cognitive Dysfunction",
+    "Dementia",
+    "Female",
+    "Humans",
+    "Male",
+    "Neuropathology"
+  ]
+}

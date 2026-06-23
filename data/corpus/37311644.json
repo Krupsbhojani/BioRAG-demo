@@ -1,0 +1,27 @@
+{
+  "pmid": "37311644",
+  "title": "Frequency and Referral Patterns of Neural Antibody Studies During the COVID-19 Pandemic: Experience From an Autoimmune Neurology Center.",
+  "abstract": "OBJECTIVE: To determine whether the frequency of paraneoplastic or autoimmune encephalitis antibodies examined in a referral center changed during the COVID-19 pandemic. METHODS: The number of patients who tested positive for neuronal or glial (neural) antibodies during pre-COVID-19 (2017-2019) and COVID-19 (2020-2021) periods was compared. The techniques used for antibody testing did not change during these periods and included a comprehensive evaluation of cell-surface and intracellular neural antibodies. The chi-square test, Spearman correlation, and Python programming language v3 were used for statistical analysis. RESULTS: Serum or CSF from 15,390 patients with suspected autoimmune or paraneoplastic encephalitis was examined. The overall positivity rate for antibodies against neural-surface antigens was similar in the prepandemic and pandemic periods (neuronal 3.2% vs 3.5%; glial 6.1 vs 5.2) with a mild single-disease increase in the pandemic period (anti-NMDAR encephalitis). By contrast, the positivity rate for antibodies against intracellular antigens was significantly increased during the pandemic period (2.8% vs 3.9%, DISCUSSION: Our findings do not support that the COVID-19 pandemic led to a substantial increase of known or novel encephalitis mediated by antibodies against neural-surface antigens. The increase in Hu and GFAP antibodies likely reflects the progressive increased recognition of the corresponding disorders.",
+  "journal": "Neurology(R) neuroimmunology & neuroinflammation",
+  "year": "2023",
+  "authors": [
+    "Ariño H",
+    "Ruiz García R",
+    "Rioseras B",
+    "Naranjo L",
+    "Martinez-Hernandez E",
+    "Saiz A",
+    "Graus F",
+    "Dalmau J"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Pandemics",
+    "COVID-19",
+    "Anti-N-Methyl-D-Aspartate Receptor Encephalitis",
+    "Autoantibodies",
+    "Antigens, Surface",
+    "Neurology",
+    "Referral and Consultation"
+  ]
+}

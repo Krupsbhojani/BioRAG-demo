@@ -1,0 +1,32 @@
+{
+  "pmid": "30996038",
+  "title": "Validity evidence for Quality Improvement Knowledge Application Tool Revised (QIKAT-R) scores: consequences of rater number and type using neurology cases.",
+  "abstract": "OBJECTIVES: To develop neurology scenarios for use with the Quality Improvement Knowledge Application Tool Revised (QIKAT-R), gather and evaluate validity evidence, and project the impact of scenario number, rater number and rater type on score reliability. METHODS: Six neurological case scenarios were developed. Residents were randomly assigned three scenarios before and after a quality improvement (QI) course in 2015 and 2016. For each scenario, residents crafted an aim statement, selected a measure and proposed a change to address a quality gap. Responses were scored by six faculty raters (two with and four without QI expertise) using the QIKAT-R. Validity evidence from content, response process, internal structure, relations to other variables and consequences was collected. A generalisability (G) study examined sources of score variability, and decision analyses estimated projected reliability for different numbers of raters and scenarios and raters with and without QI expertise. RESULTS: Raters scored 163 responses from 28 residents. The mean QIKAT-R score was 5.69 (SD 1.06). G-coefficient and Phi-coefficient were 0.65 and 0.60, respectively. Interrater reliability was fair for raters without QI expertise (intraclass correlation = 0.53, 95% CI 0.30 to 0.72) and acceptable for raters with QI expertise (intraclass correlation = 0.66, 95% CI 0.02 to 0.88). Postcourse scores were significantly higher than precourse scores (6.05, SD 1.48 vs 5.22, SD 1.5; p < 0.001). Sufficient reliability for formative assessment (G-coefficient > 0.60) could be achieved by three raters scoring six scenarios or two raters scoring eight scenarios, regardless of rater QI expertise. CONCLUSIONS: Validity evidence was sufficient to support the use of the QIKAT-R with multiple scenarios and raters to assess resident QI knowledge application for formative or low-stakes summative purposes. The results provide practical information for educators to guide implementation decisions.",
+  "journal": "BMJ quality & safety",
+  "year": "2020",
+  "authors": [
+    "Kassardjian C",
+    "Park YS",
+    "Braksick S",
+    "Cutsforth-Gregory J",
+    "Robertson C",
+    "Young N",
+    "Leep Hunderfund A"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Clinical Competence",
+    "Education, Medical, Graduate",
+    "Educational Measurement",
+    "Female",
+    "Florida",
+    "Humans",
+    "Internship and Residency",
+    "Knowledge",
+    "Male",
+    "Minnesota",
+    "Neurology",
+    "Quality Improvement",
+    "Reproducibility of Results"
+  ]
+}

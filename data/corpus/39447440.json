@@ -1,0 +1,31 @@
+{
+  "pmid": "39447440",
+  "title": "Examining Impact of Insurance Type on Genetic Testing in Pediatric Neurology.",
+  "abstract": "BACKGROUND: Studies that examine the impact of insurance type on the ease of obtaining genetic testing are scarce. Therefore, we aim to analyze how different types of insurance influence the time taken to obtain genetic test results among pediatric neurology patients. METHODS: This was a retrospective cohort study from Dayton Children's Hospital. Patients who had at least one neurological genetic result found in the electronic medical record from January 1, 2014, to March 1, 2023, were included in the study. Variables collected include demographics, health insurance data, and genetic testing results. RESULTS: A total of 141 patients were included. Most patients were male (51.8%), white (78.0%), and not Hispanic/Latino (96.5%). The mean age at the time of genetic testing was 7.9 years. Most patients had Medicaid as their primary insurance (60.3%) when compared with private insurance (39.7%). Two hundred fifteen genetic reports were examined (137 Medicaid charts and 78 private insurance charts). There was no statistically significant difference from mean time lapse between test order date and results date for Medicaid patients (27.3 days) versus private insurance (31.5 days, P = 0.40). Molecular genetics testing and epilepsy gene panel order were the most common tests ordered for both Medicaid (86.1%, 37.2%) and private insurance (88.5%, 39.7%, respectively). CONCLUSIONS: The mean time between test order date and results date was comparable between private- and Medicaid-insured patients. Our results suggest that there is no significant difference for time to result between pediatric neurology patients who carry public versus private insurance for genetic testing.",
+  "journal": "Pediatric neurology",
+  "year": "2024",
+  "authors": [
+    "Carnes S",
+    "Fonseca LD",
+    "Lee D",
+    "Parekh A",
+    "Robertson A",
+    "Kumar G"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Male",
+    "Genetic Testing",
+    "Child",
+    "Female",
+    "Retrospective Studies",
+    "Insurance, Health",
+    "Neurology",
+    "Child, Preschool",
+    "United States",
+    "Medicaid",
+    "Adolescent",
+    "Pediatrics",
+    "Infant"
+  ]
+}

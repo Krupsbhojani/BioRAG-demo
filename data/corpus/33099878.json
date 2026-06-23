@@ -1,0 +1,20 @@
+{
+  "pmid": "33099878",
+  "title": "A 3D ontogenetic atlas of Alligator mississippiensis cranial nerves and their significance for comparative neurology of reptiles.",
+  "abstract": "Cranial nerves are key features of the nervous system and vertebrate body plan. However, little is known about the anatomical relationships and ontogeny of cranial nerves in crocodylians and other reptiles, hampering understanding of adaptations, evolution, and development of special senses, somatosensation, and motor control of cranial organs. Here we share three dimensional (3D) models an of the cranial nerves and cranial nerve targets of embryonic, juvenile, and adult American Alligators (Alligator mississippiensis) derived from iodine-contrast CT imaging, for the first time, exploring anatomical patterns of cranial nerves across ontogeny. These data reveal the tradeoffs of using contrast-enhanced CT data as well as patterns in growth and development of the alligator cranial nervous system. Though contrast-enhanced CT scanning allows for reconstruction of numerous tissue types in a nondestructive manner, it is still limited by size and resolution. The position of alligator cranial nerves varies little with respect to other cranial structures yet grow at different rates as the skull elongates. These data constrain timing of trigeminal and sympathetic ganglion fusion and reveal morphometric differences in nerve size and path during growth. As demonstrated by these data, alligator cranial nerve morphology is useful in understanding patterns of neurological diversity and distribution, evolution of sensory and muscular innervation, and developmental homology of cranial regions, which in turn, lead to inferences of physiology and behavior.",
+  "journal": "Anatomical record (Hoboken, N.J. : 2007)",
+  "year": "2022",
+  "authors": [
+    "Lessner EJ",
+    "Holliday CM"
+  ],
+  "mesh_terms": [
+    "Alligators and Crocodiles",
+    "Animals",
+    "Cranial Nerves",
+    "Growth and Development",
+    "Neurology",
+    "Reptiles",
+    "Skull"
+  ]
+}

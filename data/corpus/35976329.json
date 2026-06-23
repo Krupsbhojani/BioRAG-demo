@@ -1,0 +1,18 @@
+{
+  "pmid": "35976329",
+  "title": "Artificial intelligence and Big Data in neurology.",
+  "abstract": "Recent advances in technology have allowed us access to a multitude of datasets pertaining to various dimensions in neurology. Together with the enormous opportunities, we also face challenges related to data quality, ethics and intrinsic difficulties related to the application of data science in healthcare. In this article we will describe the main advances in the field of artificial intelligence and Big Data applied to neurology with a focus on neurosciences based on medical images. Real-World Data (RWD) and analytics related to large volumes of information will be described as well as some of the most relevant scientific initiatives at the time of this writing.",
+  "journal": "Arquivos de neuro-psiquiatria",
+  "year": "2022",
+  "authors": [
+    "Amaro Junior E"
+  ],
+  "mesh_terms": [
+    "Artificial Intelligence",
+    "Big Data",
+    "Data Science",
+    "Humans",
+    "Neurology",
+    "Neurosciences"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "pmid": "34981115",
+  "title": "Advances in Deep Neuropathological Phenotyping of Alzheimer Disease: Past, Present, and Future.",
+  "abstract": "Alzheimer disease (AD) is a neurodegenerative disorder characterized pathologically by the presence of neurofibrillary tangles and amyloid beta (Aβ) plaques in the brain. The disease was first described in 1906 by Alois Alzheimer, and since then, there have been many advancements in technologies that have aided in unlocking the secrets of this devastating disease. Such advancements include improving microscopy and staining techniques, refining diagnostic criteria for the disease, and increased appreciation for disease heterogeneity both in neuroanatomic location of abnormalities as well as overlap with other brain diseases; for example, Lewy body disease and vascular dementia. Despite numerous advancements, there is still much to achieve as there is not a cure for AD and postmortem histological analyses is still the gold standard for appreciating AD neuropathologic changes. Recent technological advances such as in-vivo biomarkers and machine learning algorithms permit great strides in disease understanding, and pave the way for potential new therapies and precision medicine approaches. Here, we review the history of human AD neuropathology research to include the notable advancements in understanding common co-pathologies in the setting of AD, and microscopy and staining methods. We also discuss future approaches with a specific focus on deep phenotyping using machine learning.",
+  "journal": "Journal of neuropathology and experimental neurology",
+  "year": "2022",
+  "authors": [
+    "Shakir MN",
+    "Dugger BN"
+  ],
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Humans",
+    "Machine Learning",
+    "Neuropathology",
+    "Phenotype"
+  ]
+}

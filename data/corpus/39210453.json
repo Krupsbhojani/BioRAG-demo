@@ -1,0 +1,26 @@
+{
+  "pmid": "39210453",
+  "title": "Design specifications and capabilities of a 3D simulation software for clinical education of physiotherapy students in the neurology department.",
+  "abstract": "INTRODUCTION: In this revolutionized era, thanks to cutting-edge technological breakthroughs like 3-dimensional (3D) computerized environments, physiotherapy trainers can improve their knowledge and confidence by using such training tools. Hence, there is room for developing these technologies for training medical students to expand their skills and expertise. This study aims to identify the design requirements and key functionalities of a 3D simulation software for the clinical education of physiotherapy students in neurology departments. METHOD: First, by carefully reviewing neurological books, scientific articles, curriculum, and medical records, and consulting with experts, a scenario was compiled. In the next step, a researcher-developed questionnaire was designed. Then, experts' opinions were considered to confirm the validity and reliability of the questionnaire. The designed questionnaire was distributed among several neurological physiotherapists. Finally, the information elements, contents, and functional capabilities of the 3D software were determined by analyzing the data obtained from the questionnaire. FINDINGS: The main components for the design of physiotherapy educational software were identified based on the findings of the literature review, curriculum analysis, and medical record review. A survey of physiotherapy professors was conducted using a questionnaire created by the researcher in order to enhance the capabilities of simulation software and ascertain its primary functions. Following an analysis of the data from the distributed questionnaire, 37 essential features and contents have been proven to be more crucial than the rest for the creation of 3D simulation software. As a result, the essential and fundamental needs for the patient's training in reading their medical records and performing muscle strength assessments were recognized and extracted. Based on these findings, a researcher-developed scenario for the various real cases was then established. In the patient's medical record reading scenario, the student is required to read the patient's record in text format. Similarly, in the section on cranial nerves, pictures are utilised to reinforce the student's assessment skills in addition to textual content. Together with the audio and pop-up texts, the simulated 3D environment also offers training for the assessment of muscle strength. CONCLUSION: As an educational tool, this software can enhance students' learning and assist in addressing the drawbacks of conventional teaching methods like lectures and hospital visits.",
+  "journal": "BMC medical education",
+  "year": "2024",
+  "authors": [
+    "Rezayi S",
+    "Ghotbi N",
+    "Shahmoradi L",
+    "Ardali ZR",
+    "Choobsaz H"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Neurology",
+    "Surveys and Questionnaires",
+    "Software",
+    "Curriculum",
+    "Computer Simulation",
+    "Software Design",
+    "Imaging, Three-Dimensional",
+    "Physical Therapy Specialty",
+    "Clinical Competence"
+  ]
+}

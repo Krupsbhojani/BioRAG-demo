@@ -1,0 +1,33 @@
+{
+  "pmid": "37641147",
+  "title": "A neuropathologic feature of brain aging: multi-lumen vascular profiles.",
+  "abstract": "Cerebrovascular pathologies other than frank infarctions are commonly seen in aged brains. Here, we focus on multi-lumen vascular profiles (MVPs), which are characterized by multiple vessel lumens enclosed in a single vascular channel. Little information exists on the prevalence, risk factors, and co-pathologies of MVPs. Therefore, we used samples and data from the University of Kentucky Alzheimer's Disease Research Center (n = 91), the University of Kentucky Pathology Department (n = 31), and the University of Pittsburgh Pathology Department (n = 4) to study MVPs. Age at death was correlated with MVP density in the frontal neocortex, Brodmann Area 9 (r = 0.51; p < 0.0001). Exploratory analyses were performed to evaluate the association between conventional vascular risk factors (e.g., hypertension, diabetes), cardiovascular diseases (e.g., heart attack, arrhythmia), and cerebrovascular disease (e.g., stroke); the only nominal association with MVP density was a self-reported history of brain trauma (Prevalence Ratio = 2.1; 95 CI 1.1-3.9, before correcting for multiple comparisons). No specific associations were detected between neuropathological (e.g., brain arteriolosclerosis) or genetic (e.g., APOE) variables and MVP density. Using a tissue clearing method called SeeDB, we provide 3-dimensional images of MVPs in brain tissue. We conclude that MVPs are an age-related brain pathology and more work is required to identify their clinical-pathological correlation and associated risk factors.",
+  "journal": "Acta neuropathologica communications",
+  "year": "2023",
+  "authors": [
+    "Ighodaro ET",
+    "Shahidehpour RK",
+    "Bachstetter AD",
+    "Abner EL",
+    "Nelson RS",
+    "Fardo DW",
+    "Shih AY",
+    "Grant RI",
+    "Neltner JH",
+    "Schmitt FA",
+    "Jicha GA",
+    "Kryscio RJ",
+    "Wilcock DM",
+    "Van Eldik LJ",
+    "Nelson PT"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Aged",
+    "Brain",
+    "Neuropathology",
+    "Stroke",
+    "Brain Injuries, Traumatic",
+    "Aging"
+  ]
+}

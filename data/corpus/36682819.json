@@ -1,0 +1,22 @@
+{
+  "pmid": "36682819",
+  "title": "The neurology of space flight; How does space flight effect the human nervous system?",
+  "abstract": "RATIONALE AND HYPOTHESIS: Advancements in technology, human adaptability, and funding have increased space exploration and in turn commercial spaceflight. Corporations such as Space X and Blue Origin are exploring methods to make space tourism possible. This could lead to an increase in the number of patients presenting with neurological diseases associated with spaceflight. Therefore, a comprehensive understanding of spaceflight stressors is required to manage neurological disease in high-risk individuals. OBJECTIVES: This review aims to describe the neurological effects of spaceflight and to assess countermeasures such as pre-flight prophylaxis, training, and possible therapeutics to reduce long-term effects. METHODOLOGY: A literature search was performed for experimental studies conducted in astronauts and in animal models that simulated the space environment. Many studies, however, only discussed these with scientific reasoning and did not include any experimental methods. Relevant studies were identified through searching research databases such as PubMed and Google Scholar. No inclusion or exclusion criteria were used. FINDINGS: Analysis of these studies provided a holistic understanding of the acute and chronic neurological changes that occur during space flight. Astronauts are exposed to hazards that include microgravity, cosmic radiation, hypercapnia, isolation, confinement and disrupted circadian rhythms. Microgravity, the absence of a gravitational force, is linked to disturbances in the vestibular system, intracranial and intraocular pressures. Furthermore, microgravity affects near field vision as part of the spaceflight-associated neuro-ocular syndrome. Exposure to cosmic radiation can increase the risk of neurodegenerative conditions and malignancies. It is estimated that cosmic radiation has significantly higher ionising capabilities than the ionising radiation used in medicine. Space travel also has potential benefits to the nervous system, including psychological development and effects on learning and memory. Future work needs to focus on how we can compare a current astronaut to a future space tourist. Potentially the physiological and psychological stresses of space flight might lead to neurological complications in future space travellers that do not have the physiological reserve of current astronauts.",
+  "journal": "Life sciences in space research",
+  "year": "2023",
+  "authors": [
+    "Gupta U",
+    "Baig S",
+    "Majid A",
+    "Bell SM"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Space Flight",
+    "Vision Disorders",
+    "Astronauts",
+    "Weightlessness",
+    "Neurology"
+  ]
+}

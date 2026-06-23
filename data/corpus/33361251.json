@@ -1,0 +1,25 @@
+{
+  "pmid": "33361251",
+  "title": "Geographic Variation in Neurologist Density and Neurologic Care in the United States.",
+  "abstract": "OBJECTIVE: To describe geographic variation in neurologist density, neurologic conditions, and neurologist involvement in neurologic care. METHODS: We used 20% 2015 Medicare data to summarize variation by Hospital Referral Region (HRR). Neurologic care was defined as office-based evaluation/management visits with a primary diagnosis of a neurologic condition. RESULTS: Mean density of neurologists varied nearly 4-fold from the lowest to the highest density quintile (9.7 [95% confidence interval (CI) 9.2-10.2] vs 43.1 [95% CI 37.6-48.5] per 100,000 Medicare beneficiaries). The mean prevalence of patients with neurologic conditions did not substantially differ across neurologist density quintile regions (293 vs 311 per 1,000 beneficiaries in the lowest vs highest quintiles, respectively). Of patients with a neurologic condition, 23.5% were seen by a neurologist, ranging from 20.6% in the lowest quintile regions to 27.0% in the highest quintile regions (6.4% absolute difference). Most of the difference comprised dementia, pain, and stroke conditions seen by neurologists. In contrast, very little of the difference comprised Parkinson disease and multiple sclerosis, both of which had a very high proportion (>80%) of neurologist involvement even in the lowest quintile regions. CONCLUSIONS: The supply of neurologists varies substantially by region, but the prevalence of neurologic conditions does not. As neurologist supply increases, access to neurologist care for certain neurologic conditions (dementia, pain, and stroke) increases much more than for others (Parkinson disease and multiple sclerosis). These data provide insight for policy makers when considering strategies in matching the demand for neurologic care with the appropriate supply of neurologists.",
+  "journal": "Neurology",
+  "year": "2021",
+  "authors": [
+    "Lin CC",
+    "Callaghan BC",
+    "Burke JF",
+    "Skolarus LE",
+    "Hill CE",
+    "Magliocco B",
+    "Esper GJ",
+    "Kerber KA"
+  ],
+  "mesh_terms": [
+    "Health Services Accessibility",
+    "Humans",
+    "Medicare",
+    "Neurologists",
+    "Neurology",
+    "United States"
+  ]
+}

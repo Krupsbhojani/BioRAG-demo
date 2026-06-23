@@ -1,0 +1,21 @@
+{
+  "pmid": "38830075",
+  "title": "Teleneurology and Artificial Intelligence in Clinical Practice.",
+  "abstract": "As teleheath becomes integrated into the practice of medicine, it is important to understand the benefits, limitations, and variety of applications. Telestroke was an early example of teleneurology that arose from a need for urgent access to neurologists for time-sensitive treatments for stroke. It made a scarce resource widely available via video conferencing technologies. Additionally, applications such as outpatient video visits, electronic consultation (e-consult), and wearable devices developed in neurology, as well. Telehealth dramatically increased during the COVID-19 pandemic when offices were closed and hospitals were overwhelmed; a multitude of both outpatient and inpatient programs developed and matured during this time. It is helpful to explore what has been learned regarding the quality of telehealth, disparities in care, and how artificial intelligence can interact with medical practices in the teleneurology context.",
+  "journal": "Continuum (Minneapolis, Minn.)",
+  "year": "2024",
+  "authors": [
+    "Jones EC",
+    "Kummer BR",
+    "Wilkinson JR"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Artificial Intelligence",
+    "Telemedicine",
+    "Neurology",
+    "COVID-19",
+    "Stroke",
+    "SARS-CoV-2"
+  ]
+}

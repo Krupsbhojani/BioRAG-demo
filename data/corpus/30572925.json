@@ -1,0 +1,24 @@
+{
+  "pmid": "30572925",
+  "title": "A review of the role of cav-1 in neuropathology and neural recovery after ischemic stroke.",
+  "abstract": "Ischemic stroke starts a series of pathophysiological processes that cause brain injury. Caveolin-1 (cav-1) is an integrated protein and locates at the caveolar membrane. It has been demonstrated that cav-1 can protect blood-brain barrier (BBB) integrity by inhibiting matrix metalloproteases (MMPs) which degrade tight junction proteins. This article reviews recent developments in understanding the mechanisms underlying BBB dysfunction, neuroinflammation, and oxidative stress after ischemic stroke, and focuses on how cav-1 modulates a series of activities after ischemic stroke. In general, cav-1 reduces BBB permeability mainly by downregulating MMP9, reduces neuroinflammation through influencing cytokines and inflammatory cells, promotes nerve regeneration and angiogenesis via cav-1/VEGF pathway, reduces apoptosis, and reduces the damage mediated by oxidative stress. In addition, we also summarize some experimental results that are contrary to the above and explore possible reasons for these differences.",
+  "journal": "Journal of neuroinflammation",
+  "year": "2019",
+  "authors": [
+    "Huang Q",
+    "Zhong W",
+    "Hu Z",
+    "Tang X"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Blood-Brain Barrier",
+    "Brain Ischemia",
+    "Caveolin 1",
+    "Encephalitis",
+    "Humans",
+    "Neuropathology",
+    "Recovery of Function",
+    "Stroke"
+  ]
+}

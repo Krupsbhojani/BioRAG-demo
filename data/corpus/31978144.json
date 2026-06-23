@@ -1,0 +1,36 @@
+{
+  "pmid": "31978144",
+  "title": "Feline irradiated diet-induced demyelination; a model of the neuropathology of sub-acute combined degeneration?",
+  "abstract": "Irradiation of food at 50-55 kGy results in a profound, chronic demyelinating-remyelinating disease of the entire central nervous system (CNS) in cats, named Feline Irradiated Diet-Induced Demyelination (FIDID). This study examines the early stages of demyelination and long-term consequences of demyelination and remyelination on axon survival or loss. Myelin vacuolation is the primary defect leading to myelin breakdown, demyelination then prompt remyelination in the spinal cord and brain. There is no evidence of oligodendrocyte death. The spinal cord dorsal column is initially spared yet eventually becomes severely demyelinated with subsequent loss of axons in the core and then surface of the fasciculus gracilis. However remyelination of the sub-pial axons in the dorsal column results in their protection. While there was a lack of biochemical evidence of Vitamin B12 deficiency, the pathological similarities of FIDID with sub-acute combined degeneration (SCD) led us to explore treatment with Vitamin B12. Treatment led to recovery or improvement in some cats and neurologic relapse on cessation of B12 therapy. While the reason that irradiated food is myelinotoxic in the cat remains unresolved, nonetheless the neuropathological changes match exactly what is seen in SCD and its models and provide an ideal model to study the cellular and molecular basis of remyelination.",
+  "journal": "PloS one",
+  "year": "2020",
+  "authors": [
+    "Radcliff AB",
+    "Heidari M",
+    "Field AS",
+    "Duncan ID"
+  ],
+  "mesh_terms": [
+    "Acute Disease",
+    "Animals",
+    "Axons",
+    "Cats",
+    "Chronic Disease",
+    "Demyelinating Diseases",
+    "Diet",
+    "Disease Models, Animal",
+    "Female",
+    "Macrophages",
+    "Male",
+    "Metabolome",
+    "Microglia",
+    "Myelin Sheath",
+    "Nerve Degeneration",
+    "Neuropathology",
+    "Radiation",
+    "Remyelination",
+    "Spinal Cord",
+    "Time Factors",
+    "Vitamin B 12"
+  ]
+}

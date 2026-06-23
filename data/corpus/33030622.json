@@ -1,0 +1,41 @@
+{
+  "pmid": "33030622",
+  "title": "The stroke mothership model survived during COVID-19 era: an observational single-center study in Emilia-Romagna, Italy.",
+  "abstract": "INTRODUCTION: A reduction of the hospitalization and reperfusion treatments was reported during COVID-19 pandemic. However, high variability in results emerged, potentially due to logistic paradigms adopted. Here, we analyze stroke code admissions, hospitalizations, and stroke belt performance for ischemic stroke patients in the metropolitan Bologna region, comparing temporal trends between 2019 and 2020 to define the impact of COVID-19 on the stroke network. METHODS: This retrospective observational study included all people admitted at the Bologna Metropolitan Stroke Center in timeframes 1 March 2019-30 April 2019 (cohort-2019) and 1 March 2020-30 April 2020 (cohort-2020). Diagnosis, treatment strategy, and timing were compared between the two cohorts to define temporal trends. RESULTS: Overall, 283 patients were admitted to the Stroke Center, with no differences in demographic factors between cohort-2019 and cohort-2020. In cohort-2020, transient ischemic attack (TIA) was significantly less prevalent than 2019 (6.9% vs 14.4%, p = .04). Among 216 ischemic stroke patients, moderate-to-severe stroke was more represented in cohort-2020 (17.8% vs 6.2%, p = .027). Similar proportions of patients underwent reperfusion (45.9% in 2019 vs 53.4% in 2020), although a slight increase in combined treatment was detected (14.4% vs 25.4%, p = .05). Door-to-scan timing was significantly prolonged in 2020 compared with 2019 (28.4 ± 12.6 vs 36.7 ± 14.6, p = .03), although overall timing from stroke to treatment was preserved. CONCLUSION: During COVID-19 pandemic, TIA and minor stroke consistently reduced compared to the same timeframe in 2019. Longer stroke-to-call and door-to-scan times, attributable to change in citizen behavior and screening at hospital arrival, did not impact on stroke-to-treatment time. Mothership model might have minimized the effects of the pandemic on the stroke care organization.",
+  "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+  "year": "2020",
+  "authors": [
+    "Zini A",
+    "Romoli M",
+    "Gentile M",
+    "Migliaccio L",
+    "Picoco C",
+    "Dell'Arciprete O",
+    "Simonetti L",
+    "Naldi F",
+    "Piccolo L",
+    "Gordini G",
+    "Tagliatela F",
+    "Bua V",
+    "Cirillo L",
+    "Princiotta C",
+    "Coniglio C",
+    "Descovich C",
+    "Cortelli P"
+  ],
+  "mesh_terms": [
+    "Betacoronavirus",
+    "COVID-19",
+    "Coronavirus Infections",
+    "Humans",
+    "Italy",
+    "Neurology",
+    "Pandemics",
+    "Pneumonia, Viral",
+    "Prevalence",
+    "Retrospective Studies",
+    "SARS-CoV-2",
+    "Stroke",
+    "Time-to-Treatment"
+  ]
+}

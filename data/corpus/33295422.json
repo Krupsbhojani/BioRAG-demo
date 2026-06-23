@@ -1,0 +1,24 @@
+{
+  "pmid": "33295422",
+  "title": "Telemedicine in neurology: current evidence.",
+  "abstract": "BACKGROUND: Telemedicine was first introduced in Neurology as a tool to facilitate access to acute stroke treatment. More recently, evidence has emerged of the use of telemedicine in several other areas of Neurology. With the advent of the COVID-19 pandemic and the need for social isolation, Brazilian authorities have expanded the regulation of the use of telemedicine, thus allowing the treatment of many patients with neurological diseases to be conducted with less risk of SARS-CoV-2 contamination. OBJECTIVE: This study aimed to critically review the current evidence of the use, efficacy, safety, and usefulness of telemedicine in Neurology. METHODS: A review of PubMed indexed articles was carried out by searching for the terms \"telemedicine AND\": \"headache\", \"multiple sclerosis\", \"vestibular disorders\", \"cerebrovascular diseases\", \"epilepsy\", \"neuromuscular diseases\", \"dementia\", and \"movement disorders\". The more relevant studies in each of these areas were critically analyzed. RESULTS: Several articles were found and analyzed in each of these areas of Neurology. The main described contributions of telemedicine in the diagnosis and treatment of such neurological conditions were presented, indicating a great potential of use of this type of assistance in all these fields. CONCLUSION: Current evidence supports that teleneurology can be a tool to increase care for patients suffering from neurological diseases.",
+  "journal": "Arquivos de neuro-psiquiatria",
+  "year": "2020",
+  "authors": [
+    "Domingues RB",
+    "Mantese CE",
+    "Aquino EDS",
+    "Fantini FGMM",
+    "Prado GFD",
+    "Nitrini R"
+  ],
+  "mesh_terms": [
+    "Brazil",
+    "COVID-19",
+    "Humans",
+    "Neurology",
+    "Pandemics",
+    "SARS-CoV-2",
+    "Telemedicine"
+  ]
+}

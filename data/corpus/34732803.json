@@ -1,0 +1,33 @@
+{
+  "pmid": "34732803",
+  "title": "Classifying migraine subtypes and their characteristics by latent class analysis using data of a nation-wide population-based study.",
+  "abstract": "Migraine neither presents with a definitive single symptom nor has a distinct biomarker; thus, its diagnosis is based on combinations of typical symptoms. We aimed to identify natural subgroups of migraine based on symptoms listed in the diagnostic criteria of the third edition of the International Classification of Headache Disorders. Latent class analysis (LCA) was applied to the data of the Korean Sleep-Headache Study, a nationwide population-based survey. We selected a three-class model based on Akaike and Bayesian information criteria and characterized the three identified classes as \"mild and low frequency,\" \"photophobia and phonophobia,\" and \"severe and high frequency.\" In total, 52.0% (65/125) of the participants were classified as \"mild and low frequency,\" showing the highest frequency of mild headache intensity but the lowest overall headache frequency. Meanwhile, \"photophobia and phonophobia\" involved 33.6% (42/125) of the participants, who showed the highest frequency of photophobia and phonophobia. Finally, \"severe and high frequency\" included 14.4% (18/125) of the participants, and they presented the highest frequency of severe headache intensity and highest headache frequency. In conclusion, LCA is useful for analyzing the heterogeneity of migraine symptoms and identifying migraine subtypes. This approach may improve our understanding of the clinical characterization of migraine.",
+  "journal": "Scientific reports",
+  "year": "2022",
+  "authors": [
+    "Lee W",
+    "Min IK",
+    "Yang KI",
+    "Kim D",
+    "Yun CH",
+    "Chu MK"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Bayes Theorem",
+    "Cross-Sectional Studies",
+    "Female",
+    "Headache",
+    "Humans",
+    "Hyperacusis",
+    "Latent Class Analysis",
+    "Male",
+    "Middle Aged",
+    "Migraine Disorders",
+    "Neurology",
+    "Photophobia",
+    "Reference Values",
+    "Republic of Korea",
+    "Sleep"
+  ]
+}

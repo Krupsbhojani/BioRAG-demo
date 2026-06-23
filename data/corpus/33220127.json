@@ -1,0 +1,25 @@
+{
+  "pmid": "33220127",
+  "title": "The European Academy of Neurology COVID-19 registry (ENERGY): an international instrument for surveillance of neurological complications in patients with COVID-19.",
+  "abstract": "The COVID-19 pandemic is a global public health issue. Neurological complications have been reported in up to one-third of affected cases, but their distribution varies significantly in terms of prevalence, incidence and phenotypical characteristics. Variability can be mostly explained by the differing sources of cases (hospital vs. community-based), the accuracy of the diagnostic approach and the interpretation of the patients' complaints. Moreover, after recovering, patients can still experience neurological symptoms. To obtain a more precise picture of the neurological manifestations and outcome of the COVID-19 infection, an international registry (ENERGY) has been created by the European Academy of Neurology in collaboration with European national neurological societies and the Neurocritical Care Society and Research Network. ENERGY can be implemented as a stand-alone instrument for patients with suspected or confirmed COVID-19 and neurological findings or as an addendum to an existing registry not targeting neurological symptoms. Data are also collected to study the impact of neurological symptoms and neurological complications on outcomes. The variables included in the registry have been selected in the interests of most countries, to favour pooling with data from other sources and to facilitate data collection even in resource-poor countries. Included are adults with suspected or confirmed COVID-19 infection, ascertained through neurological consultation, and providing informed consent. Key demographic and clinical findings are collected at registration. Patients are followed up to 12 months in search of incident neurological manifestations. As of 19 August, 254 centres from 69 countries and four continents have made requests to join the study.",
+  "journal": "European journal of neurology",
+  "year": "2021",
+  "authors": [
+    "Beghi E",
+    "Helbok R",
+    "Crean M",
+    "Chou SH",
+    "McNett M",
+    "Moro E",
+    "Bassetti C"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "COVID-19",
+    "Humans",
+    "Neurology",
+    "Pandemics",
+    "Registries",
+    "SARS-CoV-2"
+  ]
+}

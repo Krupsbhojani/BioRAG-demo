@@ -1,0 +1,36 @@
+{
+  "pmid": "35970764",
+  "title": "Vagal Nerve Stimulation: A Bibliometric Analysis of Current Research Trends.",
+  "abstract": "BACKGROUND: Vagal nerve stimulation (VNS) has become established as an effective tool for the management of various neurologic disorders. Consequently, a growing number of VNS studies have been published over the past four decades. This study presents a bibliometric analysis investigating the current trends in VNS literature. MATERIALS AND METHODS: Using the Web of Science collection data base, a search was performed to identify literature that discussed applications of VNS from 2000 to 2021. Analysis and visualization of the included literature were completed with VOSviewer. RESULTS: A total of 2895 publications were identified. The number of articles published in this area has increased over the past two decades, with the most citations (7098) occurring in 2021 and the most publications (270) in 2020. The h-index, i-10, and i-100 were 97, 994, and 91, respectively, with 17.0 citations per publication on average. The highest-producing country and institution of VNS literature were the United States and the University of Texas, respectively. The most productive journal was Epilepsia. Epilepsy was the predominant focus of VNS research, with the keyword \"epilepsy\" having the greatest total link strength (749) in the keyword analysis. The keyword analysis also revealed two major avenues of VNS research: 1) the mechanisms by which VNS modulates neural circuitry, and 2) therapeutic applications of VNS in a variety of diseases beyond neurology. It also showed a significant prevalence of noninvasive VNS research. Although epilepsy research appears more linked to implanted VNS, headache and depression specialists were more closely associated with noninvasive VNS. CONCLUSION: VNS may serve as a promising intervention for rehabilitation beyond neurologic applications, with an expanding base of literature over the past two decades. Although epilepsy researchers have produced most current literature, other fields have begun to explore VNS as a potential treatment, likely owing to the rise of noninvasive forms of VNS.",
+  "journal": "Neuromodulation : journal of the International Neuromodulation Society",
+  "year": "2023",
+  "authors": [
+    "Downes MH",
+    "Kalagara R",
+    "Chennareddy S",
+    "Vasan V",
+    "Reford E",
+    "Schuldt BR",
+    "Odland I",
+    "Tosto-Mancuso J",
+    "Putrino D",
+    "Panov F",
+    "Kellner CP"
+  ],
+  "mesh_terms": [
+    "Bibliometrics",
+    "Vagus Nerve Stimulation",
+    "Epilepsy",
+    "Biomedical Research",
+    "Neural Pathways",
+    "Neurology",
+    "United States",
+    "Headache",
+    "Depression",
+    "Rehabilitation",
+    "Periodicals as Topic",
+    "Authorship",
+    "Universities",
+    "Humans"
+  ]
+}

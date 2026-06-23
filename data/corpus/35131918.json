@@ -1,0 +1,19 @@
+{
+  "pmid": "35131918",
+  "title": "Artificial Intelligence and the Practice of Neurology in 2035: The Neurology Future Forecasting Series.",
+  "abstract": "High-quality health care delivery relies on a complex orchestration of the flow of patient data. Incorporating advanced artificial intelligence (AI) technologies into this delivery system has tremendous potential to improve health care, but also carries with it unique challenges. The nature of neurologic disease, and the current state of neurologic care delivery, makes this area of medicine well positioned for AI-driven innovation by 2035. Business, ethics, regulation, and medical education will need to evolve in concert. The information technology and data standards requirements for this potential transformation are underappreciated and will be a major driver of changes across the industry. Using AI on patient data to drive health care innovation to improve patients' lives as the primary goal will facilitate widespread acceptance and adoption of the practices required for a successful AI transformation in neurology. In planning the incorporation of AI into clinical practice, the tenets of rigorous research will need to be vigilantly applied to prevent unwarranted costs and inconveniences while promoting meaningful health outcomes.",
+  "journal": "Neurology",
+  "year": "2022",
+  "authors": [
+    "Jones DT",
+    "Kerber KA"
+  ],
+  "mesh_terms": [
+    "Artificial Intelligence",
+    "Delivery of Health Care",
+    "Forecasting",
+    "Humans",
+    "Neurology",
+    "Technology"
+  ]
+}

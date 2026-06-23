@@ -1,0 +1,21 @@
+{
+  "pmid": "34041779",
+  "title": "Remote clinical trials: A timely opportunity for a virtual reality approach and its potential application in neurology.",
+  "abstract": "The COVID-19 pandemic boosted the expansion and development of new remote models of care and clinical research modalities. Health systems are going to implement telemedical innovations in the near future. Virtual clinical trials (VCT), also known as remote or decentralized ones, may profoundly change the way how clinical studies are conducted, for the benefit of patients with chronic and neurological diseases who are often fragile and may have limited access to traditional healthcare facilities. Despite significant progress, several limitations still need to be addressed to implement telemedicine technologies for VCT. The information and communication technology (ICT) devices (e.g., mobile apps and wearables) may be applied to VCTs but show some practical issues that may hamper the compliance with rigorous research criteria and protocols. We herewith discuss the advantages and disadvantages of virtual reality (VR) in combination with other ICT devices and solutions to improve the conduction of VCT in patients with neurological disorders. The so-called \"digital divide,\" that is, the gap between people who can and those who cannot access high-speed and broadband internet connections, and issues related to VR, such as VR sickness, should be addressed to improve larger VCT participation to neurological patients.",
+  "journal": "British journal of clinical pharmacology",
+  "year": "2021",
+  "authors": [
+    "Chiamulera C",
+    "Mantovani E",
+    "Tamburin S"
+  ],
+  "mesh_terms": [
+    "COVID-19",
+    "Humans",
+    "Neurology",
+    "Pandemics",
+    "SARS-CoV-2",
+    "Telemedicine",
+    "Virtual Reality"
+  ]
+}

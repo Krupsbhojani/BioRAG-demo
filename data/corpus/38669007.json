@@ -1,0 +1,32 @@
+{
+  "pmid": "38669007",
+  "title": "A randomized controlled educational pilot trial of interictal epileptiform discharge identification for neurology residents.",
+  "abstract": "OBJECTIVE: To assess the effectiveness of an educational program leveraging technology-enhanced learning and retrieval practice to teach trainees how to correctly identify interictal epileptiform discharges (IEDs). METHODS: This was a bi-institutional prospective randomized controlled educational trial involving junior neurology residents. The intervention consisted of three video tutorials focused on the six IFCN criteria for IED identification and rating 500 candidate IEDs with instant feedback either on a web browser (intervention 1) or an iOS app (intervention 2). The control group underwent no educational intervention (\"inactive control\"). All residents completed a survey and a test at the onset and offset of the study. Performance metrics were calculated for each participant. RESULTS: Twenty-one residents completed the study: control (n = 8); intervention 1 (n = 6); intervention 2 (n = 7). All but two had no prior EEG experience. Intervention 1 residents improved from baseline (mean) in multiple metrics including AUC (.74; .85; p < .05), sensitivity (.53; .75; p < .05), and level of confidence (LOC) in identifying IEDs/committing patients to therapy (1.33; 2.33; p < .05). Intervention 2 residents improved in multiple metrics including AUC (.81; .86; p < .05) and LOC in identifying IEDs (2.00; 3.14; p < .05) and spike-wave discharges (2.00; 3.14; p < .05). Controls had no significant improvements in any measure. SIGNIFICANCE: This program led to significant subjective and objective improvements in IED identification. Rating candidate IEDs with instant feedback on a web browser (intervention 1) generated greater objective improvement in comparison to rating candidate IEDs on an iOS app (intervention 2). This program can complement trainee education concerning IED identification.",
+  "journal": "Epileptic disorders : international epilepsy journal with videotape",
+  "year": "2024",
+  "authors": [
+    "Nascimento FA",
+    "Jing J",
+    "Traner C",
+    "Kong WY",
+    "Olandoski M",
+    "Kapur S",
+    "Duhaime E",
+    "Strowd R",
+    "Moeller J",
+    "Westover MB"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Internship and Residency",
+    "Pilot Projects",
+    "Neurology",
+    "Electroencephalography",
+    "Epilepsy",
+    "Prospective Studies",
+    "Clinical Competence",
+    "Adult",
+    "Male",
+    "Female"
+  ]
+}

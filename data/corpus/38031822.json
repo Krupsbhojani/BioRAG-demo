@@ -1,0 +1,29 @@
+{
+  "pmid": "38031822",
+  "title": "Expert accuracy and inter-rater agreement of \"must-know\" EEG findings for adult and child neurology residents.",
+  "abstract": "OBJECTIVE: We published a list of \"must-know\" routine EEG (rEEG) findings for trainees based on expert opinion. Here, we studied the accuracy and inter-rater agreement (IRA) of these \"must-know\" rEEG findings among international experts. METHODS: A previously validated online rEEG examination was disseminated to EEG experts. It consisted of a survey and 30 multiple-choice questions predicated on the previously published \"must-know\" rEEG findings divided into four domains: normal, abnormal, normal variants, and artifacts. Questions contained de-identified 10-20-s epochs of EEG that were considered unequivocal examples by five EEG experts. RESULTS: The examination was completed by 258 international EEG experts. Overall mean accuracy and IRA (AC1) were 81% and substantial (0.632), respectively. The domain-specific mean accuracies and IRA were: 76%, moderate (0.558) (normal); 78%, moderate (0.575) (abnormal); 85%, substantial (0.678) (normal variants); 85%, substantial (0.740) (artifacts). Academic experts had a higher accuracy than private practice experts (82% vs. 77%; p = .035). Country-specific overall mean accuracies and IRA were: 92%, almost perfect (0.836) (U.S.); 86%, substantial (0.762) (Brazil); 79%, substantial (0.646) (Italy); and 72%, moderate (0.496) (India). In conclusion, collective expert accuracy and IRA of \"must-know\" rEEG findings are suboptimal and heterogeneous. SIGNIFICANCE: We recommend the development and implementation of pragmatic, accessible, country-specific ways to measure and improve the expert accuracy and IRA.",
+  "journal": "Epileptic disorders : international epilepsy journal with videotape",
+  "year": "2024",
+  "authors": [
+    "Nascimento FA",
+    "Katyal R",
+    "Olandoski M",
+    "Gao H",
+    "Yap S",
+    "Matthews R",
+    "Rampp S",
+    "Tatum W",
+    "Strowd R",
+    "Beniczky S"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Child",
+    "Humans",
+    "Observer Variation",
+    "Electroencephalography",
+    "Artifacts",
+    "Neurology",
+    "Italy"
+  ]
+}

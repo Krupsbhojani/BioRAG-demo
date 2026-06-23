@@ -1,0 +1,28 @@
+{
+  "pmid": "33245699",
+  "title": "Rapid Implementation of Video Visits in Neurology During COVID-19: Mixed Methods Evaluation.",
+  "abstract": "BACKGROUND: Telemedicine has been used for decades. Despite its many advantages, its uptake and rigorous evaluation of feasibility across neurology's ambulatory subspecialties has been sparse. However, the COVID-19 pandemic prompted health care systems worldwide to reconsider traditional health care delivery. To safeguard health care workers and patients, many health care systems quickly transitioned to telemedicine, including across neurology subspecialties, providing a new opportunity to evaluate this modality of care. OBJECTIVE: To evaluate the accelerated implementation of video visits in ambulatory neurology during the COVID-19 pandemic, we used mixed methods to assess adoption, acceptability, appropriateness, and perceptions of potential sustainability. METHODS: Video visits were launched rapidly in ambulatory neurology clinics of a large academic medical center. To assess adoption, we analyzed clinician-level scheduling data collected between March 22 and May 16, 2020. We assessed acceptability, appropriateness, and sustainability via a clinician survey (n=48) and semistructured interviews with providers (n=30) completed between March and May 2020. RESULTS: Video visits were adopted rapidly; overall, 65 (98%) clinicians integrated video visits into their workflow within the first 6 implementation weeks and 92% of all visits were conducted via video. Video visits were largely considered acceptable by clinicians, although various technological issues impacted their satisfaction. Video visits were reported to be more convenient for patients, families, and caregivers than in-person visits; however, access to technology, the patient's technological capacity, and language difficulties were considered barriers. Many clinicians expressed optimism about future utilization of video visits in neurology. They believed that video visits promote continuity of care and can be incorporated into their practice long-term, although several insisted that they can never replace the in-person examination. CONCLUSIONS: Video visits are an important addition to clinical care in ambulatory neurology and are anticipated to remain a permanent supplement to in-person visits, promoting patient care continuity, and flexibility for patients and clinicians alike.",
+  "journal": "Journal of medical Internet research",
+  "year": "2021",
+  "authors": [
+    "Saliba-Gustafsson EA",
+    "Miller-Kuhlmann R",
+    "Kling SMR",
+    "Garvert DW",
+    "Brown-Johnson CG",
+    "Lestoquoy AS",
+    "Verano MR",
+    "Yang L",
+    "Falco-Walter J",
+    "Shaw JG",
+    "Asch SM",
+    "Gold CA",
+    "Winget M"
+  ],
+  "mesh_terms": [
+    "COVID-19",
+    "Humans",
+    "Neurology",
+    "Telemedicine"
+  ]
+}

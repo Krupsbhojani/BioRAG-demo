@@ -1,0 +1,18 @@
+{
+  "pmid": "34347208",
+  "title": "MALDI imaging mass spectrometry: an emerging tool in neurology.",
+  "abstract": "Neurological disease and disorders remain a large public health threat. Thus, research to improve early detection and/or develop more effective treatment approaches are necessary. Although there are many common techniques and imaging modalities utilized to study these diseases, existing approaches often require a label which can be costly and time consuming. Matrix-assisted laser desorption ionization (MALDI) imaging mass spectrometry (IMS) is a label-free, innovative and emerging technique that produces 2D ion density maps representing the distribution of an analyte(s) across a tissue section in relation to tissue histopathology. One main advantage of MALDI IMS over other imaging modalities is its ability to determine the spatial distribution of hundreds of analytes within a single imaging run, without the need for a label or any a priori knowledge. Within the field of neurology and disease there have been several impactful studies in which MALDI IMS has been utilized to better understand the cellular pathology of the disease and or severity. Furthermore, MALDI IMS has made it possible to map specific classes of analytes to regions of the brain that otherwise may have been lost using more traditional methods. This review will highlight key studies that demonstrate the potential of this technology to elucidate previously unknown phenomenon in neurological disease.",
+  "journal": "Metabolic brain disease",
+  "year": "2022",
+  "authors": [
+    "Schnackenberg LK",
+    "Thorn DA",
+    "Barnette D",
+    "Jones EE"
+  ],
+  "mesh_terms": [
+    "Brain",
+    "Neurology",
+    "Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization"
+  ]
+}

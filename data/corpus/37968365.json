@@ -1,0 +1,22 @@
+{
+  "pmid": "37968365",
+  "title": "What are the predictors of delayed cerebral ischaemia (DCI) after aneurysmal subarachnoid haemorrhage? An up-to-date systematic review.",
+  "abstract": "PURPOSE: Delayed Cerebral Ischaemia (DCI) remains an important preventable driver of poor outcome in aneurysmal subarachnoid haemorrhage (aSAH). Our ability to predict DCI is based on historical patient cohorts, which use inconsistent definitions for DCI. In 2010, a definition of DCI was agreed upon and published by a group of aSAH experts. The aim of this study was to identify predictors using this agreed definition of DCI. METHODS: We conducted a literature search of Medline (PubMed) to identify articles published since the publication of the 2010 consensus definition. Risk factors and prediction models for DCI were included if they: (1) adjusted for confounding factors or were derived from randomised trials, (2) were derived from prospectively collected data and (3) included adults with aSAH. The strength of studies was assessed based on quality, risk of bias and applicability of studies using PROBAST. RESULTS: Eight studies totalling 4,542 patients were included from 105 relevant articles from 4,982 records. The most common reason for not including studies was failure to use the consensus definition of DCI (75%). No prediction models were identified in the eligible studies. Significant risk factors for DCI included the presence of onsite neuro-interventional services, high Neuropeptide Y, admission leucocytosis, neutrophil:lymphocyte >5.9 and Fisher Grade > 2. All studies had a high or unclear risk of bias. CONCLUSIONS: Only a few studies with high risk of bias have investigated the predictors using consensus-defined DCI. Further studies are warranted to clarify risk factors of DCI in the modern era.",
+  "journal": "Acta neurochirurgica",
+  "year": "2023",
+  "authors": [
+    "Whittle C",
+    "Hollingworth MA",
+    "Dulhanty L",
+    "Patel HC"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Humans",
+    "Subarachnoid Hemorrhage",
+    "Brain Ischemia",
+    "Cerebral Infarction",
+    "Hospitalization",
+    "Neurology"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "pmid": "34238528",
+  "title": "Stroke prevention in patients with arterial hypertension: Recommendations of the Spanish Society of Neurology's Stroke Study Group.",
+  "abstract": "OBJECTIVE: To update the recommendations of the Spanish Society of Neurology on primary and secondary stroke prevention in patients with arterial hypertension. DEVELOPMENT: We proposed several questions to identify practical issues for the management of blood pressure (BP) in stroke prevention, analysing the objectives of blood pressure control, which drugs are most appropriate in primary prevention, when antihypertensive treatment should be started after a stroke, what levels we should aim to achieve, and which drugs are most appropriate in secondary stroke prevention. We conducted a systematic review of the PubMed database and analysed the main clinical trials to address these questions and establish a series of recommendations. CONCLUSIONS: In primary stroke prevention, antihypertensive treatment should be started in patients with BP levels >  140/90 mmHg, with a target BP of < 130/80 mmHg. In secondary stroke prevention, we recommend starting antihypertensive treatment after the acute phase (first 24 hours), with a target BP of < 130/80 mmHg. The use of angiotensin-II receptor antagonists or diuretics alone or in combination with angiotensin-converting enzyme inhibitors is preferable.",
+  "journal": "Neurologia",
+  "year": "2021",
+  "authors": [
+    "Rodríguez-Yañez M",
+    "Gómez-Choco M",
+    "López-Cancio E",
+    "Amaro S",
+    "Alonso de Leciñana M",
+    "Arenillas JF",
+    "Ayo-Martín O",
+    "Castellanos M",
+    "Freijo MM",
+    "García-Pastor A",
+    "Gomis M",
+    "Martínez Sánchez P",
+    "Morales A",
+    "Palacio-Portilla EJ",
+    "Roquer J",
+    "Segura T",
+    "Serena J",
+    "Vivancos-Mora J",
+    "Fuentes B"
+  ],
+  "mesh_terms": [
+    "Antihypertensive Agents",
+    "Blood Pressure",
+    "Humans",
+    "Hypertension",
+    "Neurology",
+    "Stroke"
+  ]
+}

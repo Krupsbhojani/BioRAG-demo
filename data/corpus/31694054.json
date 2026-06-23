@@ -1,0 +1,27 @@
+{
+  "pmid": "31694054",
+  "title": "Neurological Dashboards and Consultation Turnaround Time at an Academic Medical Center.",
+  "abstract": "BACKGROUND: Neurologists perform a significant amount of consultative work. Aggregative electronic health record (EHR) dashboards may help to reduce consultation turnaround time (TAT) which may reflect time spent interfacing with the EHR. OBJECTIVES: This study was aimed to measure the difference in TAT before and after the implementation of a neurological dashboard. METHODS: We retrospectively studied a neurological dashboard in a read-only, web-based, clinical data review platform at an academic medical center that was separate from our institutional EHR. Using our EHR, we identified all distinct initial neurological consultations at our institution that were completed in the 5 months before, 5 months after, and 12 months after the dashboard go-live in December 2017. Using log data, we determined total dashboard users, unique page hits, patient-chart accesses, and user departments at 5 months after go-live. We calculated TAT as the difference in time between the placement of the consultation order and completion of the consultation note in the EHR. RESULTS: By April 30th in 2018, we identified 269 unique users, 684 dashboard page hits (median hits/user 1.0, interquartile range [IQR] = 1.0), and 510 unique patient-chart accesses. In 5 months before the go-live, 1,434 neurology consultations were completed with a median TAT of 2.0 hours (IQR = 2.5) which was significantly longer than during 5 months after the go-live, with 1,672 neurology consultations completed with a median TAT of 1.8 hours (IQR = 2.2; CONCLUSION: At a large academic institution, we found a significant decrease in inpatient consult TAT 5 and 12 months after the implementation of a neurological dashboard. Further study is necessary to investigate the cognitive and operational effects of aggregative dashboards in neurology and to optimize their use.",
+  "journal": "Applied clinical informatics",
+  "year": "2020",
+  "authors": [
+    "Kummer BR",
+    "Willey JZ",
+    "Zelenetz MJ",
+    "Hu Y",
+    "Sengupta S",
+    "Elkind MSV",
+    "Hripcsak G"
+  ],
+  "mesh_terms": [
+    "Academic Medical Centers",
+    "Documentation",
+    "Electronic Health Records",
+    "Humans",
+    "Neurology",
+    "Referral and Consultation",
+    "Retrospective Studies",
+    "Time Factors",
+    "User-Computer Interface"
+  ]
+}

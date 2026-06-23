@@ -1,0 +1,21 @@
+{
+  "pmid": "33480109",
+  "title": "Neuropathology of genetically defined malformations of cortical development-A systematic literature review.",
+  "abstract": "AIMS: Malformations of cortical development (MCD) include a heterogeneous spectrum of clinical, imaging, molecular and histopathological entities. While the understanding of genetic causes of MCD has improved with the availability of next-generation sequencing modalities, genotype-histopathological correlations remain limited. This is the first systematic review of molecular and neuropathological findings in patients with MCD to provide a comprehensive overview of the literature. METHODS: A systematic review was performed between November 2019 and February 2020. A MEDLINE search was conducted for 132 genes previously linked to MCD in order to identify studies reporting macroscopic and/or microscopic findings in patients with a confirmed genetic cause. RESULTS: Eighty-one studies were included in this review reporting neuropathological features associated with pathogenic variants in 46 genes (46/132 genes, 34.8%). Four groups emerged, consisting of (1) 13 genes with well-defined histological-genotype correlations, (2) 27 genes for which neuropathological reports were limited, (3) 5 genes with conflicting neuropathological features, and (4) 87 genes for which no histological data were available. Lissencephaly and polymicrogyria were reported most frequently. Associated brain malformations were variably present, with abnormalities of the corpus callosum as most common associated feature. CONCLUSIONS: Neuropathological data in patients with MCD with a defined genetic cause are available only for a small number of genes. As each genetic cause might lead to unique histopathological features of MCD, standardised thorough neuropathological assessment and reporting should be encouraged. Histological features can help improve the understanding of the pathogenesis of MCD and generate hypotheses with impact on further research directions.",
+  "journal": "Neuropathology and applied neurobiology",
+  "year": "2022",
+  "authors": [
+    "Brock S",
+    "Cools F",
+    "Jansen AC"
+  ],
+  "mesh_terms": [
+    "Cerebral Cortex",
+    "Corpus Callosum",
+    "Humans",
+    "Lissencephaly",
+    "Malformations of Cortical Development",
+    "Nervous System Diseases",
+    "Neuropathology"
+  ]
+}

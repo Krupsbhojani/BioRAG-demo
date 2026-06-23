@@ -1,0 +1,36 @@
+{
+  "pmid": "32437688",
+  "title": "Association of Initial Provider Type on Opioid Fills for Individuals With Neck Pain.",
+  "abstract": "OBJECTIVE: To determine whether the initial care provider for neck pain was associated with opioid use for individuals with neck pain. DESIGN: Retrospective cohort study. SETTING: Marketscan research databases. PARTICIPANTS: Patients (N=427,966) with new-onset neck pain from 2010-2014. MAIN OUTCOME MEASURES: Opioid use was defined using retail pharmacy fills. We performed logistic regression analysis to assess the association between initial provider and opioid use. Adjusted odds ratios (ORs) with 95% confidence intervals (CIs) were calculated using bootstrapping logistic models. We performed propensity score matching as a robustness check on our findings. RESULTS: Compared to patients with neck pain who saw a primary health care provider, patients with neck pain who initially saw a conservative therapist were 72%-91% less likely to fill an opioid prescription in the first 30 days, and between 41%-87% less likely to continue filling prescriptions for 1 year. People with neck pain who initially saw emergency medicine physicians had the highest odds of opioid use during the first 30 days (OR, 3.58; 95% CI, 3.47-3.69; P<.001). CONCLUSIONS: A patient's initial clinical contact for neck pain may be an important opportunity to influence subsequent opioid use. Understanding more about the roles that conservative therapists play in the treatment of neck pain may be key in unlocking new ways to lessen the burden of opioid use in the United States.",
+  "journal": "Archives of physical medicine and rehabilitation",
+  "year": "2020",
+  "authors": [
+    "Louis CJ",
+    "Herrera CS",
+    "Garrity BM",
+    "McDonough CM",
+    "Cabral H",
+    "Saper RB",
+    "Kazis LE"
+  ],
+  "mesh_terms": [
+    "Acupuncture Therapy",
+    "Adult",
+    "Analgesics, Opioid",
+    "Chiropractic",
+    "Databases, Factual",
+    "Drug Prescriptions",
+    "Emergency Medicine",
+    "Female",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Neck Pain",
+    "Neurology",
+    "Orthopedics",
+    "Physical Therapy Modalities",
+    "Practice Patterns, Physicians'",
+    "Primary Health Care",
+    "Retrospective Studies"
+  ]
+}

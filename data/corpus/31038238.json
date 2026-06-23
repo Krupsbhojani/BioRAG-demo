@@ -1,0 +1,27 @@
+{
+  "pmid": "31038238",
+  "title": "cIMPACT-NOW: a practical summary of diagnostic points from Round 1 updates.",
+  "abstract": "cIMPACT-NOW (the Consortium to Inform Molecular and Practical Approaches to CNS Tumor Taxonomy) was established to provide a forum to evaluate and recommend proposed changes to future CNS tumor classifications. From 2016 to 2019 (Round 1), cIMPACT published four updates. Update 1 clarified the use of the term NOS (Not Otherwise Specified) and proposed use of the additional term NEC (Not Elsewhere Classified). Update 2 issued clarifications regarding two diagnoses: Diffuse Midline Glioma, H3 K27M-mutant and Diffuse Astrocytoma/Anaplastic Astrocytoma, IDH-mutant. Update 3 proposed molecular criteria that could be used in the setting of an IDH-wildtype diffuse or anaplastic astrocytic glioma without histological features of glioblastoma to infer that the tumor would behave similarly to a grade IV glioblastoma. Update 4 suggested that, in children and young adults, subtypes of IDH-wildtype/H3-wildtype diffuse gliomas may have distinct clinical features in the setting of a BRAF",
+  "journal": "Brain pathology (Zurich, Switzerland)",
+  "year": "2020",
+  "authors": [
+    "Louis DN",
+    "Ellison DW",
+    "Brat DJ",
+    "Aldape K",
+    "Capper D",
+    "Hawkins C",
+    "Paulus W",
+    "Perry A",
+    "Reifenberger G",
+    "Figarella-Branger D",
+    "von Deimling A",
+    "Wesseling P"
+  ],
+  "mesh_terms": [
+    "Brain Neoplasms",
+    "Central Nervous System Neoplasms",
+    "Humans",
+    "Neuropathology"
+  ]
+}

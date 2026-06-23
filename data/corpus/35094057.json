@@ -1,0 +1,33 @@
+{
+  "pmid": "35094057",
+  "title": "Cancer diagnosis is associated with a lower burden of dementia and less Alzheimer's-type neuropathology.",
+  "abstract": "Cancer and Alzheimer's disease are common diseases in ageing populations. Previous research has reported a lower incidence of Alzheimer's disease-type (amnestic) dementia among individuals with a diagnosis of cancer. Both cancer and amnestic dementia are prevalent and potentially lethal clinical syndromes. The current study was conducted to investigate the association of cancer diagnosis with neuropathological and cognitive features of dementia. Data were analysed from longitudinally evaluated participants in a community-based cohort study of brain ageing who came to autopsy at the University of Kentucky Alzheimer's Disease Research Center. These data were linked to the Kentucky Cancer Registry, a population-based state cancer surveillance system, to obtain cancer-related data. We examined the relationship between cancer diagnosis, clinical dementia diagnosis, Mini-Mental State Examination scores and neuropathological features using inverse probability weighting to address bias due to confounding and missing data. To address bias due to inclusion of participants with dementia at cohort baseline, we repeated all analyses restricted to the participants who were cognitively normal at baseline. Included participants (n = 785) had a mean ± standard deviation age of death of 83.8 ± 8.6 years; 60.1% were female. Cancer diagnosis was determined in 190 (24.2%) participants, and a diagnosis of mild cognitive impairment or dementia was determined in 539 (68.7%). APOE ɛ4 allele dosage was lower among participants with cancer diagnosis compared to cancer-free participants overall (P = 0.0072); however, this association was not observed among those who were cognitively normal at baseline. Participants with cancer diagnosis had lower odds of mild cognitive impairment or dementia, and higher cognitive test scores (e.g. Mini-Mental State Examination scores evaluated 6 and ≤2 years ante-mortem, P < 0.001 for both comparisons). Cancer diagnosis also associated with lower odds of higher Braak neurofibrillary tangle stages (III/IV) or (V/VI), moderate/frequent neuritic plaques, moderate/frequent diffuse plaques and moderate/severe cerebral amyloid angiopathy (all P < 0.05). By contrast, TDP-43, α-synuclein and cerebrovascular pathologies were not associated with cancer diagnosis. Cancer diagnosis was associated with a lower burden of Alzheimer's disease pathology and less cognitive impairment. These findings from a community-based cohort with neuropathological confirmation of substrates support the hypothesis that there is an inverse relationship between cancer and Alzheimer's disease.",
+  "journal": "Brain : a journal of neurology",
+  "year": "2022",
+  "authors": [
+    "Karanth SD",
+    "Katsumata Y",
+    "Nelson PT",
+    "Fardo DW",
+    "McDowell JK",
+    "Schmitt FA",
+    "Kryscio RJ",
+    "Browning SR",
+    "Braithwaite D",
+    "Arnold SM",
+    "Abner EL"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Aged, 80 and over",
+    "Alzheimer Disease",
+    "Cohort Studies",
+    "Female",
+    "Humans",
+    "Male",
+    "Neoplasms",
+    "Neurofibrillary Tangles",
+    "Neuropathology",
+    "Plaque, Amyloid"
+  ]
+}

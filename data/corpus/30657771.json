@@ -1,0 +1,42 @@
+{
+  "pmid": "30657771",
+  "title": "Analysis of clinical pharmacist interventions in the neurology unit of a Brazilian tertiary teaching hospital.",
+  "abstract": "It is estimated that around five to 10.0% of hospital admissions occur due to clinical conditions resulting from pharmacotherapy. Clinical pharmacist's activity can enhance drug therapy's effectiveness and safety through pharmacotherapy interventions (PIs), thus minimizing drug-related problems (DRPs) and optimizing the allocation of financial resources associated with health care. This study aimed to estimate the DRPs prevalence, evaluate PI which were performed by clinical pharmacists in the Neurology Unit of a Brazilian tertiary teaching hospital and to identify factors associated with the occurrence of PI-related DRP. A single-arm trial included adults admitted in the referred Unit from 2012 July to 2015 June. Patients were evaluated during their hospitalization period and PIs were performed based on trigger DRPs that were detected in medication reconciliation (admission or discharge) or during inpatient follow-up. Student's t-test, Chi-square test, Pearson and Multiple logistic regression models to analise the association among age, number of drugs, hospitalization period, and number of diagnoses with occurrence of DRPs. Analyses level of significance was 5%. In total 409 inpatients were followed up [51.1% male, mean age of 49.1 (SD 16.5)]. Patients received, on average, 11.9 (SD 5.8) drugs, ranging from two to 38 drugs per patient, and 54.3% of the sample presented at least one DRP whose most frequent description was \"untreated condition\". From all 516 performed PIs that resulted from DRPs, 82.8% were accepted and the majority referred to \"drug introduction\" (27.5%). Multiple logistic regression showed that age, length of hospital stay, number of drugs used, diagnosis of epilepsy, multiple sclerosis and myasthenia gravis would be clinical variables associated with DRP (p < 0,05). Monitoring the use of drugs allowed the clinical pharmacist to detect DRPs and to suggest interventions that promote rational pharmacotherapy.",
+  "journal": "PloS one",
+  "year": "2019",
+  "authors": [
+    "Rodrigues JPV",
+    "Marques FA",
+    "Gonçalves AMRF",
+    "Campos MSA",
+    "Reis TMD",
+    "Morelo MRS",
+    "Fontoura A",
+    "Girolineto BMP",
+    "Souza HPMC",
+    "Cazarim MS",
+    "Maduro LCDS",
+    "Pereira LRL"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Aged",
+    "Brazil",
+    "Drug-Related Side Effects and Adverse Reactions",
+    "Female",
+    "Hospital Departments",
+    "Hospitalization",
+    "Hospitals, Teaching",
+    "Humans",
+    "Logistic Models",
+    "Male",
+    "Medication Errors",
+    "Medication Reconciliation",
+    "Middle Aged",
+    "Neurology",
+    "Pharmacists",
+    "Pharmacy Service, Hospital",
+    "Safety",
+    "Tertiary Care Centers"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "34649914",
+  "title": "Evolving Role and Translation of Radiomics and Radiogenomics in Adult and Pediatric Neuro-Oncology.",
+  "abstract": "Exponential technologic advancements in imaging, high-performance computing, and artificial intelligence, in addition to increasing access to vast amounts of diverse data, have revolutionized the role of imaging in medicine. Radiomics is defined as a high-throughput feature-extraction method that unlocks microscale quantitative data hidden within standard-of-care medical imaging. Radiogenomics is defined as the linkage between imaging and genomics information. Multiple radiomics and radiogenomics studies performed on conventional and advanced neuro-oncology image modalities show that they have the potential to differentiate pseudoprogression from true progression, classify tumor subgroups, and predict recurrence, survival, and mutation status with high accuracy. In this article, we outline the technical steps involved in radiomics and radiogenomics analyses with the use of artificial intelligence methods and review current applications in adult and pediatric neuro-oncology.",
+  "journal": "AJNR. American journal of neuroradiology",
+  "year": "2022",
+  "authors": [
+    "Ak M",
+    "Toll SA",
+    "Hein KZ",
+    "Colen RR",
+    "Khatua S"
+  ],
+  "mesh_terms": [
+    "Artificial Intelligence",
+    "Child",
+    "Diagnostic Imaging",
+    "Genomics",
+    "Humans",
+    "Neoplasms",
+    "Neurology"
+  ]
+}

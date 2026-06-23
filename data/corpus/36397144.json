@@ -1,0 +1,27 @@
+{
+  "pmid": "36397144",
+  "title": "Towards a single-assay approach: a combined DNA/RNA sequencing panel eliminates diagnostic redundancy and detects clinically-relevant fusions in neuropathology.",
+  "abstract": "Since the introduction of integrated histological and molecular diagnoses by the 2016 World Health Organization (WHO) Classification of Tumors of the Nervous System, an increasing number of molecular markers have been found to have prognostic significance in infiltrating gliomas, many of which have now become incorporated as diagnostic criteria in the 2021 WHO Classification. This has increased the applicability of targeted-next generation sequencing in the diagnostic work-up of neuropathology specimens and in addition, raises the question of whether targeted sequencing can, in practice, reliably replace older, more traditional diagnostic methods such as immunohistochemistry and fluorescence in-situ hybridization. Here, we demonstrate that the Oncomine Cancer Gene Mutation Panel v2 assay targeted-next generation sequencing panel for solid tumors is not only superior to IHC in detecting mutation in IDH1/2 and TP53 but can also predict 1p/19q co-deletion with high sensitivity and specificity relative to fluorescence in-situ hybridization by looking at average copy number of genes sequenced on 1p, 1q, 19p, and 19q. Along with detecting the same molecular data obtained from older methods, targeted-next generation sequencing with an RNA sequencing component provides additional information regarding the presence of RNA based alterations that have diagnostic significance and possible therapeutic implications. From this work, we advocate for expanded use of targeted-next generation sequencing over more traditional methods for the detection of important molecular alterations as a part of the standard diagnostic work up for CNS neoplasms.",
+  "journal": "Acta neuropathologica communications",
+  "year": "2022",
+  "authors": [
+    "Slocum CC",
+    "Park HJ",
+    "Baek I",
+    "Catalano J",
+    "Wells MT",
+    "Liechty B",
+    "Mathew S",
+    "Song W",
+    "Solomon JP",
+    "Pisapia DJ"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Glioma",
+    "Neuropathology",
+    "High-Throughput Nucleotide Sequencing",
+    "Sequence Analysis, RNA",
+    "DNA"
+  ]
+}

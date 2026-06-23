@@ -1,0 +1,25 @@
+{
+  "pmid": "37041049",
+  "title": "Sex differences in neurology: a scoping review.",
+  "abstract": "OBJECTIVE: Historically, neurology research has demonstrated a sex bias with mainly male subjects included in clinical trials as well as lack of reporting of data by sex. In recent years, emphasis has been placed on increased participation of female participants and explicit declaration/evaluation of sex differences in clinical research.We aimed to review the available literature examining sex differences across four subspecialty areas in neurology (demyelination, headache, stroke, epilepsy) and whether sex and gender terms have been used appropriately. DESIGN: This scoping review was performed by searching Ovid MEDLINE, Cochrane Central Registry of Controlled Trials, EMBASE, Ovid Emcare and APA PsycINFO databases from 2014 to 2020. Four independent pairs of reviewers screened titles, abstracts and full texts. Studies whose primary objective was to assess sex or gender differences among adults with one of four neurological conditions were included. We report the scope, content and trends of previous studies that have evaluated sex differences in neurology. RESULTS: The search retrieved 22 745 articles. Five hundred and eighty-five studies met the inclusion criteria in the review. The majority of studies were observational, often examining similar concepts designed for a different country or regional population, with rare randomised controlled trials designed specifically to assess sex differences in neurology. There was heterogeneity observed in areas of sex-specific focus between the four subspecialty areas. Thirty-six per cent (n=212) of articles used the terms sex and gender interchangeably or incorrectly. CONCLUSIONS: Sex and gender are important biological and social determinants of health. However, the more explicit recognition of these factors in clinical literature has not been adequately translated to significant change in neuroscience research regarding sex differences. This study illustrates the ongoing need for more urgent informed action to recognise and act on sex differences in scientific discovery and correct the use of sex and gender terminology. TRIAL REGISTRATION: The protocol for this scoping review was registered with Open Science Framework.",
+  "journal": "BMJ open",
+  "year": "2023",
+  "authors": [
+    "Moores G",
+    "Steadman PE",
+    "Momen A",
+    "Wolff E",
+    "Pikula A",
+    "Bui E"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Humans",
+    "Male",
+    "Female",
+    "Sex Characteristics",
+    "Sex Factors",
+    "Epilepsy",
+    "Neurology"
+  ]
+}

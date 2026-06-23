@@ -1,0 +1,22 @@
+{
+  "pmid": "33273178",
+  "title": "Evaluation and Management Codes for Outpatient Neurology Services in 2021: Changes to 99202-99215.",
+  "abstract": "Medical services can be conceptualized as falling into two categories: procedures and cognitive care. A procedure is defined as a surgical, medical, or diagnostic test performed on a patient, such as an x-ray, wound suture, surgery, or physical therapy treatment. Cognitive care, also known as Evaluation and Management (E/M) services, involves performing a medical history along with a physical examination and possibly ordering or reviewing diagnostic tests before formulating a medical opinion and initiating a care plan. The uniform language and categorization of all medical services is contained in the Current Procedural Terminology (CPT) manual by the American Medical Association, which precisely describes all medical services using non-overlapping definitions and descriptions. The codes defined by CPT are the most commonly accepted set of codes used to file medical claims. In 2000, the US Department of Health and Human Services designated CPT to be the national reporting standard used in conjunction with the Health Insurance Portability and Accountability Act (HIPAA). CPT codes used today for E/M services were established in 1995 and define the components of history, examination, and medical decision making necessary to determine the level of each cognitive care service as delivered by a physician or other qualified health care professionals (eg, advanced practice providers). E/M rules were modified in 1997 and allowed some specialty services, such as neurology, to substitute a single system examination for a general, multisystem physical examination. Although new E/M codes were added over the years, the code descriptions and documentation guidelines for E/M services for outpatient and inpatient care remained essentially unchanged from 1997 through 2020. Most of the work performed by neurologists is E/M services, and the rules for coding outpatient care will change dramatically on January 1, 2021. This article discusses the rationale for these coding changes and explains how they are to be applied in the clinical setting.",
+  "journal": "Continuum (Minneapolis, Minn.)",
+  "year": "2021",
+  "authors": [
+    "Cohen BH",
+    "Busis NA",
+    "Villanueva R",
+    "Ciccarelli L"
+  ],
+  "mesh_terms": [
+    "Ambulatory Care",
+    "Current Procedural Terminology",
+    "Healthcare Common Procedure Coding System",
+    "Humans",
+    "Neurology",
+    "Outpatients",
+    "United States"
+  ]
+}

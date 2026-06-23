@@ -1,0 +1,29 @@
+{
+  "pmid": "32026707",
+  "title": "Whole slide imaging compared with light microscopy for primary diagnosis in surgical neuropathology: a validation study.",
+  "abstract": "BACKGROUND: Digital pathology practice is rapidly gaining popularity among practicing anatomic pathologists. Acceptance is higher among the newer generation of pathologists who are willing to adapt to this new diagnostic method due to the advantages offered by whole slide imaging (WSI) compared to traditional light microscopy (TLM). We performed this validation study because we plan to implement the WSI system for diagnostic services. OBJECTIVES: Determine the feasibility of using digital pathology for diagnostic services by assessing the equivalency of WSI and TLM. DESIGN: A laboratory-based cross-sectional study. SETTING: Central laboratory at a tertiary health care center. MATERIALS AND METHODS: Four practicing surgical pathologists participated in this study. Each pathologist blindly reviewed 60 surgical neuropathology cases with a minimum 8-week washout-period between the two diagnostic modalities (WSI vs. TLM). Intraobserver concordance rates between WSI and TLM diagnoses as compared to the original diagnosis were calculated. MAIN OUTCOME MEASURES: Overall intraobserver concordance rates between each diagnostic method (WSI and TLM) and original diagnosis. SAMPLE SIZE: 60 in-house surgical neuropathology cases. RESULTS: The overall intraobserver concordance rate between TLM and original diagnosis was 86.3% (range 76.7%-91.7%) versus 80.8% for WSI (range 68.3%-88.3%). These findings are suggestive of the superiority of TLM, but the Fleiss' Kappa statistic indicated that the two methods are equivalent, despite the low level of the K value. CONCLUSION: WSI is not inferior to the light microscopy and is feasible for primary diagnosis in surgical neuropathology. However, to ensure the best results, only formally trained neuropathologists should handle the digital neuropathology service. LIMITATIONS: Only one diagnostic slide per case rather than the whole set of slides, sample size was relatively small, and there was an insufficient number of participating neuropathologists. CONFLICT OF INTEREST: None.",
+  "journal": "Annals of Saudi medicine",
+  "year": "2021",
+  "authors": [
+    "Alassiri A",
+    "Almutrafi A",
+    "Alsufiani F",
+    "Al Nehkilan A",
+    "Al Salim A",
+    "Musleh H",
+    "Aziz M",
+    "Khalbuss W"
+  ],
+  "mesh_terms": [
+    "Cross-Sectional Studies",
+    "Feasibility Studies",
+    "Humans",
+    "Image Interpretation, Computer-Assisted",
+    "Microscopy",
+    "Nervous System Diseases",
+    "Neuropathology",
+    "Observer Variation",
+    "Pathology, Surgical",
+    "Reproducibility of Results"
+  ]
+}

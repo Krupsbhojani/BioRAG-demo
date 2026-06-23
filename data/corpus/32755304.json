@@ -1,0 +1,24 @@
+{
+  "pmid": "32755304",
+  "title": "Enlightening the frontiers of neurogastroenterology through optogenetics.",
+  "abstract": "Neurogastroenterology refers to the study of the extrinsic and intrinsic nervous system circuits controlling the gastrointestinal (GI) tract. Over the past 5-10 yr there has been an explosion in novel methodologies, technologies and approaches that offer great promise to advance our understanding of the basic mechanisms underlying GI function in health and disease. This review focuses on the use of optogenetics combined with electrophysiology in the field of neurogastroenterology. We discuss how these technologies and tools are currently being used to explore the brain-gut axis and debate the future research potential and limitations of these techniques. Taken together, we consider that the use of these technologies will enable researchers to answer important questions in neurogastroenterology through fundamental research. The answers to those questions will shorten the path from basic discovery to new treatments for patient populations with disorders of the brain-gut axis affecting the GI tract such as irritable bowel syndrome (IBS), functional dyspepsia, achalasia, and delayed gastric emptying.",
+  "journal": "American journal of physiology. Gastrointestinal and liver physiology",
+  "year": "2020",
+  "authors": [
+    "Johnson AC",
+    "Louwies T",
+    "Ligon CO",
+    "Greenwood-Van Meerveld B"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Enteric Nervous System",
+    "Gastroenterology",
+    "Gastrointestinal Tract",
+    "Humans",
+    "Irritable Bowel Syndrome",
+    "Neural Pathways",
+    "Neurology",
+    "Optogenetics"
+  ]
+}

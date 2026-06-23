@@ -1,0 +1,26 @@
+{
+  "pmid": "35443649",
+  "title": "Development of clinical-guideline-based mobile application and its effect on head CT scan utilization in neurology and neurosurgery departments.",
+  "abstract": "BACKGROUND: There is little evidence regarding the adoption and intention of using mobile apps by health care professionals (HCP) and the effectiveness of using mobile apps among physicians is still unclear. To address this challenge, the current study seeks two objectives: developing and implementing a head CT scan appropriateness criteria mobile app (HAC app), and investigating the effect of HAC app on CT scan order. METHODS: A one arm intervention quasi experimental study with before/after analysis was conducted in neurology & neurosurgery (N&N) departments at the academic hospital. We recruited all residents' encounters to N&N departments with head CT scan to examine the effect of HAC app on residents' CT scan utilization. The main outcome measure was CT scan order per patient for seven months at three points, before the intervention, during the intervention, after cessation of the intervention -post-intervention follow-up. Data for CT scan utilization were collected by reviewing medical records and then analyzed using descriptive statistics, Kruskal-Wallis, and Mann-Whitney tests. A focus group discussion with residents was performed to review and digest residents' experiences during interaction with the HAC app. RESULTS: Sixteen residents participated in this study; a total of 415 N&N encounters with CT scan order, pre-intervention 127 (30.6%), intervention phase 187 (45.1%), and 101 (24.3%) in the post-intervention follow-up phase were included in this study. Although total CT scan utilization was statistically significant during three-time points of the study (P = 0.027), no significant differences were found for CT utilization after cessation of the intervention (P = 1). CONCLUSION: The effect of mobile devices on residents' CT scan ordering behavior remains open to debate since the changes were not long-lasting. Further studies based on real interactive experiences with mobile devices is advisable before it can be recommended for widespread use by HCP.",
+  "journal": "BMC medical informatics and decision making",
+  "year": "2022",
+  "authors": [
+    "Meidani Z",
+    "Atoof F",
+    "Mobarak Z",
+    "Nabovati E",
+    "Daneshvar Kakhki R",
+    "Kouchaki E",
+    "Fakharian E",
+    "Nickfarjam AM",
+    "Holl F"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Mobile Applications",
+    "Neurology",
+    "Neurosurgery",
+    "Surveys and Questionnaires",
+    "Tomography, X-Ray Computed"
+  ]
+}

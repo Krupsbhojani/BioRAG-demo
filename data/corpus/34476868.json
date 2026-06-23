@@ -1,0 +1,36 @@
+{
+  "pmid": "34476868",
+  "title": "European Stroke Organisation and European Academy of Neurology joint guidelines on post-stroke cognitive impairment.",
+  "abstract": "BACKGROUND AND PURPOSE: The optimal management of post-stroke cognitive impairment (PSCI) remains controversial. These joint European Stroke Organisation (ESO) and European Academy of Neurology (EAN) guidelines provide evidence-based recommendations to assist clinicians in decision making regarding prevention, diagnosis, treatment and prognosis. METHODS: Guidelines were developed according to the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) methodology. The working group identified relevant clinical questions, performed systematic reviews, assessed the quality of the available evidence, and made specific recommendations. Expert consensus statements were provided where insufficient evidence was available to provide recommendations. RESULTS: There was limited randomized controlled trial (RCT) evidence regarding single or multicomponent interventions to prevent post-stroke cognitive decline. Lifestyle interventions and treating vascular risk factors have many health benefits, but a cognitive effect is not proven. We found no evidence regarding routine cognitive screening following stroke, but recognize the importance of targeted cognitive assessment. We describe the accuracy of various cognitive screening tests, but found no clearly superior approach to testing. There was insufficient evidence to make a recommendation for use of cholinesterase inhibitors, memantine nootropics or cognitive rehabilitation. There was limited evidence on the use of prediction tools for post-stroke cognition. The association between PSCI and acute structural brain imaging features was unclear, although the presence of substantial white matter hyperintensities of presumed vascular origin on brain magnetic resonance imaging may help predict cognitive outcomes. CONCLUSIONS: These guidelines highlight fundamental areas where robust evidence is lacking. Further definitive RCTs are needed, and we suggest priority areas for future research.",
+  "journal": "European journal of neurology",
+  "year": "2022",
+  "authors": [
+    "Quinn TJ",
+    "Richard E",
+    "Teuschl Y",
+    "Gattringer T",
+    "Hafdi M",
+    "O'Brien JT",
+    "Merriman N",
+    "Gillebert C",
+    "Huygelier H",
+    "Verdelho A",
+    "Schmidt R",
+    "Ghaziani E",
+    "Forchammer H",
+    "Pendlebury ST",
+    "Bruffaerts R",
+    "Mijajlovic M",
+    "Drozdowska BA",
+    "Ball E",
+    "Markus HS"
+  ],
+  "mesh_terms": [
+    "Cognitive Dysfunction",
+    "Humans",
+    "Neurology",
+    "Prognosis",
+    "Risk Factors",
+    "Stroke"
+  ]
+}

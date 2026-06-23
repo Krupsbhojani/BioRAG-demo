@@ -1,0 +1,33 @@
+{
+  "pmid": "37382680",
+  "title": "Characterization of hippocampal sclerosis of aging and its association with other neuropathologic changes and cognitive deficits in the oldest-old.",
+  "abstract": "Hippocampal sclerosis of aging (HS-A) is a common age-related neuropathological lesion characterized by neuronal loss and astrogliosis in subiculum and CA1 subfield of hippocampus. HS-A is associated with cognitive decline that mimics Alzheimer's disease. Pathological diagnosis of HS-A is traditionally binary based on presence/absence of the lesion. We compared this traditional measure against our novel quantitative measure for studying the relationship between HS-A and other neuropathologies and cognitive impairment. We included 409 participants from The 90+ study with neuropathological examination and longitudinal neuropsychological assessments. In those with HS-A, we examined digitized H&E and LFB stained hippocampal slides. The length of HS-A in each subfield of hippocampus and subiculum, each further divided into three subregions, was measured using Aperio eSlide Manager. For each subregion, the proportion affected by HS-A was calculated. Using regression models, both traditional/binary and quantitative measures were used to study the relationship between HS-A and other neuropathological changes and cognitive outcomes. HS-A was present in 48 (12%) of participants and was always focal, primarily affecting CA1 (73%), followed by subiculum (9%); overlapping pathology (subiculum and CA1) affected 18% of individuals. HS-A was more common in the left (82%) than the right (25%) hemisphere and was bilateral in 7% of participants. HS-A traditional/binary assessment was associated with limbic-predominant age-related TDP-43 encephalopathy (LATE-NC; OR = 3.45, p < 0.001) and aging-related tau astrogliopathy (ARTAG; OR = 2.72, p = 0.008). In contrast, our quantitative approach showed associations between the proportion of HS-A (CA1/subiculum/combined) and LATE-NC (p = 0.001) and arteriolosclerosis (p = 0.005). While traditional binary assessment of HS-A was associated with impaired memory (OR = 2.60, p = 0.007), calculations (OR = 2.16, p = 0.027), and orientation (OR = 3.56, p < 0.001), our quantitative approach revealed additional associations with impairments in language (OR = 1.33, p = 0.018) and visuospatial domains (OR = 1.37, p = 0.006). Our novel quantitative method revealed associations between HS-A and vascular pathologies and impairment in cognitive domains that were not detected using traditional/binary measures.",
+  "journal": "Acta neuropathologica",
+  "year": "2023",
+  "authors": [
+    "Sordo L",
+    "Qian T",
+    "Bukhari SA",
+    "Nguyen KM",
+    "Woodworth DC",
+    "Head E",
+    "Kawas CH",
+    "Corrada MM",
+    "Montine TJ",
+    "Sajjadi SA"
+  ],
+  "mesh_terms": [
+    "Aged, 80 and over",
+    "Female",
+    "Humans",
+    "Male",
+    "Aging",
+    "Cognition",
+    "Cognitive Dysfunction",
+    "Cohort Studies",
+    "Hippocampal Sclerosis",
+    "Hippocampus",
+    "Logistic Models",
+    "Neuropathology"
+  ]
+}

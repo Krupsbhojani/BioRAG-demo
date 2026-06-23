@@ -1,0 +1,33 @@
+{
+  "pmid": "32024518",
+  "title": "Contribution of a synchronic teleneurology program to decrease the patient number waiting for a first consultation and their waiting time in Chile.",
+  "abstract": "UNLABELLED: Backround There is a shortage of medical specialists in Chile, including neurologists; currently, there are 56,614 patients waiting for a first adult Neurology appointment in the country. The Teleneurology Program at the Hospital Las Higueras de Talcahuano (HHT) was implemented in 2015 to help reduce both the number of patients waiting for a first consultation and their waiting times. METHODS: This retrospective study analyzed a cohort of 8269 patients referred to the HHT Neurology clinic between 2013 and 2018, from primary, secondary, and tertiary health centers. Cox regression analyses were performed to determine the factors influencing each outcome (number of patients waiting for a consultation and waiting time), such as age, gender, referral health establishment and the type of consultation (whether in situ at the HHT or by synchronic telepresence through the Teleneurology Program). RESULTS: Out of the 8269 patients included in the study, 1743 consulted the neurologist through the Teleneurology Program, while 6526 received a consultation in situ at the HHT. Since its implementation (2015) until the end of 2018, the Teleneurology program contributed to decrease the number of patients waiting for their first appointment from 3084 to 298. Waiting time for the first consultation was 60% shorter for patients enrolled in the Teleneurology program than those with consultation in situ at HHT (6.23 ± 6.82 and 10.47 ± 8.70 months, respectively). Similar differences were observed when sorting patient data according to the referral health center. Cox regression analysis showed that patients waiting for a traditional in situ first adult Neurology consultation at the HHT had a higher risk (OR = 6.74) of waiting 90% longer than patients enrolled in the Teleneurology Program, without significant differences due to gender or age. CONCLUSIONS: Data from this study show a significant contribution of the Teleneurology Program at the HHT to decrease the number of patients waiting for a first consultation with a neurologist, as well as shorter waiting times, when derived from primary and secondary health centers.",
+  "journal": "BMC medical informatics and decision making",
+  "year": "2020",
+  "authors": [
+    "Constanzo F",
+    "Aracena-Sherck P",
+    "Hidalgo JP",
+    "Peña L",
+    "Marrugo M",
+    "Gonzalez J",
+    "Vergara G",
+    "Alvarado C"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Chile",
+    "Cohort Studies",
+    "Female",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Nervous System Diseases",
+    "Neurology",
+    "Referral and Consultation",
+    "Remote Consultation",
+    "Retrospective Studies",
+    "Telemedicine",
+    "Waiting Lists"
+  ]
+}

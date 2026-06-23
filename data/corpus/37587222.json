@@ -1,0 +1,19 @@
+{
+  "pmid": "37587222",
+  "title": "Comparing effects and application of telemedicine for different specialties in emergency medicine using the Emergency Talk Application (U-Sim ETA Trial).",
+  "abstract": "Telemedicine as a technology can support processes in the field of emergency medicine (EM) including therapies and diagnostics, but technically is often based on hardware solutions for local EM structures, especially when involving the field of pre-hospital EM. By developing an open-source, data protection compliant solution (EU GDPR and HIPAA) as well as using standardized web and open-source based technology the Emergency Talk Application (ETA) can be used as a technology that can connect emergency medical providers and include already available regional structures. By actively involving patients and connecting these with emergency or urgent care physicians ETA can be used not only as a teleconsultation system for paramedics and physicians, but in a wider network. Randomised simulation trial, comparing EM scenarios from the field of internal medicine, trauma and neurology. Participants were qualified as certified paramedics or emergency physicians (EP). Paramedics performed as ambulances crews and involved an EP if needed via ETA as Tele-Emergency Physicians (TEP). EP participated from a device of their choice, while being able to stay within their clinical workspace. From 141 scenarios 129 used ETA. Significant differences were found for the length of scenarios, duration of time the TEP was on scene, TEP arrival after scenario start, duration until TEP was called and the duration until a diagnosis was made. Also a strong positive and significant correlation between duration of the scenario and the time a TEP was bound could be described. Telemedicine is a technology that is increasingly used in the field of EM. Improving the use of telemedicine by using up-to date technology while allowing an integration of available technical and human resources is a challenge in the field of emergency medicine especially with its regional but also broad medical variety. When using one technical solution, understanding that different cases need a different medical and also telemedical approach can help in the understanding and improving therapies, diagnostics but also the involved processes and solutions. Such results are not only relevant for healthcare providers but especially by law and decision makers as to which type of solution could be introduced in each regional setting.",
+  "journal": "Scientific reports",
+  "year": "2023",
+  "authors": [
+    "O'Sullivan S",
+    "Schneider H"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Emergency Medicine",
+    "Internal Medicine",
+    "Neurology",
+    "Remote Consultation",
+    "Telemedicine"
+  ]
+}

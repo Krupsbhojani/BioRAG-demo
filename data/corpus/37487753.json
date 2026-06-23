@@ -1,0 +1,32 @@
+{
+  "pmid": "37487753",
+  "title": "Examining the National Representativeness of the Axon Registry: A Neurology-Specific Patient Registry.",
+  "abstract": "BACKGROUND AND OBJECTIVES: The objective of this study was to determine the external validity of the Axon Registry by comparing the 2019 calendar year data with 2 nationally representative, publicly available data sources, specifically the National Ambulatory Medical Care Survey (NAMCS) and the Medical Expenditure Panel Survey (MEPS). The Axon Registry is the American Academy of Neurology's neurology-focused qualified clinical data registry that reports and analyzes electronic health record data from participating US neurology providers. Its key function is to support quality improvement within ambulatory neurology practices while also promoting high-quality evidence-based care in clinical neurology. We compared demographics of patients who had an outpatient or office visit with a neurologist along with prevalence of selected neurologic conditions and neurologic procedures across the 3 data sets. METHODS: We performed a cross-sectional, retrospective comparison of 3 data sets: NAMCS (2012-2016), MEPS (2013-2017, 2019), and Axon Registry (2019). We obtained patient demographics (age, birth sex, race, ethnicity), patient neurologic conditions (headache, epilepsy, cerebrovascular disease, multiple sclerosis, parkinsonism, dementia, spinal pain, and polyneuropathy), provider location, and neurologic procedures (neurology visits, MR/CT neuroimaging studies and EEG/EMG neurophysiologic studies). Parameter estimates from the pooled 5-year samples of the 2 public data sets, calculated at the visit level, were compared descriptively with those of the Axon Registry. We calculated Cohen RESULTS: The Axon Registry recorded 1.3 M annual neurology visits (NAMCS, 11 M; MEPS, 22 M) and 645 K people with neurologic conditions (MEPS, 10 M). Compared with the pooled national surveys, the Axon Registry has similar patient demographics, neurologic condition prevalence, neuroimaging and neurophysiologic utilization, and provider location. In direct comparison with MEPS 2019, the Axon Registry 2019 had fewer children (2% vs 7%), more elderly persons (21% vs 16%), fewer non-Black and non-White race persons (5% vs 8%), less number of patients with epilepsy (10% vs 13%), more patients with dementia (8% vs 6%), more patients with cerebrovascular disease (11% vs 8%), and a greater predominance of neurology providers in the Midwest (25% vs 20%). The only difference with a non-negligible effect size was the proportion of people younger than 15 years (Cohen DISCUSSION: The Axon Registry demonstrates high concordance with 2 nationally representative surveys. Recruiting more and diverse neurology providers will further improve the volume, representativeness, and value of the Axon Registry.",
+  "journal": "Neurology",
+  "year": "2023",
+  "authors": [
+    "Wilson AM",
+    "Lundgren KB",
+    "Schierman B",
+    "Mante A",
+    "Lien A",
+    "Benish SM",
+    "Esper GJ",
+    "Nair KV",
+    "Ney JP"
+  ],
+  "mesh_terms": [
+    "Child",
+    "Humans",
+    "United States",
+    "Aged",
+    "Cross-Sectional Studies",
+    "Retrospective Studies",
+    "Neurology",
+    "Nervous System Diseases",
+    "Health Care Surveys",
+    "Registries",
+    "Dementia",
+    "Ambulatory Care"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "pmid": "36408894",
+  "title": "Cell-free DNA-based liquid biopsies in neurology.",
+  "abstract": "This article reviews recent developments in the application of cell-free DNA-based liquid biopsies to neurological diseases. Over the past few decades, an explosion of interest in the use of accessible biofluids to identify and track molecular disease has revolutionized the fields of oncology, prenatal medicine and others. More recently, technological advances in signal detection have allowed for informative analysis of biofluids that are typically sparse in cells and other circulating components, such as CSF. In parallel, advancements in epigenetic profiling have allowed for novel applications of liquid biopsies to diseases without characteristic mutational profiles, including many degenerative, autoimmune, inflammatory, ischaemic and infectious disorders. These events have paved the way for a wide array of neurological conditions to benefit from enhanced diagnostic, prognostic, and treatment abilities through the use of liquid biomarkers: a 'liquid biopsy' approach. This review includes an overview of types of liquid biopsy targets with a focus on circulating cell-free DNA, methods used to identify and probe potential liquid biomarkers, and recent applications of such biomarkers to a variety of complex neurological conditions including CNS tumours, stroke, traumatic brain injury, Alzheimer's disease, epilepsy, multiple sclerosis and neuroinfectious disease. Finally, the challenges of translating liquid biopsies to use in clinical neurology settings-and the opportunities for improvement in disease management that such translation may provide-are discussed.",
+  "journal": "Brain : a journal of neurology",
+  "year": "2023",
+  "authors": [
+    "Gaitsch H",
+    "Franklin RJM",
+    "Reich DS"
+  ],
+  "mesh_terms": [
+    "Pregnancy",
+    "Female",
+    "Humans",
+    "Cell-Free Nucleic Acids",
+    "Biomarkers, Tumor",
+    "Liquid Biopsy",
+    "Mutation",
+    "Neurology"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "pmid": "38597160",
+  "title": "Profiles of Lifestyle Health Behaviors and Postmortem Dementia-Related Neuropathology.",
+  "abstract": "High engagement in lifestyle health behaviors appears to be protective against cognitive decline in aging. We investigated the association between patterns of modifiable lifestyle health behaviors and common brain neuropathologies of dementia as a possible mechanism. We examined 555 decedents from the Rush Memory and Aging Project, free of dementia at their initial concurrent report of lifestyle health behaviors of interest (physical, social, and cognitive activities, and healthy diet), and who underwent a postmortem neuropathology evaluation. First, we used latent profile analysis to group participants based on baseline behavior patterns. Second, we assessed the associations of profile membership with each neurodegenerative (global Alzheimer's disease [AD] pathology, amyloid-beta load, density of neurofibrillary tangles, and presence of cortical Lewy bodies and TAR DNA-binding protein 43 cytoplasmic inclusions) and neurovascular pathologies (presence of chronic gross or microscopic infarcts, arteriolosclerosis, atherosclerosis, and cerebral amyloid angiopathy), using separate linear or logistic regression models, adjusted for age at death, sex (core model), vascular disease risk factors, and vascular conditions (fully adjusted model). Participants had either consistently lower (N = 224) or consistently higher (N = 331) engagement across 4 lifestyle health behaviors. We generally found no differences in neuropathologies between higher and lower engagement groups in core or fully adjusted models; for example, higher engagement in lifestyle health behaviors was not associated with global AD pathology after core or full adjustment (both p > .8). In conclusion, we found no evidence of associations between patterns of lifestyle health behaviors and neuropathology. Other mechanisms may underlie protective effects of health behaviors against dementia.",
+  "journal": "The journals of gerontology. Series A, Biological sciences and medical sciences",
+  "year": "2024",
+  "authors": [
+    "Lange-Maia BS",
+    "Wagner M",
+    "Rogers CA",
+    "Mehta RI",
+    "Bennett DA",
+    "Tangney C",
+    "Schoeny ME",
+    "Halloway S",
+    "Arvanitakis Z"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Male",
+    "Female",
+    "Life Style",
+    "Aged, 80 and over",
+    "Health Behavior",
+    "Dementia",
+    "Aged",
+    "Autopsy",
+    "Brain",
+    "Alzheimer Disease",
+    "Neuropathology"
+  ]
+}

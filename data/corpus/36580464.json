@@ -1,0 +1,18 @@
+{
+  "pmid": "36580464",
+  "title": "The ethical and legal landscape of brain data governance.",
+  "abstract": "Neuroscience research is producing big brain data which informs both advancements in neuroscience research and drives the development of advanced datasets to provide advanced medical solutions. These brain data are produced under different jurisdictions in different formats and are governed under different regulations. The governance of data has become essential and critical resulting in the development of various governance structures to ensure that the quality, availability, findability, accessibility, usability, and utility of data is maintained. Furthermore, data governance is influenced by various ethical and legal principles. However, it is still not clear what ethical and legal principles should be used as a standard or baseline when managing brain data due to varying practices and evolving concepts. Therefore, this study asks what ethical and legal principles shape the current brain data governance landscape? A systematic scoping review and thematic analysis of articles focused on biomedical, neuro and brain data governance was carried out to identify the ethical and legal principles which shape the current brain data governance landscape. The results revealed that there is currently a large variation of how the principles are presented and discussions around the terms are very multidimensional. Some of the principles are still at their infancy and are barely visible. A range of principles emerged during the thematic analysis providing a potential list of principles which can provide a more comprehensive framework for brain data governance and a conceptual expansion of neuroethics.",
+  "journal": "PloS one",
+  "year": "2023",
+  "authors": [
+    "Ochang P",
+    "Stahl BC",
+    "Eke D"
+  ],
+  "mesh_terms": [
+    "Neurosciences",
+    "Neurology",
+    "Big Data",
+    "Brain"
+  ]
+}

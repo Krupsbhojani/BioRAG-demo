@@ -1,0 +1,20 @@
+{
+  "pmid": "33197163",
+  "title": "Validity of International Classification of Diseases Codes for Identifying Neuro-Ophthalmic Disease in Large Data Sets: A Systematic Review.",
+  "abstract": "BACKGROUND: Administrative health claims data have been used for research in neuro-ophthalmology, but the validity of International Classification of Diseases (ICD) codes for identifying neuro-ophthalmic conditions is unclear. EVIDENCE ACQUISITION: We performed a systematic literature review to assess the validity of administrative claims data for identifying patients with neuro-ophthalmic disorders. Two reviewers independently reviewed all eligible full-length articles and used a standardized abstraction form to identify ICD code-based definitions for 9 neuro-ophthalmic conditions and their sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV). A quality assessment of eligible studies was also performed. RESULTS: Eleven articles that met criteria for inclusion are as follows: 3 studies of idiopathic intracranial hypertension (PPV 54%-91% and NPV 74%-85%), 2 studies of giant cell arteritis (sensitivity 30%-96% and PPV 94%), 3 studies of optic neuritis (sensitivity 76%-99%, specificity 83%-100%, PPV 25%-100%, and NPV 98%-100%), 1 study of neuromyelitis optica (sensitivity 60%, specificity 100%, PPV 43%-100%, and NPV 98%-100%), 1 study of ocular motor cranial neuropathies (PPV 98%-99%), and 2 studies of myasthenia gravis (sensitivity 53%-97%, specificity 99%-100%, PPV 5%-90%, and NPV 100%). No studies met eligibility criteria for nonarteritic ischemic optic neuropathy, thyroid eye disease, and blepharospasm. Approximately 45.5% provided only one measure of diagnostic accuracy. Complete information about the validation cohorts, inclusion/exclusion criteria, data collection methods, and expertise of those reviewing charts for diagnostic accuracy was missing in 90.9%, 72.7%, 81.8%, and 36.4% of studies, respectively. CONCLUSIONS: Few studies have reported the validity of ICD codes for neuro-ophthalmic conditions. The range of diagnostic accuracy for some disorders and study quality varied widely. This should be taken into consideration when interpreting studies of neuro-ophthalmic conditions using administrative claims data.",
+  "journal": "Journal of neuro-ophthalmology : the official journal of the North American Neuro-Ophthalmology Society",
+  "year": "2021",
+  "authors": [
+    "Hamedani AG",
+    "De Lott LB",
+    "Deveney T",
+    "Moss HE"
+  ],
+  "mesh_terms": [
+    "Databases, Factual",
+    "Eye Diseases",
+    "Humans",
+    "Neurology",
+    "Ophthalmology"
+  ]
+}

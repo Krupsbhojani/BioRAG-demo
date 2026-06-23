@@ -1,0 +1,28 @@
+{
+  "pmid": "34860361",
+  "title": "Clinical Pharmacology in Drug Development for Rare Diseases in Neurology: Contributions and Opportunities.",
+  "abstract": "Several challenges are associated with rare disease drug development in neurology. In this article, we summarize the US Food and Drug Administration's experience with clinical drug development for rare neurological diseases and discuss clinical pharmacology's critical contributions to drug development for rare diseases. We used publicly available information to identify and screen drug products approved for rare neurological indications between 1983 and 2019. We highlighted cases in which clinical pharmacology contributed to the evidence of drug efficacy, dose selection for pivotal clinical trials, dose optimization based on intrinsic and extrinsic factors, pharmacokinetic bridging for formulations, and efficacy bridging across different racial groups. Fifty-one approved drug products were identified since the introduction of the Orphan Drug Act in 1983. Interestingly, the number of approvals in the last few years increased significantly, probably due to advances in genomic research and targeted drug modalities. Evaluation of dose selection in patient populations showed that in 52% of cases, the sponsors did not evaluate efficacy for more than one or two dose levels throughout the development program. Clinical pharmacology studies to evaluate the effect of intrinsic or extrinsic factors were adequately characterized in most of the applications. With the expansion of model informed drug development applications, (e.g., quantitative systems pharmacology and deep learning neural network models), the role and impact of clinical pharmacology is expected to grow exponentially in the next decade and enhance the development of novel treatment modalities for neurological rare diseases.",
+  "journal": "Clinical pharmacology and therapeutics",
+  "year": "2022",
+  "authors": [
+    "Abuasal B",
+    "Ahmed MA",
+    "Patel P",
+    "Albusaysi S",
+    "Sabarinath S",
+    "Uppoor R",
+    "Mehta M"
+  ],
+  "mesh_terms": [
+    "Drug Approval",
+    "Drug Development",
+    "Humans",
+    "Nervous System Diseases",
+    "Neurology",
+    "Orphan Drug Production",
+    "Pharmacology, Clinical",
+    "Rare Diseases",
+    "United States",
+    "United States Food and Drug Administration"
+  ]
+}

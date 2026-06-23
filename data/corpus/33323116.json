@@ -1,0 +1,31 @@
+{
+  "pmid": "33323116",
+  "title": "Shaping a data-driven era in dementia care pathway through computational neurology approaches.",
+  "abstract": "BACKGROUND: Dementia is caused by a variety of neurodegenerative diseases and is associated with a decline in memory and other cognitive abilities, while inflicting an enormous socioeconomic burden. The complexity of dementia and its associated comorbidities presents immense challenges for dementia research and care, particularly in clinical decision-making. MAIN BODY: Despite the lack of disease-modifying therapies, there is an increasing and urgent need to make timely and accurate clinical decisions in dementia diagnosis and prognosis to allow appropriate care and treatment. However, the dementia care pathway is currently suboptimal. We propose that through computational approaches, understanding of dementia aetiology could be improved, and dementia assessments could be more standardised, objective and efficient. In particular, we suggest that these will involve appropriate data infrastructure, the use of data-driven computational neurology approaches and the development of practical clinical decision support systems. We also discuss the technical, structural, economic, political and policy-making challenges that accompany such implementations. CONCLUSION: The data-driven era for dementia research has arrived with the potential to transform the healthcare system, creating a more efficient, transparent and personalised service for dementia.",
+  "journal": "BMC medicine",
+  "year": "2021",
+  "authors": [
+    "Wong-Lin K",
+    "McClean PL",
+    "McCombe N",
+    "Kaur D",
+    "Sanchez-Bornot JM",
+    "Gillespie P",
+    "Todd S",
+    "Finn DP",
+    "Joshi A",
+    "Kane J",
+    "McGuinness B"
+  ],
+  "mesh_terms": [
+    "Big Data",
+    "Comorbidity",
+    "Computational Biology",
+    "Critical Pathways",
+    "Data Science",
+    "Databases, Factual",
+    "Dementia",
+    "Humans",
+    "Neurology"
+  ]
+}

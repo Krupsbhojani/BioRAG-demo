@@ -1,0 +1,41 @@
+{
+  "pmid": "30674587",
+  "title": "Claims data analyses unable to properly characterize the value of neurologists in epilepsy care.",
+  "abstract": "OBJECTIVE: To determine the association of a neurologist visit with health care use and cost outcomes for patients with incident epilepsy. METHODS: Using health care claims data for individuals insured by United Healthcare from 2001 to 2016, we identified patients with incident epilepsy. The population was defined by an epilepsy/convulsion diagnosis code (ICD codes 345.xx/780.3x, G40.xx/R56.xx), an antiepileptic prescription filled within the succeeding 2 years, and neither criterion met in the 2 preceding years. Cases were defined as patients who had a neurologist encounter for epilepsy within 1 year after an incident diagnosis; a control cohort was constructed with propensity score matching. Primary outcomes were emergency room (ER) visits and hospitalizations for epilepsy. Secondary outcomes included measures of cost (epilepsy related, not epilepsy related, and antiepileptic drugs) and care escalation (including EEG evaluation and epilepsy surgery). RESULTS: After participant identification and propensity score matching, there were 3,400 cases and 3,400 controls. Epilepsy-related ER visits were more likely for cases than controls (year 1: 5.9% vs 2.3%, CONCLUSIONS: Patients with epilepsy who visited a neurologist had greater subsequent health care use, medical costs, and care escalation than controls. This comparison using administrative claims is plausibly confounded by case disease severity, as suggested by higher nonepilepsy care costs. Linking patient-centered outcomes to claims data may provide the clinical resolution to assess care value within a heterogeneous population.",
+  "journal": "Neurology",
+  "year": "2019",
+  "authors": [
+    "Hill CE",
+    "Lin CC",
+    "Burke JF",
+    "Kerber KA",
+    "Skolarus LE",
+    "Esper GJ",
+    "Magliocco B",
+    "Callaghan BC"
+  ],
+  "mesh_terms": [
+    "Administrative Claims, Healthcare",
+    "Adult",
+    "Aged",
+    "Ambulatory Care",
+    "Anticonvulsants",
+    "Disease Management",
+    "Emergency Service, Hospital",
+    "Epilepsy",
+    "Female",
+    "Health Care Costs",
+    "Health Services",
+    "Hospitalization",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Neurologists",
+    "Neurology",
+    "Neurosurgical Procedures",
+    "Propensity Score",
+    "Quinazolines",
+    "Severity of Illness Index",
+    "United States"
+  ]
+}

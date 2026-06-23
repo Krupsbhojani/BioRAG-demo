@@ -1,0 +1,19 @@
+{
+  "pmid": "39236270",
+  "title": "Common Critiques and Recommendations for Studies in Neurology Using Machine Learning Methods.",
+  "abstract": "Machine learning (ML) methods are becoming more prevalent in the neurology literature as alternatives to traditional statistical methods to address challenges in the analysis of modern data sets. Despite the increase in the popularity of ML methods in neurology studies, some authors do not fully address all items recommended in reporting guidelines. The authors of this Research Methods article are members of the",
+  "journal": "Neurology",
+  "year": "2024",
+  "authors": [
+    "Speiser JL",
+    "Kerr WT",
+    "Ziegler A"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Biomedical Research",
+    "Machine Learning",
+    "Neurology",
+    "Research Design"
+  ]
+}

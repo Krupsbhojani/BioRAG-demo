@@ -1,0 +1,23 @@
+{
+  "pmid": "31560866",
+  "title": "Carbon monoxide attenuates vasospasm and improves neurobehavioral function after subarachnoid hemorrhage.",
+  "abstract": "Subarachnoid hemorrhage (SAH) is a devastating form of hemorrhagic stroke and is a serious medical condition caused by bleeding usually due to a ruptured aneurysm. Oxidative stress and inflammation from hemoglobin and heme released from lysed red blood cells are some postulated causes of vasospasm during SAH, which could lead to delayed cerebral ischemia. At low amounts, carbon monoxide (CO) gas may be neuroprotective through anti-inflammation, anti-cell death, and restoration of normal blood flow. Hence, this study focuses on a noninvasive strategy to treat SAH by using CO as a therapeutic medical gas. Mice were treated with 250 ppm CO or air for 1h started at 2h after SAH. Various anatomical and functional outcomes were monitored at 1 and 7d after SAH. CO decreased neurological deficit score (47.4 ± 10.5%) and increased activity (30.0 ± 9.1%) and stereotypic counts (261.5 ± 62.1%) at 7d. There was a significant increase in lumen area/wall thickness ratio in the middle cerebral artery (173.5 ± 19.3%), which tended to increase in the anterior cerebral artery (25.5 ± 4.3%) at 7d. This is the first report to demonstrate that CO minimizes delayed SAH-induced neurobehavioral deficits, which suggests that post-treatment with CO gas or CO-donors can be further tested as a potential therapy against SAH.",
+  "journal": "Archives of biochemistry and biophysics",
+  "year": "2020",
+  "authors": [
+    "Kamat PK",
+    "Ahmad AS",
+    "Doré S"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Carbon Monoxide",
+    "Hematoma",
+    "Male",
+    "Mice, Inbred C57BL",
+    "Motor Activity",
+    "Neurology",
+    "Subarachnoid Hemorrhage",
+    "Vasospasm, Intracranial"
+  ]
+}

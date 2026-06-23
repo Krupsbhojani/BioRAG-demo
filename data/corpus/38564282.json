@@ -1,0 +1,36 @@
+{
+  "pmid": "38564282",
+  "title": "A Comparative Study of Large Language Models, Human Experts, and Expert-Edited Large Language Models to Neuro-Ophthalmology Questions.",
+  "abstract": "BACKGROUND: While large language models (LLMs) are increasingly used in medicine, their effectiveness compared with human experts remains unclear. This study evaluates the quality and empathy of Expert + AI, human experts, and LLM responses in neuro-ophthalmology. METHODS: This randomized, masked, multicenter cross-sectional study was conducted from June to July 2023. We randomly assigned 21 neuro-ophthalmology questions to 13 experts. Each expert provided an answer and then edited a ChatGPT-4-generated response, timing both tasks. In addition, 5 LLMs (ChatGPT-3.5, ChatGPT-4, Claude 2, Bing, Bard) generated responses. Anonymized and randomized responses from Expert + AI, human experts, and LLMs were evaluated by the remaining 12 experts. The main outcome was the mean score for quality and empathy, rated on a 1-5 scale. RESULTS: Significant differences existed between response types for both quality and empathy ( P < 0.0001, P < 0.0001). For quality, Expert + AI (4.16 ± 0.81) performed the best, followed by GPT-4 (4.04 ± 0.92), GPT-3.5 (3.99 ± 0.87), Claude (3.6 ± 1.09), Expert (3.56 ± 1.01), Bard (3.5 ± 1.15), and Bing (3.04 ± 1.12). For empathy, Expert + AI (3.63 ± 0.87) had the highest score, followed by GPT-4 (3.6 ± 0.88), Bard (3.54 ± 0.89), GPT-3.5 (3.5 ± 0.83), Bing (3.27 ± 1.03), Expert (3.26 ± 1.08), and Claude (3.11 ± 0.78). For quality ( P < 0.0001) and empathy ( P = 0.002), Expert + AI performed better than Expert. Time taken for expert-created and expert-edited LLM responses was similar ( P = 0.75). CONCLUSIONS: Expert-edited LLM responses had the highest expert-determined ratings of quality and empathy warranting further exploration of their potential benefits in clinical settings.",
+  "journal": "Journal of neuro-ophthalmology : the official journal of the North American Neuro-Ophthalmology Society",
+  "year": "2025",
+  "authors": [
+    "Tailor PD",
+    "Dalvin LA",
+    "Starr MR",
+    "Tajfirouz DA",
+    "Chodnicki KD",
+    "Brodsky MC",
+    "Mansukhani SA",
+    "Moss HE",
+    "Lai KE",
+    "Ko MW",
+    "Mackay DD",
+    "Di Nome MA",
+    "Dumitrascu OM",
+    "Pless ML",
+    "Eggenberger ER",
+    "Chen JJ"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Cross-Sectional Studies",
+    "Ophthalmology",
+    "Neurology",
+    "Female",
+    "Male",
+    "Empathy",
+    "Adult",
+    "Large Language Models"
+  ]
+}

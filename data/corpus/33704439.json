@@ -1,0 +1,21 @@
+{
+  "pmid": "33704439",
+  "title": "The computational neurology of movement under active inference.",
+  "abstract": "We propose a computational neurology of movement based on the convergence of theoretical neurobiology and clinical neurology. A significant development in the former is the idea that we can frame brain function as a process of (active) inference, in which the nervous system makes predictions about its sensory data. These predictions depend upon an implicit predictive (generative) model used by the brain. This means neural dynamics can be framed as generating actions to ensure sensations are consistent with these predictions-and adjusting predictions when they are not. We illustrate the significance of this formulation for clinical neurology by simulating a clinical examination of the motor system using an upper limb coordination task. Specifically, we show how tendon reflexes emerge naturally under the right kind of generative model. Through simulated perturbations, pertaining to prior probabilities of this model's variables, we illustrate the emergence of hyperreflexia and pendular reflexes, reminiscent of neurological lesions in the corticospinal tract and cerebellum. We then turn to the computational lesions causing hypokinesia and deficits of coordination. This in silico lesion-deficit analysis provides an opportunity to revisit classic neurological dichotomies (e.g. pyramidal versus extrapyramidal systems) from the perspective of modern approaches to theoretical neurobiology-and our understanding of the neurocomputational architecture of movement control based on first principles.",
+  "journal": "Brain : a journal of neurology",
+  "year": "2021",
+  "authors": [
+    "Parr T",
+    "Limanowski J",
+    "Rawji V",
+    "Friston K"
+  ],
+  "mesh_terms": [
+    "Brain",
+    "Computer Simulation",
+    "Humans",
+    "Models, Neurological",
+    "Movement",
+    "Neurology"
+  ]
+}

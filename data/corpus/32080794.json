@@ -1,0 +1,21 @@
+{
+  "pmid": "32080794",
+  "title": "Translational Genomics in Neurocritical Care: a Review.",
+  "abstract": "Translational genomics represents a broad field of study that combines genome and transcriptome-wide studies in humans and model systems to refine our understanding of human biology and ultimately identify new ways to treat and prevent disease. The approaches to translational genomics can be broadly grouped into two methodologies, forward and reverse genomic translation. Traditional (forward) genomic translation begins with model systems and aims at using unbiased genetic associations in these models to derive insight into biological mechanisms that may also be relevant in human disease. Reverse genomic translation begins with observations made through human genomic studies and refines these observations through follow-up studies using model systems. The ultimate goal of these approaches is to clarify intervenable processes as targets for therapeutic development. In this review, we describe some of the approaches being taken to apply translational genomics to the study of diseases commonly encountered in the neurocritical care setting, including hemorrhagic and ischemic stroke, traumatic brain injury, subarachnoid hemorrhage, and status epilepticus, utilizing both forward and reverse genomic translational techniques. Further, we highlight approaches in the field that could be applied in neurocritical care to improve our ability to identify new treatment modalities as well as to provide important information to patients about risk and prognosis.",
+  "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
+  "year": "2021",
+  "authors": [
+    "Myserlis P",
+    "Radmanesh F",
+    "Anderson CD"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Brain Diseases",
+    "Critical Care",
+    "Genomics",
+    "Humans",
+    "Neurology",
+    "Translational Research, Biomedical"
+  ]
+}

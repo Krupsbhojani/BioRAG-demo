@@ -1,0 +1,24 @@
+{
+  "pmid": "35150354",
+  "title": "Research advances in the diagnosis and treatment of moyamoya disease: a bibliometric analysis.",
+  "abstract": "Moyamoya disease is a rare cerebrovascular condition involving stenotic carotid arteries and the formation of abnormal blood vessels. In this study, we aimed to characterize the key players involved in moyamoya research at the individual and institutional level and to identify the critical publications that have advanced our understanding of this disease. We performed a title-specific search of the Web of Science database using the search term \"moyamoya\" for publications dating from 1900 to April 2020. The 100 most frequently cited articles were obtained, screened for duplicates, and reviewed by 2 independent reviewers. These 100 articles were cited an average of 150 times each (range, 74 to 1,360 citations per article). Publication dates ranged from 1969 to 2016, with the largest number of publications (n=40) cited between 2000 and 2009. The article with the greatest number of citations (1,360 citations) was \"Cerebrovascular 'moyamoya' disease: disease showing abnormal net-like vessels in base of brain,\" by Suzuki and Takaku, published in the Archives of Neurology, 1969. Stroke published the greatest number of the most frequently cited articles (23 of 100). The institution that contributed the most articles was Tohoku University (16%); the majority of the most frequently cited articles originated in Japan (62%). We identified the 100 most cited articles on moyamoya disease over the past 51 years to recognize significant and impactful works. These results can be used as a guide to evaluate our current understanding of moyamoya disease and to direct future efforts.",
+  "journal": "Neurosurgical review",
+  "year": "2022",
+  "authors": [
+    "Singh R",
+    "McLelland MD",
+    "De La Peña NM",
+    "Pollock JR",
+    "Catapano JS",
+    "Srinivasan VM",
+    "Rahmani R",
+    "Lawton MT"
+  ],
+  "mesh_terms": [
+    "Bibliometrics",
+    "Databases, Factual",
+    "Humans",
+    "Moyamoya Disease",
+    "Neurology"
+  ]
+}

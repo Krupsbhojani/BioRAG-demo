@@ -1,0 +1,43 @@
+{
+  "pmid": "36190959",
+  "title": "Comparison of the diagnostic accuracy of the 2021 EAN/PNS and 2010 EFNS/PNS diagnostic criteria for chronic inflammatory demyelinating polyradiculoneuropathy.",
+  "abstract": "OBJECTIVES: To compare the sensitivity and specificity of the 2021 European Academy of Neurology/Peripheral Nerve Society (EAN/PNS) diagnostic criteria for chronic inflammatory demyelinating polyradiculoneuropathy (CIDP) with those of the 2010 European Federation of Neurological Societies/Peripheral Nerve Society (EFNS/PNS). METHODS: Sensitivity and specificity of the two sets of criteria were evaluated in 330 patients with CIDP and 166 axonal peripheral neuropathy controls. Comparison of the utility of nerve conduction studies with different number of nerves examined and of the sensitivity and specificity of the two criteria in typical CIDP and its variants were assessed. RESULTS: EFNS/PNS criteria had a sensitivity of 92% for possible CIDP and 85% for probable/definite CIDP, while the EAN/PNS criteria had a sensitivity of 83% for possible CIDP and 74% for CIDP. Using supportive criteria, the sensitivity of the EAN/PNS criteria for possible CIDP increased to 85% and that of CIDP to 77%, remaining lower than that of the EFNS/PNS criteria. Specificity of the EFNS/PNS criteria was 68% for possible CIDP and 84% for probable/definite CIDP, while the EAN/PNS criteria had a specificity of 88% for possible CIDP and 98% for CIDP. More extended studies increased the sensitivity of both sets of criteria by 4%-7% but reduced their specificity by 2%-3%. The EFNS/PNS criteria were more sensitive for the diagnosis of typical CIDP while the EAN/PNS criteria were more specific for the diagnosis of distal and sensory CIDP. CONCLUSIONS: In our population, the EAN/PNS criteria were more specific but less sensitive than the EFNS/PNS criteria. With the EAN/PNS criteria, more extended nerve conduction studies are recommended to obtain an acceptable sensitivity while maintaining a high specificity.",
+  "journal": "Journal of neurology, neurosurgery, and psychiatry",
+  "year": "2022",
+  "authors": [
+    "Doneddu PE",
+    "De Lorenzo A",
+    "Manganelli F",
+    "Cocito D",
+    "Fazio R",
+    "Briani C",
+    "Mazzeo A",
+    "Filosto M",
+    "Cosentino G",
+    "Benedetti L",
+    "Schenone A",
+    "Marfia GA",
+    "Antonini G",
+    "Matà S",
+    "Luigetti M",
+    "Liberatore G",
+    "Spina E",
+    "Peci E",
+    "Strano C",
+    "Cacciavillani M",
+    "Gentile L",
+    "Cotti Piccinelli S",
+    "Cortese A",
+    "Bianchi E",
+    "Nobile-Orazio E"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",
+    "Retrospective Studies",
+    "Peripheral Nerves",
+    "Sensitivity and Specificity",
+    "Neurology",
+    "Neural Conduction"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "38965655",
+  "title": "AI in Neuro-Ophthalmology: Current Practice and Future Opportunities.",
+  "abstract": "BACKGROUND: Neuro-ophthalmology frequently requires a complex and multi-faceted clinical assessment supported by sophisticated imaging techniques in order to assess disease status. The current approach to diagnosis requires substantial expertise and time. The emergence of AI has brought forth innovative solutions to streamline and enhance this diagnostic process, which is especially valuable given the shortage of neuro-ophthalmologists. Machine learning algorithms, in particular, have demonstrated significant potential in interpreting imaging data, identifying subtle patterns, and aiding clinicians in making more accurate and timely diagnosis while also supplementing nonspecialist evaluations of neuro-ophthalmic disease. EVIDENCE ACQUISITION: Electronic searches of published literature were conducted using PubMed and Google Scholar. A comprehensive search of the following terms was conducted within the Journal of Neuro-Ophthalmology: AI, artificial intelligence, machine learning, deep learning, natural language processing, computer vision, large language models, and generative AI. RESULTS: This review aims to provide a comprehensive overview of the evolving landscape of AI applications in neuro-ophthalmology. It will delve into the diverse applications of AI, optical coherence tomography (OCT), and fundus photography to the development of predictive models for disease progression. Additionally, the review will explore the integration of generative AI into neuro-ophthalmic education and clinical practice. CONCLUSIONS: We review the current state of AI in neuro-ophthalmology and its potentially transformative impact. The inclusion of AI in neuro-ophthalmic practice and research not only holds promise for improving diagnostic accuracy but also opens avenues for novel therapeutic interventions. We emphasize its potential to improve access to scarce subspecialty resources while examining the current challenges associated with the integration of AI into clinical practice and research.",
+  "journal": "Journal of neuro-ophthalmology : the official journal of the North American Neuro-Ophthalmology Society",
+  "year": "2024",
+  "authors": [
+    "Kenney RC",
+    "Requarth TW",
+    "Jack AI",
+    "Hyman SW",
+    "Galetta SL",
+    "Grossman SN"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Ophthalmology",
+    "Artificial Intelligence",
+    "Neurology",
+    "Eye Diseases",
+    "Tomography, Optical Coherence",
+    "Diagnostic Techniques, Ophthalmological",
+    "Machine Learning"
+  ]
+}

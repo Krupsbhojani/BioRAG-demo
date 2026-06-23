@@ -1,0 +1,19 @@
+{
+  "pmid": "34504033",
+  "title": "Applying Propensity Score Methods in Clinical Research in Neurology.",
+  "abstract": "Propensity score-based analysis is increasingly being used in observational studies to estimate the effects of treatments, interventions, and exposures. We introduce the concept of the propensity score and how it can be used in observational research. We describe 4 different ways of using the propensity score: matching on the propensity score, inverse probability of treatment weighting using the propensity score, stratification on the propensity score, and covariate adjustment on the propensity score (with a focus on the first 2). We provide recommendations for the use and reporting of propensity score methods for the conduct of observational studies in neurologic research.",
+  "journal": "Neurology",
+  "year": "2022",
+  "authors": [
+    "Austin PC",
+    "Yu AYX",
+    "Vyas MV",
+    "Kapral MK"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Monte Carlo Method",
+    "Neurology",
+    "Propensity Score"
+  ]
+}

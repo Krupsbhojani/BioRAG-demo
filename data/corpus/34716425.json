@@ -1,0 +1,35 @@
+{
+  "pmid": "34716425",
+  "title": "Milk fat globule membrane attenuates high fat diet-induced neuropathological changes in obese Ldlr-/-.Leiden mice.",
+  "abstract": "BACKGROUND: Milk-fat globule membrane (MFGM) is a complex structure secreted by the mammary gland and present in mammalian milk. MFGM contains lipids and glycoproteins as well as gangliosides, which may be involved in myelination processes. Notably, myelination and thereby white matter integrity are often altered in obesity. Furthermore, MFGM interventions showed beneficial effects in obesity by affecting inflammatory processes and the microbiome. In this study, we investigated the impact of a dietary MFGM intervention on fat storage, neuroinflammatory processes and myelination in a rodent model of high fat diet (HFD)-induced obesity. METHODS: 12-week-old male low density lipoprotein receptor-deficient Leiden mice were exposed to a HFD, a HFD enriched with 3% whey protein lipid concentrate (WPC) high in MFGM components, or a low fat diet. The impact of MFGM supplementation during 24-weeks of HFD-feeding was examined over time by analyzing body weight and fat storage, assessing cognitive tasks and MRI scanning, analyzing myelinization with polarized light imaging and examining neuroinflammation using immunohistochemistry. RESULTS: We found in this study that 24 weeks of HFD-feeding induced excessive fat storage, increased systolic blood pressure, altered white matter integrity, decreased functional connectivity, induced neuroinflammation and impaired spatial memory. Notably, supplementation with 3% WPC high in MFGM components restored HFD-induced neuroinflammation and attenuated the reduction in hippocampal-dependent spatial memory and hippocampal functional connectivity. CONCLUSIONS: We showed that supplementation with WPC high in MFGM components beneficially contributed to hippocampal-dependent spatial memory, functional connectivity in the hippocampus and anti-inflammatory processes in HFD-induced obesity in rodents. Current knowledge regarding exact biological mechanisms underlying these effects should be addressed in future studies.",
+  "journal": "International journal of obesity (2005)",
+  "year": "2022",
+  "authors": [
+    "Arnoldussen IAC",
+    "Morrison MC",
+    "Wiesmann M",
+    "van Diepen JA",
+    "Worms N",
+    "Voskuilen M",
+    "Verweij V",
+    "Geenen B",
+    "Gualdo NP",
+    "van der Logt L",
+    "Gross G",
+    "Kleemann R",
+    "Kiliaan AJ"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Diet, High-Fat",
+    "Disease Models, Animal",
+    "Glycolipids",
+    "Glycoproteins",
+    "Lipid Droplets",
+    "Male",
+    "Mice",
+    "Mice, Obese",
+    "Neuropathology",
+    "Obesity"
+  ]
+}

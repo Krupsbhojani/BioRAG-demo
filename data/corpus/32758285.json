@@ -1,0 +1,35 @@
+{
+  "pmid": "32758285",
+  "title": "A comprehensive DNA panel next generation sequencing approach supporting diagnostics and therapy prediction in neurooncology.",
+  "abstract": "Recent updates in the classification of central nervous system (CNS) tumors have increased the need for molecular testing. Assessment of multiple alterations in parallel, complex combinations of gene sequence and chromosomal changes, as well as therapy prediction by identification of actionable mutations are the major challenges. We here report on a customized next generation sequencing (NGS)-based DNA panel assay that combines diagnostic and predictive testing and -as a comprehensive approach- allows for simultaneous single nucleotide variant (SNP) / small insertion/deletion (InDel), copy number variation (CNV) and loss of heterozygosity (LOH) detection. We analyzed formalin-fixed and paraffin-embedded (FFPE) DNA from a total of 104 patients with CNS tumors. After amplicon capture-based library preparation, sequencing was performed on the relatively cost-efficient Illiumina MiniSeq platform and evaluated with freely available bioinformatical tools. 57 genes for exonic SNP/InDel calling (19 of those in intronic regions for CNV analysis), 3 chromosomal arms and 4 entire chromosomes for CNV and LOH analysis were covered. Results were extensively validated. Our approach yielded high accuracy, sensitivity and specificity. It led to refined diagnoses in a relevant number of analyzed cases, reliably enabled complex subclassifications (e.g. for medulloblastomas) and identified actionable targets for clinical use. Thus, our single-platform approach is an efficient and powerful tool to comprehensively support molecular testing in neurooncology. Future functionality is guaranteed as novel upcoming biomarkers can be easily incorporated in a modular panel design.",
+  "journal": "Acta neuropathologica communications",
+  "year": "2021",
+  "authors": [
+    "Lorenz J",
+    "Rothhammer-Hampl T",
+    "Zoubaa S",
+    "Bumes E",
+    "Pukrop T",
+    "Kölbl O",
+    "Corbacioglu S",
+    "Schmidt NO",
+    "Proescholdt M",
+    "Hau P",
+    "Riemenschneider MJ"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Antineoplastic Combined Chemotherapy Protocols",
+    "Biomarkers, Tumor",
+    "Brain Neoplasms",
+    "Female",
+    "High-Throughput Nucleotide Sequencing",
+    "Humans",
+    "Male",
+    "Medical Oncology",
+    "Molecular Targeted Therapy",
+    "Neurology",
+    "Precision Medicine",
+    "Sequence Analysis, DNA"
+  ]
+}

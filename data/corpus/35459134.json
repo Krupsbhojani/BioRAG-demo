@@ -1,0 +1,23 @@
+{
+  "pmid": "35459134",
+  "title": "Service process factors affecting patients' and clinicians' experiences on rapid teleconsultation implementation in out-patient neurology services during COVID-19 pandemic: a scoping review.",
+  "abstract": "BACKGROUND: The adoption of teleconsultation for outpatient neurology services was limited until the onset of the COVID-19 pandemic which forced many outpatient neurology services to rapidly switch to virtual models. However, it remains unclear how this change has impacted patients' and clinicians' perceptions of service quality. The purpose of this scoping review is to identify process factors that influence patients' and clinicians' experiences of outpatient teleconsultation services during COVID-19. METHODS: Arksey and O'Malley scoping review framework was used to search PubMed, Scopus, CINAHL, and PsycInfo for original peer-reviewed research studies that examined the experiences of synchronous teleconsultation between a clinician and patient in a home-setting since the World Health Organization announced the COVID-19 global pandemic. The service quality model SERVQUAL was used to conduct a deductive thematic analysis to identify the key factors that impacted the patients' and clinicians' perception of teleconsultation services. RESULTS: A total of nineteen studies published between January 1, 2020, and April 17, 2021, were identified. The most common service process factors affecting the patients' and clinicians' experiences of teleconsultation were technical issues, addressing logistical needs, communication, ability to perform clinical activities, appropriate triage, and administrative support. CONCLUSIONS: Our findings identified six key service process factors affecting the patients' and clinicians' teleconsultation experiences in outpatient neurology services. The need for improvement of triage process and standardizing administrative virtual care pathway are identified as important steps to improve patients and clinicians' teleconsultation experiences compared to pre-COVID era. More research is needed to assess outpatient neurology teleconsultation service quality from patients' and clinicians' perspectives.",
+  "journal": "BMC health services research",
+  "year": "2022",
+  "authors": [
+    "Meng G",
+    "McAiney C",
+    "Perlman CM",
+    "McKillop I",
+    "Tisseverasinghe T",
+    "Chen HH"
+  ],
+  "mesh_terms": [
+    "COVID-19",
+    "Humans",
+    "Neurology",
+    "Outpatients",
+    "Pandemics",
+    "Remote Consultation"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pmid": "34709694",
+  "title": "Clinical, neuropathological, and immunological short- and long-term feature of a mouse model mimicking human herpes virus encephalitis.",
+  "abstract": "Herpes simplex encephalitis (HSE) is one of the most serious diseases of the nervous system in humans. However, its pathogenesis is still only poorly understood. Although several mouse models of predominantly herpes simplex virus 1 (HSV-1) infections mimic different crucial aspects of HSE, central questions remain unanswered. They comprise the specific temporofrontal tropism, viral spread within the central nervous system (CNS), as well as potential molecular and immunological barriers that drive virus into latency while only rarely resulting in severe HSE. We have recently proposed an alternative mouse model by using a pseudorabies virus (PrV) mutant that more faithfully represents the striking features of human HSE: temporofrontal meningoencephalitis with few severely, but generally only moderately to subclinically affected mice as well as characteristic behavioral abnormalities. Here, we characterized this animal model using 6- to 8-week-old female CD-1 mice in more detail. Long-term investigation over 6 months consistently revealed a biphasic course of infection accompanied by recurring clinical signs including behavioral alterations and mainly mild meningoencephalitis restricted to the temporal and frontal lobes. By histopathological and immunological analyses, we followed the kinetics and spatial distribution of inflammatory lesions as well as the underlying cytokine expression in the CNS over 21 days within the acute phase of infection. Affecting the temporal lobes, the inflammatory infiltrate was composed of lymphocytes and macrophages showing a predominantly lymphocytic shift 15 days after infection. A strong increase was observed in cytokines CXCL10, CCL2, CCL5, and CXCL1 recruiting inflammatory cells to the CNS. Unlike the majority of infected mice, strongly affected animals demonstrated extensive temporal lobe edema, which is typically present in severe human HSE cases. In summary, these results support the validity of our animal model for in-depth investigation of HSE pathogenesis.",
+  "journal": "Brain pathology (Zurich, Switzerland)",
+  "year": "2022",
+  "authors": [
+    "Sehl-Ewert J",
+    "Schwaiger T",
+    "Schäfer A",
+    "Hölper JE",
+    "Klupp BG",
+    "Teifke JP",
+    "Blohm U",
+    "Mettenleiter TC"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Central Nervous System",
+    "Cytokines",
+    "Disease Models, Animal",
+    "Encephalitis, Herpes Simplex",
+    "Female",
+    "Humans",
+    "Meningoencephalitis",
+    "Mice",
+    "Neuropathology"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "32179483",
+  "title": "Diagnostic procedures in suspected attacks in patients with neuromyelitis optica spectrum disorders: Results of an international survey.",
+  "abstract": "BACKGROUND: Currently, there is no evidence-based definition of attacks in neuromyelitis optica spectrum disorders (NMOSD). However, to allow their stringent use as valid endpoints, recent phase III trials in NMOSD defined criteria and adjudication of these events in context of these trials. The objective of this study was to investigate diagnostic procedures currently used in routine adjudication of suspected attacks in NMOSD, and to assess whether the standardized attack-criteria from two pivotal trials may be feasible in routine clinical care. METHODS: Four global clinical networks were surveyed using an online questionnaire: NEMOS (Neuromyelitis Optica Study Group), IMSVISUAL (International Multiple Sclerosis Visual System Consortium), GJCF-ICC (Guthy Jackson Charitable Foundation-International Clinical Consortium) and NOMADMUS (Devic's neuromyelitis optica and related neurological disorders study group). RESULTS: Seventy-eight responses were received from September 2018 to February 2019. Median annual number of patients seen with suspected attacks was 10 (range 2-130). Immediate access to MRI was reported by 59.0% of all participants and the majority performs an MRI for new patients with a myelitis, optic neuritis or other symptoms. In patients with established NMOSD diagnosis presenting during routine clinical visits only 10.5% or 9.2% always perform a brain or spinal cord MRI, respectively. Digital records of patients' visits are kept by 98.7% of all participants and 88.5% have direct access to case history. An expert neurological examination is performed for 94.9% of participants reported to perform an expert neurological examination in patients with acute attacs, while only 30.8% seem to perform the assessments according to the Neurostatus-Expanded Disability Status Scale (EDSS) definitions.. The Sakura Star study criteria which are based solely on clinical assessment could be feasible in routine care, provided that more centers use the Neurostatus-EDSS, while only 9% of participants fulfill all requirements for adjudication of the N-Momentum study criteria. CONCLUSIONS: The high percentage of centers using digital records is encouraging. However, routine adjudication of clinical events in NMOSD seems highly heterogeneous. MRI is the mainstay in the majority of queried centers, but its immediate availability is limited. Only a minority of centers are equipped for trial-grade classification of attacks, if this is not solely clinically based. Thus, standard and feasible guidelines for attack adjudication are urgently needed to standardize routine care, optimize future clinical trials and allow studying long-term safety and efficacy of newly approved drugs in phase IV trials.",
+  "journal": "Multiple sclerosis and related disorders",
+  "year": "2021",
+  "authors": [
+    "D'Souza M",
+    "Papadopoulou A",
+    "Levy M",
+    "Jacob A",
+    "Yeaman MR",
+    "Kümpfel T",
+    "Marignier R",
+    "Paul F",
+    "Brandt AU"
+  ],
+  "mesh_terms": [
+    "Academic Medical Centers",
+    "Electronic Health Records",
+    "Health Surveys",
+    "Hospitals",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Neurology",
+    "Neuromyelitis Optica",
+    "Practice Guidelines as Topic",
+    "Severity of Illness Index"
+  ]
+}

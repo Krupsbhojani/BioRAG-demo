@@ -1,0 +1,23 @@
+{
+  "pmid": "32843023",
+  "title": "Evaluation of standard and semantically-augmented distance metrics for neurology patients.",
+  "abstract": "BACKGROUND: Patient distances can be calculated based on signs and symptoms derived from an ontological hierarchy. There is controversy as to whether patient distance metrics that consider the semantic similarity between concepts can outperform standard patient distance metrics that are agnostic to concept similarity. The choice of distance metric can dominate the performance of classification or clustering algorithms. Our objective was to determine if semantically augmented distance metrics would outperform standard metrics on machine learning tasks. METHODS: We converted the neurological findings from 382 published neurology cases into sets of concepts with corresponding machine-readable codes. We calculated patient distances by four different metrics (cosine distance, a semantically augmented cosine distance, Jaccard distance, and a semantically augmented bipartite distance). Semantic augmentation for two of the metrics depended on concept similarities from a hierarchical neuro-ontology. For machine learning algorithms, we used the patient diagnosis as the ground truth label and patient findings as machine learning features. We assessed classification accuracy for four classifiers and cluster quality for two clustering algorithms for each of the distance metrics. RESULTS: Inter-patient distances were smaller when the distance metric was semantically augmented. Classification accuracy and cluster quality were not significantly different by distance metric. CONCLUSION: Although semantic augmentation reduced inter-patient distances, we did not find improved classification accuracy or improved cluster quality with semantically augmented patient distance metrics when applied to a dataset of neurology patients. Further work is needed to assess the utility of semantically augmented patient distances.",
+  "journal": "BMC medical informatics and decision making",
+  "year": "2020",
+  "authors": [
+    "Hier DB",
+    "Kopel J",
+    "Brint SU",
+    "Wunsch DC",
+    "Olbricht GR",
+    "Azizi S",
+    "Allen B"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Algorithms",
+    "Cluster Analysis",
+    "Machine Learning",
+    "Neurology"
+  ]
+}

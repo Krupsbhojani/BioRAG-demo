@@ -1,0 +1,33 @@
+{
+  "pmid": "34550726",
+  "title": "In vivo and neuropathology data support locus coeruleus integrity as indicator of Alzheimer's disease pathology and cognitive decline.",
+  "abstract": "Several autopsy studies recognize the locus coeruleus (LC) as the initial site of hyperphosphorylated TAU aggregation, and as the number of LC neurons harboring TAU increases, TAU pathology emerges throughout the cortex. By conjointly using dedicated MRI measures of LC integrity and TAU and amyloid PET imaging, we aimed to address the question whether in vivo LC measures relate to initial cortical patterns of Alzheimer’s disease (AD) fibrillar proteinopathies or cognitive dysfunction in 174 cognitively unimpaired and impaired older individuals with longitudinal cognitive measures. To guide our interpretations, we verified these associations in autopsy data from 1524 Religious Orders Study and Rush Memory and Aging Project and 2145 National Alzheimer’s Coordinating Center cases providing three different LC measures (pigmentation, tangle density, and neuronal density), Braak staging, β-amyloid, and longitudinal cognitive measures. Lower LC integrity was associated with elevated TAU deposition in the entorhinal cortex among unimpaired individuals consistent with postmortem correlations between LC tangle density and successive Braak staging. LC pigmentation ratings correlated with LC neuronal density but not with LC tangle density and were particularly worse at advanced Braak stages. In the context of elevated β-amyloid, lower LC integrity and greater cortical tangle density were associated with greater TAU burden beyond the medial temporal lobe and retrospective memory decline. These findings support neuropathologic data in which early LC TAU accumulation relates to disease progression and identify LC integrity as a promising indicator of initial AD-related processes and subtle changes in cognitive trajectories of preclinical AD.",
+  "journal": "Science translational medicine",
+  "year": "2021",
+  "authors": [
+    "Jacobs HIL",
+    "Becker JA",
+    "Kwong K",
+    "Engels-Domínguez N",
+    "Prokopiou PC",
+    "Papp KV",
+    "Properzi M",
+    "Hampton OL",
+    "d'Oleire Uquillas F",
+    "Sanchez JS",
+    "Rentz DM",
+    "El Fakhri G",
+    "Normandin MD",
+    "Price JC",
+    "Bennett DA",
+    "Sperling RA",
+    "Johnson KA"
+  ],
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Cognitive Dysfunction",
+    "Humans",
+    "Locus Coeruleus",
+    "Neuropathology"
+  ]
+}

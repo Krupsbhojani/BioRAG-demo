@@ -1,0 +1,37 @@
+{
+  "pmid": "34219728",
+  "title": "A Novel Inhibitor Targeting NLRP3 Inflammasome Reduces Neuropathology and Improves Cognitive Function in Alzheimer's Disease Transgenic Mice.",
+  "abstract": "BACKGROUND: Alzheimer's disease (AD) is a progressive neurodegenerative disorder, and the most common type of dementia. A growing body of evidence has implicated neuroinflammation as an essential player in the etiology of AD. Inflammasomes are intracellular multiprotein complexes and essential components of innate immunity in response to pathogen- and danger-associated molecular patterns. Among the known inflammasomes, the NOD-like receptor family pyrin domain containing 3 (NLRP3) inflammasome plays a critical role in the pathogenesis of AD. OBJECTIVE: We recently developed a novel class of small molecule inhibitors that selectively target the NLRP3 inflammasome. One of the lead compounds, JC124, has shown therapeutic efficacy in a transgenic animal model of AD. In this study we tested the preventative efficacy of JC124 in another strain of transgenic AD mice. METHODS: In this study, 5-month-old female APP/PS1 and matched wild type mice were treated orally with JC124 for 3 months. After completion of treatment, cognitive functions and AD pathologies, as well as protein expression levels of synaptic proteins, were assessed. RESULTS: We found that inhibition of NLRP3 inflammasome with JC124 significantly decreased multiple AD pathologies in APP/PS1 mice, including amyloid-β (Aβ) load, neuroinflammation, and neuronal cell cycle re-entry, accompanied by preserved synaptic plasticity with higher expression of pre- and post-synaptic proteins, increased hippocampal neurogenesis, and improved cognitive functions. CONCLUSION: Our study demonstrates the importance of the NLRP3 inflammasome in AD pathological development, and pharmacological inhibition of NLRP3 inflammasome with small molecule inhibitors represents a potential therapy for AD.",
+  "journal": "Journal of Alzheimer's disease : JAD",
+  "year": "2021",
+  "authors": [
+    "Kuwar R",
+    "Rolfe A",
+    "Di L",
+    "Blevins H",
+    "Xu Y",
+    "Sun X",
+    "Bloom GS",
+    "Zhang S",
+    "Sun D"
+  ],
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Amyloid beta-Peptides",
+    "Animals",
+    "Brain",
+    "Cognition",
+    "Disease Models, Animal",
+    "Female",
+    "Humans",
+    "Immunohistochemistry",
+    "Inflammasomes",
+    "Inflammation",
+    "Mice",
+    "Mice, Transgenic",
+    "Microglia",
+    "NLR Family, Pyrin Domain-Containing 3 Protein",
+    "Neuronal Plasticity",
+    "Neuropathology"
+  ]
+}

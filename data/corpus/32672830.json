@@ -1,0 +1,31 @@
+{
+  "pmid": "32672830",
+  "title": "Reevaluation of the US Pathologist Workforce Size.",
+  "abstract": "IMPORTANCE: There is currently no national organization that publishes its data that serves as the authoritative source of the pathologist workforce in the US. Accurate physician numbers are needed to plan for future health care service requirements. OBJECTIVE: To assess the accuracy of current pathologist workforce estimates in the US by examining why divergency appears in different published resources. DESIGN, SETTING, AND PARTICIPANTS: This study examined the American Board of Pathology classification for pathologist primary specialty and subspecialties and analyzed previously published reports from the following data sources: the Association of American Medical Colleges (AAMC), the Accreditation Council for Graduate Medical Education (ACGME), a 2013 College of American Pathologists (CAP) report, a commercially available version of the American Medical Assoication (AMA) Physician Masterfile, and an unpublished data summary from June 10, 2019. MAIN OUTCOMES AND MEASURES: Number of physicians classified as pathologists. RESULTS: The most recent AAMC data from 2017 (published in 2018) reported 12 839 physicians practicing \"anatomic/clinical pathology,\" which is a subset of the whole. In comparison, the current AMA Physician Masterfile, which is not available publicly, listed 21 292 active pathologists in June 2019. The AMA Physician Masterfile includes all pathologists in 15 subspecialized training areas as identified by the ACGME. By contrast, AAMC's data, which derive from the AMA Physician Masterfile data, only count physicians primarily associated with 3 general categories of pathologists and 1 subspecialty category (ie, chemical pathology). Thus, the AAMC pathology workforce estimate does not include those whose principal work is in 11 subspecialty areas, such as blood banking or transfusion medicine, cytopathology, hematopathology, or microbiology. An additional discrepancy relates to the ACGME residency (specialties) and fellowship (subspecialties) training programs in which pathologists with training in dermatopathology appear as dermatologists and pathologists with training in molecular genetic pathology appear as medical geneticists. CONCLUSIONS AND RELEVANCE: This analysis found that most sources reported only select categories of the pathologist workforce rather than the complete workforce. The discordant nature of reporting may pertain to other medical specialties that have undergone increased subspecialization during the past 2 decades (eg, surgery and medicine). Reconsideration of the methods for determining the pathologist workforce and for all workforces in medicine appears to be needed.",
+  "journal": "JAMA network open",
+  "year": "2020",
+  "authors": [
+    "Robboy SJ",
+    "Gross D",
+    "Park JY",
+    "Kittrie E",
+    "Crawford JM",
+    "Johnson RL",
+    "Cohen MB",
+    "Karcher DS",
+    "Hoffman RD",
+    "Smith AT",
+    "Black-Schaffer WS"
+  ],
+  "mesh_terms": [
+    "Forensic Pathology",
+    "Health Workforce",
+    "Humans",
+    "Neuropathology",
+    "Pathologists",
+    "Pathology",
+    "Pathology, Clinical",
+    "United States",
+    "Workforce"
+  ]
+}

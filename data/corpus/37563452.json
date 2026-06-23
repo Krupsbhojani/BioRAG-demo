@@ -1,0 +1,29 @@
+{
+  "pmid": "37563452",
+  "title": "Genetic etiology of progressive pediatric neurological disorders.",
+  "abstract": "BACKGROUND: The aim of the study was to characterize molecular diagnoses in patients with childhood-onset progressive neurological disorders of suspected genetic etiology. METHODS: We studied 48 probands (age range from newborn to 17 years old) with progressive neurological disorders of unknown etiology from the largest pediatric neurology clinic in Finland. Phenotypes included encephalopathy (54%), neuromuscular disorders (33%), movement disorders (11%), and one patient (2%) with hemiplegic migraine. All patients underwent whole-exome sequencing and disease-causing genes were analyzed. RESULTS: We found 20 (42%) of the patients to have variants in genes previously associated with disease. Of these, 12 were previously reported disease-causing variants, whereas eight patients had a novel variant on a disease-causing gene: ATP7A, CHD2, PURA, PYCR2, SLC1A4, SPAST, TRIT1, and UPF3B. Genetics also enabled us to define atypical clinical presentations of Rett syndrome (MECP2) and Menkes disease (ATP7A). Except for one deletion, all findings were single-nucleotide variants (missense 72%, truncating 22%, splice-site 6%). Nearly half of the variants were de novo. CONCLUSIONS: The most common cause of childhood encephalopathies are de novo variants. Whole-exome sequencing, even singleton, proved to be an efficient tool to gain specific diagnoses and in finding de novo variants in a clinically heterogeneous group of childhood encephalopathies. IMPACT: Whole-exome sequencing is useful in heterogeneous pediatric neurology cohorts. Our article provides further evidence for and novel variants in several genes. De novo variants are an important cause of childhood encephalopathies.",
+  "journal": "Pediatric research",
+  "year": "2024",
+  "authors": [
+    "Aaltio J",
+    "Etula A",
+    "Ojanen S",
+    "Brilhante V",
+    "Lönnqvist T",
+    "Isohanni P",
+    "Suomalainen A"
+  ],
+  "mesh_terms": [
+    "Infant, Newborn",
+    "Humans",
+    "Child",
+    "Adolescent",
+    "Nervous System Diseases",
+    "Rett Syndrome",
+    "Phenotype",
+    "Neurology",
+    "Brain Diseases",
+    "Spastin",
+    "RNA-Binding Proteins"
+  ]
+}

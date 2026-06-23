@@ -1,0 +1,24 @@
+{
+  "pmid": "36697046",
+  "title": "Using a generic quality of life measure to determine adherence thresholds: a cross-sectional study on older adults with neurological disorders in Germany.",
+  "abstract": "OBJECTIVES: Measuring the degree of adherence to medication is essential in healthcare However, the cut-offs provided for adherence scales are often arbitrary and disease-specific, and need to be validated against a clinical outcome. Here, we used health-related quality of life (QoL) to determine cut-offs for a self-report adherence questionnaire in patients with neurological diagnoses. DESIGN: Cross-sectional study. PARTICIPANTS: 910 patients (age 70±8.6 years) with neurological disorders were recruited from the wards of neurology at a local university hospital. All patients received a comprehensive geriatric assessment, including assessments of adherence (Stendal Adherence to Medication Score, SAMS) and QoL (Short Form Survey SF-36). OUTCOME MEASURES: The main aim of the study was to define a cut-off for non-adherence at which QoL is significantly impaired. Thus, we used Spearman's rank correlation, multivariate and univariate analyses of variance to test the impact of different adherence levels on QoL. Receiver operating characteristics and area under curve measures were then used to determine cut-off scores for adherence based on significant differences in QoL. RESULTS: Correlations between SAMS and SF-36 domains were weak (ranging between r=-0.205 for emotional well-being and r=-0.094 for pain) and the effect of non-adherence on QoL disappeared in the multivariate analysis of variance (p=0.522) after adjusting for demographical and clinical factors. SAMS cut-offs in terms of SF-36 domains varied greatly, so that an overall SAMS cut-off for this cohort could not be defined. CONCLUSIONS: QoL as measured by the SF-36 is not suitable as a single outcome parameter to study the impact of non-adherence on QoL in a mixed neurological cohort. Since both QoL and adherence are heterogeneous, multifaceted constructs, it is unlikely to find an overarching cut-off applicable for all patients. Thus, it may be necessary to use disease or cohort-specific external outcome parameters to measure the indirect effect of interventions to enhance adherence. TRIAL REGISTRATION NUMBER: DRKS00016774.",
+  "journal": "BMJ open",
+  "year": "2023",
+  "authors": [
+    "Mühlhammer HM",
+    "Schönenberg A",
+    "Lehmann T",
+    "Prell T"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Aged",
+    "Middle Aged",
+    "Quality of Life",
+    "Cross-Sectional Studies",
+    "Nervous System Diseases",
+    "Neurology",
+    "Surveys and Questionnaires",
+    "Germany"
+  ]
+}

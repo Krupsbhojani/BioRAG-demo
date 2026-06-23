@@ -1,0 +1,38 @@
+{
+  "pmid": "32891124",
+  "title": "The mental health of neurological doctors and nurses in Hunan Province, China during the initial stages of the COVID-19 outbreak.",
+  "abstract": "BACKGROUND: Neurological symptoms are increasingly being noted among COVID-19 patients. Currently, there is little data on the mental health of neurological healthcare workers. The aim of this study was to identify the prevalence and influencing factors on anxiety and depression in neurological healthcare workers in Hunan Province, China during the early stage of the Coronavirus Disease 2019 (COVID-19) outbreak. METHODS: An online cross-sectional study was conducted among neurological doctors and nurses in early February 2020 in Hunan Province. Symptoms of anxiety and depression were assessed by the Chinese version of the Self-Rating Anxiety Scale (SAS) (defined as a total score ≥ 50) and Self-Rating Depression Scale (SDS) (defined as a total score ≥ 53). The prevalences of probable anxiety and depression were compared between different groups, and multivariate logistic regression analysis was used to understand the independent influencing factors on anxiety and depression. RESULTS: The prevalence of probable anxiety and depression in neurological nurses (20.3 and 30.2%, respectively) was higher than that in doctors (12.6 and 20.2%, respectively). Female healthcare workers (18.4%) had a higher proportion of anxiety than males (10.8%). Probable anxiety and depression were more prevalent among nurses, younger workers (≤ 40 years), and medical staff with junior titles. Logistic regression analysis showed that a shortage of protective equipment was independently associated with probable anxiety (OR = 1.980, 95% CI: 1.241-3.160, P = 0.004), while young age was a risk factor for probable depression (OR = 2.293, 95% CI: 1.137-4.623, P = 0.020) among neurological healthcare workers. CONCLUSIONS: Probable anxiety and depression were more prevalent among neurological nurses than doctors in Hunan Province. The shortage of protective equipment led to probable anxiety, and young age led to probable depression in healthcare workers in neurology departments, which merits attention during the battle against COVID-19.",
+  "journal": "BMC psychiatry",
+  "year": "2020",
+  "authors": [
+    "Ning X",
+    "Yu F",
+    "Huang Q",
+    "Li X",
+    "Luo Y",
+    "Huang Q",
+    "Chen C"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Betacoronavirus",
+    "COVID-19",
+    "China",
+    "Coronavirus Infections",
+    "Cross-Sectional Studies",
+    "Depressive Disorder",
+    "Disease Outbreaks",
+    "Female",
+    "Hospital Units",
+    "Humans",
+    "Male",
+    "Neurology",
+    "Nurses",
+    "Pandemics",
+    "Physicians",
+    "Pneumonia, Viral",
+    "Prevalence",
+    "SARS-CoV-2",
+    "Surveys and Questionnaires"
+  ]
+}

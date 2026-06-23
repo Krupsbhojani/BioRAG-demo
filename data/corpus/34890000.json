@@ -1,0 +1,30 @@
+{
+  "pmid": "34890000",
+  "title": "Neuropathological interpretation of stimulated Raman histology images of brain and spine tumors: part B.",
+  "abstract": "Intraoperative histopathological examinations are routinely performed to provide neurosurgeons with information about the entity of tumor tissue. Here, we quantified the neuropathological interpretability of stimulated Raman histology (SRH) acquired using a Raman laser imaging system in a routine clinical setting without any specialized training or prior experience. Stimulated Raman scattering microscopy was performed on 117 samples of pathological tissue from 73 cases of brain and spine tumor surgeries. A board-certified neuropathologist - novice in the interpretation of SRH - assessed image quality by scoring subjective tumor infiltration and stated a diagnosis based on the SRH images. The diagnostic accuracy was determined by comparison to frozen hematoxylin-eosin (H&E)-stained sections and the ground truth defined as the definitive neuropathological diagnosis. The overall SRH imaging quality was rated high with the detection of tumor cells classified as inconclusive in only 4.2% of all images. The accuracy of neuropathological diagnosis based on SRH images was 87.7% and was non-inferior to the current standard of fast frozen H&E-stained sections (87.3 vs. 88.9%, p = 0.783). We found a substantial diagnostic correlation between SRH-based neuropathological diagnosis and H&E-stained frozen sections (κ = 0.8). The interpretability of intraoperative SRH imaging was demonstrated to be equivalent to the current standard method of H&E-stained frozen sections. Further research using this label-free innovative alternative vs. conventional staining is required to determine to which extent SRH-based intraoperative decision-making can be streamlined in order to facilitate the advancement of surgical neurooncology.",
+  "journal": "Neurosurgical review",
+  "year": "2022",
+  "authors": [
+    "Straehle J",
+    "Erny D",
+    "Neidert N",
+    "Heiland DH",
+    "El Rahal A",
+    "Sacalean V",
+    "Steybe D",
+    "Schmelzeisen R",
+    "Vlachos A",
+    "Mizaikoff B",
+    "Reinacher PC",
+    "Coenen VA",
+    "Prinz M",
+    "Beck J",
+    "Schnell O"
+  ],
+  "mesh_terms": [
+    "Brain",
+    "Brain Neoplasms",
+    "Humans",
+    "Neuropathology"
+  ]
+}

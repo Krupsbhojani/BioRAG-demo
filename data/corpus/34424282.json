@@ -1,0 +1,32 @@
+{
+  "pmid": "34424282",
+  "title": "Functional protection in J20/VLW mice: a model of non-demented with Alzheimer's disease neuropathology.",
+  "abstract": "Alzheimer's disease comprises amyloid-β and hyperphosphorylated Tau accumulation, imbalanced neuronal activity, aberrant oscillatory rhythms and cognitive deficits. Non-demented with Alzheimer's disease neuropathology defines a novel clinical entity with amyloid-β and Tau pathologies but preserved cognition. The mechanisms underlying such neuroprotection remain undetermined and animal models of non-demented with Alzheimer's disease neuropathology are currently unavailable. We demonstrate that J20/VLW mice (accumulating amyloid-β and hyperphosphorylated Tau) exhibit preserved hippocampal rhythmic activity and cognition, as opposed to J20 and VLW animals, which show significant alterations. Furthermore, we show that the overexpression of mutant human Tau in coexistence with amyloid-β accumulation renders a particular hyperphosphorylated Tau signature in hippocampal interneurons. The GABAergic septohippocampal pathway, responsible for hippocampal rhythmic activity, is preserved in J20/VLW mice, in contrast to single mutants. Our data highlight J20/VLW mice as a suitable animal model in which to explore the mechanisms driving cognitive preservation in non-demented with Alzheimer's disease neuropathology. Moreover, they suggest that a differential Tau phosphorylation pattern in hippocampal interneurons prevents the loss of GABAergic septohippocampal innervation and alterations in local field potentials, thereby avoiding cognitive deficits.",
+  "journal": "Brain : a journal of neurology",
+  "year": "2022",
+  "authors": [
+    "Dávila-Bouziguet E",
+    "Casòliba-Melich A",
+    "Targa-Fabra G",
+    "Galera-López L",
+    "Ozaita A",
+    "Maldonado R",
+    "Ávila J",
+    "Delgado-García JM",
+    "Gruart A",
+    "Soriano E",
+    "Pascual M"
+  ],
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Amyloid beta-Peptides",
+    "Animals",
+    "Disease Models, Animal",
+    "Hippocampus",
+    "Humans",
+    "Mice",
+    "Mice, Transgenic",
+    "Neuropathology",
+    "tau Proteins"
+  ]
+}

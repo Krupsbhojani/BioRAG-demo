@@ -1,0 +1,27 @@
+{
+  "pmid": "32468532",
+  "title": "Digital Biomarkers Based Individualized Prognosis for People at Risk of Dementia: the AltoidaML Multi-site External Validation Study.",
+  "abstract": "Research investigating treatments and interventions for cognitive decline and Alzheimer's disease (AD) suffer due to difficulties in accurately identifying individuals at risk of AD in the pre-symptomatic stages of the disease. There is an urgent need for better identification of such individuals in order to enable earlier treatment and to properly stage and stratify participants for clinical trials and intervention studies. Although some biological measures (biomarkers) can identify Alzheimer's-related changes before significant changes in cognitive function occur, such biomarkers are not ideal as they are only able to place individuals in rudimentary stages of the disease/cognitive decline (Tarnanas et al., Alzheimers Dement (Amst) 1(4):521-532, 2015) and sometimes mistakenly diagnose individuals (Edmonds et al. 2015). Two tests, based on real-world functioning, which have been used to screen for pre-symptomatic AD are (i) dual-task walking tests (Belghali et al. 2017) and (ii) day-out tasks (Tarnanas et al. 2013). A novel digital biomarker, the Altoida ADPS app, which implements gamified versions of these tests has been shown to accurately discriminate between healthy controls and individuals in prodromal stages of Alzheimer's disease (Tarnanas et al. 2013) and can differentiate between people with mild cognitive impairment who convert to Alzheimer's disease and those who don't (Tarnanas et al. 2015b). The aim of this study is the validation of a novel digital biomarker of cognitive decline.",
+  "journal": "Advances in experimental medicine and biology",
+  "year": "2020",
+  "authors": [
+    "Rai L",
+    "Boyle R",
+    "Brosnan L",
+    "Rice H",
+    "Farina F",
+    "Tarnanas I",
+    "Whelan R"
+  ],
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Biomarkers",
+    "Cognition Disorders",
+    "Cognitive Dysfunction",
+    "Dementia",
+    "Humans",
+    "Mobile Applications",
+    "Neurology",
+    "Reproducibility of Results"
+  ]
+}

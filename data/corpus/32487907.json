@@ -1,0 +1,29 @@
+{
+  "pmid": "32487907",
+  "title": "Coding in the World of COVID-19: Non-Face-to-Face Evaluation and Management Care.",
+  "abstract": "Almost all medical care in the United States is delivered with the provider and patient in immediate proximity; this model is referred to as face-to-face care. Medical services can be apportioned as procedural care (eg, surgery, radiology, or laboratory testing and others) or cognitive care, also known as Evaluation and Management (E/M) services, in which the provider formulates an assessment and plan after obtaining information from the patient's history, examination, and diagnostic tests.Providing a medical opinion and plan using the telephone as the technology that links the provider and the patient is an example of a non-face-to-face E/M service. Common Procedural Terminology (CPT) codes and the details for how to provide telephone services have been available for decades but have not been reimbursed and therefore were rarely used. In recent years, as new technologies have evolved, there has been slow and steady acceptance that non-face-to-face E/M care can be an adjunct to or replacement for some face-to-face E/M services. These technologies and the descriptors for associated CPT and Healthcare Common Procedure Coding System (HCPCS) codes were introduced over the past few years and have become known by the generic term telehealth. They have been slowly incorporated into medical practice. Most of these services were introduced in the consumer retail market, in which the cost was borne directly by the patient, or as private contract services, in which the cost was borne by the consulting hospital, such as with telestroke services. In both the consumer retail model and private contract model, the care delivered usually did not involve CPT or HCPCS coding. The adoption of telehealth has been slow, in part because of the initial costs and several regulatory constraints, as well as the reluctance of patients, providers, and the insurance industry to change the concept that medical care could only be delivered when the patient and their provider were in physical proximity.After the COVID-19 pandemic reached the United States, the US Department of Health & Human Services issued a public health emergency and declared a Section 1135 Waiver that lifted many of the administrative constraints. With the need for near-absolute social distancing, this perfect storm has resulted in the immediate adoption of telemedicine, at least for the duration of the pandemic, for cognitive care to be delivered using communication technologies that are already in place. This article discusses the most common forms of non-face-to-face E/M care and the proper coding elements necessary to provide these services.",
+  "journal": "Continuum (Minneapolis, Minn.)",
+  "year": "2020",
+  "authors": [
+    "Cohen BH",
+    "Busis NA",
+    "Ciccarelli L"
+  ],
+  "mesh_terms": [
+    "COVID-19",
+    "Centers for Medicare and Medicaid Services, U.S.",
+    "Clinical Coding",
+    "Coronavirus Infections",
+    "Current Procedural Terminology",
+    "Healthcare Common Procedure Coding System",
+    "Humans",
+    "Neurology",
+    "Pandemics",
+    "Pneumonia, Viral",
+    "Reimbursement Mechanisms",
+    "Telemedicine",
+    "Telephone",
+    "United States",
+    "Videoconferencing"
+  ]
+}

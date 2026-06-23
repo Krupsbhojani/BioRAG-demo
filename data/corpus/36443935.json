@@ -1,0 +1,21 @@
+{
+  "pmid": "36443935",
+  "title": "Artificial intelligence techniques for neuropathological diagnostics and research.",
+  "abstract": "Artificial intelligence (AI) research began in theoretical neurophysiology, and the resulting classical paper on the McCulloch-Pitts mathematical neuron was written in a psychiatry department almost 80 years ago. However, the application of AI in digital neuropathology is still in its infancy. Rapid progress is now being made, which prompted this article. Human brain diseases represent distinct system states that fall outside the normal spectrum. Many differ not only in functional but also in structural terms, and the morphology of abnormal nervous tissue forms the traditional basis of neuropathological disease classifications. However, only a few countries have the medical specialty of neuropathology, and, given the sheer number of newly developed histological tools that can be applied to the study of brain diseases, a tremendous shortage of qualified hands and eyes at the microscope is obvious. Similarly, in neuroanatomy, human observers no longer have the capacity to process the vast amounts of connectomics data. Therefore, it is reasonable to assume that advances in AI technology and, especially, whole-slide image (WSI) analysis will greatly aid neuropathological practice. In this paper, we discuss machine learning (ML) techniques that are important for understanding WSI analysis, such as traditional ML and deep learning, introduce a recently developed neuropathological AI termed PathoFusion, and present thoughts on some of the challenges that must be overcome before the full potential of AI in digital neuropathology can be realized.",
+  "journal": "Neuropathology : official journal of the Japanese Society of Neuropathology",
+  "year": "2023",
+  "authors": [
+    "Alzoubi I",
+    "Bao G",
+    "Zheng Y",
+    "Wang X",
+    "Graeber MB"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Neuropathology",
+    "Brain Diseases"
+  ]
+}

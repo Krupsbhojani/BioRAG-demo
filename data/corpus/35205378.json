@@ -1,0 +1,20 @@
+{
+  "pmid": "35205378",
+  "title": "Methods to Improve Molecular Diagnosis in Genomic Cold Cases in Pediatric Neurology.",
+  "abstract": "During the last decade, genetic testing has emerged as an important etiological diagnostic tool for Mendelian diseases, including pediatric neurological conditions. A genetic diagnosis has a considerable impact on disease management and treatment; however, many cases remain undiagnosed after applying standard diagnostic sequencing techniques. This review discusses various methods to improve the molecular diagnostic rates in these genomic cold cases. We discuss extended analysis methods to consider, non-Mendelian inheritance models, mosaicism, dual/multiple diagnoses, periodic re-analysis, artificial intelligence tools, and deep phenotyping, in addition to integrating various omics methods to improve variant prioritization. Last, novel genomic technologies, including long-read sequencing, artificial long-read sequencing, and optical genome mapping are discussed. In conclusion, a more comprehensive molecular analysis and a timely re-analysis of unsolved cases are imperative to improve diagnostic rates. In addition, our current understanding of the human genome is still limited due to restrictions in technologies. Novel technologies are now available that improve upon some of these limitations and can capture all human genomic variation more accurately. Last, we recommend a more routine implementation of high molecular weight DNA extraction methods that is coherent with the ability to use and/or optimally benefit from these novel genomic methods.",
+  "journal": "Genes",
+  "year": "2022",
+  "authors": [
+    "Kadlubowska MK",
+    "Schrauwen I"
+  ],
+  "mesh_terms": [
+    "Artificial Intelligence",
+    "Child",
+    "Genetic Testing",
+    "Genome, Human",
+    "Genomics",
+    "Humans",
+    "Neurology"
+  ]
+}

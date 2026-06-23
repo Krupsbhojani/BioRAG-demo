@@ -1,0 +1,23 @@
+{
+  "pmid": "30688751",
+  "title": "Big Data Research in Neuro-Ophthalmology: Promises and Pitfalls.",
+  "abstract": "BACKGROUND: Big data clinical research involves application of large data sets to the study of disease. It is of interest to neuro-ophthalmologists but also may be a challenge because of the relative rarity of many of the diseases treated. EVIDENCE ACQUISITION: Evidence for this review was gathered from the authors' experiences performing analysis of large data sets and review of the literature. RESULTS: Big data sets are heterogeneous, and include prospective surveys, medical administrative and claims data and registries compiled from medical records. High-quality studies must pay careful attention to aspects of data set selection, including potential bias, and data management issues, such as missing data, variable definition, and statistical modeling to generate appropriate conclusions. There are many studies of neuro-ophthalmic diseases that use big data approaches. CONCLUSIONS: Big data clinical research studies complement other research methodologies to advance our understanding of human disease. A rigorous and careful approach to data set selection, data management, data analysis, and data interpretation characterizes high-quality studies.",
+  "journal": "Journal of neuro-ophthalmology : the official journal of the North American Neuro-Ophthalmology Society",
+  "year": "2020",
+  "authors": [
+    "Moss HE",
+    "Joslin CE",
+    "Rubin DS",
+    "Roth S"
+  ],
+  "mesh_terms": [
+    "Big Data",
+    "Datasets as Topic",
+    "Eye Diseases",
+    "Humans",
+    "Nervous System Diseases",
+    "Neurology",
+    "Ophthalmology",
+    "Registries"
+  ]
+}

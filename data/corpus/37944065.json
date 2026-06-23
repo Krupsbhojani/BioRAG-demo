@@ -1,0 +1,28 @@
+{
+  "pmid": "37944065",
+  "title": "High-throughput digital quantification of Alzheimer disease pathology and associated infrastructure in large autopsy studies.",
+  "abstract": "High-throughput digital pathology offers considerable advantages over traditional semiquantitative and manual methods of counting pathology. We used brain tissue from 5 clinical-pathologic cohort studies of aging; the Religious Orders Study, the Rush Memory and Aging Project, the Minority Aging Research Study, the African American Clinical Core, and the Latino Core to (1) develop a workflow management system for digital pathology processes, (2) optimize digital algorithms to quantify Alzheimer disease (AD) pathology, and (3) harmonize data statistically. Data from digital algorithms for the quantification of β-amyloid (Aβ, n = 413) whole slide images and tau-tangles (n = 639) were highly correlated with manual pathology data (r = 0.83 to 0.94). Measures were robust and reproducible across different magnifications and repeated scans. Digital measures for Aβ and tau-tangles across multiple brain regions reproduced established patterns of correlations, even when samples were stratified by clinical diagnosis. Finally, we harmonized newly generated digital measures with historical measures across multiple large autopsy-based studies. We describe a multidisciplinary approach to develop a digital pathology pipeline that reproducibly identifies AD neuropathologies, Aβ load, and tau-tangles. Digital pathology is a powerful tool that can overcome critical challenges associated with traditional microscopy methods.",
+  "journal": "Journal of neuropathology and experimental neurology",
+  "year": "2023",
+  "authors": [
+    "Kapasi A",
+    "Poirier J",
+    "Hedayat A",
+    "Scherlek A",
+    "Mondal S",
+    "Wu T",
+    "Gibbons J",
+    "Barnes LL",
+    "Bennett DA",
+    "Leurgans SE",
+    "Schneider JA"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Alzheimer Disease",
+    "Autopsy",
+    "Amyloid beta-Peptides",
+    "Neuropathology",
+    "Aging"
+  ]
+}

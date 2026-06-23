@@ -1,0 +1,35 @@
+{
+  "pmid": "34060702",
+  "title": "The \"cognitive clock\": A novel indicator of brain health.",
+  "abstract": "INTRODUCTION: We identified a \"cognitive clock,\" a novel indicator of brain health that provides person-specific estimates of cognitive age, and tested the hypothesis that cognitive age is a better predictor of brain health than chronological age in two independent datasets. METHODS: The initial analyses were based on 1057 participants from the Rush Memory and Aging Project and the Religious Orders Study who began without impairment and underwent cognitive assessments up to 24 years. A shape invariant model characterized the latent pattern of cognitive decline, conceptualized here as the \"cognitive clock,\" and yielded person-specific estimates of cognitive age. Survival analyses examined cognitive versus chronological age for predicting Alzheimer's disease dementia, mild cognitive impairment and mortality, and regression analyses examined associations of cognitive versus chronological age with neuropathology and brain atrophy. Finally, we applied the cognitive clock to an independent validation sample of 2592 participants from the Chicago Health and Aging Project, a biracial population-based study, to confirm the predictive utility of cognitive age. RESULTS: The \"cognitive clock\" showed that cognition remained stable until a cognitive age of about 80, then declined moderately until 90, then declined precipitously. In the initial dataset, cognitive age was a better predictor of dementia, mild cognitive impairment and mortality than chronological age, and was more strongly associated with neuropathology and brain atrophy. Application of the cognitive clock to the independent validation sample provided further support for the utility of cognitive age as a strong prognostic indicator of adverse outcomes. DISCUSSION: Cognitive age is a robust prognostic indicator of adverse health outcomes and may serve as a useful biomarker in aging research.",
+  "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+  "year": "2022",
+  "authors": [
+    "Boyle PA",
+    "Wang T",
+    "Yu L",
+    "Wilson RS",
+    "Dawe R",
+    "Arfanakis K",
+    "Schneider JA",
+    "Beck T",
+    "Rajan KB",
+    "Evans D",
+    "Bennett DA"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Atrophy",
+    "Autopsy",
+    "Brain",
+    "Chicago",
+    "Cognitive Aging",
+    "Cognitive Dysfunction",
+    "Dementia",
+    "Humans",
+    "Longitudinal Studies",
+    "Mortality",
+    "Neuropathology",
+    "United States"
+  ]
+}

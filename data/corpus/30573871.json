@@ -1,0 +1,35 @@
+{
+  "pmid": "30573871",
+  "title": "Luminex-based quantification of Alzheimer's disease neuropathologic change in formalin-fixed post-mortem human brain tissue.",
+  "abstract": "The vast majority of archived research and clinical pathological specimens are stored in the form of formalin fixed, paraffin-embedded (FFPE) tissues, but, unlike fresh frozen tissue samples, highly quantitative measures in FFPE tissues are limited to immunohistochemical and immunofluorescence thresholding image analysis studies, cell counting, and ordinal ranking systems. This poses a significant obstacle for clinical investigations that aim to correlate diagnostic markers of neurodegenerative diseases like Alzheimer's disease (AD) with parameters like age, gender, drug exposures, genotype, disease stage, co-morbidities, or environmental factors. To overcome this limitation, we have developed Luminex-based techniques and protocols for the quantification of amyloid β and hyperphosphorylated Tau in FFPE brain sections. We validated the Luminex assay in FFPE sections from prefrontal cortex, hippocampus, and neostriatum from 30 cases that underwent prior neuropathological diagnostic assessment of AD following the current NIA-AA recommendations for AD: 10 cases diagnosed as not or low, 10 cases as intermediate, and 10 cases as high AD neuropathologic change. Consistent with the neuropathologic assessment, Luminex assay detected high amounts of amyloid beta in the frontal cortex and striatum, and high amounts of hyperphosphorylated Tau in the frontal cortex and hippocampus, of cases with high AD neuropathologic change. This assay can be expanded to detect diverse antigenic targets of interest, as we show here with IBA1 and GFAP. This novel approach supports multiplexed highly quantitative, molecularly specific neuropathology measures to further explore mechanisms of neurodegeneration in AD.",
+  "journal": "Laboratory investigation; a journal of technical methods and pathology",
+  "year": "2020",
+  "authors": [
+    "Keene CD",
+    "Wilson AM",
+    "Kilgore MD",
+    "Bruner LT",
+    "Postupna NO",
+    "Darvas M"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Aged, 80 and over",
+    "Alzheimer Disease",
+    "Amyloid beta-Peptides",
+    "Autopsy",
+    "Brain",
+    "Female",
+    "Formaldehyde",
+    "Glial Fibrillary Acidic Protein",
+    "Humans",
+    "Immunoassay",
+    "Male",
+    "Neuropathology",
+    "Paraffin Embedding",
+    "Reproducibility of Results",
+    "Sensitivity and Specificity",
+    "Tissue Fixation",
+    "tau Proteins"
+  ]
+}

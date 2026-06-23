@@ -1,0 +1,30 @@
+{
+  "pmid": "30584078",
+  "title": "Education Research: Electronic patient portal enrollment and no-show rates within a neurology resident clinic.",
+  "abstract": "OBJECTIVE: To identify factors that affect appointment adherence and investigate the association of electronic patient portal (ePP) enrollment and patient adherence rates to appointments in the Neurology Resident Clinic (NRC). METHODS: Patients scheduled for an appointment during the months of October 2015, February 2016, and June 2016 in the NRC were included. ePP enrollment, date of clinic appointment, method of referral to the clinic, and key demographic criteria were collected. χ RESULTS: Patients with ePP enrollment had significantly lower rates of no-show (19% vs 27%) and higher rates of showed (59% vs 48%) compared to patients without ePP enrollment. Younger patients (18-49) had the highest rates of no-show (28%), while older patients (65+) had the lowest rates of no-show (17%). Caucasian patients had significantly lower rates of no-show compared to non-Caucasian patients (14% vs 24%). Non-English-speaking patients had high rates of no-show (34%). Patients with a physician referral had significantly lower rates of no-show (20% vs 28%) and higher rates of showed (61% vs 44%) compared to patients with a self-referral. CONCLUSIONS: Our study indicates that ePP enrollment, age, race, and physician referral might be associated with reduced no-show rates in the NRC.",
+  "journal": "Neurology",
+  "year": "2019",
+  "authors": [
+    "Shah K",
+    "Alshammaa A",
+    "Affan M",
+    "Schultz L",
+    "Walbert T",
+    "Zaman I"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Aged",
+    "Aged, 80 and over",
+    "Humans",
+    "Middle Aged",
+    "Mobile Applications",
+    "Neurology",
+    "Outpatients",
+    "Patient Compliance",
+    "Patient Portals",
+    "Referral and Consultation",
+    "Retrospective Studies",
+    "Young Adult"
+  ]
+}

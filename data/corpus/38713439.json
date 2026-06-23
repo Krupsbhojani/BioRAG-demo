@@ -1,0 +1,25 @@
+{
+  "pmid": "38713439",
+  "title": "Crosstalk Between Cell Death and Spinal Cord Injury: Neurology and Therapy.",
+  "abstract": "Spinal cord injury (SCI) often leads to neurological dysfunction, and neuronal cell death is one of the main causes of neurological dysfunction. After SCI, in addition to necrosis, programmed cell death (PCD) occurs in nerve cells. At first, studies recognized only necrosis, apoptosis, and autophagy. In recent years, researchers have identified new forms of PCD, including pyroptosis, necroptosis, ferroptosis, and cuproptosis. Related studies have confirmed that all of these cell death modes are involved in various phases of SCI and affect the direction of the disease through different mechanisms and pathways. Furthermore, regulating neuronal cell death after SCI through various means has been proven to be beneficial for the recovery of neural function. In recent years, emerging therapies for SCI have also provided new potential methods to restore neural function. Thus, the relationship between SCI and cell death plays an important role in the occurrence and development of SCI. This review summarizes and generalizes the relevant research results on neuronal necrosis, apoptosis, autophagy, pyroptosis, necroptosis, ferroptosis, and cuproptosis after SCI to provide a new understanding of neuronal cell death after SCI and to aid in the treatment of SCI.",
+  "journal": "Molecular neurobiology",
+  "year": "2024",
+  "authors": [
+    "Song Q",
+    "Cui Q",
+    "Sun S",
+    "Wang Y",
+    "Yuan Y",
+    "Zhang L"
+  ],
+  "mesh_terms": [
+    "Spinal Cord Injuries",
+    "Humans",
+    "Animals",
+    "Cell Death",
+    "Neurons",
+    "Neurology",
+    "Autophagy",
+    "Apoptosis"
+  ]
+}

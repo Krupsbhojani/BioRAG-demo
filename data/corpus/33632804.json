@@ -1,0 +1,23 @@
+{
+  "pmid": "33632804",
+  "title": "Financial Conflicts of Interest of United States-Based Authors in Neurology Journals: Cross-Sectional Study Using the Open Payments Database.",
+  "abstract": "OBJECTIVE: To detail the scope, nature, and disclosure of financial conflicts of interest (COI) between the pharmaceutical and medical device industries (Industry) and authors in high-impact clinical neurology journals. METHODS: Using the Centers for Medicare and Medicaid Services Open Payments Database (OPD), we retrieved information on payments from Industry to 2,000 authors from randomly selected 2016 articles in 5 journals. We categorized payments by type (research, general, and associated research/institutional), sponsoring entity, and year (from 2013 to 2016). Each author's self-disclosures were compared to OPD-listed Industry relationships to measure discordance. Payments were manually reviewed to identify those from manufacturers of products that were directly tested or discussed in the article. We also quantified the prevalence and value of these nondisclosed, relevant COI. RESULTS: Two hundred authors from 158 articles had at least 1 OPD payment. Median/mean annual payments per author were $4,229/$19,586 (general); $1,702/$5,966 (research); and $67,512/$362,102 (associated research). Most neurologists received <$1,000/y (74.6%, 93.0%, and 79.5% for general, research, and associated research, respectively), but a sizeable minority (>10% of authors) received more than $10,000 per year, and several received over $1 million. Of 3,013 payments deemed directly relevant to the article, 50.9% were not self-disclosed by the authors, totaling $5,782,197 ($1,665,603 general; $25,532 research; $4,091,062 associated research). CONCLUSION: Industry-related financial relationships are prevalent among United States-based physicians publishing in major neurology journals, and incomplete self-disclosure is common. As a profession, academic and other neurologists must work to establish firm rules to ensure and manage disclosure of financial COI.",
+  "journal": "Neurology",
+  "year": "2021",
+  "authors": [
+    "Smith JE",
+    "Wahle C",
+    "Bernat JL",
+    "Robbins NM"
+  ],
+  "mesh_terms": [
+    "Authorship",
+    "Conflict of Interest",
+    "Cross-Sectional Studies",
+    "Disclosure",
+    "Humans",
+    "Neurology",
+    "Periodicals as Topic",
+    "United States"
+  ]
+}

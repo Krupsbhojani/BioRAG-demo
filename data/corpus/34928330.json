@@ -1,0 +1,21 @@
+{
+  "pmid": "34928330",
+  "title": "Next-generation antibody-based therapies in neurology.",
+  "abstract": "Antibody-based therapeutics are now standard in the treatment of neuroinflammatory diseases, and the spectrum of neurological diseases targeted by those approaches continues to grow. The efficacy of antibody-based drug platforms is largely determined by the specificity-conferring antigen-binding fragment (Fab) and the crystallizable fragment (Fc) driving antibody function. The latter provides specific instructions to the immune system by interacting with cellular Fc receptors and complement components. Extensive engineering efforts have enabled tuning of Fc functions to modulate effector functions and to prolong or reduce antibody serum half-lives. Technologies that improve bioavailability of antibody-based treatment platforms within the CNS parenchyma are being developed and could invigorate drug discovery for a number of brain diseases for which current therapeutic options are limited. These powerful approaches are currently being tested in clinical trials or have been successfully translated into the clinic. Here, we review recent developments in the design and implementation of antibody-based treatment modalities in neurological diseases.",
+  "journal": "Brain : a journal of neurology",
+  "year": "2022",
+  "authors": [
+    "Ruck T",
+    "Nimmerjahn F",
+    "Wiendl H",
+    "Lünemann JD"
+  ],
+  "mesh_terms": [
+    "Antibodies",
+    "Humans",
+    "Immunoglobulin Fab Fragments",
+    "Immunologic Factors",
+    "Neurology",
+    "Receptors, Fc"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pmid": "38261980",
+  "title": "Mendelian Randomization Applied to Neurology: Promises and Challenges.",
+  "abstract": "The Mendelian randomization (MR) paradigm allows for causal inferences to be drawn using genetic data. In recent years, the expansion of well-powered publicly available genetic association data related to phenotypes such as brain tissue gene expression, brain imaging, and neurologic diseases offers exciting opportunities for the application of MR in the field of neurology. In this review, we discuss the basic principles of MR, its myriad applications to research in neurology, and potential pitfalls of injudicious applications. Throughout, we provide examples where MR-informed findings have shed light on long-standing epidemiologic controversies, provided insights into the pathophysiology of neurologic conditions, prioritized drug targets, and informed drug repurposing opportunities. With the ever-expanding availability of genome-wide association data, we project MR to become a key driver of progress in the field of neurology. It is therefore paramount that academics and clinicians within the field are familiar with the approach.",
+  "journal": "Neurology",
+  "year": "2024",
+  "authors": [
+    "Gagnon E",
+    "Daghlas I",
+    "Zagkos L",
+    "Sargurupremraj M",
+    "Georgakis MK",
+    "Anderson CD",
+    "Cronje HT",
+    "Burgess S",
+    "Arsenault BJ",
+    "Gill D"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Genome-Wide Association Study",
+    "Mendelian Randomization Analysis",
+    "Neurology",
+    "Brain",
+    "Drug Repositioning"
+  ]
+}

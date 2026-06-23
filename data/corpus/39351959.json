@@ -1,0 +1,32 @@
+{
+  "pmid": "39351959",
+  "title": "The Alzheimer's Disease Neuroimaging Initiative Neuropathology Core: An update.",
+  "abstract": "INTRODUCTION: Biomarkers for Alzheimer's disease neuropathologic change (ADNC) have been instrumental in developing effective disease-modifying therapeutics. However, to prevent/treat dementia effectively, we require biomarkers for non-AD neuropathologies; for this, neuropathologic examinations and annotated tissue samples are essential. METHODS: We conducted clinicopathologic correlation for the first 100 Alzheimer's Disease Neuroimaging Initiative (ADNI) Neuropathology Core (NPC) cases. RESULTS: Clinical syndromes in this cohort showed 95% sensitivity and 79% specificity for predicting high/intermediate ADNC, a 21% false positive rate, and a ∼44% false negative rate. In addition, 60% with high/intermediate ADNC harbored additional potentially dementing co-pathologies. DISCUSSION: These results suggest that clinical presentation imperfectly predicts ADNC and that accurate prediction of high/intermediate ADNC does not exclude co-pathology that may modify presentation, biomarkers, and therapeutic responses. Therefore, new biomarkers are needed for non-AD neuropathologies. The ADNI NPC supports this mission with well-characterized tissue samples (available through ADNI and the National Institute on Aging) and \"gold-standard\" diagnostic information (soon to include digital histology). HIGHLIGHTS: The Alzheimer's Disease Neuroimaging Initiative (ADNI) Neuropathology Core (NPC) brain donation cohort now exceeds 200 cases. ADNI NPC data in National Alzheimer's Coordinating Center format are available through the Laboratory of Neuro Imaging. Digitized slide files from the ADNI NPC will be available in 2025. Requests for ADNI brain tissue samples can be submitted online for ADNI/National Institute on Aging evaluation. Clinical diagnoses of Alzheimer's disease (AD)/AD and related dementias (ADRD) do not always predict post mortem neuropathology. Neuropathology is essential for the development of novel AD/ADRD biomarkers.",
+  "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+  "year": "2024",
+  "authors": [
+    "Perrin RJ",
+    "Franklin EE",
+    "Bernhardt H",
+    "Burns A",
+    "Schwetye KE",
+    "Cairns NJ",
+    "Baxter M",
+    "Weiner MW",
+    "Morris JC"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Alzheimer Disease",
+    "Neuroimaging",
+    "Aged",
+    "Brain",
+    "Female",
+    "Biomarkers",
+    "Male",
+    "Aged, 80 and over",
+    "Neuropathology",
+    "Cohort Studies",
+    "Sensitivity and Specificity"
+  ]
+}

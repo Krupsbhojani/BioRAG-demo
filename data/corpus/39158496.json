@@ -1,0 +1,31 @@
+{
+  "pmid": "39158496",
+  "title": "Evaluation of the impact of neurology electronic consults (e-consults): Experiences of a neurology resident clinic in a safety-net hospital.",
+  "abstract": "Background and ObjectivesElectronic consults (e-consults) are asynchronous, formalized requests by a provider to involve a specialist to assist with decision making. E-consults are an alternative to face-to-face consultation and are a promising strategy to efficiently address certain requests for advice. The objective of this project was to examine the utility and characteristics of electronic consults utilized in a safety-net hospital outpatient neurology clinic.MethodsWe retrospectively reviewed e-consults to the neurology clinic from1 January 2021 to 31 September 2021. The reasons for requests and any diagnostic or treatment recommendations were collected. The time to completion of the e-consults and the percentage of e-consult referred for an in-person clinic evaluation were determined as outcome measures. Following each e-consult, the consulting provider completed a survey to gather their assessment on the appropriateness of the consult, time spent answering the consult, and if unnecessary testing or clinic visits were avoided.ResultsA total of 528 e-consults were completed during the study period. The most frequent e-consult referrals were for headache (22%), stroke/neurovascular (21%), neuropathy/neuritis/disturbance of skin sensation (11%), and seizures/spells (11%). The majority of e-consults (94%) were answered in one business day (defined as occurring within 24 h) with 67% of consults answered the same day (defined as occurring within the same calendar day). The consulting providers reported that more than 90% of e-consults took <15 min to answer, and 84% of e-consult requests were felt to be appropriate. A total 156 (41.4%) patients initially seen as an e-consult were referred for a face-to-face visit within 90 days of the e-consult.DiscussionE-consults provided expedited input from neurologists, which is vital in health systems that provide care to vulnerable populations. The majority of e-consults were answered within 1 day of referral, offering rapid access to neurological expertise in comparison to wait times currently encountered for face-to-face visits. Accordingly, e-consults have the potential to expedite treatment for patients, empower primary care providers, and reduce demand for in-person consultations, particularly in large health systems caring for vulnerable populations.",
+  "journal": "Journal of telemedicine and telecare",
+  "year": "2025",
+  "authors": [
+    "Tardo L",
+    "Hirczy S",
+    "Blackburn K",
+    "Mejia M",
+    "Salter A",
+    "Huynh M",
+    "Khan S"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Retrospective Studies",
+    "Neurology",
+    "Remote Consultation",
+    "Female",
+    "Male",
+    "Middle Aged",
+    "Safety-net Providers",
+    "Adult",
+    "Aged",
+    "Internship and Residency",
+    "Referral and Consultation",
+    "Nervous System Diseases"
+  ]
+}

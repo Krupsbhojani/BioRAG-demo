@@ -1,0 +1,26 @@
+{
+  "pmid": "33154470",
+  "title": "Spatial accessibility of general inpatient care in Germany: an analysis of surgery, internal medicine and neurology.",
+  "abstract": "Improving spatial accessibility to hospitals is a major task for health care systems which can be facilitated using recent methodological improvements of spatial accessibility measures. We used the integrated floating catchment area (iFCA) method to analyze spatial accessibility of general inpatient care (internal medicine, surgery and neurology) on national level in Germany determining an accessibility index (AI) by integrating distances, hospital beds and morbidity data. The analysis of 358 million distances between hospitals and population locations revealed clusters of lower accessibility indices in areas in north east Germany. There was a correlation of urbanity and accessibility up to r = 0.31 (p < 0.001). Furthermore, 10% of the population lived in areas with significant clusters of low spatial accessibility for internal medicine and surgery (neurology: 20%). The analysis revealed the highest accessibility for heart failure (AI = 7.33) and the lowest accessibility for stroke (AI = 0.69). The method applied proofed to reveal important aspects of spatial accessibility i.e. geographic variations that need to be addressed. However, for the majority of the German population, accessibility of general inpatient care was either high or at least not significantly low, which suggests rather adequate allocation of hospital resources for most parts of Germany.",
+  "journal": "Scientific reports",
+  "year": "2021",
+  "authors": [
+    "Bauer J",
+    "Klingelhöfer D",
+    "Maier W",
+    "Schwettmann L",
+    "Groneberg DA"
+  ],
+  "mesh_terms": [
+    "Architectural Accessibility",
+    "General Surgery",
+    "Germany",
+    "Health Services Accessibility",
+    "Hospitals",
+    "Humans",
+    "Inpatients",
+    "Internal Medicine",
+    "Neurology",
+    "Spatial Analysis"
+  ]
+}

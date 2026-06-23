@@ -1,0 +1,36 @@
+{
+  "pmid": "37471150",
+  "title": "Developing a Quality Assurance Framework for Neuro-Ophthalmology Using a Multisite Data Registry.",
+  "abstract": "BACKGROUND: Quality assurance (QA) in neuro-ophthalmology (NOPH) is often lacking. We aimed to assess the quality of referral assessment and time to consult for common neuro-ophthalmological conditions by implementing a quality-assurance registry, NODE (Neuro-ophthalmology Database), in a tertiary neuro-ophthalmology clinic. Australian standardized triage categories, namely, P1 (consult ≤30 days), P2 (consult ≤30-60 days), and P3 (consult ≤60-90 days), were developed and validated for neuro-ophthalmological conditions. METHODS: We collected data from NODE on 676 patients at the Alfred Hospital, Melbourne and developed a consensus on the assignation of NOPH conditions to triage categories using a modified Delphi approach. A panel of 7 experienced neuro-ophthalmologists scored conditions and assignation to triage categories. Consensus was considered when ≥75% of the panel strongly agreed or agreed. We analyzed the mean days from referral to triage and from triage to the initial consultation and compared that with the developed triage category standard. RESULTS: Most patients presenting to the service were female (64%). Common diagnoses were idiopathic intracranial hypertension (IIH) (19%), optic neuropathy (ON) (14%), nonspecific headaches (11%), cranial nerve defects (CND) (8%), and papilledema (7%). Consensus on triage category assignment was reached after 2 rounds of scoring from expert panel members. The mean time from referral to triage was performed in <5 days for all the common diagnosis at the NOPH clinic. The mean days (±SD) from P1 category triage to initial consult for IIH was 15 (±12) days, acute ON 16 (±14) days, CND was 20 (±15) days, and papilledema was 20 (±19) days. The mean days from P2 triage to initial consultant for nonspecific headaches was 22 (±20) days and for EOMD was 48 (±22) days. The mean time (days) from P3 triage to initial consultant for nonocular myasthenia gravis was 38 days (±29) days and for visual snow was 54 (±31) days. CONCLUSIONS: We have established a consensus agreement on triage categories for neuro-ophthalmological conditions, which can be further validated using a larger panel of experts. We established a NOPH registry that will serve as a framework to benchmark quality of care between NOPH services. Data from our NOPH registry demonstrated that most conditions are appropriately triaged and seen.",
+  "journal": "Journal of neuro-ophthalmology : the official journal of the North American Neuro-Ophthalmology Society",
+  "year": "2024",
+  "authors": [
+    "Lal AP",
+    "Dimmick S",
+    "Roche O",
+    "Wang W",
+    "Sheth S",
+    "Chakrabarti R",
+    "Del Porto LA",
+    "Fok A",
+    "Shuey N",
+    "Fraser C",
+    "White O",
+    "Van der Walt A"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Registries",
+    "Female",
+    "Male",
+    "Ophthalmology",
+    "Quality Assurance, Health Care",
+    "Neurology",
+    "Adult",
+    "Referral and Consultation",
+    "Middle Aged",
+    "Triage",
+    "Australia",
+    "Eye Diseases"
+  ]
+}

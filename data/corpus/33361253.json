@@ -1,0 +1,27 @@
+{
+  "pmid": "33361253",
+  "title": "Increasing Out-of-Pocket Costs for Neurologic Care for Privately Insured Patients.",
+  "abstract": "OBJECTIVE: To measure the out-of-pocket (OOP) costs of evaluation and management (E/M) services and common diagnostic testing for neurology patients. METHODS: Using a large, privately insured health care claims database, we identified patients with a neurologic visit or diagnostic test from 2001 to 2016 and assessed inflation-adjusted OOP costs for E/M visits, neuroimaging, and neurophysiologic testing. For each diagnostic service each year, we estimated the proportion of patients with OOP costs, the mean OOP cost, and the proportion of the total service cost paid OOP. We modeled OOP cost as a function of patient and insurance factors. RESULTS: We identified 3,724,342 patients. The most frequent neurologic services were E/M visits (78.5%), EMG/nerve conduction studies (NCS) (7.7%), MRIs (5.3%), and EEGs (4.5%). Annually, 86.5%-95.2% of patients paid OOP costs for E/M visits and 23.1%-69.5% for diagnostic tests. For patients paying any OOP cost, the mean OOP cost increased over time, most substantially for EEG, MRI, and E/M. OOP costs varied considerably; for an MRI in 2016, the 50th percentile paid $103.10 and the 95th percentile paid $875.40. The proportion of total service cost paid OOP increased. High deductible health plan (HDHP) enrollment was associated with higher OOP costs for MRI, EMG/NCS, and EEG. CONCLUSION: An increasing number of patients pay OOP for neurologic diagnostic services. These costs are rising and vary greatly across patients and tests. The cost sharing burden is particularly high for the growing population with HDHPs. In this setting, neurologic evaluation might result in financial hardship for patients.",
+  "journal": "Neurology",
+  "year": "2021",
+  "authors": [
+    "Hill CE",
+    "Reynolds EL",
+    "Burke JF",
+    "Banerjee M",
+    "Kerber KA",
+    "Magliocco B",
+    "Esper GJ",
+    "Skolarus LE",
+    "Callaghan BC"
+  ],
+  "mesh_terms": [
+    "Health Expenditures",
+    "Humans",
+    "Insurance, Health",
+    "Nervous System Diseases",
+    "Neuroimaging",
+    "Neurologic Examination",
+    "Neurology"
+  ]
+}

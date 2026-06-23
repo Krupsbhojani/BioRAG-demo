@@ -1,0 +1,25 @@
+{
+  "pmid": "39477845",
+  "title": "Long-term trends of publications in journal of neuro-oncology: a bibliographic study of a core journal in the field of neuro-oncology.",
+  "abstract": "PURPOSE: The Journal of Neuro-Oncology (JNO), established in 1983, plays a key role in publishing research on brain and spinal cord tumors. This study examines JNO's publication trends, focusing on country and gender representation to highlight its global impact. METHODS: Statistical analyses were conducted using R. Gender of the first authors was predicted using a gender-guesser, and author affiliations were used to determine publication countries. We introduced a novel Country-Related Diversity (CRD) index to assess the JNO's representativeness, comparing a country's JNO publications to its overall neurosurgical output. An index value of 1 indicates proportional representation. RESULTS: The JNO corpus, spanning from 1983 to 2024, comprises 8,154 documents with an average document age of 14.4 years. The average citation count per document is 28.71, with a rate of 2.16 citations per document per year. JNO's scientific output has grown significantly, peaking at 397 articles in 2011, with a long-term annual growth rate of 3.7%. The keyword analysis highlights \"glioblastoma\" as the most frequent term, reflecting the journal's neuro-oncological focus. Geographically, the U.S. led with 2,535 articles (40.1%), followed by China and Germany. International collaboration rose steadily, with multi-country publications increasing from 4.76% in 1983 to 20.98% in 2024. Analyzing contributions from different countries showed a converging CRD index toward 1 (P < 0.01), with U.S. and non-U.S. countries trending similarly. Upper-middle-income countries displayed fluctuating CRD patterns, whereas lower-middle-income countries lagged behind. Authorship analysis showed an increasing trend in co-authorship (P < 0.01), with the average number of authors per paper reaching 10.4 by 2024. Gender representation revealed a growing number of female first and senior authors, although males still dominate. By 2024, 32.9% of first authors and 21.6% of senior authors were female, signaling a gradual trend toward gender parity (P < 0.01). CONCLUSIONS: The CRD index offers a standardized measure of country-specific research representation in the JNO. The convergence towards 1 reflects balanced international representation. JNO publication also reflects a trend toward gender equity, with a notable rise in female first authors, enhancing global research inclusivity.",
+  "journal": "Journal of neuro-oncology",
+  "year": "2025",
+  "authors": [
+    "Maroufi SF",
+    "Maroufi SP",
+    "Fallahi MS",
+    "Sheehan JP"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Medical Oncology",
+    "Periodicals as Topic",
+    "Bibliometrics",
+    "Brain Neoplasms",
+    "Male",
+    "Publishing",
+    "Neurology",
+    "Female",
+    "Publications"
+  ]
+}

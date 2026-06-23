@@ -1,0 +1,25 @@
+{
+  "pmid": "37739230",
+  "title": "Demographics, Practice Analysis, and Geographic Distribution of Neuro-Ophthalmologists in the United States in 2023.",
+  "abstract": "PURPOSE: To assess the demographic characteristics and geographic distribution of neuro-ophthalmologists practicing in the United States. DESIGN: A cross-sectional study. PARTICIPANTS: Neuro-ophthalmologists across the United States. METHODS: In this cross-sectional study, public databases from the American Academy of Ophthalmology, North American Neuro-ophthalmology Society, American Neurological Association, and American Academy of Neurology were used to identify neuro-ophthalmologists in the United States as of April 2023. Providers' office locations were geocoded using ArcGIS pro, version 2.9 (Esri). Data on age, sex, and residency and fellowship training were collected. Analysis was performed using SPSS 28.0 (IBM Corp.). MAIN OUTCOME MEASURES: Neuro-ophthalmologists' demographics, and information about their medical education, postgraduate education, residency training, fellowship training, years in practice, practice environment, and geographic distribution of neuro-ophthalmologists across the United States. RESULTS: A total of 635 neuro-ophthalmologists (436 male, 68.7%) were identified. The majority (599, 94.3%) graduated from an allopathic medical school. Most of the 85 physicians who held a secondary graduate degree had a PhD (54, 63.5%). Although approximately three-quarters (429, 67.6%) completed their residency in ophthalmology, 159 (25%) had residency positions in neurology and 47 (7.4%) had residency positions in both. Approximately one-third (191, 30.0%) were trained in more than 1 fellowship, including oculoplastics (78, 12.3%) or pediatric ophthalmology (53, 8.3%). The average post-fellowship years of experience was 23.7±13.7 years, with 134 (21.1%) in their early career (< 10 years), 120 (18.9%) in their mid-careers (10-19 years), and 381 (60.0%) in their late careers (> 20 years). Male neuro-ophthalmologists had 10.5±1.1 more years of experience than female neuro-ophthalmologists (P < 0.001). Three states (Maine, South Dakota, Wyoming) and 2897 counties (93.2%) had no neuro-ophthalmologists. Counties without a neuro-ophthalmologist had lower median income (P < 0.001), lower access to a vehicle (P = 0.024), and lower rates of health insurance (P = 0.012). CONCLUSIONS: Practicing neuro-ophthalmologists are mostly male and often are trained in more than 1 subspecialty. More than half of the practicing neuro-ophthalmologists are in their late careers, which may further exacerbate the existing geographic and socioeconomic disparities in access to neuro-ophthalmology. FINANCIAL DISCLOSURE(S): The author(s) have no proprietary or commercial interest in any materials discussed in this article.",
+  "journal": "Ophthalmology",
+  "year": "2024",
+  "authors": [
+    "Pakravan P",
+    "Lai J",
+    "Cavuoto KM"
+  ],
+  "mesh_terms": [
+    "Child",
+    "Humans",
+    "Male",
+    "Female",
+    "United States",
+    "Ophthalmologists",
+    "Cross-Sectional Studies",
+    "Internship and Residency",
+    "Neurology",
+    "Ophthalmology",
+    "Demography"
+  ]
+}

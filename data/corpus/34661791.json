@@ -1,0 +1,25 @@
+{
+  "pmid": "34661791",
+  "title": "Current state of therapeutic focused ultrasound applications in neuro-oncology.",
+  "abstract": "INTRODUCTION: Despite manifold advances in oncology, cancers of the central nervous system remain among the most lethal. Unique features of the brain, including distinct cellular composition, immunological privilege, and physical barriers to therapeutic delivery, likely contribute to the poor prognosis of patients with neuro-oncological disease. Focused ultrasound is an emerging technology that allows transcranial delivery of ultrasound energy to focal brain targets with great precision. METHODS: A review of the clinical and preclinical focused ultrasound literature was performed to obtain data regarding the current state of the focused ultrasound in context of neuro-oncology. A narrative review was then constructed to provide an overview of current and future applications of this technology. RESULTS: Focused ultrasound can facilitate direct control of tumors by thermal or mechanical ablation, as well as enhance delivery of diverse therapeutics by disruption of the blood-brain barrier without local tissue damage. Indeed, ultrasound-sensitive drug formulations or sonosensitizers may be combined with ultrasound blood-brain barrier disruption to achieve high local drug concentration while limiting systemic exposure to therapeutics. Furthermore, focused ultrasound can induce radiosensitization, immunomodulation, and neuromodulation. Here we review applications of focused ultrasound with a focus on approaches currently under clinical investigation for the treatment of neuro-oncological disease, such as blood-brain barrier disruption for drug delivery and thermal ablation. We also discuss design of clinical trials, selection of patient cohorts, and emerging approaches to improve the efficacy of transcranial ultrasound, such as histotripsy, as well as combinatorial strategies to exploit synergistic biological effects of existing cancer therapies and ultrasound. CONCLUSIONS: Focused ultrasound is a promising and actively expanding therapeutic modality for diverse neuro-oncological diseases.",
+  "journal": "Journal of neuro-oncology",
+  "year": "2022",
+  "authors": [
+    "Meng Y",
+    "Pople CB",
+    "Budiansky D",
+    "Li D",
+    "Suppiah S",
+    "Lim-Fat MJ",
+    "Perry J",
+    "Sahgal A",
+    "Lipsman N"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Medical Oncology",
+    "Nervous System Neoplasms",
+    "Neurology",
+    "Ultrasonic Therapy"
+  ]
+}

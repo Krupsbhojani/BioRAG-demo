@@ -1,0 +1,28 @@
+{
+  "pmid": "31664019",
+  "title": "Cryo-EM structure and polymorphism of Aβ amyloid fibrils purified from Alzheimer's brain tissue.",
+  "abstract": "The formation of Aβ amyloid fibrils is a neuropathological hallmark of Alzheimer's disease and cerebral amyloid angiopathy. However, the structure of Aβ amyloid fibrils from brain tissue is poorly understood. Here we report the purification of Aβ amyloid fibrils from meningeal Alzheimer's brain tissue and their structural analysis with cryo-electron microscopy. We show that these fibrils are polymorphic but consist of similarly structured protofilaments. Brain derived Aβ amyloid fibrils are right-hand twisted and their peptide fold differs sharply from previously analyzed Aβ fibrils that were formed in vitro. These data underscore the importance to use patient-derived amyloid fibrils when investigating the structural basis of the disease.",
+  "journal": "Nature communications",
+  "year": "2020",
+  "authors": [
+    "Kollmer M",
+    "Close W",
+    "Funk L",
+    "Rasmussen J",
+    "Bsoul A",
+    "Schierhorn A",
+    "Schmidt M",
+    "Sigurdson CJ",
+    "Jucker M",
+    "Fändrich M"
+  ],
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Amyloid",
+    "Amyloid beta-Peptides",
+    "Brain",
+    "Cryoelectron Microscopy",
+    "Humans",
+    "Neuropathology"
+  ]
+}

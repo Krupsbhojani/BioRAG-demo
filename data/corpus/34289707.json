@@ -1,0 +1,19 @@
+{
+  "pmid": "34289707",
+  "title": "Top Priorities for Cerebroprotective Studies-A Paradigm Shift: Report From STAIR XI.",
+  "abstract": "Despite years of basic research and pioneering clinical work, ischemic stroke remains a major public health concern. Prior STAIR (Stroke Treatment Academic Industry Roundtable) conferences identified both failures of clinical trial design and failures in preclinical assessment in developing putative ischemic stroke treatments. At STAIR XI, participants in workshop no. 1 Top Priorities for Neuroprotection sought to redefine the neuroprotection paradigm and given the paucity of evidence underlying preclinical assessment, offer consensus-based recommendations. STAIR proposes the term brain cytoprotection or cerebroprotection to replace the term neuroprotection when the intention of an investigation is to demonstrate that a new, candidate treatment benefits the entire brain. Although \"time is still brain,\" tissue imaging techniques have been developed to identify patients with both predicted core injury and penumbral, salvageable brain tissue, regardless of time after stroke symptom onset. STAIR XI workshop participants called this imaging approach a tissue window to select patients for recanalization. Elements of the neurovascular unit show differential vulnerability evolving over differing time scales in different brain regions. STAIR proposes the term target window to suggest therapies that target the different elements of the neurovascular unit at different times. Based on contemporary principles of rigor and transparency, the workshop updated, revised, and enhanced the STAIR preclinical recommendations for developing new treatments in 2 phases: an exploratory qualification phase and a definitive validation phase. For new, putative treatments, investigators should carefully characterize the mechanism of action, the pharmacokinetics/pharmacodynamics, demonstrate target engagement, and confirm penetration through the blood-brain barrier. Before clinical trials, testing of candidate molecules in stroke models could proceed in a comprehensive manner using animals of both sexes and to include significant variables such as age and comorbid conditions. Comprehensive preclinical assessment might include multicenter, collaborative testing, for example, network trials. In the absence of a proven cerebroprotective agent to use as a gold standard, however, it remains speculative whether such comprehensive preclinical assessment can effectively predict clinical outcome.",
+  "journal": "Stroke",
+  "year": "2022",
+  "authors": [
+    "Lyden P",
+    "Buchan A",
+    "Boltze J",
+    "Fisher M"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Ischemic Stroke",
+    "Neurology"
+  ]
+}

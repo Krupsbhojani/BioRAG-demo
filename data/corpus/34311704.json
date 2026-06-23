@@ -1,0 +1,31 @@
+{
+  "pmid": "34311704",
+  "title": "A multiyear systematic survey of the quality of reporting for randomised trials in dentistry, neurology and geriatrics published in journals of Spain and Latin America.",
+  "abstract": "BACKGROUND: The Iberoamerican Cochrane Network is currently developing an extensive project to identify Spanish-language journals that publish original clinical research in Spain and Latin America. The project is called BADERI (Database of Iberoamerican Essays and Journal) and feeds the research articles, mainly randomised clinical trials (RCTs), into CENTRAL (Cochrane Collaboration Central Register of Controlled Trials). This study aims to assess the quality of reporting of RCTs published in Spanish and Latin American journals for three clinical fields and assess changes over time. METHODS: We did a systematic survey with time trend analysis of RCTs for dentistry, geriatrics, and neurology. These fields were chosen for pragmatic reasons as they had not yet been completed in BADERI. After screening RCTs from 1990 to 2018 for randomised or quasi-randomised clinical trials, we extracted data for 23 CONSORT items. The primary outcome was the total score of the 23 predefined CONSORT 2010 items for each RCT (score range from 0 to 34). The secondary outcome measure was the score for each one of these 23 items. RESULTS: A total of 392 articles from 1990 to 2018 were included as follows: dentistry (282), neurology (80), and geriatrics (30). We found that the overall compliance score for the CONSORT items included in this study for all 392 RCTs analysed was 12.6 on a scale with a maximum score of 34. With time, the quality of reporting improved slightly for all RCTs. None of the articles achieved the complete individual CONSORT item compliance score. The lowest overall compliance percentage was for item 10 (Randomisation implementation) and item 24 (Protocol registration), with a dismal 1% compliance across all included RCTs, regardless of country. CONCLUSIONS: CONSORT compliance is very poor in the 392 analysed RCTs. The impact of the CONSORT statement on improving the completeness of RCT reporting in Latin America and Spain is not clear. Iberoamerican journals should become more involved in endorsing and enforcing adherence to the CONSORT guidelines.",
+  "journal": "BMC medical research methodology",
+  "year": "2021",
+  "authors": [
+    "Bachelet VC",
+    "Navarrete MS",
+    "Barrera-Riquelme C",
+    "Carrasco VA",
+    "Dallaserra M",
+    "Díaz RA",
+    "Ibarra ÁA",
+    "Lizana FJ",
+    "Meza-Ducaud N",
+    "Saavedra MG",
+    "Tapia-Davegno C",
+    "Vergara AF",
+    "Villanueva J"
+  ],
+  "mesh_terms": [
+    "Dentistry",
+    "Geriatrics",
+    "Humans",
+    "Latin America",
+    "Neurology",
+    "Periodicals as Topic",
+    "Spain"
+  ]
+}

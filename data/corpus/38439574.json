@@ -1,0 +1,23 @@
+{
+  "pmid": "38439574",
+  "title": "High-Dimensional Methods of Single-Cell Microglial Profiling to Enhance Understanding of Neuropathological Disease.",
+  "abstract": "Microglia are the innate myeloid cells of the central nervous system (CNS) parenchyma, functionally implicated in almost every defined neuroinflammatory and neurodegenerative disorder. Current understanding of disease pathogenesis for many neuropathologies is limited and/or lacks reliable diagnostic markers, vaccines, and treatments. With the increasing aging of society and rise in neurogenerative diseases, improving our understanding of their pathogenesis is essential. Analysis of microglia from murine disease models provides an investigative tool to unravel disease processes. In many neuropathologies, bone-marrow-derived monocytes are recruited to the CNS, adopting a phenotype similar to that of microglia. This significantly confounds the accurate identification of cell-type-specific functions and downstream therapeutic targeting. The increased capacity to analyze more phenotypic markers using spectral-cytometry-based technologies allows improved separation of microglia from monocyte-derived cells. Full-spectrum profiling enables enhanced marker resolution, time-efficient analysis of >40 fluorescence parameters, and extraction of cellular autofluorescence parameters. Coupling this system with additional cytometric technologies, including cell sorting and high-parameter imaging, can improve the understanding of microglial phenotypes in disease. To this end, we provide detailed, step-by-step protocols for the analysis of murine brain tissue by high-parameter ex vivo cytometric analysis using the Aurora spectral cytometer (Cytek), including best practices for unmixing and autofluorescence extraction, cell sorting for single-cell RNA analysis, and imaging mass cytometry. Together, this provides a toolkit for researchers to comprehensively investigate microglial disease processes at protein, RNA, and spatial levels for the identification of therapeutic targets in neuropathology. © 2024 The Authors. Current Protocols published by Wiley Periodicals LLC. Basic Protocol 1: Processing the mouse brain into a single-cell suspension for microglia isolation Basic Protocol 2: Staining single-cell mouse brain suspensions for microglial phenotyping by spectral cytometry Basic Protocol 3: Flow cytometric sorting of mouse microglia for ex vivo analysis Basic Protocol 4: Processing the mouse brain for imaging mass cytometry for spatial microglia analysis.",
+  "journal": "Current protocols",
+  "year": "2024",
+  "authors": [
+    "Spiteri AG",
+    "Pilkington KR",
+    "Wishart CL",
+    "Macia L",
+    "King NJC"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Mice",
+    "Microglia",
+    "Central Nervous System",
+    "Neuropathology",
+    "Aging",
+    "RNA"
+  ]
+}

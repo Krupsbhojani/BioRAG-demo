@@ -1,0 +1,20 @@
+{
+  "pmid": "39704153",
+  "title": "Optical coherence tomography: implications for neurology.",
+  "abstract": "PURPOSE OF REVIEW: This article explores the role of optical coherence tomography (OCT) in neurology practice, particularly in diagnosing and monitoring conditions such as papilledema, optic neuritis, and retinal artery occlusion. OCT has been increasingly utilized as a noninvasive and effective tool for detecting and monitoring neuroaxonal damage in the visual pathway, which is important for early intervention and improved patient outcomes across a variety of neurologic conditions. RECENT FINDINGS: OCT as an imaging modality continues to demonstrate its utility in quantifying optic nerve and retinal changes reflecting neuroaxonal injury, including, peripapillary retinal nerve fiber layer (pRNFL) thickness and macular ganglion cell layer thickness (or volume). This review focuses on recent evidence regarding the utilization of this modality in diagnosing, monitoring, and quantifying treatment responses in patients with papilledema, optic neuritis, and retinal artery occlusion. Advances in OCT technology, including deep learning algorithms, continue to enhance the diagnostic accuracy and predictive capabilities in the field of neuro-ophthalmology. SUMMARY: In recent years, OCT has become an essential tool in neuro-ophthalmic assessment, offering precise structural and anatomical assessments that support diagnosis, treatment planning, and monitoring of conditions affecting the visual pathway. Ongoing advances in OCT technology are expected to further enhance its clinical utility.",
+  "journal": "Current opinion in neurology",
+  "year": "2025",
+  "authors": [
+    "Al-Ani A",
+    "Benard-Seguin É",
+    "Costello F"
+  ],
+  "mesh_terms": [
+    "Tomography, Optical Coherence",
+    "Humans",
+    "Optic Neuritis",
+    "Neurology",
+    "Retinal Artery Occlusion",
+    "Papilledema"
+  ]
+}

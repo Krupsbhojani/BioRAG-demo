@@ -1,0 +1,35 @@
+{
+  "pmid": "39592808",
+  "title": "Impact of the COVID-19 pandemic on acute cardiology and neurology services in a secondary peripheral hospital.",
+  "abstract": "The indirect impact of the COVID-19 pandemic on clinical services in peripheral hospitals has not been fully described. We compared the impact of COVID-19 on Cerebral Vascular Accident (CVA) and ST-elevation myocardial infarction (STEMI) management and outcome in an Israeli peripheral hospital. We included 1029 CVA and 495 STEMI patients. Patients who arrived during (15/3/2020-15/4/2022) and before (1/1/2018-14/3/2020) the pandemic, were demographically comparable. During the pandemic, median time for CVA patients from arrival to imaging was longer (23 vs. 19 min, p = 0.001); timing from arrival to tissue Plasminogen Activator administration was similar (49 vs. 45 min, p = 0.61); transfer to another hospital was more common (20.3% vs. 14.4% p = 0.01) and median length of stay (LOS) was shorter (3 vs. 4 days, p < 0.05). Among STEMI patients, median time from arrival to intervention intra- pandemic was shorter (45 vs. 50 min p = 0.02); Mean LOS shorter (3.86 vs. 4.48 p = 0.01), and unplanned re-admission less frequent (7.8% vs. 14.6% p = 0.01). Mortality did not change significantly. Our data shows no major negative impact of the COVID-19 pandemic on CVA outcomes, and improved care for STEMI patients. Interviews with the neurology and cardiology staff are performed to investigate how quality of care was maintained during the crises.",
+  "journal": "Scientific reports",
+  "year": "2024",
+  "authors": [
+    "Bernstine T",
+    "Spitzer S",
+    "Pleban R",
+    "Armon-Omer A",
+    "Ron A",
+    "Kains I",
+    "Hamudi J",
+    "Shahien R",
+    "Edelstein M"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "COVID-19",
+    "Male",
+    "Female",
+    "Aged",
+    "ST Elevation Myocardial Infarction",
+    "Middle Aged",
+    "Neurology",
+    "Israel",
+    "Length of Stay",
+    "Aged, 80 and over",
+    "Stroke",
+    "Pandemics",
+    "SARS-CoV-2",
+    "Cardiology"
+  ]
+}

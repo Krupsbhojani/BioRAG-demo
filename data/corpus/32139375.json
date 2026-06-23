@@ -1,0 +1,19 @@
+{
+  "pmid": "32139375",
+  "title": "Clinical digital neuropathology: experience and observations from a departmental digital pathology training programme, validation and deployment.",
+  "abstract": "AIM: To train and individually validate the neuropathologists in digital primary diagnosis and frozen section reporting using a novel protocol endorsed by the Royal College of Pathologists. The protocol allows early exposure to live digital reporting in a risk mitigated environment. METHODS: Two specialist neuropathologists completed training in the use of a digital microscopy system for primary neuropathological diagnosis and frozen section assessment. Participants were exposed to training sets of 20 histology cases and 10 frozen sections designed to help them identify their personal digital diagnostic pitfalls. Following this, the pathologists viewed 340 live, complete neuropathology cases. All primary diagnoses were made on digital slides with immediate glass slide reconciliation before final case sign-out. RESULTS: There was 100% clinical concordance between the digital slide and glass slide assessment of frozen section cases for each pathologist, and these assessments corresponded with the ground truth diagnoses obtained from examination of definitive histology. For primary diagnosis, there was complete clinical concordance between digital slide and glass slide diagnosis in 98.1% of cases. The majority of discordances were related to grading differences attributable to mitotic count differences. CONCLUSION: Neuropathologists can develop the ability to make primary digital diagnosis competently and confidently following a course of individual training and validation.",
+  "journal": "Journal of clinical pathology",
+  "year": "2021",
+  "authors": [
+    "Williams BJ",
+    "Ismail A",
+    "Chakrabarty A",
+    "Treanor D"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Image Interpretation, Computer-Assisted",
+    "Neurology",
+    "Pathology, Clinical"
+  ]
+}

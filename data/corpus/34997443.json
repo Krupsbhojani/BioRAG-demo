@@ -1,0 +1,22 @@
+{
+  "pmid": "34997443",
+  "title": "Neonatal Fc Receptor-Targeted Therapies in Neurology.",
+  "abstract": "Autoantibodies are increasingly recognized for their pathogenic potential in a growing number of neurological diseases. While myasthenia gravis represents the prototypic antibody (Ab)-mediated neurological disease, many more disorders characterized by Abs targeting neuronal or glial antigens have been identified over the past two decades. Depletion of humoral immune components including immunoglobulin G (IgG) through plasma exchange or immunoadsorption is a successful therapeutic strategy in most of these disease conditions. The neonatal Fc receptor (FcRn), primarily expressed by endothelial and myeloid cells, facilitates IgG recycling and extends the half-life of IgG molecules. FcRn blockade prevents binding of endogenous IgG to FcRn, which forces these antibodies into lysosomal degradation, leading to IgG depletion. Enhancing the degradation of endogenous IgG by FcRn-targeted therapies proved to be a powerful therapeutic approach in patients with generalized MG and is currently being tested in clinical trials for several other neurological diseases including autoimmune encephalopathies, neuromyelitis optica spectrum disorders, and inflammatory neuropathies. This review illustrates mechanisms of FcRn-targeted therapies and appraises their potential to treat neurological diseases.",
+  "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
+  "year": "2022",
+  "authors": [
+    "Nelke C",
+    "Spatola M",
+    "Schroeter CB",
+    "Wiendl H",
+    "Lünemann JD"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Immunoglobulin G",
+    "Nervous System Diseases",
+    "Neurology",
+    "Receptors, Fc",
+    "Histocompatibility Antigens Class I"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "36447297",
+  "title": "Methylation differences in Alzheimer's disease neuropathologic change in the aged human brain.",
+  "abstract": "Alzheimer's disease (AD) is the most common cause of dementia with advancing age as its strongest risk factor. AD neuropathologic change (ADNC) is known to be associated with numerous DNA methylation changes in the human brain, but the oldest old (> 90 years) have so far been underrepresented in epigenetic studies of ADNC. Our study participants were individuals aged over 90 years (n = 47) from The 90+ Study. We analyzed DNA methylation from bulk samples in eight precisely dissected regions of the human brain: middle frontal gyrus, cingulate gyrus, entorhinal cortex, dentate gyrus, CA1, substantia nigra, locus coeruleus and cerebellar cortex. We deconvolved our bulk data into cell-type-specific (CTS) signals using computational methods. CTS methylation differences were analyzed across different levels of ADNC. The highest amount of ADNC related methylation differences was found in the dentate gyrus, a region that has so far been underrepresented in large scale multi-omic studies. In neurons of the dentate gyrus, DNA methylation significantly differed with increased burden of amyloid beta (Aβ) plaques at 5897 promoter regions of protein-coding genes. Amongst these, higher Aβ plaque burden was associated with promoter hypomethylation of the Presenilin enhancer 2 (PEN-2) gene, one of the rate limiting genes in the formation of gamma-secretase, a multicomponent complex that is responsible in part for the endoproteolytic cleavage of amyloid precursor protein into Aβ peptides. In addition to novel ADNC related DNA methylation changes, we present the most detailed array-based methylation survey of the old aged human brain to date. Our open-sourced dataset can serve as a brain region reference panel for future studies and help advance research in aging and neurodegenerative diseases.",
+  "journal": "Acta neuropathologica communications",
+  "year": "2022",
+  "authors": [
+    "Lang AL",
+    "Eulalio T",
+    "Fox E",
+    "Yakabi K",
+    "Bukhari SA",
+    "Kawas CH",
+    "Corrada MM",
+    "Montgomery SB",
+    "Heppner FL",
+    "Capper D",
+    "Nachun D",
+    "Montine TJ"
+  ],
+  "mesh_terms": [
+    "Aged, 80 and over",
+    "Humans",
+    "Middle Aged",
+    "Aged",
+    "Alzheimer Disease",
+    "Amyloid beta-Peptides",
+    "Neuropathology",
+    "Brain",
+    "Plaque, Amyloid",
+    "DNA Methylation"
+  ]
+}

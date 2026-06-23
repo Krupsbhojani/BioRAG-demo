@@ -1,0 +1,21 @@
+{
+  "pmid": "39347854",
+  "title": "Emerging Trends: Neurofilament Biomarkers in Precision Neurology.",
+  "abstract": "Neurofilaments are structural proteins found in the cytoplasm of neurons, particularly in axons, providing structural support and stability to the axon. They consist of multiple subunits, including NF-H, NF-M, and NF-L, which form long filaments along the axon's length. Neurofilaments are crucial for maintaining the shape and integrity of neurons, promoting axonal transport, and regulating neuronal function. They are part of the intermediate filament (IF) family, which has approximately 70 tissue-specific genes. This diversity allows for a customizable cytoplasmic meshwork, adapting to the unique structural demands of different tissues and cell types. Neurofilament proteins show increased levels in both cerebrospinal fluid (CSF) and blood after neuroaxonal damage, indicating injury regardless of the underlying etiology. Precise measurement and long-term monitoring of damage are necessary for determining prognosis, assessing disease activity, tracking therapeutic responses, and creating treatments. These investigations contribute to our understanding of the importance of proper NF composition in fundamental neuronal processes and have implications for neurological disorders associated with NF abnormalities along with its alteration in different animal and human models. Here in this review, we have highlighted various neurological disorders such as Alzheimer's, Parkinson's, Huntington's, Dementia, and paved the way to use neurofilament as a marker in managing neurological disorders.",
+  "journal": "Neurochemical research",
+  "year": "2024",
+  "authors": [
+    "Sharma P",
+    "Giri A",
+    "Tripathi PN"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Neurofilament Proteins",
+    "Biomarkers",
+    "Animals",
+    "Intermediate Filaments",
+    "Nervous System Diseases",
+    "Neurology"
+  ]
+}

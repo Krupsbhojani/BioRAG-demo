@@ -1,0 +1,42 @@
+{
+  "pmid": "31418803",
+  "title": "Hospital Utilization Among Rural Children Served by Pediatric Neurology Telemedicine Clinics.",
+  "abstract": "IMPORTANCE: Telemedicine is increasingly used to provide outpatient pediatric neurology consultations in underserved communities. Although telemedicine clinics have been shown to improve access, little is known about how they alter patients' utilization of hospital services. OBJECTIVE: To evaluate the association between access to telemedicine clinics and hospital utilization among underserved children with neurologic conditions. DESIGN, SETTING, AND PARTICIPANTS: This retrospective cross-sectional study included 4169 patients who received outpatient care from pediatric neurologists affiliated with an academic children's hospital in California between January 1, 2009, and July 31, 2017, either in person or using telemedicine. EXPOSURES: Consultation modality (telemedicine or in person) in the outpatient neurology clinics. MAIN OUTCOMES AND MEASURES: Demographic and clinical variables were abstracted from the hospital's electronic medical records. The association between the modality of outpatient neurology care and patients' utilization of the emergency department and hospitalizations was evaluated. Both all-cause and neurologic condition-related hospital utilization were analyzed using multivariable negative binomial regression in overall and matched samples. RESULTS: The telemedicine cohort comprised 378 patients (211 [55.8%] male), and the in-person cohort comprised 3791 patients (2090 [55.1%] male). The mean (SD) age at the first encounter was 7.4 (5.4) years for the telemedicine cohort and 7.8 (5.1) years for the in-person cohort. The telemedicine cohort was more likely than the in-person cohort to have nonprivate insurance (public insurance, self-pay, or uninsured), lower education, and lower household income. The rates of all-cause and neurologic hospital encounters were lower among children who received pediatric neurology consultations over telemedicine compared with children who received care in the in-person clinics (5.7 [95% CI, 3.5-8.0] vs 20.1 [95% CI, 18.1-22.1] per 100 patient-years and 3.7 [95% CI, 2.0-5.3] vs 8.9 [95% CI, 7.8-10.0] per 100 patient-years, respectively; P < .001). Even after adjusting for demographic and clinical factors, the telemedicine cohort had a lower risk of hospital encounters (emergency department visits and admissions) with an adjusted incidence rate ratio of 0.57 (95% CI, 0.38-0.88) for all-cause encounters and an adjusted incidence rate ratio of 0.60 (95% CI, 0.36-0.99) for neurologic encounters. After matching on travel time to the neurology clinic, the adjusted incidence rate ratio was 0.19 (95% CI, 0.04-0.83) for all-cause admissions and 0.14 (95% CI, 0.02-0.82) for neurologic admissions. CONCLUSIONS AND RELEVANCE: Pediatric neurology care through real-time, audiovisual telemedicine consultations was associated with lower hospital utilization compared with in-person consultations, suggesting that high-cost hospital encounters can be prevented by improving subspecialty access.",
+  "journal": "JAMA network open",
+  "year": "2020",
+  "authors": [
+    "Dayal P",
+    "Chang CH",
+    "Benko WS",
+    "Pollock BH",
+    "Crossen SS",
+    "Kissee J",
+    "Ulmer AM",
+    "Hoch JS",
+    "Warner L",
+    "Marcin JP"
+  ],
+  "mesh_terms": [
+    "Academic Medical Centers",
+    "Adolescent",
+    "Ambulatory Care",
+    "California",
+    "Child",
+    "Child, Preschool",
+    "Cross-Sectional Studies",
+    "Emergency Service, Hospital",
+    "Facilities and Services Utilization",
+    "Female",
+    "Hospitalization",
+    "Hospitals, Pediatric",
+    "Humans",
+    "Infant",
+    "Infant, Newborn",
+    "Male",
+    "Neurology",
+    "Retrospective Studies",
+    "Rural Health",
+    "Rural Health Services",
+    "Telemedicine"
+  ]
+}

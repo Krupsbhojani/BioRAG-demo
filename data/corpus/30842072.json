@@ -1,0 +1,20 @@
+{
+  "pmid": "30842072",
+  "title": "Implementation of a Data Acquisition and Integration Device in the Neurologic Intensive Care Unit.",
+  "abstract": "The neurologic intensive care unit has evolved into a data-rich, complex arena. Various neurologic monitors, collectively referred to as multimodality monitoring, provide clinicians with a plethora of real-time information about a comatose patient's condition. The time and cognitive burden required to synthesize the available data and reach meaningful clinical conclusions can be overwhelming. The Moberg Component Neuromonitoring System (Moberg Research, Inc) is a data acquisition and integration device that collects data from multiple monitors, displaying them on a single screen in a way that highlights physiological trends throughout a patient's clinical course. Implementation of the Moberg Component Neuromonitoring System in the neurologic intensive care unit can improve understanding of a patient's neurophysiology, enhance clinical decision-making, and improve quality of care. Use of a staged process of implementation including exploration, installation, initial implementation, and full implementation can bring technology to the bedside in a sustainable fashion.",
+  "journal": "AACN advanced critical care",
+  "year": "2019",
+  "authors": [
+    "Szatala A",
+    "Young B"
+  ],
+  "mesh_terms": [
+    "Critical Care",
+    "Data Collection",
+    "Data Interpretation, Statistical",
+    "Environmental Monitoring",
+    "Humans",
+    "Intensive Care Units",
+    "Neurology"
+  ]
+}

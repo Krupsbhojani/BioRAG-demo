@@ -1,0 +1,30 @@
+{
+  "pmid": "39240089",
+  "title": "Trends in direct healthcare utilization observed for persons with MS among teleneurology users and diverse populations.",
+  "abstract": "BACKGROUND: The impact of teleneurology on healthcare utilization (HCU) in MS is unknown. OBJECTIVE: Evaluate the association between teleneurology and HCU. METHODS: A retrospective longitudinal analysis of HCU among adult MS and clinically isolated syndrome (CIS) patients residing in the Cleveland/Akron area from July 2020 to July 2022. Negative binomial regression models evaluated the association between number of laboratory and MRI orders per visit and number of emergency visits per patient across patient groups with variable proportions of teleneurology visits. RESULTS: A total of 3208 patients completed 15,795 visits. Patients using teleneurology had more visits (rate ratio (RR) 1.707-1.719, CONCLUSION: Teleneurology visits were associated with fewer orders, suggesting teleneurology may be incorporated into healthcare models without increasing utilization related to the visit. Teleneurology was also associated with increased visit volumes but no difference in emergency HCU. More studies are needed to clarify the ultimate impact of teleneurology on overall HCU. More emergency visits, regardless of visit type, were observed among at-risk populations, warranting further investigation.",
+  "journal": "Multiple sclerosis (Houndmills, Basingstoke, England)",
+  "year": "2024",
+  "authors": [
+    "Palmer KN",
+    "Ontaneda D",
+    "Harvey T",
+    "Mearns ES",
+    "Patel AM",
+    "Win N",
+    "Cobb BR",
+    "Roush S",
+    "McGinley MP"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Female",
+    "Male",
+    "Adult",
+    "Patient Acceptance of Health Care",
+    "Middle Aged",
+    "Retrospective Studies",
+    "Telemedicine",
+    "Longitudinal Studies",
+    "Neurology"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": "36762140",
+  "title": "A Neurology Advanced Referral Management System (NARMS) Reduces Face-to-Face Consultations By Over Sixty Percent.",
+  "abstract": "BACKGROUND: The COVID-19 pandemic has made neurology clinic waiting times longer. To prevent a build-up of patients waiting, we introduced a neurology advanced referral management system (NARMS) to deal with new referrals from GPs, using advice, investigations, or the telephone, as alternatives to face-to-face (FF) assessment. METHODS: For six months, electronic referrals from GPs were triaged to the above categories. We recorded the numbers in each category, patient satisfaction, inter-consultant triage variation, re-referrals, and calculated CO2 emissions. RESULTS: There were 573 referrals. Triage destinations were advice 33%, investigations 27%, telephone 17%, and FF 33%. Of patients referred for MRI, 95% were happy not to be seen if their investigation was normal. Less-experienced consultants triaged 20% and 30% respectively, to advice or investigations, compared with 40% by a triage-experienced neurologist. Four percent were re-referred. Numbers on the waiting list did not increase. CO2 emissions were reduced by 50%. DISCUSSION: Two thirds of neurological referrals from GPs did not need to be seen FF and 50% were dealt with without the neurologist meeting the patient. Carbon emission was halved. This system should be employed more, with FF examination reserved for those patients who need a neurological examination for diagnosis and management.",
+  "journal": "The Ulster medical journal",
+  "year": "2023",
+  "authors": [
+    "McConville J",
+    "Hunter A",
+    "Fulton A",
+    "Gray O",
+    "Kerr A",
+    "Patterson V"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Carbon Dioxide",
+    "Pandemics",
+    "COVID-19",
+    "Referral and Consultation",
+    "Neurology"
+  ]
+}

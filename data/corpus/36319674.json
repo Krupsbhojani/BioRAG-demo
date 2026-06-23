@@ -1,0 +1,31 @@
+{
+  "pmid": "36319674",
+  "title": "Morphometric imaging biomarker identifies Alzheimer's disease even among mixed dementia patients.",
+  "abstract": "A definitive diagnosis of Alzheimer's disease (AD), even in the presence of co-morbid neuropathology (occurring in > 50% of AD cases), is a significant unmet medical need that has obstructed the discovery of effective AD therapeutics. An AD-biomarker, the Morphometric Imaging (MI) assay on cultured skin fibroblasts, was used in a double-blind, allcomers (ages 55-90) trial of 3 patient cohorts: AD dementia patients, N = 25, all autopsy confirmed, non-AD dementia patients, N = 21-all autopsy or genetically confirmed; and non-demented control (AHC) patients N = 27. Fibroblasts cells isolated from 3-mm skin punch biopsies were cultured on a 3-D Matrigel matrix with movement dynamics quantified by image analysis. From counts of all aggregates (N) in a pre-defined field image and measures of the average area (A) of aggregates per image, the number-to-area ratios in a natural logarithmic form Ln(A/N) were determined for all patient samples. AD cell lines formed fewer large aggregates (cells clustered together) than non-AD or AHC cell lines. The cut-off value of Ln(A/N) = 6.98 was determined from the biomarker values of non-demented apparently healthy control (AHC) cases. Unequivocal validation by autopsy, genetics, and/or dementia criteria was possible for all 73 patient samples. The samples were collected from multiple centers-four US centers and one center in Japan. The study found no effect of center-to-center variation in fibroblast isolation, cell growth, or cell aggregation values (Ln(A/N)). The autopsy-confirmed MI Biomarker distinguished AD from non-AD dementia (non-ADD) patients and correctly diagnosed AD even in the presence of other co-morbid pathologies at autopsy (True Positive = 25, False Negative = 0, False Positive = 0, True Negative = 21, and Accuracy = 100%. Sensitivity and specificity were calculated as 100% (95% CI = 84 to 100.00%). From these findings, the MI assay appears to detect AD with great accuracy-even with abundant co-morbidity.",
+  "journal": "Scientific reports",
+  "year": "2022",
+  "authors": [
+    "Chirila FV",
+    "Xu G",
+    "Fontaine D",
+    "Kern G",
+    "Khan TK",
+    "Brandt J",
+    "Konishi Y",
+    "Nebe-von-Caron G",
+    "White CL",
+    "Alkon DL"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Aged, 80 and over",
+    "Humans",
+    "Middle Aged",
+    "Alzheimer Disease",
+    "Autopsy",
+    "Biomarkers",
+    "Neuropathology",
+    "Sensitivity and Specificity",
+    "Double-Blind Method"
+  ]
+}

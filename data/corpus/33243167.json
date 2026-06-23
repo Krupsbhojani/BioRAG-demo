@@ -1,0 +1,19 @@
+{
+  "pmid": "33243167",
+  "title": "Routinely collected patient data in neurology research: a systematic mapping review.",
+  "abstract": "BACKGROUND: This review focuses on neurology research which uses routinely collected data. The number of such studies is growing alongside the expansion of data collection. We aim to gain a broad picture of the scope of how routine healthcare data have been utilised. METHODS: This study follows a systematic mapping review approach which does not make a judgement on the quality of the papers included in the review, thereby enabling a complete overview of the field. RESULTS: Of 4481 publications retrieved, 386 met the eligibility criteria for this study. These publications covered a wide range of conditions, but the majority were based on one or only a small number of neurological conditions. In particular, publications concerned with three discrete areas of neurological practice - multiple sclerosis (MS), epilepsy/seizure and Parkinson's disease - accounted for 60% of the total. MS was the focus of the highest proportion of eligible studies (35%), yet in the recent Global Burden of Neurological Disease study it ranks only 14th out of 15 neurological disorders for DALY rates. In contrast, migraine is the neurological disorder with the highest ranking of DALYs globally (after stroke) and yet it was represented by only 4% of eligible studies. CONCLUSION: This review shows that there is a disproportionately large body of literature pertaining to relatively rare disorders, and a correspondingly small body of literature describing more common conditions. Therefore, there is potential for future research to redress this balance.",
+  "journal": "BMC neurology",
+  "year": "2021",
+  "authors": [
+    "Biggin F",
+    "Emsley HCA",
+    "Knight J"
+  ],
+  "mesh_terms": [
+    "Biomedical Research",
+    "Data Collection",
+    "Humans",
+    "Nervous System Diseases",
+    "Neurology"
+  ]
+}

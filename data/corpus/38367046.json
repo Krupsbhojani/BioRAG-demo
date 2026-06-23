@@ -1,0 +1,31 @@
+{
+  "pmid": "38367046",
+  "title": "Artificial intelligence in neurology: opportunities, challenges, and policy implications.",
+  "abstract": "Neurological conditions are the leading cause of disability and mortality combined, demanding innovative, scalable, and sustainable solutions. Brain health has become a global priority with adoption of the World Health Organization's Intersectoral Global Action Plan in 2022. Simultaneously, rapid advancements in artificial intelligence (AI) are revolutionizing neurological research and practice. This scoping review of 66 original articles explores the value of AI in neurology and brain health, systematizing the landscape for emergent clinical opportunities and future trends across the care trajectory: prevention, risk stratification, early detection, diagnosis, management, and rehabilitation. AI's potential to advance personalized precision neurology and global brain health directives hinges on resolving core challenges across four pillars-models, data, feasibility/equity, and regulation/innovation-through concerted pursuit of targeted recommendations. Paramount actions include swift, ethical, equity-focused integration of novel technologies into clinical workflows, mitigating data-related issues, counteracting digital inequity gaps, and establishing robust governance frameworks balancing safety and innovation.",
+  "journal": "Journal of neurology",
+  "year": "2024",
+  "authors": [
+    "Voigtlaender S",
+    "Pawelczyk J",
+    "Geiger M",
+    "Vaios EJ",
+    "Karschnia P",
+    "Cudkowicz M",
+    "Dietrich J",
+    "Haraldsen IRJH",
+    "Feigin V",
+    "Owolabi M",
+    "White TL",
+    "Świeboda P",
+    "Farahany N",
+    "Natarajan V",
+    "Winter SF"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Artificial Intelligence",
+    "Neurology",
+    "Health Policy",
+    "Nervous System Diseases"
+  ]
+}

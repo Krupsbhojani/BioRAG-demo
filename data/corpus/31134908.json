@@ -1,0 +1,27 @@
+{
+  "pmid": "31134908",
+  "title": "Current trends and future perspectives of space neuroscience towards preparation for interplanetary missions.",
+  "abstract": "This review addresses central nervous system (CNS) physiological changes during inter-planetary missions, specifically sensorimotor processing and sleep disorders. Isolation, confinement and induced stress factors also have a detrimental effect on cognitive and mental well-being, which could jeopardize mission accomplishment. Although countermeasures have been proposed, they mostly focus on cardiovascular and/or musculoskeletal systems. Long-term space flights require optimal cognitive performance of crew members during weightlessness for longer time periods independent of ground support. The present study describes various countermeasures trends in neuroscientific data acquisition and future perspectives of advanced analysis through functional connectivity and graph theory. These could be used to identify early deterioration patterns and evaluate the robustness of countermeasures employed.",
+  "journal": "Neurology India",
+  "year": "2019",
+  "authors": [
+    "Frantzidis CA",
+    "Kontana E",
+    "Karkala A",
+    "Nigdelis V",
+    "Karagianni M",
+    "Nday CM",
+    "Ganapathy K",
+    "Kourtidou-Papadeli C"
+  ],
+  "mesh_terms": [
+    "Astronauts",
+    "Brain",
+    "Extraterrestrial Environment",
+    "Humans",
+    "Neurology",
+    "Psychomotor Performance",
+    "Space Flight",
+    "Space Simulation"
+  ]
+}

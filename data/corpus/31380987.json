@@ -1,0 +1,38 @@
+{
+  "pmid": "31380987",
+  "title": "Association of Levels of Specialized Care With Risk of Premature Mortality in Patients With Epilepsy.",
+  "abstract": "IMPORTANCE: Patients with epilepsy are at an elevated risk of premature mortality. Interventions to reduce this risk are crucial. OBJECTIVE: To determine if the level of care (non-neurologist, neurologist, or comprehensive epilepsy program) is negatively associated with the risk of premature mortality. DESIGN, SETTING, AND PARTICIPANTS: In this retrospective open cohort study, all adult patients 18 years or older who met the administrative case definition for incident epilepsy in linked databases (Alberta Health Services administrative health data and the Comprehensive Calgary Epilepsy Programme Registry [CEP]) inclusive of the years 2002 to 2016 were followed up until death or loss to follow-up. The final analyses were performed on May 1, 2019. EXPOSURES: Evaluation by a non-neurologist, neurologist, or epileptologist. MAIN OUTCOMES AND MEASURES: The outcome was all-cause mortality. We used extended Cox models treating exposure to a neurologist or the CEP as time-varying covariates. Age, sex, socioeconomic deprivation, disease severity, and comorbid burden at index date were modeled as fixed-time coefficients. RESULTS: A total 23 653 incident cases were identified (annual incidence of 89 per 100 000); the mean age (SD) at index date was 50.8 (19.1) years and 12 158 (50.3%) were women. A total of 14 099 (60%) were not exposed to specialist neurological care, 9554 (40%) received care by a neurologist, and 2054 (9%) received care in the CEP. In total, 4098 deaths (71%) occurred in the nonspecialist setting, 1481 (26%) for those seen by a neurologist, and 176 (3%) for those receiving CEP care. The standardized mortality rate was 7.2% for the entire cohort, 9.4% for those receiving nonspecialist care, 5.6% for those seen by a neurologist, and 2.8% for those seen in the CEP. The hazard ratio (HR) of mortality was lower in those receiving neurologist (HR, 0.85; 95% CI, 0.77-0.93) and CEP (HR, 0.49; 95% CI, 0.38-0.62) care. In multivariable modeling, specialist care, the age at index, and disease severity were retained in the final model of the association between specialist care and mortality. CONCLUSIONS AND RELEVANCE: Exposure to specialist care is associated with incremental reductions in the hazard of premature mortality. Those referred to a comprehensive epilepsy program received the greatest benefit.",
+  "journal": "JAMA neurology",
+  "year": "2020",
+  "authors": [
+    "Lowerison MW",
+    "Josephson CB",
+    "Jetté N",
+    "Sajobi TT",
+    "Patten S",
+    "Williamson T",
+    "Deardon R",
+    "Barkema HW",
+    "Wiebe S"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Aged",
+    "Aged, 80 and over",
+    "Alberta",
+    "Cohort Studies",
+    "Disease Management",
+    "Epilepsy",
+    "Female",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Mortality, Premature",
+    "Neurology",
+    "Proportional Hazards Models",
+    "Referral and Consultation",
+    "Retrospective Studies",
+    "Severity of Illness Index",
+    "Specialization"
+  ]
+}

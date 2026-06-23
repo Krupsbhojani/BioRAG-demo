@@ -1,0 +1,21 @@
+{
+  "pmid": "33271406",
+  "title": "Declining use of neurological eponyms in cases where a non-eponymous alternative exists.",
+  "abstract": "Eponyms are common in neurology, but their use is controversial. Recent studies have demonstrated increasing eponym use over time in the scientific literature, but it is unclear whether this is a result of authors choosing to use eponyms more frequently, or is merely a product of increasing rates of scientific publication. Our goal was to explore trends in decision-making pertaining to eponym usage. We identified cases where an eponym and a corresponding non-eponymous term existed, and assessed temporal trends in the relative usage of these terms using Google's n-gram viewer for each decade from 1900-2019. Relative to corresponding non-eponymous terms, the use of eponyms increased across the 20th century, peaking in the decade from 1980 to 1989, before sharply declining after the turn of the 21st century. This indicates that when faced with a choice between using an eponym and non-eponymous term, contemporary authors increasingly chose the non-eponymous term. This recent trend may reflect increased awareness of the limitations of eponyms, greater attention to the personal and political lives of namesakes, and a cultural shift toward viewing scientific advances as the result of collective and collaborative efforts rather than the solitary achievements of eminent individuals.",
+  "journal": "Clinical neurology and neurosurgery",
+  "year": "2021",
+  "authors": [
+    "Becker CJ",
+    "McDermott M",
+    "London ZN"
+  ],
+  "mesh_terms": [
+    "Eponyms",
+    "Evidence-Based Medicine",
+    "History, 19th Century",
+    "History, 20th Century",
+    "Humans",
+    "Neurology",
+    "Textbooks as Topic"
+  ]
+}

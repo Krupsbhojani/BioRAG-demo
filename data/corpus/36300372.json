@@ -1,0 +1,28 @@
+{
+  "pmid": "36300372",
+  "title": "Investigation on Gender Differences in Leadership of Stroke-Related Clinical Trials.",
+  "abstract": "BACKGROUND: Gender disparities among principal investigators of clinical trials (CT) can have implications regarding the areas of investigation, methods, conduct, trial enrollment, and interpretation of results. An estimation of the gender gap in the leadership of stroke-related CTs from North America has to date not been undertaken. METHODS: We extracted information about stroke-related CTs between 2011 and 2020 from www. CLINICALTRIALS: gov and PubMed. We examined the gender distribution according to the academic credentials and the trial type. The gender of PIs and authors was determined using gender package in R, which identifies gender using historical data from the United States. Additionally, we obtained information from Association of American Medical Colleges and the Accreditation Council for Graduate Medical Education data resource books on the gender composition of full-time neurology faculty, neurology residents and vascular neurology fellows. RESULTS: In these analyses of 821 CTs registered on Clinicaltrials.gov and 110 trials published on PubMed, we found that gender disparity among the PIs, first and last authors have persisted over the last decade without any significant trend toward parity ( CONCLUSIONS: Our results show that the favorable trend toward gender parity seen in Neurology faculty over the last decade has not translated to the same in the leadership of CTs. Our findings merit further investigation and a re-examination of efforts toward inclusion of women as leaders of stroke-related CTs.",
+  "journal": "Stroke",
+  "year": "2023",
+  "authors": [
+    "Rawlley B",
+    "Marchina S",
+    "Cappucci SP",
+    "Gogia B",
+    "Wang JY",
+    "Stillman A",
+    "Kumar S"
+  ],
+  "mesh_terms": [
+    "Female",
+    "Humans",
+    "Male",
+    "Faculty, Medical",
+    "Leadership",
+    "Neurology",
+    "Physicians, Women",
+    "Sex Factors",
+    "United States",
+    "Clinical Trials as Topic"
+  ]
+}

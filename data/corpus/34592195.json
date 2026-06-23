@@ -1,0 +1,40 @@
+{
+  "pmid": "34592195",
+  "title": "Leveraging external data in the design and analysis of clinical trials in neuro-oncology.",
+  "abstract": "Integration of external control data, with patient-level information, in clinical trials has the potential to accelerate the development of new treatments in neuro-oncology by contextualising single-arm studies and improving decision making (eg, early stopping decisions). Based on a series of presentations at the 2020 Clinical Trials Think Tank hosted by the Society of Neuro-Oncology, we provide an overview on the use of external control data representative of the standard of care in the design and analysis of clinical trials. High-quality patient-level records, rigorous methods, and validation analyses are necessary to effectively leverage external data. We review study designs, statistical methods, risks, and potential distortions in using external data from completed trials and real-world data, as well as data sources, data sharing models, ongoing work, and applications in glioblastoma.",
+  "journal": "The Lancet. Oncology",
+  "year": "2021",
+  "authors": [
+    "Rahman R",
+    "Ventz S",
+    "McDunn J",
+    "Louv B",
+    "Reyes-Rivera I",
+    "Polley MC",
+    "Merchant F",
+    "Abrey LE",
+    "Allen JE",
+    "Aguilar LK",
+    "Aguilar-Cordova E",
+    "Arons D",
+    "Tanner K",
+    "Bagley S",
+    "Khasraw M",
+    "Cloughesy T",
+    "Wen PY",
+    "Alexander BM",
+    "Trippa L"
+  ],
+  "mesh_terms": [
+    "Antineoplastic Agents",
+    "Brain Neoplasms",
+    "Controlled Clinical Trials as Topic",
+    "Glioblastoma",
+    "Humans",
+    "Information Dissemination",
+    "Medical Oncology",
+    "Neurology",
+    "Research Design",
+    "Treatment Outcome"
+  ]
+}

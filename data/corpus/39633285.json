@@ -1,0 +1,24 @@
+{
+  "pmid": "39633285",
+  "title": "The Role of Neuropathology Evaluation in the Nonclinical Assessment of Seizure Liability.",
+  "abstract": "Test article (TA)-induced seizures represent a major safety concern in drug development. Seizures (altered brain wave [electrophysiological] patterns) present clinically as abnormal consciousness with or without tonic/clonic convulsions (where \"tonic\" = stiffening and \"clonic\" = involuntary rhythmical movements). Neuropathological findings following seizures may be detected using many methods. Neuro-imaging may show a structural abnormality underlying seizures, such as focal cortical dysplasia or hippocampal sclerosis in patients with chronic epilepsy. Neural cell type-specific biomarkers in blood or cerebrospinal fluid may highlight neuronal damage and/or glial reactions but are not specific indicators of seizures while serum electrolyte and glucose imbalances may induce seizures. Gross observations and brain weights generally are unaffected by TAs with seizurogenic potential, but microscopic evaluation may reveal seizure-related neuron death in some brain regions (especially neocortex, hippocampus, and/or cerebellum). Current globally accepted best practices for neural sampling in nonclinical general toxicity studies provide a suitable screen for brain regions that are known sites of electrical disruption and/or display seizure-induced neural damage. Conventional nonclinical studies can afford an indication that a TA has a potential seizure liability (via in-life signs and/or microscopic evidence of neuron necrosis), but confirmation requires measuring brain electrical (electroencephalographic) activity in a nonclinical study.",
+  "journal": "Toxicologic pathology",
+  "year": "2024",
+  "authors": [
+    "Sokolowski K",
+    "Liu J",
+    "Delatte MS",
+    "Authier S",
+    "McMaster O",
+    "Bolon B"
+  ],
+  "mesh_terms": [
+    "Seizures",
+    "Animals",
+    "Brain",
+    "Humans",
+    "Neuropathology",
+    "Drug Evaluation, Preclinical",
+    "Neurons"
+  ]
+}

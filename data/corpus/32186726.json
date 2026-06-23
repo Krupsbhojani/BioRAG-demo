@@ -1,0 +1,31 @@
+{
+  "pmid": "32186726",
+  "title": "Concordance of Clinical Alzheimer Diagnosis and Neuropathological Features at Autopsy.",
+  "abstract": "It remains unclear what clinical features inform the accuracy of a clinical diagnosis of Alzheimer disease (AD). Data were obtained from the National Alzheimer's Coordinating Center to compare clinical and neuropathologic features among participants who did or did not have Alzheimer disease neuropathologic changes (ADNC) at autopsy. Participants (1854) had a clinical Alzheimer dementia diagnosis and ADNC at autopsy (Confirmed-AD), 204 participants had an AD diagnosis and no ADNC (AD-Mimics), and 253 participants had no AD diagnosis and ADNC (Unidentified-AD). Compared to Confirmed-AD participants, AD-Mimics had less severe cognitive impairment, while Unidentified-AD participants displayed more parkinsonian signs, depression, and behavioral problems. This study highlights the importance of developing a complete panel of biomarkers as a tool to inform clinical diagnoses, as clinical phenotypes that are typically associated with diseases other than AD may result in inaccurate diagnoses.",
+  "journal": "Journal of neuropathology and experimental neurology",
+  "year": "2020",
+  "authors": [
+    "Gauthreaux K",
+    "Bonnett TA",
+    "Besser LM",
+    "Brenowitz WD",
+    "Teylan M",
+    "Mock C",
+    "Chen YC",
+    "Chan KCG",
+    "Keene CD",
+    "Zhou XH",
+    "Kukull WA"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Aged, 80 and over",
+    "Alzheimer Disease",
+    "Autopsy",
+    "Brain",
+    "Female",
+    "Humans",
+    "Male",
+    "Neuropathology"
+  ]
+}

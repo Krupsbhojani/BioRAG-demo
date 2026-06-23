@@ -1,0 +1,24 @@
+{
+  "pmid": "34623511",
+  "title": "Analyzing microglial phenotypes across neuropathologies: a practical guide.",
+  "abstract": "As extremely sensitive immune cells, microglia act as versatile watchdogs of the central nervous system (CNS) that tightly control tissue homeostasis. Therefore, microglial activation is an early and easily detectable hallmark of virtually all neuropsychiatric, neuro-oncological, neurodevelopmental, neurodegenerative and neuroinflammatory diseases. The recent introduction of novel high-throughput technologies and several single-cell methodologies as well as advances in epigenetic analyses helped to identify new microglia expression profiles, enhancer-landscapes and local signaling cues that defined diverse previously unappreciated microglia states in the healthy and diseased CNS. Here, we give an overview on the recent developments in the field of microglia biology and provide a practical guide to analyze disease-associated microglia phenotypes in both the murine and human CNS, on several morphological and molecular levels. Finally, technical limitations, potential pitfalls and data misinterpretations are discussed as well.",
+  "journal": "Acta neuropathologica",
+  "year": "2022",
+  "authors": [
+    "Schwabenland M",
+    "Brück W",
+    "Priller J",
+    "Stadelmann C",
+    "Lassmann H",
+    "Prinz M"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Central Nervous System Diseases",
+    "Humans",
+    "Mice",
+    "Microglia",
+    "Neuropathology",
+    "Phenotype"
+  ]
+}

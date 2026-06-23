@@ -1,0 +1,32 @@
+{
+  "pmid": "34732808",
+  "title": "Clinical potential of pupillary light reflex parameters as objective indicators reflecting chronic rhinosinusitis-specific quality of life: a 12-month prospective longitudinal study.",
+  "abstract": "Pupillary light reflex (PLR) and heart rate variability (HRV) parameters can be objective indicators of chronic rhinosinusitis (CRS) status from the viewpoint of autonomic nervous system activity. This study aimed to establish objective indicators for CRS using the 22-item Sino-Nasal Outcome Test (SNOT-22) and PLR/HRV parameters. Sixty-seven patients were prospectively and longitudinally followed up after surgical treatment. We investigated changes in SNOT-22 scores, representing CRS-specific quality of life (QOL). We prepared two models: linear regression model adjusting clinical factors as predictor variables (model 1) and linear mixed-effects model adjusting clinical factors and among-individual variability (model 2). We compared Akaike's information criterion (AIC) values and regression coefficients. The model with lower AIC values was defined as the better-fit model. Model 2 showed lower AIC values in all parameters (better-fit model). Three parameters showed opposite results between the two models. The better-fit models showed significances in the five PLR parameters but not in any HRV parameters. Among these PLR parameters, constriction latency can be the most robust indicator because of the narrowest 95% confidence intervals. Adjusting the among-individual variability while investigating clinical potential of PLR/HRV parameters to reflect CRS-specific QOL can improve the model fit, thereby reaching robust conclusions from obtained data.",
+  "journal": "Scientific reports",
+  "year": "2022",
+  "authors": [
+    "Hatsukawa H",
+    "Ishikawa M"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Aged",
+    "Autonomic Nervous System",
+    "Female",
+    "Heart Rate",
+    "Humans",
+    "Light",
+    "Longitudinal Studies",
+    "Male",
+    "Middle Aged",
+    "Neurology",
+    "Prospective Studies",
+    "Quality of Life",
+    "Reflex",
+    "Reflex, Pupillary",
+    "Severity of Illness Index",
+    "Sinusitis",
+    "Surveys and Questionnaires",
+    "Vision, Ocular"
+  ]
+}

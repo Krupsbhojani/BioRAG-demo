@@ -1,0 +1,36 @@
+{
+  "pmid": "31238088",
+  "title": "Four-repeat tauopathies.",
+  "abstract": "Tau is a microtubule-associated protein with versatile functions in the dynamic assembly of the neuronal cytoskeleton. Four-repeat (4R-) tauopathies are a group of neurodegenerative diseases defined by cytoplasmic inclusions predominantly composed of tau protein isoforms with four microtubule-binding domains. Progressive supranuclear palsy, corticobasal degeneration, argyrophilic grain disease or glial globular tauopathy belong to the group of 4R-tauopathies. The present review provides an introduction in the current concept of 4R-tauopathies, including an overview of the neuropathological and clinical spectrum of these diseases. It describes the genetic and environmental etiological factors, as well as the contemporary knowledge about the pathophysiological mechanisms, including post-translational modifications, aggregation and fragmentation of tau, as well as the role of protein degradation mechanisms. Furthermore, current theories about disease propagation are discussed, involving different extracellular tau species and their cellular release and uptake mechanisms. Finally, molecular diagnostic tools for 4R-tauopathies, including tau-PET and fluid biomarkers, and investigational therapeutic strategies are presented. In summary, we report on 4R-tauopathies as overarching disease concept based on a shared pathophysiological concept, and highlight the challenges and opportunities on the way towards a causal therapy.",
+  "journal": "Progress in neurobiology",
+  "year": "2020",
+  "authors": [
+    "Rösler TW",
+    "Tayaranian Marvian A",
+    "Brendel M",
+    "Nykänen NP",
+    "Höllerhage M",
+    "Schwarz SC",
+    "Hopfner F",
+    "Koeglsperger T",
+    "Respondek G",
+    "Schweyer K",
+    "Levin J",
+    "Villemagne VL",
+    "Barthel H",
+    "Sabri O",
+    "Müller U",
+    "Meissner WG",
+    "Kovacs GG",
+    "Höglinger GU"
+  ],
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Brain",
+    "Humans",
+    "Neurons",
+    "Neuropathology",
+    "Tauopathies",
+    "tau Proteins"
+  ]
+}

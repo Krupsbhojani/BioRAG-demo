@@ -1,0 +1,43 @@
+{
+  "pmid": "32551815",
+  "title": "Rapid Validation of Telepathology by an Academic Neuropathology Practice During the COVID-19 Pandemic.",
+  "abstract": "CONTEXT.—: The coronavirus disease 19 (COVID-19) pandemic is placing unparalleled burdens on regional and institutional resources in medical facilities across the globe. This disruption is causing unprecedented downstream effects to traditionally established channels of patient care delivery, including those of essential anatomic pathology services. With Washington state being the initial North American COVID-19 epicenter, the University of Washington in Seattle has been at the forefront of conceptualizing and implementing innovative solutions in order to provide uninterrupted quality patient care amidst this growing crisis. OBJECTIVE.—: To conduct a rapid validation study assessing our ability to reliably provide diagnostic neuropathology services via a whole slide imaging (WSI) platform as part of our departmental COVID-19 planning response. DESIGN.—: This retrospective study assessed diagnostic concordance of neuropathologic diagnoses rendered via WSI as compared to those originally established via traditional histopathology in a cohort of 30 cases encompassing a broad range of neurosurgical and neuromuscular entities. This study included the digitalization of 93 slide preparations, which were independently examined by groups of board-certified neuropathologists and neuropathology fellows. RESULTS.—: There were no major or minor diagnostic discrepancies identified in either the attending neuropathologist or neuropathology trainee groups for either the neurosurgical or neuromuscular case cohorts. CONCLUSIONS.—: Our study demonstrates that accuracy of neuropathologic diagnoses and interpretation of ancillary preparations via WSI are not inferior to those generated via traditional microscopy. This study provides a framework for rapid subspecialty validation and deployment of WSI for diagnostic purposes during a pandemic event.",
+  "journal": "Archives of pathology & laboratory medicine",
+  "year": "2020",
+  "authors": [
+    "Henriksen J",
+    "Kolognizak T",
+    "Houghton T",
+    "Cherne S",
+    "Zhen D",
+    "Cimino PJ",
+    "Latimer CS",
+    "Scherpelz KP",
+    "Yoda RA",
+    "Alpers CE",
+    "Chhieng DF",
+    "Keene CD",
+    "Gonzalez-Cuyar LF"
+  ],
+  "mesh_terms": [
+    "Academic Medical Centers",
+    "Betacoronavirus",
+    "COVID-19",
+    "Coronavirus Infections",
+    "Global Health",
+    "Humans",
+    "Image Interpretation, Computer-Assisted",
+    "Microscopy",
+    "Neuropathology",
+    "Pandemics",
+    "Pathology, Clinical",
+    "Pneumonia, Viral",
+    "Reproducibility of Results",
+    "Retrospective Studies",
+    "SARS-CoV-2",
+    "Sensitivity and Specificity",
+    "Telepathology",
+    "Universities",
+    "Washington"
+  ]
+}

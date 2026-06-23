@@ -1,0 +1,21 @@
+{
+  "pmid": "39500349",
+  "title": "Enhancing Efficiency with an AI-Augmented Clinician in Neurology.",
+  "abstract": "Integrating artificial intelligence (AI) technologies into neurology promises increased patient access, engagement, and quality of care, as well as improved quality of work life for clinicians. While most studies have focused on comparing AI models to expert performance, we argue for a more practical approach: demonstrating how AI can augment clinical practice. This article presents a framework for pragmatic AI augmentation, addressing the shortage in neurology practices, exploring the potential of AI in opportunistic screening, and encouraging the concept of AI serving as a \"co-pilot\" in neurology. We discuss recommendations for future studies designed to emphasize human-computer collaboration, ensuring AI enhances rather than replaces clinical expertise.",
+  "journal": "Aging and disease",
+  "year": "2025",
+  "authors": [
+    "Kapadia K",
+    "Ruwali S",
+    "Malav T",
+    "Seshadri S",
+    "Seidmann A",
+    "Press DZ",
+    "Kolachalama VB"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Artificial Intelligence",
+    "Neurology"
+  ]
+}

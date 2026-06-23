@@ -1,0 +1,24 @@
+{
+  "pmid": "35139810",
+  "title": "The validity and reliability of the PHQ-9 on screening of depression in neurology: a cross sectional study.",
+  "abstract": "BACKGROUND: This study aimed to explore the validity and reliability of the Patient Health Questionnaire-9 (PHQ-9) on screening of depression among patients with neurological disorders, and to explore factors influencing such patients. METHODS: In this study, 277 subjects who were admitted to the department of neurology of our hospital due to different neurological disorders completed the PHQ-9 questionnaire. The Mini-International Neuropsychiatric Interview (MINI) and Hamilton Rating Scale for Depression (HAMD) were employed to evaluate the depressive symptoms of patients who completed the PHQ-9 questionnaire. The internal consistency, criterion validity, structural validity, and optimal cut-off values of PHQ-9 were evaluated, and the consistency assessment was conducted between the depression severity as assessed by PHQ-9, HAMD and MINI. Logistic regression analysis was used to calculate the risk factors of depression. RESULTS: The Cronbach's α coefficient of the PHQ-9 was 0.839. The Pearson's correlation coefficient among the 9 items of the PHQ-9 scale was 0.160 ~ 0.578 (P < 0.01), and the Pearson's correlation coefficient between each item and the total score was at the range of 0.608 ~ 0.773. Taking the results of MINI as the gold standard, the area under the receiver operating characteristic (ROC) curve of the PHQ-9 results for all the subjects (n = 277) was 0.898 (95% confidence interval (CI): 0.859 ~ 0.937, P < 0.01). When the cut-off score was equal to 5, the values of sensitivity, specificity, and the Youden's index were 91.2, 76.6%, and 0.678, respectively. Multivariate logistic regression analysis showed that the influence of unemployment on the occurrence of depression was statistically significant (P = 0.027, OR = 3.080, 95%CI: 1.133 ~ 8.374). CONCLUSIONS: The application of PHQ-9 for screening of depression among Chinese patients with neurological disorders showed a good reliability and validity.",
+  "journal": "BMC psychiatry",
+  "year": "2022",
+  "authors": [
+    "Sun Y",
+    "Kong Z",
+    "Song Y",
+    "Liu J",
+    "Wang X"
+  ],
+  "mesh_terms": [
+    "Cross-Sectional Studies",
+    "Depression",
+    "Humans",
+    "Nervous System Diseases",
+    "Neurology",
+    "Patient Health Questionnaire",
+    "Reproducibility of Results",
+    "Surveys and Questionnaires"
+  ]
+}

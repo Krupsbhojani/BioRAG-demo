@@ -1,0 +1,19 @@
+{
+  "pmid": "35213900",
+  "title": "Transcranial Magnetic Stimulation for the Neurological Patient: Scientific Principles and Applications.",
+  "abstract": "Non-invasive brain stimulation has been increasingly recognized for its potential as an investigational, diagnostic and therapeutic tool across the clinical neurosciences. Transcranial magnetic stimulation (TMS) is a non-invasive method of focal neuromodulation. Diagnostically, TMS can be used to probe cortical excitability and plasticity, as well as for functional mapping. Therapeutically, depending on the pattern employed, TMS can either facilitate or inhibit stimulated cortex potentially modulating maladaptive physiology through its effects on neuroplasticity. Despite this potential, applications of TMS in neurology have only been approved for diagnostic clinical neurophysiology, pre-surgical mapping of motor and language cortex, and the treatment of migraines. In this article, we discuss the principles of TMS and its clinical applications in neurology, including experimental applications in stroke rehabilitation, seizures, autism spectrum disorder, neurodegenerative disorders, movement disorders, tinnitus, chronic pain and functional neurological disorder. To promote increased cross-talk across neurology and psychiatry, we also succinctly review the TMS literature for the treatment of major depression and obsessive compulsive disorder. Overall, we argue that larger clinical trials that are better informed by circuit-level biomarkers and pathophysiological models will lead to an expansion of the application of TMS for patients cared for by neurologists.",
+  "journal": "Seminars in neurology",
+  "year": "2022",
+  "authors": [
+    "Eldaief MC",
+    "Dickerson BC",
+    "Camprodon JA"
+  ],
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Humans",
+    "Neurology",
+    "Seizures",
+    "Transcranial Magnetic Stimulation"
+  ]
+}

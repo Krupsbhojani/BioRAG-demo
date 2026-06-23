@@ -1,0 +1,26 @@
+{
+  "pmid": "38727281",
+  "title": "Induced Pluripotent Stem Cells and Organoids in Advancing Neuropathology Research and Therapies.",
+  "abstract": "This review delves into the groundbreaking impact of induced pluripotent stem cells (iPSCs) and three-dimensional organoid models in propelling forward neuropathology research. With a focus on neurodegenerative diseases, neuromotor disorders, and related conditions, iPSCs provide a platform for personalized disease modeling, holding significant potential for regenerative therapy and drug discovery. The adaptability of iPSCs, along with associated methodologies, enables the generation of various types of neural cell differentiations and their integration into three-dimensional organoid models, effectively replicating complex tissue structures in vitro. Key advancements in organoid and iPSC generation protocols, alongside the careful selection of donor cell types, are emphasized as critical steps in harnessing these technologies to mitigate tumorigenic risks and other hurdles. Encouragingly, iPSCs show promising outcomes in regenerative therapies, as evidenced by their successful application in animal models.",
+  "journal": "Cells",
+  "year": "2024",
+  "authors": [
+    "Pazzin DB",
+    "Previato TTR",
+    "Budelon Gonçalves JI",
+    "Zanirati G",
+    "Xavier FAC",
+    "da Costa JC",
+    "Marinowic DR"
+  ],
+  "mesh_terms": [
+    "Organoids",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Animals",
+    "Neuropathology",
+    "Regenerative Medicine",
+    "Neurodegenerative Diseases",
+    "Cell Differentiation"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pmid": "39523263",
+  "title": "Computer Vision in Digital Neuropathology.",
+  "abstract": "Digital pathology has revolutionized the field of neuropathology, enabling rapid and precise analysis of tissue samples. As neuropathologists and neurosurgeons increasingly embrace digital platforms, computer vision techniques and computerized quantitative analyses (i.e., pathomics) play a pivotal role in automating and enhancing diagnostic processes, as well as in unlocking new insights from neuropathological images. This chapter explores the role of computer vision in bridging the gap between traditional and digital neuropathology, providing a comprehensive overview of computer vision applications in neuropathology, covering image preprocessing, and decision support for clinical tasks, such as early detection of neurological disorders, classification of brain tumors, and quantitative assessment of tissue biomarkers. In addition, we further delve into the challenges and opportunities presented by large-scale image datasets and the integration of digital pathology into neurosurgical practice.",
+  "journal": "Advances in experimental medicine and biology",
+  "year": "2024",
+  "authors": [
+    "Cong C",
+    "Liu S",
+    "Di Ieva A",
+    "Russo C",
+    "Suero Molina E",
+    "Pagnucco M",
+    "Song Y"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Neuropathology",
+    "Image Processing, Computer-Assisted",
+    "Image Interpretation, Computer-Assisted",
+    "Nervous System Diseases",
+    "Brain Neoplasms"
+  ]
+}

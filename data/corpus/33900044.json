@@ -1,0 +1,35 @@
+{
+  "pmid": "33900044",
+  "title": "Theoretical impact of the AT(N) framework on dementia using a community autopsy sample.",
+  "abstract": "The AT(N) research framework categorizes eight biomarker profiles using amyloid (A), tauopathy (T), and neurodegeneration (N), regardless of dementia status. We evaluated associations with dementia risk in a community-based cohort by approximating AT(N) profiles using autopsy-based neuropathology correlates, and considered cost implications for clinical trials for secondary prevention of dementia based on AT(N) profiles. We used Consortium to Establish a Registry for Alzheimer's Disease (moderate/frequent) to approximate A+, Braak stage (IV-VI) for T+, and temporal pole lateral ventricular dilation for (N)+. Outcomes included dementia prevalence at death and incidence in the last 5 years of life. A+T+(N)+ was the most common profile (31%). Dementia prevalence ranged from 14% (A-T-[N]-) to 79% (A+T+[N]+). Between 8% (A+T-[N]-) and 68% (A+T+[N]-) of decedents developed incident dementia in the last 5 years of life. Clinical trials would incur substantial expense to characterize AT(N). Many people with biomarker-defined preclinical Alzheimer's disease will never develop clinical dementia during life, highlighting resilience to clinical expression of AD neuropathologic changes and the need for improved tools for prediction beyond current AT(N) biomarkers.",
+  "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+  "year": "2022",
+  "authors": [
+    "Burke BT",
+    "Latimer C",
+    "Keene CD",
+    "Sonnen JA",
+    "McCormick W",
+    "Bowen JD",
+    "McCurry SM",
+    "Larson EB",
+    "Crane PK"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Aged, 80 and over",
+    "Autopsy",
+    "Biomarkers",
+    "Brain",
+    "Cohort Studies",
+    "Dementia",
+    "Female",
+    "Humans",
+    "Male",
+    "Neurofibrillary Tangles",
+    "Neuropathology",
+    "Plaque, Amyloid",
+    "Positron-Emission Tomography",
+    "Secondary Prevention"
+  ]
+}

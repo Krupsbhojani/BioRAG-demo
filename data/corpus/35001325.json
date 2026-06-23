@@ -1,0 +1,38 @@
+{
+  "pmid": "35001325",
+  "title": "Analysis of neurology consultations in hospitalized patients with COVID-19.",
+  "abstract": "OBJECTIVE: The aim of this study was to evaluate patients who were hospitalized with a diagnosis of COVID-19 and were consulted by neurology during their hospital stay. METHODS: All files of patients with COVID-19 who were admitted to Cerrahpasa Medical Faculty Hospital between March 11th and December 31st, 2020 were retrospectively reviewed, and files of patients who consulted by neurology during their stay were included. Demographic and clinical characteristics, neurologic diagnosis, outcome and related laboratory data were extracted from electronic medical records and analyzed. Patients were categorized into the first wave and second wave according to the date of hospitalization. RESULTS: A total of 2257 patients were hospitalized for COVID-19; among them, 127 were consulted by a neurologist during their hospital stay. Fifteen patients received a consultation for possible drug interactions. Among the remaining 112 patients, the reason for neurology consultation was i. exacerbation of a neurological comorbidity vs ii. new-onset neurological manifestations. The median age was 68.5 ± 14.2 years, and 60.7% were men. Dementia and stroke were the leading neurological comorbidities. COVID-19 disease was more severe in the patients with the new-onset neurological comorbidity than in patients with exacerbation of a neurological comorbidity (p = 0.07). Serum creatinine kinase levels were higher in the new-onset patient group (p < 0.05). Exacerbation of previous neurological disease or new neurological impairment were jointly and severely related to high mortality (overall 35/112 vs 275/2145, p < 0.001; exacerbation 12/45 vs 275/2145 p < 0.01; new-onset 23/67 vs 275/2145, p < 0.001). CONCLUSION: Serious neurological involvement is relatively uncommon in hospitalized patients with COVID-19 and is associated with increased mortality.",
+  "journal": "Acta neurologica Belgica",
+  "year": "2022",
+  "authors": [
+    "Ser MH",
+    "Tanrıverdi U",
+    "Özkara Ç",
+    "Saip S",
+    "Aliş C",
+    "Güleç ZEK",
+    "Nezir G",
+    "Kızılkılıç EK",
+    "Süzgün MA",
+    "Abbaszade H",
+    "Börekçi Ş",
+    "Karaali R",
+    "Kızılkılıç O",
+    "Gündüz A",
+    "Savrun FK"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Aged, 80 and over",
+    "COVID-19",
+    "Comorbidity",
+    "Female",
+    "Hospitalization",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Neurology",
+    "Referral and Consultation",
+    "Retrospective Studies"
+  ]
+}

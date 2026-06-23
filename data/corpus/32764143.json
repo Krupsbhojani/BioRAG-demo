@@ -1,0 +1,31 @@
+{
+  "pmid": "32764143",
+  "title": "Large-scale informatic analysis to algorithmically identify blood biomarkers of neurological damage.",
+  "abstract": "The identification of precision blood biomarkers which can accurately indicate damage to brain tissue could yield molecular diagnostics with the potential to improve how we detect and treat neurological pathologies. However, a majority of candidate blood biomarkers for neurological damage that are studied today are proteins which were arbitrarily proposed several decades before the advent of high-throughput omic techniques, and it is unclear whether they represent the best possible targets relative to the remainder of the human proteome. Here, we leveraged mRNA expression data generated from nearly 12,000 human specimens to algorithmically evaluate over 17,000 protein-coding genes in terms of their potential to produce blood biomarkers for neurological damage based on their expression profiles both across the body and within the brain. The circulating levels of proteins associated with the top-ranked genes were then measured in blood sampled from a diverse cohort of patients diagnosed with a variety of acute and chronic neurological disorders, including ischemic stroke, hemorrhagic stroke, traumatic brain injury, Alzheimer's disease, and multiple sclerosis, and evaluated for their diagnostic performance. Our analysis identifies several previously unexplored candidate blood biomarkers of neurological damage with possible clinical utility, many of which whose presence in blood is likely linked to specific cell-level pathologic processes. Furthermore, our findings also suggest that many frequently cited previously proposed blood biomarkers exhibit expression profiles which could limit their diagnostic efficacy.",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2020",
+  "authors": [
+    "O'Connell GC",
+    "Alder ML",
+    "Smothers CG",
+    "Chang JHC"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Aged",
+    "Alzheimer Disease",
+    "Biomarkers",
+    "Brain",
+    "Brain Injuries",
+    "Computational Biology",
+    "Female",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Multiple Sclerosis",
+    "Nervous System Diseases",
+    "Neuropathology",
+    "Proteome",
+    "Stroke"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "pmid": "34486672",
+  "title": "Neural Injury and Repair in a Novel Neonatal Mouse Model of Listeria Monocytogenes Meningoencephalitis.",
+  "abstract": "To improve the therapy of neonatal central nervous system infections, well-characterized animal models are urgently needed. The present study analyzes neuropathological alterations with particular focus on neural injury and repair in brains of neonatal mice with Listeria monocytogenes (LM) meningitis/meningoencephalitis using a novel nasal infection model. The hippocampal formation and frontal cortex of 14 neonatal mice with LM meningitis/meningoencephalitis and 14 uninfected controls were analyzed by histology, immunohistochemistry, and in situ tailing for morphological alterations. In the dentate gyrus of the hippocampal formation of mice with LM meningitis/meningoencephalitis, an increased density of apoptotic neurons visualized by in situ tailing (p = 0.04) and in situ tailing plus immunohistochemistry for activated Caspase-3 (p < 0.0001) was found. A decreased density of dividing cells stained with an anti-PCNA-antibody (p < 0.0001) and less neurogenesis visualized by anti-calretinin (p < 0.0001) and anti-calbindin (p = 0.01) antibodies were detected compared to uninfected controls. The density of microglia was higher in LM meningitis (p < 0.0001), while the density of astrocytes remained unchanged. Infiltrating monocytes and neutrophilic granulocytes likely contributed to tissue damage. In conclusion, in the brains of LM-infected mice a strong immune response was observed which led to neuronal apoptosis and an impaired neural regeneration. This model appears very suitable to study therapies against long-term sequelae of neonatal LM meningitis.",
+  "journal": "Journal of neuropathology and experimental neurology",
+  "year": "2021",
+  "authors": [
+    "Seele J",
+    "Ballüer M",
+    "Tauber SC",
+    "Bunkowski S",
+    "Schulz K",
+    "Stadelmann C",
+    "Beineke A",
+    "Pägelow D",
+    "Fulde M",
+    "Nau R"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Astrocytes",
+    "Brain",
+    "Brain Injuries",
+    "Calbindin 2",
+    "Disease Models, Animal",
+    "Hippocampus",
+    "Meningitis, Listeria",
+    "Meningoencephalitis",
+    "Mice",
+    "Microglia",
+    "Neuropathology",
+    "Peripheral Nervous System Diseases"
+  ]
+}

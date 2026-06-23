@@ -1,0 +1,20 @@
+{
+  "pmid": "32628967",
+  "title": "The roles of MicroRNAs in neural regenerative medicine.",
+  "abstract": "MicroRNAs (miRNAs) are an abundant class of small non coding regulatory RNAs that operate as prominent modulators of mammalian gene expression. It is now well established that post-transcriptional regulation of gene expression plays a vital role in both physiological and pathological processes such as neural development and neural regeneration. The flexibility and efficiency of miRNA function provide precise temporal and spatial gene regulatory capacities that are essential for proper maintenance of neural circuits. The anatomical and functional complexity of the neural system requires absolute coordination of multilayered gene regulatory networks. In this review, we characterize microRNA functions involved in the process of neurogenesis, from stem cell pluripotent self-renewal capability to neural progenitor cell differentiation, and from synaptic plasticity and rearrangement to neural cell release of exosomes delivering functional nucleic acids. In particular, we summarize the characteristics of biomaterial-based tissue engineering approaches, such as scaffold fabrication and drug delivery systems, and demonstrate the applications of current miRNA-based technologies in neural dysfunction of the central and peripheral nervous system.",
+  "journal": "Experimental neurology",
+  "year": "2021",
+  "authors": [
+    "Tang X",
+    "Sun C"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "MicroRNAs",
+    "Nervous System Diseases",
+    "Neurology",
+    "Regenerative Medicine",
+    "Tissue Engineering"
+  ]
+}

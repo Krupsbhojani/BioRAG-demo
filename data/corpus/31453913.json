@@ -1,0 +1,31 @@
+{
+  "pmid": "31453913",
+  "title": "Deep Learning and Transfer Learning for Optic Disc Laterality Detection: Implications for Machine Learning in Neuro-Ophthalmology.",
+  "abstract": "BACKGROUND: Deep learning (DL) has demonstrated human expert levels of performance for medical image classification in a wide array of medical fields, including ophthalmology. In this article, we present the results of our DL system designed to determine optic disc laterality, right eye vs left eye, in the presence of both normal and abnormal optic discs. METHODS: Using transfer learning, we modified the ResNet-152 deep convolutional neural network (DCNN), pretrained on ImageNet, to determine the optic disc laterality. After a 5-fold cross-validation, we generated receiver operating characteristic curves and corresponding area under the curve (AUC) values to evaluate performance. The data set consisted of 576 color fundus photographs (51% right and 49% left). Both 30° photographs centered on the optic disc (63%) and photographs with varying degree of optic disc centration and/or wider field of view (37%) were included. Both normal (27%) and abnormal (73%) optic discs were included. Various neuro-ophthalmological diseases were represented, such as, but not limited to, atrophy, anterior ischemic optic neuropathy, hypoplasia, and papilledema. RESULTS: Using 5-fold cross-validation (70% training; 10% validation; 20% testing), our DCNN for classifying right vs left optic disc achieved an average AUC of 0.999 (±0.002) with optimal threshold values, yielding an average accuracy of 98.78% (±1.52%), sensitivity of 98.60% (±1.72%), and specificity of 98.97% (±1.38%). When tested against a separate data set for external validation, our 5-fold cross-validation model achieved the following average performance: AUC 0.996 (±0.005), accuracy 97.2% (±2.0%), sensitivity 96.4% (±4.3%), and specificity 98.0% (±2.2%). CONCLUSIONS: Small data sets can be used to develop high-performing DL systems for semantic labeling of neuro-ophthalmology images, specifically in distinguishing between right and left optic discs, even in the presence of neuro-ophthalmological pathologies. Although this may seem like an elementary task, this study demonstrates the power of transfer learning and provides an example of a DCNN that can help curate large medical image databases for machine-learning purposes and facilitate ophthalmologist workflow by automatically labeling images according to laterality.",
+  "journal": "Journal of neuro-ophthalmology : the official journal of the North American Neuro-Ophthalmology Society",
+  "year": "2021",
+  "authors": [
+    "Liu TYA",
+    "Ting DSW",
+    "Yi PH",
+    "Wei J",
+    "Zhu H",
+    "Subramanian PS",
+    "Li T",
+    "Hui FK",
+    "Hager GD",
+    "Miller NR"
+  ],
+  "mesh_terms": [
+    "Algorithms",
+    "Deep Learning",
+    "Diagnostic Techniques, Ophthalmological",
+    "Humans",
+    "Machine Learning",
+    "Neurology",
+    "Ophthalmology",
+    "Optic Disk",
+    "Optic Nerve Diseases",
+    "ROC Curve"
+  ]
+}

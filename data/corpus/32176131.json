@@ -1,0 +1,20 @@
+{
+  "pmid": "32176131",
+  "title": "Improving Microscopic Imaging in Otology and Neurotology.",
+  "abstract": "OBJECTIVE: Due to the microscopic nature of otologic surgery, photographic image quality suffers from an inherent inability to maintain all the planes of surgery in focus under binocular microscopy. Our goal was to perform simple editing techniques to create improved imaging for educational and research purposes in the field of Otology and Neurotology. PATIENTS/DESIGN: The study was a proof of concept performed with series of cases including patients undergoing transmastoid and transcanal otologic surgery over time period of December 1, 2018 to March 1, 2019 at an academic medical center. The Zeiss OPMI Pentero 800 operating microscope was used with a camera capturing 2.1 megapixel, 1098 × 1080 resolution images. INTERVENTION: We created a systematic protocol for capturing images of multiple focal lengths during each surgery. With the image-editing technique of focus-stacking, multiple images of varying focal length, were spliced together to produce high-quality and high-fidelity composite images rendered using the Adobe Photoshop (San Jose, CA). OUTCOMES: Subjective comparisons of pre and post photo-edited photographs. RESULTS: Composite, focus-stacked images with comparison to unedited microscopic pictures are reviewed in the manuscript. CONCLUSION: We describe a simple and objectively practical method for improving the quality of medical imaging in the field of Otology/Neurotology. To achieve this enhanced image quality, a relatively expeditious and reliable photographic protocol can be used for image capturing and editing, requiring little to no additional training for a physician in the field.",
+  "journal": "Otology & neurotology : official publication of the American Otological Society, American Neurotology Society [and] European Academy of Otology and Neurotology",
+  "year": "2021",
+  "authors": [
+    "Saadi R",
+    "Liaw J",
+    "Baker A",
+    "Isildak H"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Microscopy",
+    "Neurotology",
+    "Otolaryngology",
+    "Otologic Surgical Procedures"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "pmid": "34965987",
+  "title": "Oral and Topical Treatment of Painful Diabetic Polyneuropathy: Practice Guideline Update Summary: Report of the AAN Guideline Subcommittee.",
+  "abstract": "OBJECTIVE: To update the 2011 American Academy of Neurology (AAN) guideline on the treatment of painful diabetic neuropathy (PDN) with a focus on topical and oral medications and medical class effects. METHODS: The authors systematically searched the literature from January 2008 to April 2020 using a structured review process to classify the evidence and develop practice recommendations using the AAN 2017 Clinical Practice Guideline Process Manual. RESULTS: Gabapentinoids (standardized mean difference [SMD] 0.44; 95% confidence interval [CI], 0.21-0.67), serotonin-norepinephrine reuptake inhibitors (SNRIs) (SMD 0.47; 95% CI, 0.34-0.60), sodium channel blockers (SMD 0.56; 95% CI, 0.25-0.87), and SNRI/opioid dual mechanism agents (SMD 0.62; 95% CI, 0.38-0.86) all have comparable effect sizes just above or just below our cutoff for a medium effect size (SMD 0.5). Tricyclic antidepressants (TCAs) (SMD 0.95; 95% CI, 0.15-1.8) have a large effect size, but this result is tempered by a low confidence in the estimate. RECOMMENDATIONS SUMMARY: Clinicians should assess patients with diabetes for PDN (Level B) and those with PDN for concurrent mood and sleep disorders (Level B). In patients with PDN, clinicians should offer TCAs, SNRIs, gabapentinoids, and/or sodium channel blockers to reduce pain (Level B) and consider factors other than efficacy (Level B). Clinicians should offer patients a trial of medication from a different effective class when they do not achieve meaningful improvement or experience significant adverse effects with the initial therapeutic class (Level B) and not use opioids for the treatment of PDN (Level B).",
+  "journal": "Neurology",
+  "year": "2022",
+  "authors": [
+    "Price R",
+    "Smith D",
+    "Franklin G",
+    "Gronseth G",
+    "Pignone M",
+    "David WS",
+    "Armon C",
+    "Perkins BA",
+    "Bril V",
+    "Rae-Grant A",
+    "Halperin J",
+    "Licking N",
+    "O'Brien MD",
+    "Wessels SR",
+    "MacGregor LC",
+    "Fink K",
+    "Harkless LB",
+    "Colbert L",
+    "Callaghan BC"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Antidepressive Agents, Tricyclic",
+    "Diabetes Mellitus",
+    "Diabetic Neuropathies",
+    "Neurology",
+    "Pain",
+    "Selective Serotonin Reuptake Inhibitors",
+    "United States",
+    "Practice Guidelines as Topic"
+  ]
+}

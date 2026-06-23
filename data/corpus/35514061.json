@@ -1,0 +1,30 @@
+{
+  "pmid": "35514061",
+  "title": "Visits of concern in child neurology telemedicine.",
+  "abstract": "AIM: To characterize child neurology telemedicine visits flagged as requiring in-person evaluation during the COVID-19 pandemic. METHOD: We analyzed 7130 audio-video telemedicine visits between March and November 2020. Visits of concern (VOCs) were defined as telemedicine visits where the clinical scenario necessitated in-person follow-up evaluation sooner than if the visit had been conducted in-person. RESULTS: VOCs occurred in 5% (333/7130) of visits for 292 individuals (148 females, 144 males). Providers noted technical challenges more often in VOCs (40%; 133/333) than visits without concern (non-VOCs) (28%; 1922/6797) (p < 0.05). The median age was younger in VOCs (9 years 3 months, interquartile range [IQR] 2 years 0 months-14 years 3 months) than non-VOCs (11 years 3 months, IQR 5 years 10 months-15 years 10 months) (p < 0.05). Median household income was lower for patients with VOCs ($74 K, IQR $55 K-$97 K) compared to non-VOCs ($80 K, IQR $61 K-$100 K) (p < 0.05). Compared with all other race categories, families who self-identified as Black were more likely to have a VOC (odds ratio 1.53, 95% confidence interval 1.21-2.06). Epilepsy and headache represented the highest percentages of VOCs, while neuromuscular disorders and developmental delay had a higher proportion of VOCs than other neurological disorders. INTERPRETATION: These findings suggest that telemedicine is an effective platform for most child neurology visits. Younger children and those with neuromuscular disorders or developmental delays are more likely to require in-person evaluation. WHAT THIS PAPER ADDS: It is possible to successfully flag patients who need in-person assessment. Providers can manage issues arising during telemedicine in 95% of visits. Visits flagged as concerning were likely unrelated to modality of patient care. Provider concern was independent of technical difficulties for most telehealth visits. Younger age may be correlated with need for in-person assessment.",
+  "journal": "Developmental medicine and child neurology",
+  "year": "2022",
+  "authors": [
+    "Prelack M",
+    "Fridinger S",
+    "Gonzalez AK",
+    "Kaufman MC",
+    "Xian J",
+    "Galer PD",
+    "Craig S",
+    "Abend NS",
+    "Helbig I"
+  ],
+  "mesh_terms": [
+    "COVID-19",
+    "Child",
+    "Female",
+    "Humans",
+    "Infant",
+    "Male",
+    "Neurology",
+    "Pandemics",
+    "Retrospective Studies",
+    "Telemedicine"
+  ]
+}

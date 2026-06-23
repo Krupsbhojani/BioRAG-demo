@@ -1,0 +1,23 @@
+{
+  "pmid": "39412711",
+  "title": "Mitigating overuse of antinuclear antibody (ANA) testing through educational intervention: a study in internal medicine and neurology departments.",
+  "abstract": "INTRODUCTION/OBJECTIVES: Overuse of antinuclear antibody (ANA) tests leads to increased costs, false positives, and unnecessary treatments. This study evaluated ANA overuse in internal medicine and neurology departments and assessed the impact of an educational intervention. METHOD: This quality improvement educational intervention study examined ANA test overuse in five internal medicine departments and one neurology department at a university-affiliated medical center. The educational intervention included a session focusing on ANA testing appropriateness. Outcome measures comprised the ANA/new patient ratio (APR) and the percentage of positive ANA test results. Outcomes were compared between the pre- and post-intervention periods (both 6 months). RESULTS: The intervention took place in December 2021. The APR decreased from 43% in the pre-educational intervention period to 27% in the post-intervention period in the neurology department (odds ratio [OR] 0.49, confidence interval [95% CI] 0.37-0.63, P < 0.0001) and from 2.6% to 2.2% in the internal medicine departments (OR 0.89, 95% CI 0.73-1.10, P = 0.28). The percentage of positive ANA tests increased from 43% pre-intervention to 53% in the post-intervention period (OR 1.49, 95% CI 0.90-2.46, P = 0.12) in the neurology department and from 48% to 59% (OR 1.56, 95% CI 0.99-2.44, P = 0.0543) in the internal medicine departments. CONCLUSION: A simple educational intervention reduced unnecessary ANA testing in the neurology department but not in internal medicine departments, improving patient selection and potential cost savings. The results underscore the importance of targeted education to promote evidence-based behavior among healthcare professionals. Further research with longer follow-up is needed to assess the sustainability of these improvements.",
+  "journal": "Clinical rheumatology",
+  "year": "2024",
+  "authors": [
+    "Pri-Paz Basson Y",
+    "Neumark E",
+    "Kivity S",
+    "Tayer-Shifman OE"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Antibodies, Antinuclear",
+    "Internal Medicine",
+    "Neurology",
+    "Quality Improvement",
+    "Unnecessary Procedures",
+    "Female",
+    "Male"
+  ]
+}

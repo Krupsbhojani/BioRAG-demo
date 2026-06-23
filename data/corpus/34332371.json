@@ -1,0 +1,37 @@
+{
+  "pmid": "34332371",
+  "title": "Neurology trial registrations on ClinicalTrials.gov between 2007 and 2018: A cross-sectional analysis of characteristics, early discontinuation, and results reporting.",
+  "abstract": "BACKGROUND: Increasing neurological disease burden and advancing treatment options require clinical trials to expand the evidence base of clinical care. We aimed to characterize neurology clinical trials registered between October 2007 and April 2018 and identify features associated with early discontinuation and results reporting. METHODS: We compared 16,994 neurology (9.4%) and 163,714 non-neurology comparison trials registered to ClinicalTrials.gov. Trials therapeutic focus within neurology was assigned via combination programmatic and manual review. We performed descriptive analyses of trial characteristics, cox regression of early discontinuation, and multivariable logistic regression for results reporting within 3 years of completion. RESULTS: Most neurology trials were academic-funded (58.5%) followed by industry (31.9%) and US-government (9.6%). Neurology trials focused more on treatment than prevention compared to non-neurology studies. Of neurology trials, 11.3% discontinued early, and 32.2% of completed trials reported results by April 30, 2018. In multivariable analysis accounting for time-to-event, neurology trials were at lower risk of discontinuation than non-neurology trials (adjusted hazard 0.83, p < 0.0001). Both academic and government-funded trials had greater risk of discontinuation than industry (adjusted hazard 0.57 and 0.46, respectively). Among completed trials, government-funded studies (adjusted odds ratio 2.12, p < 0.0001) had highest odds of results reporting while academic trials reported less (adjusted odds ratio 0.51, p < 0.0001). CONCLUSIONS: Funding source is associated with trial characteristics and outcomes in neurology. Improvements in trial completion and timely dissemination of results remain urgent goals for the field.",
+  "journal": "Journal of the neurological sciences",
+  "year": "2021",
+  "authors": [
+    "Turner BE",
+    "Magnani CJ",
+    "Frolov A",
+    "Weeks BT",
+    "Steinberg JR",
+    "Huda N",
+    "Shah LM",
+    "Zuroff L",
+    "Gu BJ",
+    "Rasmussen H",
+    "Edwards JG",
+    "Save AV",
+    "Shen M",
+    "Ren M",
+    "Bryant BR",
+    "Ma Q",
+    "Feng AY",
+    "Liang AC",
+    "Santini VE"
+  ],
+  "mesh_terms": [
+    "Cross-Sectional Studies",
+    "Databases, Factual",
+    "Humans",
+    "Logistic Models",
+    "Neurology",
+    "Odds Ratio",
+    "Registries"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "pmid": "37858888",
+  "title": "Telemedicine in the management of patients with headache: current situation and recommendations of the Spanish Society of Neurology's Headache Study Group.",
+  "abstract": "INTRODUCTION: The COVID-19 pandemic has caused an unexpected boost to telemedicine. We analyse the impact of the pandemic on telemedicine applied in Spanish headache consultations, review the literature, and issue recommendations for the implementation of telemedicine in consultations. METHOD: The study comprised 3 phases: 1) review of the MEDLINE database since 1958 (first reported experience with telemedicine); 2) Google Forms survey sent to all members of the Spanish Society of Neurology's Headache Study Group (GECSEN); and 3) online consensus of GECSEN experts to issue recommendations for the implementation of telemedicine in Spain. RESULTS: COVID-19 has increased waiting times for face-to-face consultations, increasing the use of all telemedicine modalities: landline telephone (from 75% before April 2020 to 97% after), mobile telephone (from 9% to 27%), e-mail (from 30% to 36%), and video consultation (from 3% to 21%). Neurologists are aware of the need to expand the availability of video consultations, which are clearly growing, and other e-health and m-health tools. CONCLUSIONS: The GECSEN recommends and encourages all neurologists who assist patients with headaches to implement telemedicine resources, with the optimal objective of offering video consultation to patients under 60-65 years of age and telephone calls to older patients, although each case must be considered on an individual basis. Prior approval and advice must be sought from legal and IT services and the centre's management. Most patients with stable headache and/or neuralgia are eligible for telemedicine follow-up, after a first consultation that must always be held in person.",
+  "journal": "Neurologia",
+  "year": "2023",
+  "authors": [
+    "Belvís R",
+    "Santos-Lasaosa S",
+    "Irimia P",
+    "Blanco RL",
+    "Torres-Ferrús M",
+    "Morollón N",
+    "López-Bravo A",
+    "García-Azorín D",
+    "Mínguez-Olaondo A",
+    "Guerrero Á",
+    "Porta J",
+    "Giné-Ciprés E",
+    "Sierra Á",
+    "Latorre G",
+    "González-Oria C",
+    "Pascual J",
+    "Ezpeleta D"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Pandemics",
+    "Headache",
+    "COVID-19",
+    "Telemedicine",
+    "Neurology"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "31228807",
+  "title": "Proteomes analysis reveals the involvement of autophagy in AD-like neuropathology induced by noise exposure and ApoE4.",
+  "abstract": "BACKGROUND: Noise is one of the most important environmental health hazards for humans. Environmental noise or apolipoprotein ε4 (ApoE4) can cause typical Alzheimer's disease (AD)-like pathological changes, which is characterized by progressive cognitive decline and neurodegenerative lesions. Gene-environment interactions may accelerate cognitive decline and increase AD risk. However, there is limited experimental evidence regarding the underlying mechanisms of noise-ApoE4 interactions and AD, which may be closely related to AD development. METHODS: In this study, we investigated the combined effects of chronic noise exposure and the ApoE4 gene activation on hippocampus by using proteomics and differentially expressed proteins were found through performed gene ontology function and Kyoto Encyclopedia of Genes and Genomes pathway enrichment analysis. In addition, we assessed the changes in adult hippocampal neurogenesis and potential underlying mechanism for AD-like neuropathology. RESULTS: Relative to control rats, combined exposure of noise and ApoE4 synergistically increased the characteristic pathological amyloid β-protein of AD-like neuropathology changes in hippocampus. The research identifies a total of 4147 proteins and 15 differentially expressed proteins in hippocampus. Furthermore, comparison of several of the diverse key pathways studied (e.g., PI3K/AKT, insulin, calpain-CDK5, and mammalian target of rapamycin (mTOR) signaling pathways) help to articulate the different mechanisms involved in combined effects of noise and ApoE4 on AD-like pathology. We verified four selected proteins, namely, eukaryotic translation elongation factor 1 epsilon 1, glycine amidinotransferase, nucleoredoxin, and tuberous sclerosis 1 proteins. Validation data shows significant effects of chronic noise and ApoE4 on the expression of four selected proteins, eukaryotic translation elongation factor 1 epsilon 1, glycine amidinotransferase, nucleoredoxin, and tuberous sclerosis 1 proteins, and mTOR and autophagy-related proteins, which share significant interaction effect of chronic noise and ApoE4. CONCLUSION: Gene-environment interactions between chronic noise and ApoE4 activate the mTOR signaling, decrease autophagy, and facilitate AD-like changes in the hippocampus. Thus, our findings may help elucidate the role of gene-environment interactions in AD development.",
+  "journal": "Environmental research",
+  "year": "2020",
+  "authors": [
+    "Li W",
+    "Su D",
+    "Zhai Q",
+    "Chi H",
+    "She X",
+    "Gao X",
+    "Wang K",
+    "Yang H",
+    "Wang R",
+    "Cui B"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Alzheimer Disease",
+    "Amyloid beta-Peptides",
+    "Animals",
+    "Apolipoprotein E4",
+    "Autophagy",
+    "Humans",
+    "Mice",
+    "Mice, Transgenic",
+    "Neuropathology",
+    "Noise",
+    "Phosphatidylinositol 3-Kinases",
+    "Proteome",
+    "Rats"
+  ]
+}

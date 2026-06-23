@@ -1,0 +1,36 @@
+{
+  "pmid": "38470068",
+  "title": "European Academy of Neurology (EAN) guideline on the management of amyotrophic lateral sclerosis in collaboration with European Reference Network for Neuromuscular Diseases (ERN EURO-NMD).",
+  "abstract": "BACKGROUND: This update of the guideline on the management of amyotrophic lateral sclerosis (ALS) was commissioned by the European Academy of Neurology (EAN) and prepared in collaboration with the European Reference Network for Neuromuscular Diseases (ERN EURO-NMD) and the support of the European Network for the Cure ALS (ENCALS) and the European Organization for Professionals and Patients with ALS (EUpALS). METHODS: Grading of Recommendations Assessment, Development, and Evaluation (GRADE) methodology was used to assess the effectiveness of interventions for ALS. Two systematic reviewers from Cochrane Response supported the guideline panel. The working group identified a total of 26 research questions, performed systematic reviews, assessed the quality of the available evidence, and made specific recommendations. Expert consensus statements were provided where insufficient evidence was available. RESULTS: A guideline mapping effort revealed only one other ALS guideline that used GRADE methodology (a National Institute for Health and Care Excellence [NICE] guideline). The available evidence was scarce for many research questions. Of the 26 research questions evaluated, the NICE recommendations could be adapted for 8 questions. Other recommendations required updates of existing systematic reviews or de novo reviews. Recommendations were made on currently available disease-modifying treatments, multidisciplinary care, nutritional and respiratory support, communication aids, psychological support, treatments for common ALS symptoms (e.g., muscle cramps, spasticity, pseudobulbar affect, thick mucus, sialorrhea, pain), and end-of-life management. CONCLUSIONS: This update of the guideline using GRADE methodology provides a framework for the management of ALS. The treatment landscape is changing rapidly, and further updates will be prepared when additional evidence becomes available.",
+  "journal": "European journal of neurology",
+  "year": "2024",
+  "authors": [
+    "Van Damme P",
+    "Al-Chalabi A",
+    "Andersen PM",
+    "Chiò A",
+    "Couratier P",
+    "De Carvalho M",
+    "Hardiman O",
+    "Kuźma-Kozakiewicz M",
+    "Ludolph A",
+    "McDermott CJ",
+    "Mora JS",
+    "Petri S",
+    "Probyn K",
+    "Reviers E",
+    "Salachas F",
+    "Silani V",
+    "Tysnes OB",
+    "van den Berg LH",
+    "Villanueva G",
+    "Weber M"
+  ],
+  "mesh_terms": [
+    "Amyotrophic Lateral Sclerosis",
+    "Humans",
+    "Europe",
+    "Neurology",
+    "Neuromuscular Diseases"
+  ]
+}

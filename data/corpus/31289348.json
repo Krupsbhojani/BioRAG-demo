@@ -1,0 +1,27 @@
+{
+  "pmid": "31289348",
+  "title": "VPS35 regulates tau phosphorylation and neuropathology in tauopathy.",
+  "abstract": "The vacuolar protein sorting 35 (VPS35) is a major component of the retromer recognition core complex which regulates intracellular protein sorting and trafficking. Deficiency in VPS35 by altering APP/Aβ metabolism has been linked to late-onset Alzheimer's disease. Here we report that VPS35 is significantly reduced in Progressive Supra-nuclear Palsy and Picks' disease, two distinct primary tauopathies. In vitro studies show that overexpression of VPS35 leads to a reduction of pathological tau in neuronal cells, whereas genetic silencing of VPS35 results in its accumulation. Mechanistically the availability of active cathepsin D mediates the effect of VPS35 on pathological tau accumulation. Moreover, in a relevant transgenic mouse model of tauopathy, down-regulation of VPS35 results in an exacerbation of motor and learning impairments as well as accumulation of pathological tau and loss of synaptic integrity. Taken together, our data identify VPS35 as a novel critical player in tau metabolism and neuropathology, and a new therapeutic target for human tauopathies.",
+  "journal": "Molecular psychiatry",
+  "year": "2022",
+  "authors": [
+    "Vagnozzi AN",
+    "Li JG",
+    "Chiu J",
+    "Razmpour R",
+    "Warfield R",
+    "Ramirez SH",
+    "Praticò D"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Disease Models, Animal",
+    "Mice",
+    "Neuropathology",
+    "Phosphorylation",
+    "Protein Transport",
+    "Tauopathies",
+    "Vesicular Transport Proteins",
+    "tau Proteins"
+  ]
+}

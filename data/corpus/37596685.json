@@ -1,0 +1,30 @@
+{
+  "pmid": "37596685",
+  "title": "Selective neuroimmune modulation by type I interferon drives neuropathology and neurologic dysfunction following traumatic brain injury.",
+  "abstract": "Accumulating evidence suggests that type I interferon (IFN-I) signaling is a key contributor to immune cell-mediated neuropathology in neurodegenerative diseases. Recently, we demonstrated a robust upregulation of type I interferon-stimulated genes in microglia and astrocytes following experimental traumatic brain injury (TBI). The specific molecular and cellular mechanisms by which IFN-I signaling impacts the neuroimmune response and neuropathology following TBI remains unknown. Using the lateral fluid percussion injury model (FPI) in adult male mice, we demonstrated that IFN α/β receptor (IFNAR) deficiency resulted in selective and sustained blockade of type I interferon-stimulated genes following TBI as well as decreased microgliosis and monocyte infiltration. Molecular alteration of reactive microglia also occurred with diminished expression of genes needed for MHC class I antigen processing and presentation following TBI. This was associated with decreased accumulation of cytotoxic T cells in the brain. The IFNAR-dependent modulation of the neuroimmune response was accompanied by protection from secondary neuronal death, white matter disruption, and neurobehavioral dysfunction. These data support further efforts to leverage the IFN-I pathway for novel, targeted therapy of TBI.",
+  "journal": "Acta neuropathologica communications",
+  "year": "2023",
+  "authors": [
+    "Todd BP",
+    "Luo Z",
+    "Gilkes N",
+    "Chimenti MS",
+    "Peterson Z",
+    "Mix MR",
+    "Harty JT",
+    "Nickl-Jockschat T",
+    "Ferguson PJ",
+    "Bassuk AG",
+    "Newell EA"
+  ],
+  "mesh_terms": [
+    "Male",
+    "Animals",
+    "Mice",
+    "Interferon Type I",
+    "Neuropathology",
+    "Brain Injuries, Traumatic",
+    "Brain",
+    "Antibodies"
+  ]
+}

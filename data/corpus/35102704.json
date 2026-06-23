@@ -1,0 +1,26 @@
+{
+  "pmid": "35102704",
+  "title": "Quantifying longitudinal cognitive resilience to Alzheimer's disease and other neuropathologies.",
+  "abstract": "INTRODUCTION: Cognitive resilience (CR) has been defined as the continuum of better (or worse) than expected cognition, given the degree of neuropathology. To quantify this concept, existing approaches focus on either cognitive level at a single time point or slopes of cognitive decline. METHODS: In a prospective study of 1215 participants, we created a continuous measure of CR defined as the mean of differences between estimated person-specific and marginal cognitive levels over time, after accounting for neuropathologies. RESULTS: Neuroticism and depressive symptoms were associated with all CR measures (P-values < .012); as expected, cognitive activity and education were only associated with the cognitive-level approaches (P-values < .0002). However, compared with the existing CR measures focusing on a single measure or slopes of cognition, our new measure yielded stronger relations with risk factors. DISCUSSION: Defining CR based on the longitudinal differences between person-specific and marginal cognitive levels is a novel and complementary way to quantify CR.",
+  "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+  "year": "2022",
+  "authors": [
+    "Wagner M",
+    "Wilson RS",
+    "Leurgans SE",
+    "Boyle PA",
+    "Bennett DA",
+    "Grodstein F",
+    "Capuano AW"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Alzheimer Disease",
+    "Prospective Studies",
+    "Cognitive Dysfunction",
+    "Neuropathology",
+    "Cognition",
+    "Neuropsychological Tests",
+    "Longitudinal Studies"
+  ]
+}

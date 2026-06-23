@@ -1,0 +1,28 @@
+{
+  "pmid": "36808078",
+  "title": "Outpatient neurology diagnostic coding: a proposed scheme for standardised implementation.",
+  "abstract": "Clinical coding uses a classification system to assign standard codes to clinical terms and so facilitates good clinical practice through audit, service design and research. However, despite clinical coding being mandatory for inpatient activity, this is often not so for outpatient services, where most neurological care is delivered. Recent reports by the UK National Neurosciences Advisory Group and NHS England's 'Getting It Right First Time' initiative recommend implementing outpatient coding. The UK currently has no standardised system for outpatient neurology diagnostic coding. However, most new attendances at general neurology clinics appear to be classifiable with a limited number of diagnostic terms. We present the rationale for diagnostic coding and its benefits, and the need for clinical engagement to develop a system that is pragmatic, quick and easy to use. We outline a scheme developed in the UK that could be used elsewhere.",
+  "journal": "Practical neurology",
+  "year": "2023",
+  "authors": [
+    "Biggin F",
+    "Knight J",
+    "Dayanandan R",
+    "Marson A",
+    "Wilson M",
+    "Nitkunan A",
+    "Rog D",
+    "Kipps C",
+    "Mummery C",
+    "Williams A",
+    "Emsley HCA"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Outpatients",
+    "Clinical Coding",
+    "Neurology",
+    "Ambulatory Care",
+    "Neurosciences"
+  ]
+}

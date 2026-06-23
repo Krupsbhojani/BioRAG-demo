@@ -1,0 +1,37 @@
+{
+  "pmid": "34420950",
+  "title": "Alzheimer's Disease-Related Neuropathology Among Patients with Medication Treated Type 2 Diabetes in a Community-Based Autopsy Cohort.",
+  "abstract": "BACKGROUND: Diabetes is a risk factor for Alzheimer's disease and related dementias (ADRD). Epidemiologic evidence shows an association between diabetes medications and ADRD risk; cell and mouse models show diabetes medication association with AD-related neuropathologic change (ADNC). OBJECTIVE: This hypothesis-generating analysis aimed to describe autopsy-measured ADNC for individuals who used diabetes medications. METHODS: Descriptive analysis of ADNC for Adult Changes in Thought (ACT) Study autopsy cohort who used diabetes medications, including sulfonylureas, insulin, and biguanides; total N = 118. ADNC included amyloid plaque distribution (Thal phasing), neurofibrillary tangle (NFT) distribution (Braak stage), and cortical neuritic plaque density (CERAD score). We also examined quantitative measures of ADNC using the means of standardized Histelide measures of cortical PHF-tau and Aβ1-42. Adjusted analyses control for age at death, sex, education, APOE genotype, and diabetes complication severity index. RESULTS: Adjusted analyses showed no significant association between any drug class and traditional neuropathologic measures compared to nonusers of that class. In adjusted Histelide analyses, any insulin use was associated with lower mean levels of Aβ1-42 (-0.57 (CI: -1.12, -0.02)) compared to nonusers. Five years of sulfonylureas and of biguanides use was associated with lower levels of Aβ1-42 compared to nonusers (-0.15 (CI: -0.28, -0.02), -0.31 (CI: -0.54, -0.07), respectively). CONCLUSION: Some evidence exists that diabetes medications are associated with lower levels of Aβ1-42, but not traditional measures of neuropathology. Future studies are needed in larger samples to build understanding of the mechanisms between diabetes, its medications, and ADRD, and to potentially repurpose existing medications for prevention or delay of ADRD.",
+  "journal": "Journal of Alzheimer's disease : JAD",
+  "year": "2021",
+  "authors": [
+    "Barthold D",
+    "Gibbons LE",
+    "Marcum ZA",
+    "Gray SL",
+    "Dirk Keene C",
+    "Grabowski TJ",
+    "Postupna N",
+    "Larson EB",
+    "Crane PK"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Aged, 80 and over",
+    "Alzheimer Disease",
+    "Amyloid beta-Peptides",
+    "Autopsy",
+    "Biguanides",
+    "Diabetes Mellitus, Type 2",
+    "Female",
+    "Humans",
+    "Hypoglycemic Agents",
+    "Insulin",
+    "Male",
+    "Neurofibrillary Tangles",
+    "Neuropathology",
+    "Peptide Fragments",
+    "Prospective Studies",
+    "Sulfonylurea Compounds"
+  ]
+}

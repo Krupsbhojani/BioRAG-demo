@@ -1,0 +1,34 @@
+{
+  "pmid": "35266629",
+  "title": "Examining the association between blood-based biomarkers and human post mortem neuropathology in the University of Kentucky Alzheimer's Disease Research Center autopsy cohort.",
+  "abstract": "INTRODUCTION: Clinically, detection of disease-causing pathology associated with Alzheimer's disease (AD) and vascular contributions to cognitive impairment and dementia (VCID) is limited to magnetic resonance imaging and positron emission tomography scans, which are expensive and not widely accessible. Here, we assess angiogenic, inflammatory, and AD-related plasma biomarkers to determine their relationships with human post mortem neuropathology. METHOD: Plasma samples were analyzed using a digital immunoassay and pathological evaluation was performed by University of Kentucky Alzheimer's Disease Research Center neuropathologists. The association of plasma markers with neuropathology was estimated via proportional odds and logistic regressions adjusted for age. RESULTS: Included cases (N = 90) showed increased tau/amyloid beta (Aβ)42 ratio, glial fibrillary acidic protein (GFAP), vascular endothelial growth factor A (VEGF-A), and placental growth factor (PlGF) were positively associated with higher level of AD neuropathological change, while higher Aβ42/Aβ40 ratio was inversely associated. Higher PlGF, VEGF-A, and interleukin 6 were inversely associated with chronic cerebrovascular disease, while Aβ42/Aβ40 ratio was positively associated. DISCUSSION: Our results provide support for the continued study of plasma biomarkers as a clinical screening tool for AD and VCID pathology.",
+  "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+  "year": "2023",
+  "authors": [
+    "Winder Z",
+    "Sudduth TL",
+    "Anderson S",
+    "Patel E",
+    "Neltner J",
+    "Martin BJ",
+    "Snyder KE",
+    "Abner EL",
+    "Jicha GA",
+    "Nelson PT",
+    "Wilcock DM"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Female",
+    "Alzheimer Disease",
+    "Vascular Endothelial Growth Factor A",
+    "Amyloid beta-Peptides",
+    "Neuropathology",
+    "Autopsy",
+    "Placenta Growth Factor",
+    "Cognitive Dysfunction",
+    "Dementia, Vascular",
+    "Biomarkers",
+    "tau Proteins"
+  ]
+}

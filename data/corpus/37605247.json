@@ -1,0 +1,25 @@
+{
+  "pmid": "37605247",
+  "title": "Electronic health record (EHR)-based PROMIS measures among neurology clinic decedents and survivors: a retrospective cohort analysis.",
+  "abstract": "BACKGROUND: In addition to their standard use to assess real-time symptom burden, patient-reported outcomes (PROs), such as the Patient-Reported Outcomes Measurement Information System (PROMIS), measures offer a potential opportunity to understand when patients are experiencing meaningful clinical decline. If PROs can be used to assess decline, such information can be used for informing medical decision making and determining patient-centered treatment pathways. We sought to use clinically implemented PROMIS measures to retrospectively characterize the final PROMIS report among all patients who completed at least one PROMIS assessment from December 2017-March 2020 in one large health system, stratified by decedents vs. survivors. We conducted a retrospective cohort analysis of decedents (N = 1,499) who received care from outpatient neurology clinical practice within a single, large health system as part of usual care. We also compared decedents to survivors (360 + days before death; N = 49,602) on PROMIS domains and PROMIS-Preference (PROPr) score, along with demographics and clinical characteristics. We used electronic health record (EHR) data with built-in PROMIS measures. Linear regressions assessed differences in PROMIS domains and aggregate PROPr score by days before death of the final PROMIS completion for each patient. RESULTS: Among decedents in our sample, in multivariable regression, only fatigue (range 54.48-59.38, p < 0.0029) and physical function (range 33.22-38.38, p < 0.0001) demonstrated clinically meaningful differences across time before death. The overall PROPr score also demonstrated statistically significant difference comparing survivors (0.19) to PROPr scores obtained 0-29 days before death (0.29, p < 0.0001). CONCLUSIONS: Although clinic completion of PROMIS measures was near universal, very few patients had more than one instance of PROMIS measures reported, limiting longitudinal analyses. Therefore, patient-reported outcomes in clinical practice may not yet be robust enough for incorporation in prediction models and assessment of trajectories of decline, as evidenced in these specialty clinics in one health system. PROMIS measures can be used to effectively identify symptoms and needs in real time, and robust incorporation into EHRs can improve patient-level outcomes, but further work is needed for them to offer meaningful inputs for defining patient trajectories near the end of life. Assessing symptom burden provides an opportunity to understand clinical decline, particularly as people approach the end of life. We sought to understand whether symptoms reported by patients can be used to assess decline in health. Such information can inform decision-making about care and treatments. Of eight symptoms that we assessed, patient reports of fatigue and physical function were associated with clinical decline, as was an overall score of symptom burden. Because few symptoms were associated with decline, patient-reported outcomes in clinical practice may not yet be robust enough for incorporation in prediction models and assessment of trajectories of decline.",
+  "journal": "Health and quality of life outcomes",
+  "year": "2023",
+  "authors": [
+    "Ernecoff NC",
+    "Weir R",
+    "Rodriguez A",
+    "Schulson LB",
+    "Edelen MO",
+    "Hanmer J"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Retrospective Studies",
+    "Electronic Health Records",
+    "Quality of Life",
+    "Fatigue",
+    "Neurology",
+    "Survivors",
+    "Death"
+  ]
+}
