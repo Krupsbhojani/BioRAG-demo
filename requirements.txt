@@ -8,9 +8,11 @@ langchain-huggingface==0.1.2
 chromadb==0.5.18
 
 # ── Embeddings & reranking ─────────────────────────────────────────────────
-sentence-transformers==3.3.1
-torch==2.5.1
-transformers==4.47.1
+# torch/transformers/sentence-transformers: unpinned so pip resolves
+# the correct wheel for whatever Python Streamlit Cloud provides
+sentence-transformers>=3.3.1
+torch>=2.5.1
+transformers>=4.47.1
 
 # ── LLM inference ──────────────────────────────────────────────────────────
 groq==0.13.0
