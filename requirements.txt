@@ -1,34 +1,24 @@
-# ── Core RAG ───────────────────────────────────────────────────────────────
+# ── Lightweight packages first (install before heavy ML downloads) ──────────
+streamlit==1.40.2
+plotly==5.24.1
+pandas==2.2.3
+numpy==1.26.4
+requests==2.32.3
+tqdm==4.67.1
+rank-bm25==0.2.2
+python-dotenv==1.0.1
+groq==0.13.0
+
+# ── LangChain ───────────────────────────────────────────────────────────────
 langchain==0.3.7
 langchain-community==0.3.7
 langchain-groq==0.2.1
 langchain-huggingface==0.1.2
 
-# ── Vector store ───────────────────────────────────────────────────────────
-chromadb==0.5.18
+# ── Vector store (unpinned — 0.5.18 predates Python 3.14) ──────────────────
+chromadb>=0.5.18
 
-# ── Embeddings & reranking ─────────────────────────────────────────────────
-# torch/transformers/sentence-transformers: unpinned so pip resolves
-# the correct wheel for whatever Python Streamlit Cloud provides
+# ── Heavy ML packages last (large downloads, Python-version sensitive) ──────
 sentence-transformers>=3.3.1
-torch>=2.5.1
 transformers>=4.47.1
-
-# ── LLM inference ──────────────────────────────────────────────────────────
-groq==0.13.0
-
-# ── Data ───────────────────────────────────────────────────────────────────
-requests==2.32.3
-tqdm==4.67.1
-pandas==2.2.3
-numpy==1.26.4
-
-# ── UI ─────────────────────────────────────────────────────────────────────
-streamlit==1.40.2
-plotly==5.24.1
-
-# ── Sparse retrieval ───────────────────────────────────────────────────────
-rank-bm25==0.2.2
-
-# ── Utilities ──────────────────────────────────────────────────────────────
-python-dotenv==1.0.1
+torch>=2.5.1
