@@ -33,7 +33,7 @@ ACL 2023. https://arxiv.org/abs/2212.10496
 import logging
 from typing import Optional
 
-from langchain.schema import Document
+from langchain_core.documents import Document
 from langchain_community.vectorstores import Chroma
 from langchain_groq import ChatGroq
 

@@ -20,7 +20,7 @@ from typing import Optional
 from pathlib import Path
 import json
 
-from langchain.schema import Document
+from langchain_core.documents import Document
 from langchain_community.vectorstores import Chroma
 from sentence_transformers import CrossEncoder
 from rank_bm25 import BM25Okapi

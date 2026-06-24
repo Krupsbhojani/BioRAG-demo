@@ -40,7 +40,7 @@ https://arxiv.org/abs/1908.10084
 import logging
 from typing import Optional
 
-from langchain.schema import Document
+from langchain_core.documents import Document
 from langchain_community.vectorstores import Chroma
 from sentence_transformers import CrossEncoder
 

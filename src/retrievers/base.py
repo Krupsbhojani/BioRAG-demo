@@ -18,7 +18,7 @@ from dataclasses import dataclass, field
 from typing import Optional
 import time
 
-from langchain.schema import Document
+from langchain_core.documents import Document
 
 
 # ── Result container ──────────────────────────────────────────────────────────
